@@ -172,21 +172,21 @@
     },
     {
         "id": 20,
-        "name": "T-64B",
-        "slug": "t-64b",
-        "nation": "USSR",
-        "type": "Unknown",
-        "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-64b/icon_t-64b_v2.png"
-    },
-    {
-        "id": 21,
         "name": "T-64A",
         "slug": "t-64a",
         "nation": "USSR",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-64b/icon_t-64b_v2.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-64b/icon_t-64a.png"
+    },
+    {
+        "id": 21,
+        "name": "T-64B",
+        "slug": "t-64b",
+        "nation": "USSR",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-64b/icon_t-64b.png"
     },
     {
         "id": 22,
@@ -195,7 +195,7 @@
         "nation": "USSR",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-72/icon_t-72_v1.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-72/icon_t-72a.png"
     },
     {
         "id": 23,
@@ -204,7 +204,7 @@
         "nation": "USSR",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-72/icon_t-72_v2.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-72/icon_t-72b.png"
     },
     {
         "id": 24,
