@@ -1,0 +1,236 @@
+[
+    {
+        "id": 1,
+        "name": "AGDS",
+        "slug": "agds",
+        "nation": "USA",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/agds/icon_agds.png"
+    },
+    {
+        "id": 2,
+        "name": "ALVT",
+        "slug": "alvt",
+        "nation": "USA",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/alvt/icon_alvt.png"
+    },
+    {
+        "id": 3,
+        "name": "BAT-4M",
+        "slug": "bat-4m",
+        "nation": "USSR",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/bat-4m/icon_bat-4m.png"
+    },
+    {
+        "id": 4,
+        "name": "Challenger",
+        "slug": "challenger",
+        "nation": "UK",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/challenger/icon_challenger.png"
+    },
+    {
+        "id": 5,
+        "name": "HSTV-L",
+        "slug": "hstv-l",
+        "nation": "USA",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/hstv-l/icon_hstv-l.png"
+    },
+    {
+        "id": 6,
+        "name": "Leopard 1A1",
+        "slug": "leopard-1a1",
+        "nation": "Germany",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a1/icon_leopard-1a1.png"
+    },
+    {
+        "id": 7,
+        "name": "Leopard 1A6",
+        "slug": "leopard-1a6",
+        "nation": "Germany",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a6/icon_leopard-1a6.png"
+    },
+    {
+        "id": 8,
+        "name": "Leopard 2K",
+        "slug": "leopard-2k",
+        "nation": "Germany",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-2k/icon_leopard-2k.png"
+    },
+    {
+        "id": 9,
+        "name": "Leopard 2K ATGM",
+        "slug": "leopard-2k-atgm",
+        "nation": "Germany",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-2k-atgm/icon_leopard-2k-atgm.png"
+    },
+    {
+        "id": 10,
+        "name": "M1 Railgun",
+        "slug": "m1-railgun",
+        "nation": "USA",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1-railgun/icon_m1-railgun.png"
+    },
+    {
+        "id": 11,
+        "name": "M1E1",
+        "slug": "m1e1",
+        "nation": "USA",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/icon_m1e1.png"
+    },
+    {
+        "id": 12,
+        "name": "M3 Bradley",
+        "slug": "m3-bradley",
+        "nation": "USA",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m3-bradley/icon_m3-bradley.png"
+    },
+    {
+        "id": 13,
+        "name": "M60A1",
+        "slug": "m60a1",
+        "nation": "USA",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m60a1/icon_m60a1.png"
+    },
+    {
+        "id": 14,
+        "name": "M60A3",
+        "slug": "m60a3",
+        "nation": "USA",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m60a3/icon_m60a3.png"
+    },
+    {
+        "id": 15,
+        "name": "M551",
+        "slug": "m551",
+        "nation": "USA",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m551/icon_m551.png"
+    },
+    {
+        "id": 16,
+        "name": "Object 279",
+        "slug": "object-279",
+        "nation": "USSR",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/object-279/icon_object-279.png"
+    },
+    {
+        "id": 17,
+        "name": "Object 287",
+        "slug": "object-287",
+        "nation": "USSR",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/object-287/icon_object-287.png"
+    },
+    {
+        "id": 18,
+        "name": "PTZ-89",
+        "slug": "ptz89",
+        "nation": "China",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/ptz89/icon_ptz89.png"
+    },
+    {
+        "id": 19,
+        "name": "T-62A",
+        "slug": "t-62a",
+        "nation": "USSR",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-62a/icon_t-62a.png"
+    },
+    {
+        "id": 20,
+        "name": "T-64B",
+        "slug": "t-64b",
+        "nation": "USSR",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-64b/icon_t-64b_v2.png"
+    },
+    {
+        "id": 21,
+        "name": "T-64A",
+        "slug": "t-64a",
+        "nation": "USSR",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-64b/icon_t-64b_v2.png"
+    },
+    {
+        "id": 22,
+        "name": "T-72A",
+        "slug": "t-72a",
+        "nation": "USSR",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-72/icon_t-72_v1.png"
+    },
+    {
+        "id": 23,
+        "name": "T-72B",
+        "slug": "t-72b",
+        "nation": "USSR",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-72/icon_t-72_v2.png"
+    },
+    {
+        "id": 24,
+        "name": "XM1-90",
+        "slug": "xm1-90",
+        "nation": "USA",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm1-90/icon_xm1-90.png"
+    },
+    {
+        "id": 25,
+        "name": "XM1-V",
+        "slug": "xm1-v",
+        "nation": "USA",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm1-v/icon_xm1-v.png"
+    },
+    {
+        "id": 26,
+        "name": "XM808 Twister",
+        "slug": "xm808-twister",
+        "nation": "USA",
+        "type": "Unknown",
+        "class": "Unknown",
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm808-twister/icon_xm808-twister.png"
+    }
+]
