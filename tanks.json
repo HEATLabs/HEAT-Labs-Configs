@@ -6,7 +6,12 @@
         "nation": "USA",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/agds/icon_agds.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/agds/icon_agds.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/agds/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 2,
@@ -15,7 +20,12 @@
         "nation": "USA",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/alvt/icon_alvt.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/alvt/icon_alvt.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/alvt/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 3,
@@ -24,7 +34,12 @@
         "nation": "USSR",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/bat-4m/icon_bat-4m.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/bat-4m/icon_bat-4m.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/bat-4m/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 4,
@@ -33,7 +48,12 @@
         "nation": "UK",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/challenger/icon_challenger.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/challenger/icon_challenger.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/challenger/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 5,
@@ -42,7 +62,12 @@
         "nation": "USA",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/hstv-l/icon_hstv-l.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/hstv-l/icon_hstv-l.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/hstv-l/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 6,
@@ -51,7 +76,12 @@
         "nation": "Germany",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a1/icon_leopard-1a1.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a1/icon_leopard-1a1.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-1a1/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 7,
@@ -60,7 +90,12 @@
         "nation": "Germany",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a6/icon_leopard-1a6.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a6/icon_leopard-1a6.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-1a6/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 8,
@@ -69,7 +104,12 @@
         "nation": "Germany",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-2k/icon_leopard-2k.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-2k/icon_leopard-2k.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-2k/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 9,
@@ -78,7 +118,12 @@
         "nation": "Germany",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-2k-atgm/icon_leopard-2k-atgm.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-2k-atgm/icon_leopard-2k-atgm.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-2k-atgm/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 10,
@@ -87,7 +132,12 @@
         "nation": "USA",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1-railgun/icon_m1-railgun.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1-railgun/icon_m1-railgun.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m1-railgun/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 11,
@@ -96,7 +146,12 @@
         "nation": "USA",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/icon_m1e1.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/icon_m1e1.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m1e1/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 12,
@@ -105,7 +160,12 @@
         "nation": "USA",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m3-bradley/icon_m3-bradley.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m3-bradley/icon_m3-bradley.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m3-bradley/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 13,
@@ -114,7 +174,12 @@
         "nation": "USA",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m60a1/icon_m60a1.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m60a1/icon_m60a1.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m60a1/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 14,
@@ -123,7 +188,12 @@
         "nation": "USA",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m60a3/icon_m60a3.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m60a3/icon_m60a3.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m60a3/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 15,
@@ -132,7 +202,12 @@
         "nation": "USA",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m551/icon_m551.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m551/icon_m551.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m551/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 16,
@@ -141,7 +216,12 @@
         "nation": "USSR",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/object-279/icon_object-279.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/object-279/icon_object-279.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/object-279/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 17,
@@ -150,7 +230,12 @@
         "nation": "USSR",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/object-287/icon_object-287.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/object-287/icon_object-287.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/object-287/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 18,
@@ -159,7 +244,12 @@
         "nation": "China",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/ptz89/icon_ptz89.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/ptz89/icon_ptz89.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/ptz89/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 19,
@@ -168,7 +258,12 @@
         "nation": "USSR",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-62a/icon_t-62a.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-62a/icon_t-62a.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-62a/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 20,
@@ -177,7 +272,12 @@
         "nation": "USSR",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-64a/icon_t-64a.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-64a/icon_t-64a.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-64a/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 21,
@@ -186,7 +286,12 @@
         "nation": "USSR",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-64b/icon_t-64b.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-64b/icon_t-64b.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-64b/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 22,
@@ -195,7 +300,12 @@
         "nation": "USSR",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-72a/icon_t-72a.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-72a/icon_t-72a.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-72a/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 23,
@@ -204,7 +314,12 @@
         "nation": "USSR",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-72b/icon_t-72b.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-72b/icon_t-72b.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-72b/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 24,
@@ -213,7 +328,12 @@
         "nation": "USA",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm1-90/icon_xm1-90.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm1-90/icon_xm1-90.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm1-90/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 25,
@@ -222,7 +342,12 @@
         "nation": "USA",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm1-v/icon_xm1-v.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm1-v/icon_xm1-v.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm1-v/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     },
     {
         "id": 26,
@@ -231,6 +356,11 @@
         "nation": "USA",
         "type": "Unknown",
         "class": "Unknown",
-        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm808-twister/icon_xm808-twister.png"
+        "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm808-twister/icon_xm808-twister.png",
+        "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm808-twister/stock.json",
+        "upgrades": "",
+        "consumables": "",
+        "perks": "",
+        "agents": ""
     }
 ]
