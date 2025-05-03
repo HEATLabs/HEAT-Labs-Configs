@@ -8,11 +8,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/agds/icon_agds.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/agds/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/agds/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/agds/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/agds/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/agds/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/agds/details.json"
     },
     {
         "id": 2,
@@ -23,11 +23,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/alvt/icon_alvt.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/alvt/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/alvt/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/alvt/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/alvt/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/alvt/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/alvt/details.json"
     },
     {
         "id": 3,
@@ -38,11 +38,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/bat-4m/icon_bat-4m.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/bat-4m/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/bat-4m/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/bat-4m/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/bat-4m/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/bat-4m/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/bat-4m/details.json"
     },
     {
         "id": 4,
@@ -53,11 +53,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/challenger/icon_challenger.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/challenger/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/challenger/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/challenger/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/challenger/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/challenger/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/challenger/details.json"
     },
     {
         "id": 5,
@@ -68,11 +68,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/hstv-l/icon_hstv-l.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/hstv-l/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/hstv-l/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/hstv-l/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/hstv-l/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/hstv-l/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/hstv-l/details.json"
     },
     {
         "id": 6,
@@ -83,11 +83,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a1/icon_leopard-1a1.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-1a1/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-1a1/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-1a1/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-1a1/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-1a1/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-1a1/details.json"
     },
     {
         "id": 7,
@@ -98,11 +98,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-1a6/icon_leopard-1a6.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-1a6/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-1a6/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-1a6/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-1a6/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-1a6/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-1a6/details.json"
     },
     {
         "id": 8,
@@ -113,11 +113,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-2k/icon_leopard-2k.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-2k/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-2k/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-2k/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-2k/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-2k/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-2k/details.json"
     },
     {
         "id": 9,
@@ -128,11 +128,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/leopard-2k-atgm/icon_leopard-2k-atgm.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-2k-atgm/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-2k-atgm/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-2k-atgm/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-2k-atgm/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-2k-atgm/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/leopard-2k-atgm/details.json"
     },
     {
         "id": 10,
@@ -143,11 +143,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1-railgun/icon_m1-railgun.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m1-railgun/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m1-railgun/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m1-railgun/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m1-railgun/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m1-railgun/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m1-railgun/details.json"
     },
     {
         "id": 11,
@@ -158,11 +158,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m1e1/icon_m1e1.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m1e1/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m1e1/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m1e1/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m1e1/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m1e1/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m1e1/details.json"
     },
     {
         "id": 12,
@@ -173,11 +173,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m3-bradley/icon_m3-bradley.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m3-bradley/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m3-bradley/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m3-bradley/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m3-bradley/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m3-bradley/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m3-bradley/details.json"
     },
     {
         "id": 13,
@@ -188,11 +188,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m60a1/icon_m60a1.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m60a1/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m60a1/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m60a1/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m60a1/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m60a1/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m60a1/details.json"
     },
     {
         "id": 14,
@@ -203,11 +203,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m60a3/icon_m60a3.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m60a3/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m60a3/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m60a3/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m60a3/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m60a3/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m60a3/details.json"
     },
     {
         "id": 15,
@@ -218,11 +218,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/m551/icon_m551.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m551/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m551/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m551/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m551/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m551/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/m551/details.json"
     },
     {
         "id": 16,
@@ -233,11 +233,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/object-279/icon_object-279.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/object-279/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/object-279/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/object-279/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/object-279/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/object-279/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/object-279/details.json"
     },
     {
         "id": 17,
@@ -248,11 +248,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/object-287/icon_object-287.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/object-287/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/object-287/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/object-287/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/object-287/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/object-287/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/object-287/details.json"
     },
     {
         "id": 18,
@@ -263,11 +263,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/ptz89/icon_ptz89.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/ptz89/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/ptz89/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/ptz89/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/ptz89/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/ptz89/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/ptz89/details.json"
     },
     {
         "id": 19,
@@ -278,11 +278,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-62a/icon_t-62a.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-62a/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-62a/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-62a/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-62a/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-62a/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-62a/details.json"
     },
     {
         "id": 20,
@@ -293,11 +293,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-64a/icon_t-64a.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-64a/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-64a/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-64a/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-64a/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-64a/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-64a/details.json"
     },
     {
         "id": 21,
@@ -308,11 +308,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-64b/icon_t-64b.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-64b/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-64b/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-64b/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-64b/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-64b/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-64b/details.json"
     },
     {
         "id": 22,
@@ -323,11 +323,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-72a/icon_t-72a.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-72a/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-72a/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-72a/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-72a/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-72a/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-72a/details.json"
     },
     {
         "id": 23,
@@ -338,11 +338,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/t-72b/icon_t-72b.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-72b/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-72b/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-72b/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-72b/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-72b/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/t-72b/details.json"
     },
     {
         "id": 24,
@@ -353,11 +353,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm1-90/icon_xm1-90.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm1-90/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm1-90/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm1-90/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm1-90/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm1-90/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm1-90/details.json"
     },
     {
         "id": 25,
@@ -368,11 +368,11 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm1-v/icon_xm1-v.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm1-v/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm1-v/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm1-v/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm1-v/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm1-v/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm1-v/details.json"
     },
     {
         "id": 26,
@@ -383,10 +383,10 @@
         "class": "Unknown",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/xm808-twister/icon_xm808-twister.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm808-twister/stock.json",
-        "upgrades": "",
-        "consumables": "",
-        "perks": "",
-        "agents": "",
-        "details": ""
+        "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm808-twister/upgrades.json",
+        "consumables": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm808-twister/consumables.json",
+        "perks": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm808-twister/perks.json",
+        "agents": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm808-twister/agents.json",
+        "details": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/xm808-twister/details.json"
     }
 ]
