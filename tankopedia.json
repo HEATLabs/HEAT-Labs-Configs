@@ -1,50 +1,58 @@
 [
   {
-    "category": "icon",
+    "id": "icon-001",
+    "category": "Icons",
+    "categoryDescription": "Various icons used in Project CW",
     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/page-images/placeholder-image.png",
     "name": "Icon Name 1",
     "description": "Icon Description 1"
   },
   {
-    "category": "icon",
+    "id": "icon-002",
+    "category": "Icons",
+    "categoryDescription": "Various icons used in Project CW",
     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/page-images/placeholder-image.png",
     "name": "Icon Name 2",
     "description": "Icon Description 2"
   },
   {
-    "category": "icon",
+    "id": "icon-003",
+    "category": "Icons",
+    "categoryDescription": "Various icons used in Project CW",
     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/page-images/placeholder-image.png",
     "name": "Icon Name 3",
     "description": "Icon Description 3"
   },
   {
-    "category": "camouflage",
+    "id": "camo-001",
+    "category": "Camouflages",
+    "categoryDescription": "Various camouflage patterns available in Project CW",
     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/page-images/placeholder-image.png",
     "name": "Camo Name 1",
     "description": "Camo Description 1"
   },
   {
-    "category": "camouflage",
+    "id": "camo-002",
+    "category": "Camouflages",
+    "categoryDescription": "Various camouflage patterns available in Project CW",
     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/page-images/placeholder-image.png",
     "name": "Camo Name 2",
     "description": "Camo Description 2"
   },
   {
-    "category": "camouflage",
-    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/page-images/placeholder-image.png",
-    "name": "Camo Name 3",
-    "description": "Icon Description 3"
-  },
-  {
-    "category": "icon",
-    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/page-images/placeholder-image.png",
-    "name": "Icon Name 4",
-    "description": "Icon Description 4"
-  },
-  {
-    "category": "camouflage",
+    "id": "camo-003",
+    "category": "Camouflages",
+    "categoryDescription": "Various camouflage patterns available in Project CW",
     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/camos/camo4.png",
-    "name": "Camo Name 5",
-    "description": "Icon Description 5"
+    "name": "Camo Name 3",
+    "description": "Camo Description 3"
+  },
+  {
+    "id": "decal-001",
+    "category": "Decals",
+    "categoryDescription": "Decorative decals for your tanks available in Project CW",
+    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/page-images/placeholder-image.png",
+    "name": "Decal Name 1",
+    "description": "Decal Description 1"
   }
 ]
