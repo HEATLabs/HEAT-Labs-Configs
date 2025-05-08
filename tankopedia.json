@@ -1,5 +1,5 @@
 {
-    "category_order": ["Charms", "Camouflages", "Tank Classes"],
+    "category_order": ["Charms", "Camos & Paints", "Tank Classes"],
     "categories": [
         {
             "name": "Charms",
@@ -320,8 +320,8 @@
             ]
         },
         {
-            "name": "Camouflages",
-            "description": "Camos are visual skins that let players customize the appearance of their tanks in Project CW. Whether earned through progression, special events, or unlocked achievements, each camouflage pattern reflects a player’s style, status, or tactical flair on the battlefield.",
+            "name": "Camos & Paints",
+            "description": "Camos and paints are visual skins that let players customize the appearance of their tanks in Project CW. Whether earned through progression, special events, or unlocked achievements, each camouflage pattern reflects a player’s style, status, or tactical flair on the battlefield.",
             "items": [
                 {
                     "id": "Camouflage-0001",
@@ -616,6 +616,42 @@
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/camouflages/camo_49.png",
                     "name": "Camouflage #49",
                     "description": "Camouflage Description 49"
+                },
+                {
+                    "id": "Paint-0001",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/paints/paint_1.png",
+                    "name": "Paint #1",
+                    "description": "Paint Description 1"
+                },
+                {
+                    "id": "Paint-0002",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/paints/paint_2.png",
+                    "name": "Paint #2",
+                    "description": "Paint Description 2"
+                },
+                {
+                    "id": "Paint-0003",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/paints/paint_3.png",
+                    "name": "Paint #3",
+                    "description": "Paint Description 3"
+                },
+                {
+                    "id": "Paint-0004",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/paints/paint_4.png",
+                    "name": "Paint #4",
+                    "description": "Paint Description 4"
+                },
+                {
+                    "id": "Paint-0005",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/paints/paint_5.png",
+                    "name": "Paint #5",
+                    "description": "Paint Description 5"
+                },
+                {
+                    "id": "Paint-0006",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/paints/paint_6.png",
+                    "name": "Paint #6",
+                    "description": "Paint Description 6"
                 }
             ]
         },
