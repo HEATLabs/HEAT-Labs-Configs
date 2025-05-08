@@ -1,5 +1,5 @@
 {
-    "category_order": ["Charms", "Camos & Paints", "Tank Classes"],
+    "category_order": ["Charms", "Camos & Paints", "Medals", "Tank Classes"],
     "categories": [
         {
             "name": "Charms",
@@ -778,6 +778,48 @@
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-classes/support_5.png",
                     "name": "Support #5",
                     "description": "Support Class Description 5"
+                }
+            ]
+        },
+        {
+            "name": "Medals",
+            "description": "Medals are prestigious accolades awarded to players for exceptional performance, participation in special events, or long-standing contributions. Each medal is a symbol of honor and skill, proudly displayed as a testament to your journey in Project CW.",
+            "items": [
+                {
+                    "id": "Medal-0001",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/medals/medal_afterlife.png",
+                    "name": "Afterlife",
+                    "description": "Medal Description 1"
+                },
+                {
+                    "id": "Medal-0002",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/medals/medal_firstblood.png",
+                    "name": "First Blood",
+                    "description": "Medal Description 2"
+                },
+                {
+                    "id": "Medal-0003",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/medals/medal_kingslayer.png",
+                    "name": "King Slayer",
+                    "description": "Medal Description 3"
+                },
+                {
+                    "id": "Medal-0004",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/medals/medal_knockout.png",
+                    "name": "Knockout",
+                    "description": "Medal Description 4"
+                },
+                {
+                    "id": "Medal-0005",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/medals/medal_platoon_wiped.png",
+                    "name": "Platoon Wiped",
+                    "description": "Medal Description 5"
+                },
+                {
+                    "id": "Medal-0006",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/medals/medal_revenge.png",
+                    "name": "Revenge",
+                    "description": "Medal Description 1"
                 }
             ]
         }
