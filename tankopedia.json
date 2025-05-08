@@ -3,7 +3,7 @@
     "categories": [
         {
             "name": "Charms",
-            "description": "Various charms used in Project CW",
+            "description": "Charms are cosmetic attachments that players can equip on their tanks to showcase achievements, express personality, or add flair to their armored beasts. From rare rewards to quirky collectibles, each charm tells a story, whether it's earned in fierce tournaments or discovered through limited-time events.",
             "items": [
                 {
                     "id": "Charm-0001",
@@ -20,13 +20,13 @@
                 {
                     "id": "Charm-0003",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/alpha_tournament_medal_1.png",
-                    "name": "Alpha Tournament Medal #1",
+                    "name": "Alpha #1 Tournament Medal",
                     "description": "Charm Description 3"
                 },
                 {
                     "id": "Charm-0004",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/alpha_tournament_medal_2.png",
-                    "name": "Alpha Tournament Medal #2",
+                    "name": "Alpha #2 Tournament Medal",
                     "description": "Charm Description 4"
                 },
                 {
