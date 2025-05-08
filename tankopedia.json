@@ -1,165 +1,321 @@
 {
-    "category_order": ["Camouflages", "Decals", "Icons"],
+    "category_order": ["Charms"],
     "categories": [
         {
-            "name": "Icons",
-            "description": "Various icons used in Project CW",
+            "name": "Charms",
+            "description": "Various charms used in Project CW",
             "items": [
                 {
-                    "id": "icon-001",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Icon Name 1",
-                    "description": "Icon Description 1"
+                    "id": "Charm-0001",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/alpha_tester_reward_1.png",
+                    "name": "Alpha #1 Tester Reward",
+                    "description": "Charm Description 1"
                 },
                 {
-                    "id": "icon-002",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Icon Name 2",
-                    "description": "Icon Description 2"
+                    "id": "Charm-0002",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/alpha_testers_reward_2.png",
+                    "name": "Alpha #2 Testers Reward",
+                    "description": "Charm Description 2"
                 },
                 {
-                    "id": "icon-003",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Icon Name 3",
-                    "description": "Icon Description 3"
+                    "id": "Charm-0003",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/alpha_tournament_medal_1.png",
+                    "name": "Alpha Tournament Medal #1",
+                    "description": "Charm Description 3"
                 },
                 {
-                    "id": "icon-004",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Icon Name 4",
-                    "description": "Icon Description 4"
+                    "id": "Charm-0004",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/alpha_tournament_medal_2.png",
+                    "name": "Alpha Tournament Medal #2",
+                    "description": "Charm Description 4"
                 },
                 {
-                    "id": "icon-005",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Icon Name 5",
-                    "description": "Icon Description 5"
+                    "id": "Charm-0005",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/batmaus.png",
+                    "name": "Batmaus",
+                    "description": "Charm Description 5"
                 },
                 {
-                    "id": "icon-006",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Icon Name 6",
-                    "description": "Icon Description 6"
+                    "id": "Charm-0006",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/battle_tank.png",
+                    "name": "Battle Tank",
+                    "description": "Charm Description 6"
                 },
                 {
-                    "id": "icon-007",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Icon Name 7",
-                    "description": "Icon Description 7"
+                    "id": "Charm-0007",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/cactus.png",
+                    "name": "Cactus",
+                    "description": "Charm Description 7"
                 },
                 {
-                    "id": "icon-008",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Icon Name 8",
-                    "description": "Icon Description 8"
-                }
-            ]
-        },
-        {
-            "name": "Camouflages",
-            "description": "Various camouflage patterns available in Project CW",
-            "items": [
-                {
-                    "id": "camo-001",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Camo Name 1",
-                    "description": "Camo Description 1"
+                    "id": "Charm-0008",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/citroen_ds_phantom.png",
+                    "name": "Citroen DS Phantom",
+                    "description": "Charm Description 8"
                 },
                 {
-                    "id": "camo-002",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Camo Name 2",
-                    "description": "Camo Description 2"
+                    "id": "Charm-0009",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/crt_tv.png",
+                    "name": "CRT TV",
+                    "description": "Charm Description 9"
                 },
                 {
-                    "id": "camo-003",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Camo Name 3",
-                    "description": "Camo Description 3"
+                    "id": "Charm-0010",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/desert_eagles_gold.png",
+                    "name": "Desert Eagles Gold",
+                    "description": "Charm Description 10"
                 },
                 {
-                    "id": "camo-004",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Camo Name 4",
-                    "description": "Camo Description 4"
+                    "id": "Charm-0011",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/desert_eagles_silver.png",
+                    "name": "Desert Eagles Silver",
+                    "description": "Charm Description 11"
                 },
                 {
-                    "id": "camo-005",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Camo Name 5",
-                    "description": "Camo Description 5"
+                    "id": "Charm-0012",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/dice.png",
+                    "name": "Dice",
+                    "description": "Charm Description 12"
                 },
                 {
-                    "id": "camo-006",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Camo Name 6",
-                    "description": "Camo Description 6"
+                    "id": "Charm-0013",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/disco_ball.png",
+                    "name": "Disco Ball",
+                    "description": "Charm Description 13"
                 },
                 {
-                    "id": "camo-007",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Camo Name 7",
-                    "description": "Camo Description 7"
+                    "id": "Charm-0014",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/dollar_sign.png",
+                    "name": "Dollar Sign",
+                    "description": "Charm Description 14"
                 },
                 {
-                    "id": "camo-008",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Camo Name 8",
-                    "description": "Camo Description 8"
-                }
-            ]
-        },
-        {
-            "name": "Decals",
-            "description": "Decorative decals for your tanks available in Project CW",
-            "items": [
-                {
-                    "id": "decal-001",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Decal Name 1",
-                    "description": "Decal Description 1"
+                    "id": "Charm-0015",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/dragon_fire_torch_copper.png",
+                    "name": "Dragon Fire Torch Copper",
+                    "description": "Charm Description 15"
                 },
                 {
-                    "id": "decal-002",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Decal Name 2",
-                    "description": "Decal Description 2"
+                    "id": "Charm-0016",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/dragon_fire_torch_steel.png",
+                    "name": "Dragon Fire Torch Steel",
+                    "description": "Charm Description 16"
                 },
                 {
-                    "id": "decal-003",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Decal Name 3",
-                    "description": "Decal Description 3"
+                    "id": "Charm-0017",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/dragon_firekeeper.png",
+                    "name": "Dragon Firekeeper",
+                    "description": "Charm Description 17"
                 },
                 {
-                    "id": "decal-004",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Decal Name 4",
-                    "description": "Decal Description 4"
+                    "id": "Charm-0018",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/golden_aksu.png",
+                    "name": "Golden Aksu",
+                    "description": "Charm Description 18"
                 },
                 {
-                    "id": "decal-005",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Decal Name 5",
-                    "description": "Decal Description 5"
+                    "id": "Charm-0019",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/goldfish.png",
+                    "name": "Goldfish",
+                    "description": "Charm Description 19"
                 },
                 {
-                    "id": "decal-006",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Decal Name 6",
-                    "description": "Decal Description 6"
+                    "id": "Charm-0020",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/grenades_family.png",
+                    "name": "Grenades Family",
+                    "description": "Charm Description 20"
                 },
                 {
-                    "id": "decal-007",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Decal Name 7",
-                    "description": "Decal Description 7"
+                    "id": "Charm-0021",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/gyrotourbillon.png",
+                    "name": "Gyrotourbillon",
+                    "description": "Charm Description 21"
                 },
                 {
-                    "id": "decal-008",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/placeholder/imagecomingsoon.png",
-                    "name": "Decal Name 8",
-                    "description": "Decal Description 8"
+                    "id": "Charm-0022",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/kinetic_dreamcatcher.png",
+                    "name": "Kinetic Dreamcatcher",
+                    "description": "Charm Description 22"
+                },
+                {
+                    "id": "Charm-0023",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/lodestar_program_1.png",
+                    "name": "Lodestar Program #1",
+                    "description": "Charm Description 23"
+                },
+                {
+                    "id": "Charm-0024",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/lodestar_program_2.png",
+                    "name": "Lodestar Program #2",
+                    "description": "Charm Description 24"
+                },
+                {
+                    "id": "Charm-0025",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/maneki_neko.png",
+                    "name": "Maneki Neko",
+                    "description": "Charm Description 25"
+                },
+                {
+                    "id": "Charm-0026",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/mechanical_heart.png",
+                    "name": "Mechanical Heart",
+                    "description": "Charm Description 26"
+                },
+                {
+                    "id": "Charm-0027",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/metal_crab.png",
+                    "name": "Metal Crab",
+                    "description": "Charm Description 27"
+                },
+                {
+                    "id": "Charm-0028",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/metal_mouth_head.png",
+                    "name": "Metal Mouth Head",
+                    "description": "Charm Description 28"
+                },
+                {
+                    "id": "Charm-0029",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/ms_1.png",
+                    "name": "MS-1",
+                    "description": "Charm Description 29"
+                },
+                {
+                    "id": "Charm-0030",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/naval_mine.png",
+                    "name": "Naval Mine",
+                    "description": "Charm Description 30"
+                },
+                {
+                    "id": "Charm-0031",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/naval_mine_copper.png",
+                    "name": "Naval Mine Copper",
+                    "description": "Charm Description 31"
+                },
+                {
+                    "id": "Charm-0032",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/neon_sign.png",
+                    "name": "Neon Sign",
+                    "description": "Charm Description 32"
+                },
+                {
+                    "id": "Charm-0033",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/ouroboros_snake_dark_steel.png",
+                    "name": "Ouroboros Snake Dark Steel",
+                    "description": "Charm Description 33"
+                },
+                {
+                    "id": "Charm-0034",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/ouroboros_snake_emerald_brass.png",
+                    "name": "Ouroboros Snake Emerald Brass",
+                    "description": "Charm Description 34"
+                },
+                {
+                    "id": "Charm-0035",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/ouroboros_snake_gold.png",
+                    "name": "Ouroboros Snake Gold",
+                    "description": "Charm Description 35"
+                },
+                {
+                    "id": "Charm-0036",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/ouroboros_snake_white_chrome.png",
+                    "name": "Ouroboros Snake White Chrome",
+                    "description": "Charm Description 36"
+                },
+                {
+                    "id": "Charm-0037",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/piston_skull.png",
+                    "name": "Piston Skull",
+                    "description": "Charm Description 37"
+                },
+                {
+                    "id": "Charm-0038",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/plush_bear.png",
+                    "name": "Plush Bear",
+                    "description": "Charm Description 38"
+                },
+                {
+                    "id": "Charm-0039",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/plush_bear_mercenary.png",
+                    "name": "Plush Bear Mercenary",
+                    "description": "Charm Description 39"
+                },
+                {
+                    "id": "Charm-0040",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/plush_dinosaur.png",
+                    "name": "Plush Dinosaur",
+                    "description": "Charm Description 40"
+                },
+                {
+                    "id": "Charm-0041",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/plush_dinosaur_loader.png",
+                    "name": "Plush Dinosaur Loader",
+                    "description": "Charm Description 41"
+                },
+                {
+                    "id": "Charm-0042",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/plush_navy_seal.png",
+                    "name": "Plush Navy Seal",
+                    "description": "Charm Description 42"
+                },
+                {
+                    "id": "Charm-43",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/plush_penguin_1.png",
+                    "name": "Plush Penguin #1",
+                    "description": "Charm Description 43"
+                },
+                {
+                    "id": "Charm-0044",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/plush_penguin_2.png",
+                    "name": "Plush Penguin #2",
+                    "description": "Charm Description 44"
+                },
+                {
+                    "id": "Charm-0045",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/plush_seal.png",
+                    "name": "Plush Seal",
+                    "description": "Charm Description 45"
+                },
+                {
+                    "id": "Charm-0046",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/plush_spider.png",
+                    "name": "Plush Spider",
+                    "description": "Charm Description 46"
+                },
+                {
+                    "id": "Charm-0047",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/plush_spider_pirate.png",
+                    "name": "Plush Spider Pirate",
+                    "description": "Charm Description 47"
+                },
+                {
+                    "id": "Charm-0048",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/sandwatch.png",
+                    "name": "Sandwatch",
+                    "description": "Charm Description 48"
+                },
+                {
+                    "id": "Charm-0049",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/wall_clock.png",
+                    "name": "Wall Clock",
+                    "description": "Charm Description 49"
+                },
+                {
+                    "id": "Charm-0050",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/wg_logo.png",
+                    "name": "WG Logo",
+                    "description": "Charm Description 50"
+                },
+                {
+                    "id": "Charm-0051",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/wind_spinner_sugar_skull.png",
+                    "name": "Wind Spinner Sugar Skull",
+                    "description": "Charm Description 51"
+                },
+                {
+                    "id": "Charm-0052",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/wind_spinner_yin_yang.png",
+                    "name": "Wind Spinner Yin Yang",
+                    "description": "Charm Description 52"
                 }
             ]
         }
