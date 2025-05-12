@@ -822,6 +822,114 @@
                     "description": "Medal Description 1"
                 }
             ]
+        },
+        {
+            "name": "Manufacturers",
+            "description": "Manufacturer Section Description",
+            "items": [
+                {
+                    "id": "Manufacturer-0001",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/manufacturers/manufacturer_ernst_schneller.png",
+                    "name": "Ernst Schneller",
+                    "description": "Manufacturer Description 1"
+                },
+                {
+                    "id": "Manufacturer-0002",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/manufacturers/manufacturer_funaiwa.png",
+                    "name": "Funaiwa",
+                    "description": "Manufacturer Description 2"
+                },
+                {
+                    "id": "Manufacturer-0003",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/manufacturers/manufacturer_leadforce.png",
+                    "name": "Lead Force",
+                    "description": "Manufacturer Description 3"
+                },
+                {
+                    "id": "Manufacturer-0004",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/manufacturers/manufacturer_turist.png",
+                    "name": "Turist",
+                    "description": "Manufacturer Description 4"
+                }
+            ]
+        },
+        {
+            "name": "Vendors",
+            "description": "Vendor Section Description",
+            "items": [
+                {
+                    "id": "Vendor-0001",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/vendors/vendor_chimera.png",
+                    "name": "Chimera",
+                    "description": "Vendor Description 1"
+                },
+                {
+                    "id": "Vendor-0002",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/vendors/vendor_chimera_background.png",
+                    "name": "Chimera Background",
+                    "description": "Vendor Description 2"
+                },
+                {
+                    "id": "Vendor-0003",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/vendors/vendor_chimera_reputation.png",
+                    "name": "Chimera Reputation",
+                    "description": "Vendor Description 3"
+                },
+                {
+                    "id": "Vendor-0004",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/vendors/vendor_horison.png",
+                    "name": "Horison",
+                    "description": "Vendor Description 4"
+                },
+                {
+                    "id": "Vendor-0005",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/vendors/vendor_horison_background.png",
+                    "name": "Horison Background",
+                    "description": "Vendor Description 5"
+                },
+                {
+                    "id": "Vendor-0006",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/vendors/vendor_horison_reputation.png",
+                    "name": "Horison Reputation",
+                    "description": "Vendor Description 6"
+                },
+                {
+                    "id": "Vendor-0007",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/vendors/vendor_solace_ventures.png",
+                    "name": "Solace Ventures",
+                    "description": "Vendor Description 7"
+                },
+                {
+                    "id": "Vendor-0008",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/vendors/vendor_solace_ventures_background.png",
+                    "name": "Solace Ventures Background",
+                    "description": "Vendor Description 8"
+                },
+                {
+                    "id": "Vendor-0009",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/vendors/vendor_solace_ventures_reputation.png",
+                    "name": "Solace Ventures Reputation",
+                    "description": "Vendor Description 9"
+                },
+                {
+                    "id": "Vendor-0010",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/vendors/vendor_vnii_tankmash.png",
+                    "name": "Vnii Tankmash",
+                    "description": "Vendor Description 10"
+                },
+                {
+                    "id": "Vendor-0011",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/vendors/vendor_vnii_tankmash_background.png",
+                    "name": "Vnii Tankmash Background",
+                    "description": "Vendor Description 11"
+                },
+                {
+                    "id": "Vendor-0012",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/vendors/vendor_vnii_tankmash_reputation.png",
+                    "name": "Vnii Tankmash Reputation",
+                    "description": "Vendor Description 12"
+                }
+            ]
         }
     ]
 }
