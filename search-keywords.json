@@ -376,5 +376,431 @@
     "description": "In-depth analysis of tank roles, builds, and combat tips",
     "path": "https://pcwstats.github.io/guides/tanks.html",
     "keywords": ["tank guides", "tanks", "builds", "combat", "roles", "strategy"]
+  },
+  {
+    "name": "Agent Spotlight Akira",
+    "description": "Article: Agent Spotlight Akira",
+    "path": "https://pcwstats.github.io/news/agent-spotlight-akira.html",
+    "keywords": ["news", "article", "agent spotlight akira"]
+  },
+  {
+    "name": "Agent Spotlight Fantome",
+    "description": "Article: Agent Spotlight Fantome",
+    "path": "https://pcwstats.github.io/news/agent-spotlight-fantome.html",
+    "keywords": ["news", "article", "agent spotlight fantome"]
+  },
+  {
+    "name": "Agent Spotlight Kent",
+    "description": "Article: Agent Spotlight Kent",
+    "path": "https://pcwstats.github.io/news/agent-spotlight-kent.html",
+    "keywords": ["news", "article", "agent spotlight kent"]
+  },
+  {
+    "name": "Alpha 1 1 Day To Go",
+    "description": "Article: Alpha 1 1 Day To Go",
+    "path": "https://pcwstats.github.io/news/alpha-1-1-day-to-go.html",
+    "keywords": ["news", "article", "alpha 1 1 day to go"]
+  },
+  {
+    "name": "Alpha 1 2 Days To Go",
+    "description": "Article: Alpha 1 2 Days To Go",
+    "path": "https://pcwstats.github.io/news/alpha-1-2-days-to-go.html",
+    "keywords": ["news", "article", "alpha 1 2 days to go"]
+  },
+  {
+    "name": "Alpha 1 3 Days To Go",
+    "description": "Article: Alpha 1 3 Days To Go",
+    "path": "https://pcwstats.github.io/news/alpha-1-3-days-to-go.html",
+    "keywords": ["news", "article", "alpha 1 3 days to go"]
+  },
+  {
+    "name": "Alpha 1 Facts Figures",
+    "description": "Article: Alpha 1 Facts Figures",
+    "path": "https://pcwstats.github.io/news/alpha-1-facts-figures.html",
+    "keywords": ["news", "article", "alpha 1 facts figures"]
+  },
+  {
+    "name": "Alpha 1 Patch 3 Quick Match Updates",
+    "description": "Article: Alpha 1 Patch 3 Quick Match Updates",
+    "path": "https://pcwstats.github.io/news/alpha-1-patch-3-quick-match-updates.html",
+    "keywords": ["news", "article", "alpha 1 patch 3 quick match updates"]
+  },
+  {
+    "name": "Alpha 1 Patch 4 Quality of Life",
+    "description": "Article: Alpha 1 Patch 4 Quality of Life",
+    "path": "https://pcwstats.github.io/news/alpha-1-patch-4-quality-of-life.html",
+    "keywords": ["news", "article", "alpha 1 patch 4 quality of life"]
+  },
+  {
+    "name": "Alpha 1 Patch 5 Fantome Updates",
+    "description": "Article: Alpha 1 Patch 5 Fantome Updates",
+    "path": "https://pcwstats.github.io/news/alpha-1-patch-5-fantome-updates.html",
+    "keywords": ["news", "article", "alpha 1 patch 5 fantome updates"]
+  },
+  {
+    "name": "Alpha 1 Patch 6 Ray Updates",
+    "description": "Article: Alpha 1 Patch 6 Ray Updates",
+    "path": "https://pcwstats.github.io/news/alpha-1-patch-6-ray-updates.html",
+    "keywords": ["news", "article", "alpha 1 patch 6 ray updates"]
+  },
+  {
+    "name": "Alpha 1 Patch 7 Raketa Updates",
+    "description": "Article: Alpha 1 Patch 7 Raketa Updates",
+    "path": "https://pcwstats.github.io/news/alpha-1-patch-7-raketa-updates.html",
+    "keywords": ["news", "article", "alpha 1 patch 7 raketa updates"]
+  },
+  {
+    "name": "Alpha 1 Patch 8 Akira Updates",
+    "description": "Article: Alpha 1 Patch 8 Akira Updates",
+    "path": "https://pcwstats.github.io/news/alpha-1-patch-8-akira-updates.html",
+    "keywords": ["news", "article", "alpha 1 patch 8 akira updates"]
+  },
+  {
+    "name": "Alpha 1 Patch 8 Delayed",
+    "description": "Article: Alpha 1 Patch 8 Delayed",
+    "path": "https://pcwstats.github.io/news/alpha-1-patch-8-delayed.html",
+    "keywords": ["news", "article", "alpha 1 patch 8 delayed"]
+  },
+  {
+    "name": "Alpha 1 Patch 9 HSTVL Updates",
+    "description": "Article: Alpha 1 Patch 9 HSTVL Updates",
+    "path": "https://pcwstats.github.io/news/alpha-1-patch-9-hstvl-updates.html",
+    "keywords": ["news", "article", "alpha 1 patch 9 hstvl updates"]
+  },
+  {
+    "name": "Alpha 1 Patch 10 Tournament Preparation Improvements",
+    "description": "Article: Alpha 1 Patch 10 Tournament Preparation Improvements",
+    "path": "https://pcwstats.github.io/news/alpha-1-patch-10-tournament-preparation-improvements.html",
+    "keywords": ["news", "article", "alpha 1 patch 10 tournament preparation improvements"]
+  },
+  {
+    "name": "Alpha 1 Patch 11 Post Tournament QoL Improvements",
+    "description": "Article: Alpha 1 Patch 11 Post Tournament QoL Improvements",
+    "path": "https://pcwstats.github.io/news/alpha-1-patch-11-post-tournament-qol-improvements.html",
+    "keywords": ["news", "article", "alpha 1 patch 11 post tournament qol improvements"]
+  },
+  {
+    "name": "Alpha 1 Valentines Day",
+    "description": "Article: Alpha 1 Valentines Day",
+    "path": "https://pcwstats.github.io/news/alpha-1-valentines-day.html",
+    "keywords": ["news", "article", "alpha 1 valentines day"]
+  },
+  {
+    "name": "Alpha 2 1 Day To Go",
+    "description": "Article: Alpha 2 1 Day To Go",
+    "path": "https://pcwstats.github.io/news/alpha-2-1-day-to-go.html",
+    "keywords": ["news", "article", "alpha 2 1 day to go"]
+  },
+  {
+    "name": "Alpha 2 2 Days To Go",
+    "description": "Article: Alpha 2 2 Days To Go",
+    "path": "https://pcwstats.github.io/news/alpha-2-2-days-to-go.html",
+    "keywords": ["news", "article", "alpha 2 2 days to go"]
+  },
+  {
+    "name": "Alpha 2 3 Days To Go",
+    "description": "Article: Alpha 2 3 Days To Go",
+    "path": "https://pcwstats.github.io/news/alpha-2-3-days-to-go.html",
+    "keywords": ["news", "article", "alpha 2 3 days to go"]
+  },
+  {
+    "name": "Alpha 2 Patch 1 First Patch",
+    "description": "Article: Alpha 2 Patch 1 First Patch",
+    "path": "https://pcwstats.github.io/news/alpha-2-patch-1-first-patch.html",
+    "keywords": ["news", "article", "alpha 2 patch 1 first patch"]
+  },
+  {
+    "name": "Alpha 2 Patch 2 Client Server Update",
+    "description": "Article: Alpha 2 Patch 2 Client Server Update",
+    "path": "https://pcwstats.github.io/news/alpha-2-patch-2-client-server-update.html",
+    "keywords": ["news", "article", "alpha 2 patch 2 client server update"]
+  },
+  {
+    "name": "Alpha 2 Patch 3 Hounds Become The Hunted",
+    "description": "Article: Alpha 2 Patch 3 Hounds Become The Hunted",
+    "path": "https://pcwstats.github.io/news/alpha-2-patch-3-hounds-become-the-hunted.html",
+    "keywords": ["news", "article", "alpha 2 patch 3 hounds become the hunted"]
+  },
+  {
+    "name": "Alpha 2 Patch 4 Balance Improvements",
+    "description": "Article: Alpha 2 Patch 4 Balance Improvements",
+    "path": "https://pcwstats.github.io/news/alpha-2-patch-4-balance-improvements.html",
+    "keywords": ["news", "article", "alpha 2 patch 4 balance improvements"]
+  },
+  {
+    "name": "Alpha 2 Patch 5 Small Improvements",
+    "description": "Article: Alpha 2 Patch 5 Small Improvements",
+    "path": "https://pcwstats.github.io/news/alpha-2-patch-5-small-improvements.html",
+    "keywords": ["news", "article", "alpha 2 patch 5 small improvements"]
+  },
+  {
+    "name": "Alpha 2 Patch 6 Important Changes",
+    "description": "Article: Alpha 2 Patch 6 Important Changes",
+    "path": "https://pcwstats.github.io/news/alpha-2-patch-6-important-changes.html",
+    "keywords": ["news", "article", "alpha 2 patch 6 important changes"]
+  },
+  {
+    "name": "Alpha 2 Patch 7 Bradley Is Here",
+    "description": "Article: Alpha 2 Patch 7 Bradley Is Here",
+    "path": "https://pcwstats.github.io/news/alpha-2-patch-7-bradley-is-here.html",
+    "keywords": ["news", "article", "alpha 2 patch 7 bradley is here"]
+  },
+  {
+    "name": "Alpha 2 Patch 8 Balancing Changes",
+    "description": "Article: Alpha 2 Patch 8 Balancing Changes",
+    "path": "https://pcwstats.github.io/news/alpha-2-patch-8-balancing-changes.html",
+    "keywords": ["news", "article", "alpha 2 patch 8 balancing changes"]
+  },
+  {
+    "name": "Alpha 2 Patch 9 Balancing Tweaks",
+    "description": "Article: Alpha 2 Patch 9 Balancing Tweaks",
+    "path": "https://pcwstats.github.io/news/alpha-2-patch-9-balancing-tweaks.html",
+    "keywords": ["news", "article", "alpha 2 patch 9 balancing tweaks"]
+  },
+  {
+    "name": "Alpha 2 Valentines Day",
+    "description": "Article: Alpha 2 Valentines Day",
+    "path": "https://pcwstats.github.io/news/alpha-2-valentines-day.html",
+    "keywords": ["news", "article", "alpha 2 valentines day"]
+  },
+  {
+    "name": "Balanced and Reworked Maps",
+    "description": "Article: Balanced and Reworked Maps",
+    "path": "https://pcwstats.github.io/news/balanced-and-reworked-maps.html",
+    "keywords": ["news", "article", "balanced and reworked maps"]
+  },
+  {
+    "name": "Beirut Concept Art",
+    "description": "Article: Beirut Concept Art",
+    "path": "https://pcwstats.github.io/news/beirut-concept-art.html",
+    "keywords": ["news", "article", "beirut concept art"]
+  },
+  {
+    "name": "Blossom Crash Concept Art 1",
+    "description": "Article: Blossom Crash Concept Art 1",
+    "path": "https://pcwstats.github.io/news/blossom-crash-concept-art-1.html",
+    "keywords": ["news", "article", "blossom crash concept art 1"]
+  },
+  {
+    "name": "Blossom Crash Concept Art 2",
+    "description": "Article: Blossom Crash Concept Art 2",
+    "path": "https://pcwstats.github.io/news/blossom-crash-concept-art-2.html",
+    "keywords": ["news", "article", "blossom crash concept art 2"]
+  },
+  {
+    "name": "Community Managers Reintroduction",
+    "description": "Article: Community Managers Reintroduction",
+    "path": "https://pcwstats.github.io/news/community-managers-reintroduction.html",
+    "keywords": ["news", "article", "community managers reintroduction"]
+  },
+  {
+    "name": "Concept Art 1",
+    "description": "Article: Concept Art 1",
+    "path": "https://pcwstats.github.io/news/concept-art-1.html",
+    "keywords": ["news", "article", "concept art 1"]
+  },
+  {
+    "name": "Concept Art 2",
+    "description": "Article: Concept Art 2",
+    "path": "https://pcwstats.github.io/news/concept-art-2.html",
+    "keywords": ["news", "article", "concept art 2"]
+  },
+  {
+    "name": "Content Creator Impressions",
+    "description": "Article: Content Creator Impressions",
+    "path": "https://pcwstats.github.io/news/content-creator-impressions.html",
+    "keywords": ["news", "article", "content creator impressions"]
+  },
+  {
+    "name": "Desktop Mobile Backgrounds",
+    "description": "Article: Desktop Mobile Backgrounds",
+    "path": "https://pcwstats.github.io/news/desktop-mobile-backgrounds.html",
+    "keywords": ["news", "article", "desktop mobile backgrounds"]
+  },
+  {
+    "name": "Dev Questions Answers Design",
+    "description": "Article: Dev Questions Answers Design",
+    "path": "https://pcwstats.github.io/news/dev-questions-answers-design.html",
+    "keywords": ["news", "article", "dev questions answers design"]
+  },
+  {
+    "name": "Dev Questions Answers Narrative",
+    "description": "Article: Dev Questions Answers Narrative",
+    "path": "https://pcwstats.github.io/news/dev-questions-answers-narrative.html",
+    "keywords": ["news", "article", "dev questions answers narrative"]
+  },
+  {
+    "name": "Friendship Dam Concept Art 1",
+    "description": "Article: Friendship Dam Concept Art 1",
+    "path": "https://pcwstats.github.io/news/friendship-dam-concept-art-1.html",
+    "keywords": ["news", "article", "friendship dam concept art 1"]
+  },
+  {
+    "name": "Friendship Dam Sneak Peek 1",
+    "description": "Article: Friendship Dam Sneak Peek 1",
+    "path": "https://pcwstats.github.io/news/friendship-dam-sneak-peek-1.html",
+    "keywords": ["news", "article", "friendship dam sneak peek 1"]
+  },
+  {
+    "name": "Friendship Dam Sneak Peek 2",
+    "description": "Article: Friendship Dam Sneak Peek 2",
+    "path": "https://pcwstats.github.io/news/friendship-dam-sneak-peek-2.html",
+    "keywords": ["news", "article", "friendship dam sneak peek 2"]
+  },
+  {
+    "name": "Gun Dispersion Changes",
+    "description": "Article: Gun Dispersion Changes",
+    "path": "https://pcwstats.github.io/news/gun-dispersion-changes.html",
+    "keywords": ["news", "article", "gun dispersion changes"]
+  },
+  {
+    "name": "Happy Tanksgiving",
+    "description": "Article: Happy Tanksgiving",
+    "path": "https://pcwstats.github.io/news/happy-tanksgiving.html",
+    "keywords": ["news", "article", "happy tanksgiving"]
+  },
+  {
+    "name": "Hitbox Monday 1",
+    "description": "Article: Hitbox Monday 1",
+    "path": "https://pcwstats.github.io/news/hitbox-monday-1.html",
+    "keywords": ["news", "article", "hitbox monday 1"]
+  },
+  {
+    "name": "Hitbox Monday 2",
+    "description": "Article: Hitbox Monday 2",
+    "path": "https://pcwstats.github.io/news/hitbox-monday-2.html",
+    "keywords": ["news", "article", "hitbox monday 2"]
+  },
+  {
+    "name": "Hitbox Monday 3",
+    "description": "Article: Hitbox Monday 3",
+    "path": "https://pcwstats.github.io/news/hitbox-monday-3.html",
+    "keywords": ["news", "article", "hitbox monday 3"]
+  },
+  {
+    "name": "Hitbox Monday 4",
+    "description": "Article: Hitbox Monday 4",
+    "path": "https://pcwstats.github.io/news/hitbox-monday-4.html",
+    "keywords": ["news", "article", "hitbox monday 4"]
+  },
+  {
+    "name": "Hitbox Monday 5",
+    "description": "Article: Hitbox Monday 5",
+    "path": "https://pcwstats.github.io/news/hitbox-monday-5.html",
+    "keywords": ["news", "article", "hitbox monday 5"]
+  },
+  {
+    "name": "Jager Wall Bug",
+    "description": "Article: Jager Wall Bug",
+    "path": "https://pcwstats.github.io/news/jager-wall-bug.html",
+    "keywords": ["news", "article", "jager wall bug"]
+  },
+  {
+    "name": "Map Monday 1",
+    "description": "Article: Map Monday 1",
+    "path": "https://pcwstats.github.io/news/map-monday-1.html",
+    "keywords": ["news", "article", "map monday 1"]
+  },
+  {
+    "name": "Map Monday 2",
+    "description": "Article: Map Monday 2",
+    "path": "https://pcwstats.github.io/news/map-monday-2.html",
+    "keywords": ["news", "article", "map monday 2"]
+  },
+  {
+    "name": "Map Monday 3",
+    "description": "Article: Map Monday 3",
+    "path": "https://pcwstats.github.io/news/map-monday-3.html",
+    "keywords": ["news", "article", "map monday 3"]
+  },
+  {
+    "name": "Map Monday 4",
+    "description": "Article: Map Monday 4",
+    "path": "https://pcwstats.github.io/news/map-monday-4.html",
+    "keywords": ["news", "article", "map monday 4"]
+  },
+  {
+    "name": "Map Monday 5",
+    "description": "Article: Map Monday 5",
+    "path": "https://pcwstats.github.io/news/map-monday-5.html",
+    "keywords": ["news", "article", "map monday 5"]
+  },
+  {
+    "name": "Medals Explained",
+    "description": "Article: Medals Explained",
+    "path": "https://pcwstats.github.io/news/medals-explained.html",
+    "keywords": ["news", "article", "medals explained"]
+  },
+  {
+    "name": "New Agents 1",
+    "description": "Article: New Agents 1",
+    "path": "https://pcwstats.github.io/news/new-agents-1.html",
+    "keywords": ["news", "article", "new agents 1"]
+  },
+  {
+    "name": "New Agents 2",
+    "description": "Article: New Agents 2",
+    "path": "https://pcwstats.github.io/news/new-agents-2.html",
+    "keywords": ["news", "article", "new agents 2"]
+  },
+  {
+    "name": "New Agents 3",
+    "description": "Article: New Agents 3",
+    "path": "https://pcwstats.github.io/news/new-agents-3.html",
+    "keywords": ["news", "article", "new agents 3"]
+  },
+  {
+    "name": "Nord Oko Concept Art 1",
+    "description": "Article: Nord Oko Concept Art 1",
+    "path": "https://pcwstats.github.io/news/nord-oko-concept-art-1.html",
+    "keywords": ["news", "article", "nord oko concept art 1"]
+  },
+  {
+    "name": "Nord Oko Concept Art 2",
+    "description": "Article: Nord Oko Concept Art 2",
+    "path": "https://pcwstats.github.io/news/nord-oko-concept-art-2.html",
+    "keywords": ["news", "article", "nord oko concept art 2"]
+  },
+  {
+    "name": "Nord Oko Concept Art 3",
+    "description": "Article: Nord Oko Concept Art 3",
+    "path": "https://pcwstats.github.io/news/nord-oko-concept-art-3.html",
+    "keywords": ["news", "article", "nord oko concept art 3"]
+  },
+  {
+    "name": "Plant Defuse Mode",
+    "description": "Article: Plant Defuse Mode",
+    "path": "https://pcwstats.github.io/news/plant-defuse-mode.html",
+    "keywords": ["news", "article", "plant defuse mode"]
+  },
+  {
+    "name": "Progression and Social Changes",
+    "description": "Article: Progression and Social Changes",
+    "path": "https://pcwstats.github.io/news/progression-and-social-changes.html",
+    "keywords": ["news", "article", "progression and social changes"]
+  },
+  {
+    "name": "Quest Progress",
+    "description": "Article: Quest Progress",
+    "path": "https://pcwstats.github.io/news/quest-progress.html",
+    "keywords": ["news", "article", "quest progress"]
+  },
+  {
+    "name": "Update Recap",
+    "description": "Article: Update Recap",
+    "path": "https://pcwstats.github.io/news/update-recap.html",
+    "keywords": ["news", "article", "update recap"]
+  },
+  {
+    "name": "Who Are They 1",
+    "description": "Article: Who Are They 1",
+    "path": "https://pcwstats.github.io/news/who-are-they-1.html",
+    "keywords": ["news", "article", "who are they 1"]
+  },
+  {
+    "name": "Who Are They 2",
+    "description": "Article: Who Are They 2",
+    "path": "https://pcwstats.github.io/news/who-are-they-2.html",
+    "keywords": ["news", "article", "who are they 2"]
   }
 ]
