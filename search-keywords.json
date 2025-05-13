@@ -280,5 +280,22 @@
     "description": "Details, brackets, and results for the Open Alpha 2 Tournament",
     "path": "https://pcwstats.github.io/tournaments/open-alpha-2-tournament.html",
     "keywords": ["open alpha 2", "tournament", "alpha tournament", "brackets", "results", "competition"]
+  },{
+    "name": "Privacy Policy",
+    "description": "How user data is collected, stored, and protected by PCWStats",
+    "path": "https://pcwstats.github.io/legal/privacy-policy.html",
+    "keywords": ["privacy", "privacy policy", "data", "security", "user data", "policy"]
+  },
+  {
+    "name": "Project License",
+    "description": "Legal licensing terms under which PCWStats operates",
+    "path": "https://pcwstats.github.io/legal/project-license.html",
+    "keywords": ["license", "project license", "legal", "terms", "use", "rights"]
+  },
+  {
+    "name": "Terms of Service",
+    "description": "The official terms governing the use of PCWStats",
+    "path": "https://pcwstats.github.io/legal/terms-of-service.html",
+    "keywords": ["terms", "terms of service", "tos", "agreement", "legal", "usage"]
   }
 ]
