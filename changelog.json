@@ -1,17 +1,431 @@
 {
   "updates": [
     {
+      "version": "0.0.18",
+      "date": "2025-05-12",
+      "author": "SINEWAVE",
+      "title": "Easter Eggs, Tournament Announcement, and Roulette Feature",
+      "description": "Added Blitz Easter egg to other tanks, added Roulette feature and page, updated Tournament Announcement, and adjusted various page settings including meta descriptions and speed.",
+      "added": [
+        "Easter egg to other tanks",
+        "Roulette button to the home page",
+        "Roulette page",
+        "4 announcements",
+        "Tournament Announcement"
+      ],
+      "changed": [
+        "Updated alpha-2-facts-figures.html",
+        "Tweaked roulette settings",
+        "Lowered minimum speed",
+        "Tweaked meta description to fit with other pages"
+      ],
+      "removed": []
+    },
+    {
+      "version": "0.0.17",
+      "date": "2025-05-11",
+      "author": "SINEWAVE",
+      "title": "Tournaments Page Update, New Support Pages, and Various Fixes",
+      "description": "Corrected blog post date, updated tournaments date format, added filter section to Tournaments page, tweaked various sections, and updated pages like contact, footer, and guides paths.",
+      "added": [
+        "Filter section to Tournaments page",
+        "View all guides button to tanks",
+        "View all guides button to maps",
+        "Support us page",
+        "Work with us page"
+      ],
+      "changed": [
+        "Updated tournaments date format",
+        "Tweaked sidebar styles",
+        "Updated related guides path in tanks",
+        "Updated related guides path in maps",
+        "Updated footer globally",
+        "Renamed work and support pages"
+      ],
+      "removed": [
+        "Placeholder posts from blog page",
+        "Agent specific guides section",
+        "Gamemode selector from maps"
+      ]
+    },
+    {
+      "version": "0.0.16",
+      "date": "2025-05-10",
+      "author": "SINEWAVE",
+      "title": "Tank Page Update, Special Calculation, and Button Section ID",
+      "description": "Removed check & compare from sidebars, added special calculation for depression/elevation, added section ID to button, and updated tank pages and stats script for new structure.",
+      "added": [
+        "Special calculation for depression/elevation",
+        "Section ID to button"
+      ],
+      "changed": [
+        "Updated tank pages and stats script for new structure"
+      ],
+      "removed": [
+        "Check & compare from sidebars"
+      ]
+    },
+    {
+      "version": "0.0.15",
+      "date": "2025-05-09",
+      "author": "SINEWAVE",
+      "title": "Contact Page Update, Comparison Prototype, and Social Tags",
+      "description": "Added a 4th section to the contact-us page, introduced a comparison prototype on the tanks page, and made tweaks to the compare modal and form height. Updated social share meta tags and added disclaimers to guides.",
+      "added": [
+        "4th section to contact-us page",
+        "Comparison prototype",
+        "Disclaimer to guides"
+      ],
+      "changed": [
+        "Various tweaks to compare page",
+        "Updated compare modal (still a bit broken)",
+        "Adjusted form height",
+        "Updated social share meta tags",
+        "Swapped compare button to a real button",
+        "Updated tanks page to allow comparison prototype",
+        "Fixed case issue"
+      ],
+      "removed": []
+    },
+    {
+      "version": "0.0.14",
+      "date": "2025-05-08",
+      "author": "SINEWAVE",
+      "title": "Pagination, Contact Page, and Tankopedia Updates",
+      "description": "Added pagination to both blog and news pages, improved related guides section with better placeholders, and added a filter section to the tankopedia. Introduced an experimental contact page.",
+      "added": [
+        "Pagination to blog page",
+        "Pagination to news page",
+        "Experimental contact page",
+        "5 announcements"
+      ],
+      "changed": [
+        "Updated related guides section with nicer placeholders",
+        "Adjusted dynamic hero JS for 9 new images",
+        "Tweaked image containers",
+        "Adjusted wording in various pages",
+        "Corrected announcement folder typo"
+      ],
+      "removed": []
+    },
+    {
+      "version": "0.0.13",
+      "date": "2025-05-07",
+      "author": "SINEWAVE",
+      "title": "Added News Cards, Dynamic Hero Script, and Blog Sections",
+      "description": "Introduced dynamic hero script across all pages, fixed pathing issues, added news cards, and made updates to the legal page. Included temporary updater script.",
+      "added": [
+        "Dynamic hero script",
+        "Tournament blog post",
+        "Banner module",
+        "Author section in blog cards",
+        "Placeholder pages for blogs"
+      ],
+      "changed": [
+        "Updated hero image location",
+        "Renamed blog sections to fix global pathing issues",
+        "Updated missing titles and all news card dates",
+        "Fixed pathing issues in news pages",
+        "Forced all news images to 16:9",
+        "Fixed Pathing issues",
+        "Fixed Various typos",
+        "Fixed Incorrect image formats"
+      ],
+      "removed": [
+        "Hardcoded background image"
+      ]
+    },
+    {
+      "version": "0.0.12",
+      "date": "2025-05-06",
+      "author": "SINEWAVE",
+      "title": "Added News Page and Video Styles, Fixed Sidebar Issues",
+      "description": "Introduced a news page, video-related styles, and added disclaimer to articles. Fixed pathing and sidebar active status issues.",
+      "added": [
+        "News page",
+        "Video related styles",
+        "Disclaimer to articles",
+        "Placeholder news page",
+        "OAT2 Pincer Quote"
+      ],
+      "changed": [
+        "Fixed issue with sidebar active status",
+        "Changed standard path",
+        "Fixed comment issue",
+        "Updated images with placeholders"
+      ],
+      "removed": [
+        "Author Signature"
+      ]
+    },
+    {
+      "version": "0.0.11",
+      "date": "2025-05-05",
+      "author": "SINEWAVE",
+      "title": "Legal Page, Sidebar Updates, and Tank Pages Enhancements",
+      "description": "Added legal page, adjusted sidebar, redesigned home page, and integrated video tutorials into tank pages.",
+      "added": [
+        "Legal page",
+        "Legal section to sidebar",
+        "YouTube thumbnail styles",
+        "Video tutorials section to all tank pages",
+        "Recap to OAT2",
+        "Tankopedia files"
+      ],
+      "changed": [
+        "Updated sidebar on all pages",
+        "Adjusted sidebar color to match header",
+        "Refactored CSS file name",
+        "Updated active status of legal pages",
+        "Tweaked agent cards",
+        "Updated tank pages with videos and changed wording",
+        "Renamed OAT pages to new names",
+        "Updated placeholder images on all pages",
+        "Redesigned home page",
+        "Updated tournament-description",
+        "Updated legal dates",
+        "Adjusted grid layout"
+      ],
+      "removed": [
+        "Test page for tanks",
+        "Meta data updater",
+        "Title updater"
+      ]
+    },
+    {
+      "version": "0.0.10",
+      "date": "2025-05-04",
+      "author": "SINEWAVE",
+      "title": "OAT1 Updates and Fetcher Adjustments",
+      "description": "Updated OAT1 with losing team info, media gallery, and replaced icons in OAT pages.",
+      "added": [
+        "Losing team information to OAT1",
+        "Media gallery to OAT1"
+      ],
+      "changed": [
+        "Updated OAT1 Quick Facts",
+        "Replaced Icons in OAT pages",
+        "Updated fetcher"
+      ],
+      "removed": []
+    },
+    {
+      "version": "0.0.9",
+      "date": "2025-05-03",
+      "author": "SINEWAVE",
+      "title": "OAT2 Media Gallery and Dynamic Tournament Data Update",
+      "description": "Fixed footer icons, updated tournament to use dynamic data, and added the OAT2 Media Gallery.",
+      "added": [
+        "OAT2 Media Gallery",
+        "Quick Facts"
+      ],
+      "changed": [
+        "Updated tournament completely to use dynamic data",
+        "Adjusted Insights and Other Tournaments sections",
+        "Revised OAT1/OAT2 formats and added missing information",
+        "Rewrote most of the data fetching method",
+        "Updated compatible agents section",
+        "Adjusted data fetcher for the new data structure",
+        "Fixed comment spacing missed in previous formatting commit"
+      ],
+      "removed": []
+    },
+    {
+      "version": "0.0.8",
+      "date": "2025-05-02",
+      "author": "SINEWAVE",
+      "title": "Tournament Cards and Dynamic Tank Pages Update",
+      "description": "Updated tournament cards, tanks section, and added dynamic content fetching for tanks pages.",
+      "added": [
+        "Dynamic pages for all tanks"
+      ],
+      "changed": [
+        "Updated alt text for tournament cards",
+        "Updated tanks section on home page",
+        "Updated placeholder tank pages",
+        "Updated JS for dynamic content fetching",
+        "Corrected some tournament page information"
+      ],
+      "removed": []
+    },
+    {
+      "version": "0.0.7",
+      "date": "2025-05-01",
+      "author": "SINEWAVE",
+      "title": "Tournament, Tank, and Guides Pages Update",
+      "description": "Completed updates for tournament pages, tank cards, navigation, and tooltips functionality.",
+      "added": [
+        "Tournament page navigation to all pages",
+        "GSS tooltips"
+      ],
+      "changed": [
+        "Tweaked tank cards and image styles",
+        "Updated tank and tournament pages with new paths and updated stats section",
+        "Updated team sections",
+        "Replaced Player Stats feature with Tournaments",
+        "Updated about-us and credits pages",
+        "Updated map pages with top-down views",
+        "Refactored the logic for tooltips to work globally"
+      ],
+      "removed": []
+    },
+    {
+      "version": "0.0.6",
+      "date": "2025-04-30",
+      "author": "SINEWAVE",
+      "title": "Tournament and Guide Pages Updates",
+      "description": "Completed updates for tournament and guide pages, added placeholders, and synced test pages with styles.",
+      "added": [
+        "No guides yet section to main guides page",
+        "Placeholder table",
+        "No-guides section in each category",
+        "Placeholder tournament files"
+      ],
+      "changed": [
+        "Updated placeholder location",
+        "Fixed pathing issues in placeholder tank and tournament files",
+        "Synced test pages with the same styles",
+        "Tweaked features grid to scale nicely",
+        "Updated stats section"
+      ],
+      "removed": []
+    },
+    {
+      "version": "0.0.5",
+      "date": "2025-04-28",
+      "author": "SINEWAVE",
+      "title": "Map Expansion and Visual Updates",
+      "description": "Expanded the map library with new entries and improvements, and enhanced 404 visuals.",
+      "added": [
+        "Ballistic-Range map",
+        "Missing maps"
+      ],
+      "changed": [
+        "Updated map size labels for clarity",
+        "Updated side list contents on certain maps",
+        "Added hero background image to 404 page"
+      ],
+      "removed": []
+    },
+    {
+      "version": "0.0.4",
+      "date": "2025-04-27",
+      "author": "SINEWAVE",
+      "title": "Refactors, PWA Enhancements, and Map Improvements",
+      "description": "Refactored core files into modules, added PWA metadata, improved maps and hero sections, and updated project branding.",
+      "added": [
+        "Placeholder tank page",
+        "Hero style module",
+        "Site-data folder",
+        "Custom 404 page",
+        "New modules for each page",
+        "Custom tooltip module",
+        "Known map sizes"
+      ],
+      "changed": [
+        "Updated CTA sections and formatting",
+        "Adjusted hero sections",
+        "Updated all pages with PWA tags and comments",
+        "Moved style modules to a dedicated folder",
+        "Updated CTA section on home page",
+        "Updated footer with dev tag",
+        "Split main.js into modules",
+        "Split main.css into modules",
+        "Updated branding with link to home",
+        "Renamed Friendship Dam to Nexus Dam",
+        "Updated all maps to use new image format"
+      ],
+      "removed": []
+    },
+    {
+      "version": "0.0.3",
+      "date": "2025-04-26",
+      "author": "SINEWAVE",
+      "title": "Major Content and Functionality Update",
+      "description": "Introduced custom search, expanded tank and map sections, applied fixes and enhancements site-wide.",
+      "added": [
+        "Custom search feature",
+        "New guides section placeholder",
+        "Official map descriptions",
+        "Missing image on Aircraft Carrier map",
+        "Tanks page",
+        "Warning on home page",
+        "New tanks page",
+        "Descriptions for various sections",
+        "Missing map"
+      ],
+      "changed": [
+        "Updated all pages to use custom search",
+        "Fixed class names in guides page",
+        "Adjusted class names to fit their purposes",
+        "Fixed issue with filters",
+        "Renamed cards in Tank-Specific Strategy section",
+        "Manually merged changes from PR #2 by @ooFVenomous",
+        "Updated tanks section on home page",
+        "Updated credits page",
+        "Updated footer and side menu with new page",
+        "Fixed issue causing theme flashing",
+        "Fixed issue from PR #1",
+        "Fixed missing placeholders",
+        "Fixed issue with map button",
+        "Updated placeholders for future content"
+      ],
+      "removed": [
+        "Image subtext",
+        "Recommended Team Composition"
+      ]
+    },
+    {
+      "version": "0.0.2",
+      "date": "2025-04-25",
+      "author": "SINEWAVE",
+      "title": "UI and Content Enhancements",
+      "description": "Expanded site structure, improved sidebar logic, and added CTA components.",
+      "added": [
+        "CTA sections",
+        "Placeholder map pages"
+      ],
+      "changed": [
+        "Updated images",
+        "Made CTA styles more standardized",
+        "Fixed icon in player stats button",
+        "Updated side menu contents",
+        "Improved sidebar logic"
+      ],
+      "removed": []
+    },
+    {
       "version": "0.0.1",
       "date": "2025-04-24",
       "author": "SINEWAVE",
       "title": "Initial Release",
       "description": "First public release of PCWStats",
       "added": [
-        "Basic tank statistics pages",
-        "Map knowledge section",
-        "Community guides framework"
+        "Credits page",
+        "Placeholder files for search",
+        "About us page",
+        "Gallery view",
+        "Maps section",
+        "Hero buttons",
+        "Legal pages",
+        "Discord invite link",
+        "Smooth scrolling",
+        "Guide pages",
+        "Home page and main JS/CSS files"
       ],
-      "changed": [],
+      "changed": [
+        "Updated about page",
+        "Updated team member image",
+        "Updated footer with the new pages",
+        "Tweaked sidebar cards",
+        "Updated footer with new section",
+        "Updated footer",
+        "Fixed issue with home button",
+        "Fixed home page button",
+        "Updated buttons on home page",
+        "Changed search placeholder",
+        "Tweaked animations"
+      ],
       "removed": []
     }
   ]
