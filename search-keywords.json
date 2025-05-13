@@ -364,5 +364,23 @@
     "description": "Tactical overview and key areas of the Sunstroke map",
     "path": "https://pcwstats.github.io/maps/sunstroke.html",
     "keywords": ["sunstroke", "map", "desert", "heat", "overview"]
+  },
+  {
+    "name": "General Guides",
+    "description": "Broad tips and strategies for improving overall gameplay",
+    "path": "https://pcwstats.github.io/guides/general.html",
+    "keywords": ["guides", "general", "strategy", "tips", "overview"]
+  },
+  {
+    "name": "Map Guides",
+    "description": "Detailed strategies and route planning for each map",
+    "path": "https://pcwstats.github.io/guides/maps.html",
+    "keywords": ["map guides", "maps", "strategy", "tactics", "zones"]
+  },
+  {
+    "name": "Tank Guides",
+    "description": "In-depth analysis of tank roles, builds, and combat tips",
+    "path": "https://pcwstats.github.io/guides/tanks.html",
+    "keywords": ["tank guides", "tanks", "builds", "combat", "roles", "strategy"]
   }
 ]
