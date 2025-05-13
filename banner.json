@@ -1,12 +1,12 @@
 {
-    "id": "banner-2025-05-07",
+    "id": "banner-2025-05-012",
     "active": true,
-    "startDate": "2025-05-07T00:00:00Z",
+    "startDate": "2025-05-012T00:00:00Z",
     "endDate": "2025-05-21T23:59:59Z",
-    "message": "<strong>New Banner Feature!</strong> Check out this cool banner we added!",
-    "ctaText": "Hell yea",
-    "ctaUrl": "#",
-    "backgroundColor": "#1a2e45",
-    "textColor": "#ffffff",
-    "buttonColor": "#ff8300"
+    "message": "<strong>PCWStats is Almost Here!</strong> We're getting closer to our first public release as we continue to finalize the details and features. Stay tuned for more updates!",
+    "ctaText": "View Changes",
+    "ctaUrl": "https://pcwstats.github.io/changelog.html",
+    "backgroundColor": "--bg-dark",
+    "textColor": "--text-dark",
+    "buttonColor": "--accent-color"
 }
