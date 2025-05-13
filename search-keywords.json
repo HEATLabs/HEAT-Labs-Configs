@@ -274,7 +274,8 @@
     "description": "Details, brackets, and results for the Open Alpha 2 Tournament",
     "path": "https://pcwstats.github.io/tournaments/open-alpha-2-tournament.html",
     "keywords": ["open alpha 2", "tournament", "alpha tournament", "brackets", "results", "competition"]
-  },{
+  },
+  {
     "name": "Privacy Policy",
     "description": "How user data is collected, stored, and protected by PCWStats",
     "path": "https://pcwstats.github.io/legal/privacy-policy.html",
@@ -291,5 +292,77 @@
     "description": "The official terms governing the use of PCWStats",
     "path": "https://pcwstats.github.io/legal/terms-of-service.html",
     "keywords": ["terms", "terms of service", "tos", "agreement", "legal", "usage"]
+  },
+  {
+    "name": "Aircraft Carrier",
+    "description": "Tactical overview and key areas of the Aircraft Carrier map",
+    "path": "https://pcwstats.github.io/maps/aircraft-carrier.html",
+    "keywords": ["aircraft carrier", "map", "carrier", "naval", "overview"]
+  },
+  {
+    "name": "Baikonur",
+    "description": "Tactical overview and key areas of the Baikonur map",
+    "path": "https://pcwstats.github.io/maps/baikonur.html",
+    "keywords": ["baikonur", "map", "cosmodrome", "overview"]
+  },
+  {
+    "name": "Ballistic Range",
+    "description": "Tactical overview and key areas of the Ballistic Range map",
+    "path": "https://pcwstats.github.io/maps/ballistic-range.html",
+    "keywords": ["ballistic range", "map", "firing range", "test site", "overview"]
+  },
+  {
+    "name": "Blossom Crash",
+    "description": "Tactical overview and key areas of the Blossom Crash map",
+    "path": "https://pcwstats.github.io/maps/blossom-crash.html",
+    "keywords": ["blossom crash", "map", "crash site", "cherry", "overview"]
+  },
+  {
+    "name": "Inferno",
+    "description": "Tactical overview and key areas of the Inferno map",
+    "path": "https://pcwstats.github.io/maps/inferno.html",
+    "keywords": ["inferno", "map", "volcano", "lava", "fire", "overview"]
+  },
+  {
+    "name": "Military Training",
+    "description": "Tactical overview and key areas of the Military Training map",
+    "path": "https://pcwstats.github.io/maps/military-training.html",
+    "keywords": ["military training", "map", "training ground", "bootcamp", "overview"]
+  },
+  {
+    "name": "Moonshot",
+    "description": "Tactical overview and key areas of the Moonshot map",
+    "path": "https://pcwstats.github.io/maps/moonshot.html",
+    "keywords": ["moonshot", "map", "launch", "space", "overview"]
+  },
+  {
+    "name": "Nexus Dam",
+    "description": "Tactical overview and key areas of the Nexus Dam map",
+    "path": "https://pcwstats.github.io/maps/nexus-dam.html",
+    "keywords": ["nexus dam", "map", "dam", "hydro", "overview"]
+  },
+  {
+    "name": "Nord Oko",
+    "description": "Tactical overview and key areas of the Nord Oko map",
+    "path": "https://pcwstats.github.io/maps/nord-oko.html",
+    "keywords": ["nord oko", "map", "nord", "snow", "ice", "overview"]
+  },
+  {
+    "name": "Project Phoenix",
+    "description": "Tactical overview and key areas of the Project Phoenix map",
+    "path": "https://pcwstats.github.io/maps/project-phoenix.html",
+    "keywords": ["project phoenix", "map", "phoenix", "rebirth", "overview"]
+  },
+  {
+    "name": "Scarred City",
+    "description": "Tactical overview and key areas of the Scarred City map",
+    "path": "https://pcwstats.github.io/maps/scarred-city.html",
+    "keywords": ["scarred city", "map", "urban", "ruins", "overview"]
+  },
+  {
+    "name": "Sunstroke",
+    "description": "Tactical overview and key areas of the Sunstroke map",
+    "path": "https://pcwstats.github.io/maps/sunstroke.html",
+    "keywords": ["sunstroke", "map", "desert", "heat", "overview"]
   }
 ]
