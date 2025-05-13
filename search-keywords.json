@@ -78,6 +78,36 @@
     "keywords": ["roulette", "random", "selector", "fun", "game", "chooser"]
   },
   {
+    "name": "Changelog",
+    "description": "Full history of changes, fixes, and feature additions",
+    "path": "https://pcwstats.github.io/changelog.html",
+    "keywords": ["changelog", "history", "updates", "patches", "log", "changes"]
+  },
+  {
+    "name": "Check & Compare",
+    "description": "Compare specific stats between selected tanks",
+    "path": "https://pcwstats.github.io/check-compare.html",
+    "keywords": ["compare", "checker", "comparison", "stats", "tank compare", "side by side"]
+  },
+  {
+    "name": "Contact Us",
+    "description": "Reach out to the PCWStats team",
+    "path": "https://pcwstats.github.io/contact-us.html",
+    "keywords": ["contact", "reach", "message", "email", "support", "questions"]
+  },
+  {
+    "name": "Get Involved",
+    "description": "Learn how to contribute to PCWStats",
+    "path": "https://pcwstats.github.io/get-involved.html",
+    "keywords": ["involved", "contribute", "help", "volunteer", "join", "community"]
+  },
+  {
+    "name": "Support Us",
+    "description": "Ways to support the PCWStats project",
+    "path": "https://pcwstats.github.io/support-us.html",
+    "keywords": ["support", "donate", "help", "fund", "contribute", "keep alive"]
+  },
+  {
     "name": "AGDS",
     "description": "Detailed statistics for AGDS",
     "path": "https://pcwstats.github.io/tanks/agds.html",
