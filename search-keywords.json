@@ -76,5 +76,167 @@
     "description": "Random tank selector for fun gameplay",
     "path": "https://pcwstats.github.io/roulette.html",
     "keywords": ["roulette", "random", "selector", "fun", "game", "chooser"]
+  },
+  {
+    "name": "AGDS",
+    "description": "Detailed statistics for AGDS",
+    "path": "https://pcwstats.github.io/tanks/agds.html",
+    "keywords": ["agds"]
+  },
+  {
+    "name": "ALVT",
+    "description": "Detailed statistics for ALVT",
+    "path": "https://pcwstats.github.io/tanks/alvt.html",
+    "keywords": ["alvt"]
+  },
+  {
+    "name": "BAT-4M",
+    "description": "Detailed statistics for BAT-4M",
+    "path": "https://pcwstats.github.io/tanks/bat-4m.html",
+    "keywords": ["bat-4m"]
+  },
+  {
+    "name": "Challenger",
+    "description": "Detailed statistics for Challenger",
+    "path": "https://pcwstats.github.io/tanks/challenger.html",
+    "keywords": ["challenger"]
+  },
+  {
+    "name": "HSTV-L",
+    "description": "Detailed statistics for HSTV-L",
+    "path": "https://pcwstats.github.io/tanks/hstv-l.html",
+    "keywords": ["hstv-l"]
+  },
+  {
+    "name": "Leopard 1A1B",
+    "description": "Detailed statistics for Leopard 1A1B",
+    "path": "https://pcwstats.github.io/tanks/leopard-1a1b.html",
+    "keywords": ["leopard", "1a1b", "leopard 1a1b"]
+  },
+  {
+    "name": "Leopard 1A6A1",
+    "description": "Detailed statistics for Leopard 1A6A1",
+    "path": "https://pcwstats.github.io/tanks/leopard-1a6a1.html",
+    "keywords": ["leopard", "1a6a1", "leopard 1a6a1"]
+  },
+  {
+    "name": "Leopard 2FK",
+    "description": "Detailed statistics for Leopard 2FK",
+    "path": "https://pcwstats.github.io/tanks/leopard-2fk.html",
+    "keywords": ["leopard", "2fk", "leopard 2fk"]
+  },
+  {
+    "name": "Leopard 2K14",
+    "description": "Detailed statistics for Leopard 2K14",
+    "path": "https://pcwstats.github.io/tanks/leopard-2k14.html",
+    "keywords": ["leopard", "2k14", "leopard 2k14"]
+  },
+  {
+    "name": "M1 Railgun",
+    "description": "Detailed statistics for M1 Railgun",
+    "path": "https://pcwstats.github.io/tanks/m1-railgun.html",
+    "keywords": ["m1", "railgun", "m1 railgun"]
+  },
+  {
+    "name": "M1E1",
+    "description": "Detailed statistics for M1E1",
+    "path": "https://pcwstats.github.io/tanks/m1e1.html",
+    "keywords": ["m1e1"]
+  },
+  {
+    "name": "M3A1 Bradley",
+    "description": "Detailed statistics for M3A1 Bradley",
+    "path": "https://pcwstats.github.io/tanks/m3a1-bradley.html",
+    "keywords": ["m3a1", "bradley", "m3a1 bradley"]
+  },
+  {
+    "name": "M60A3E2",
+    "description": "Detailed statistics for M60A3E2",
+    "path": "https://pcwstats.github.io/tanks/m60a3e2.html",
+    "keywords": ["m60a3e2"]
+  },
+  {
+    "name": "M60E2",
+    "description": "Detailed statistics for M60E2",
+    "path": "https://pcwstats.github.io/tanks/m60e2.html",
+    "keywords": ["m60e2"]
+  },
+  {
+    "name": "Object 279",
+    "description": "Detailed statistics for Object 279",
+    "path": "https://pcwstats.github.io/tanks/object-279.html",
+    "keywords": ["object", "279", "object 279"]
+  },
+  {
+    "name": "Object 287",
+    "description": "Detailed statistics for Object 287",
+    "path": "https://pcwstats.github.io/tanks/object-287.html",
+    "keywords": ["object", "287", "object 287"]
+  },
+  {
+    "name": "Placeholder Tank",
+    "description": "Detailed statistics for Placeholder Tank",
+    "path": "https://pcwstats.github.io/tanks/placeholder-tank.html",
+    "keywords": ["placeholder", "tank", "placeholder tank"]
+  },
+  {
+    "name": "PTZ89C",
+    "description": "Detailed statistics for PTZ89C",
+    "path": "https://pcwstats.github.io/tanks/ptz89c.html",
+    "keywords": ["ptz89c"]
+  },
+  {
+    "name": "T-62AV",
+    "description": "Detailed statistics for T-62AV",
+    "path": "https://pcwstats.github.io/tanks/t-62av.html",
+    "keywords": ["t-62av"]
+  },
+  {
+    "name": "T-62MS",
+    "description": "Detailed statistics for T-62MS",
+    "path": "https://pcwstats.github.io/tanks/t-62ms.html",
+    "keywords": ["t-62ms"]
+  },
+  {
+    "name": "T-64A",
+    "description": "Detailed statistics for T-64A",
+    "path": "https://pcwstats.github.io/tanks/t-64a.html",
+    "keywords": ["t-64a"]
+  },
+  {
+    "name": "T-72AU",
+    "description": "Detailed statistics for T-72AU",
+    "path": "https://pcwstats.github.io/tanks/t-72au.html",
+    "keywords": ["t-72au"]
+  },
+  {
+    "name": "T-72B",
+    "description": "Detailed statistics for T-72B",
+    "path": "https://pcwstats.github.io/tanks/t-72b.html",
+    "keywords": ["t-72b"]
+  },
+  {
+    "name": "XM1-90",
+    "description": "Detailed statistics for XM1-90",
+    "path": "https://pcwstats.github.io/tanks/xm1-90.html",
+    "keywords": ["xm1-90"]
+  },
+  {
+    "name": "XM1-V",
+    "description": "Detailed statistics for XM1-V",
+    "path": "https://pcwstats.github.io/tanks/xm1-v.html",
+    "keywords": ["xm1-v"]
+  },
+  {
+    "name": "XM551",
+    "description": "Detailed statistics for XM551",
+    "path": "https://pcwstats.github.io/tanks/xm551.html",
+    "keywords": ["xm551"]
+  },
+  {
+    "name": "XM808 Twister",
+    "description": "Detailed statistics for XM808 Twister",
+    "path": "https://pcwstats.github.io/tanks/xm808-twister.html",
+    "keywords": ["xm808", "twister", "xm808 twister"]
   }
 ]
