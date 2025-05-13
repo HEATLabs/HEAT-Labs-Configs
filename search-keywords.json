@@ -2,79 +2,79 @@
   {
     "name": "Home",
     "description": "Main page of PCWStats with quick access to all features",
-    "path": "index.html",
+    "path": "https://pcwstats.github.io/index.html",
     "keywords": ["home", "main", "welcome", "start", "dashboard"]
   },
   {
     "name": "Tank Statistics",
     "description": "Compare armor, firepower, speed, and other tank stats",
-    "path": "tanks.html",
+    "path": "https://pcwstats.github.io/tanks.html",
     "keywords": ["tanks", "statistics", "stats", "compare", "armor", "firepower", "speed", "vehicle", "vehicles"]
   },
   {
     "name": "Map Knowledge",
     "description": "Tactical insights for each map including choke points and ambush zones",
-    "path": "maps.html",
+    "path": "https://pcwstats.github.io/maps.html",
     "keywords": ["maps", "map", "knowledge", "tactics", "choke", "points", "ambush", "zones", "terrain"]
   },
   {
     "name": "Common Builds",
     "description": "Popular and effective builds used by top players",
-    "path": "builds.html",
+    "path": "https://pcwstats.github.io/builds.html",
     "keywords": ["builds", "build", "setup", "configuration", "loadout", "gear", "equipment", "meta"]
   },
   {
     "name": "Community Guides",
     "description": "Strategies written by experienced players",
-    "path": "guides.html",
+    "path": "https://pcwstats.github.io/guides.html",
     "keywords": ["guides", "guide", "community", "strategies", "tips", "tricks", "how to", "tutorial"]
   },
   {
     "name": "Community Credits",
     "description": "Acknowledgements for community contributors",
-    "path": "credits.html",
+    "path": "https://pcwstats.github.io/credits.html",
     "keywords": ["credits", "contributors", "acknowledgements", "thanks", "team"]
   },
   {
     "name": "Tournaments",
     "description": "Information about recent and ongoing tournaments",
-    "path": "tournaments.html",
+    "path": "https://pcwstats.github.io/tournaments.html",
     "keywords": ["tournaments", "tournament", "competitive", "esports", "events", "matches"]
   },
   {
     "name": "Game News",
     "description": "Latest news and announcements from Project CW developers",
-    "path": "news.html",
+    "path": "https://pcwstats.github.io/news.html",
     "keywords": ["news", "updates", "announcements", "patch", "notes", "developer"]
   },
   {
     "name": "Tankopedia",
     "description": "Complete database of all tanks and game elements",
-    "path": "tankopedia.html",
+    "path": "https://pcwstats.github.io/tankopedia.html",
     "keywords": ["tankopedia", "database", "encyclopedia", "tanks", "reference", "info"]
   },
   {
     "name": "Official Blog",
     "description": "Developer blog about upcoming features and changes",
-    "path": "blog.html",
+    "path": "https://pcwstats.github.io/blog.html",
     "keywords": ["blog", "official", "devblog", "development", "updates", "features"]
   },
   {
     "name": "About the Project",
     "description": "Information about the PCWStats project",
-    "path": "about-us.html",
+    "path": "https://pcwstats.github.io/about-us.html",
     "keywords": ["about", "project", "information", "mission", "purpose", "team"]
   },
   {
     "name": "Project Policies",
     "description": "Legal documents and policies",
-    "path": "legal.html",
+    "path": "https://pcwstats.github.io/legal.html",
     "keywords": ["legal", "policies", "terms", "privacy", "policy", "license"]
   },
   {
     "name": "Tank Roulette",
     "description": "Random tank selector for fun gameplay",
-    "path": "roulette.html",
+    "path": "https://pcwstats.github.io/roulette.html",
     "keywords": ["roulette", "random", "selector", "fun", "game", "chooser"]
   }
 ]
