@@ -1,6 +1,47 @@
 {
   "updates": [
     {
+      "version": "0.0.19",
+      "date": "2025-05-13",
+      "author": "SINEWAVE",
+      "title": "Search Feature, GSS System, and Changelog Page",
+      "description": "Implemented full search functionality, launched the new GSS system, and introduced a site changelog. Numerous UI tweaks, optimizations, and refactors across the site.",
+      "added": [
+        "Working version of the search feature",
+        "Search modal globally",
+        "Banner to all pages",
+        "Version checker",
+        "Changelog page",
+        "Fun facts section to home page",
+        "GSS system",
+        "Esmatty's texts"
+      ],
+      "changed": [
+        "Tweaked search behaviour",
+        "Switched keyword file location to CDN",
+        "Tweaked Tournament page description",
+        "Updated fun fact start date to PCWStats v2 date",
+        "Tweaked version display in footer",
+        "Adjusted footer disclaimer padding",
+        "Tweaked agent counter",
+        "Tweaked wording in tank pages",
+        "Refactored all tank names",
+        "Moved GSS tooltip to container globally",
+        "Updated placeholders for unreleased tanks",
+        "Adjusted agent cards",
+        "Adjusted float values globally",
+        "Adjusted redundant parts of CSS",
+        "Tweaked global imports",
+        "Moved JS modules to dedicated folder",
+        "Moved check-compare to modules",
+        "Updated site-data"
+      ],
+      "removed": [
+        "BackToTop button idea",
+        "Obsolete attributes"
+      ]
+    },
+    {
       "version": "0.0.18",
       "date": "2025-05-12",
       "author": "PCWStats Team",
