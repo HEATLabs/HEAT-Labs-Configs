@@ -1,6 +1,45 @@
 {
   "updates": [
     {
+      "version": "0.0.20",
+      "date": "2025-05-15",
+      "author": "PCWStats Team",
+      "title": "Strat Planner (WIP), Enhanced Fun Facts, and Tank Page Improvements",
+      "description": "Introduced the first iterations of the Strat Planner, enhanced the fun facts section, improved visuals and wording in various tank pages, and added dynamic UI updates.",
+      "added": [
+        "First and second iteration of Strat Planner (WIP)",
+        "Local copy of lz-string library",
+        "Fact descriptions in Fun Facts section"
+      ],
+      "changed": [
+        "Global hero images switched from PNG to WebP",
+        "Fun fact description for team member counter",
+        "Styles for Fun Stats about PCWStats section",
+        "Coffee cup counter is now dynamic",
+        "Paths fixed in home page Features section",
+        "Conclusion section renamed to Tank Summary",
+        "Wording updated in XM1-V page",
+        "Improved Strengths & Weaknesses section in tank pages",
+        "Corrected M1E1 Summary header",
+        "Updated M1E1 Strengths & Weaknesses"
+      ],
+      "removed": []
+    },
+    {
+      "version": "0.0.19",
+      "date": "2025-05-14",
+      "author": "ooFVenomous",
+      "title": "Minor UI Enhancements",
+      "description": "Small update focused on polishing the Tournament UI and adding a bit more fun to the home page.",
+      "added": [
+        "Extra cup of coffee to the counter"
+      ],
+      "changed": [
+        "Updated tournament 'About' buttons to include new icons"
+      ],
+      "removed": []
+    },
+    {
       "version": "0.0.19",
       "date": "2025-05-13",
       "author": "PCWStats Team",
