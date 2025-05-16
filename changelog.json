@@ -2,6 +2,26 @@
   "updates": [
     {
       "version": "0.0.20",
+      "date": "2025-05-16",
+      "author": "PCWStats Team",
+      "title": "Strat Planner Tweaks & News Updates",
+      "description": "Continued improvements to the strat planner, content updates, and cleanup of the news section.",
+      "added": [
+        "Latest news post",
+        "Layer renaming functionality in strat planner"
+      ],
+      "changed": [
+        "Tweaked share code behavior and UI in strat planner",
+        "Adjusted character counters in strat planner",
+        "Updated M60A3E2's page with new text",
+        "Path issue with image in latest news post"
+      ],
+      "removed": [
+        "Placeholders from the news page"
+      ]
+    },
+    {
+      "version": "0.0.20",
       "date": "2025-05-15",
       "author": "PCWStats Team",
       "title": "Strat Planner (WIP), Enhanced Fun Facts, and Tank Page Improvements",
