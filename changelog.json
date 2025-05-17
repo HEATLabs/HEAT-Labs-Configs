@@ -16,20 +16,22 @@
         "Created news_60_1.png image."
       ],
       "changed": [
-        "Fixed webfont paths in Font Awesome.",
-        "Fixed pathing issues in several pages.",
-        "Fixed behavior for selecting lines and arrows in the strat planner.",
         "Tweaked character counters in the strat planner.",
         "Tweaked share code behavior and some UI aspects in the strat planner.",
-        "Fixed path issue with the image in the latest news post.",
         "Removed placeholders from the news page.",
         "Updated existing community manager images.",
-        "Updated changelog and fixed issues with version numbers and incorrect naming."
+        "Updated changelog"
       ],
       "removed": [
         "Removed test edit for local copy of Font Awesome."
       ],
-      "fixed": []
+      "fixed": [
+        "Fixed path issue with the image in the latest news post.",
+        "fixed issues with version numbers and incorrect naming.",
+        "Fixed webfont paths in Font Awesome.",
+        "Fixed pathing issues in several pages.",
+        "Fixed behavior for selecting lines and arrows in the strat planner."
+      ]
     },
     {
       "version": "0.0.0387",
@@ -52,13 +54,14 @@
         "Changed the fun fact description for the team member counter.",
         "Improved styles for the fun stats about PCWStats section.",
         "Updated coffee cup counter to be dynamic.",
-        "Fixed paths in the home page Features section.",
         "Corrected M1E1 Summary header.",
         "Updated M1E1 Strengths & Weaknesses section.",
         "Updated Dollar Sign / Buck charm."
       ],
       "removed": [],
-      "fixed": []
+      "fixed": [
+        "Fixed paths in the home page Features section."
+      ]
     },
     {
       "version": "0.0.0371",
@@ -240,14 +243,15 @@
         "Tweaked stock structure in database files",
         "Updated upgrade structure in database files",
         "Tweaked perk structure in database files",
-        "Tweaked consumable structure in database files",
-        "Fixed grammar error",
-        "Fixed social share meta tags"
+        "Tweaked consumable structure in database files"
       ],
       "removed": [
         "Check & Compare from sidebars"
       ],
-      "fixed": []
+      "fixed": [
+        "Fixed grammar error",
+        "Fixed social share meta tags"
+      ]
     },
     {
       "version": "0.0.0266",
@@ -425,7 +429,6 @@
         "CSS adjusted for new format",
         "Tournament description updated",
         "OAT pages renamed to new names",
-        "Tankopedia data updated and JSON formatting fixed",
         "Tournament image placeholders adjusted",
         "Agent data updated on most tanks",
         "All agent files updated to use new placeholders",
@@ -436,7 +439,8 @@
         "Extra div causing errors fixed",
         "Footer icons issue fixed",
         "Pathing issue fixed in database files",
-        "Missing tank for team Large corrected"
+        "Missing tank for team Large corrected",
+        "Tankopedia data updated and JSON formatting fixed"
       ],
       "removed": [
         "Test page for tanks removed",
@@ -484,7 +488,6 @@
         "OAT1 updated with losing team information and media gallery",
         "Tournament pages completely updated to use dynamic data",
         "Icons replaced on OAT pages",
-        "Footer icons issue fixed",
         "Insights and Other Tournaments sections adjusted",
         "Missing changes added from tournament page revision",
         "OAT1/OAT2 formats revised with missing information added",
@@ -494,18 +497,19 @@
         "Configuration updated with new paths",
         "Logo name corrected",
         "OAT1 updated with potential information and total teams corrected",
-        "3Mid's motto fixed",
         "OAT1 and OAT2 updated with known information",
-        "Stats format adjusted",
-        "Naming issue in stock stats file fixed",
-        "Pathing issue fixed"
+        "Stats format adjusted"
       ],
       "removed": [
         "Old data format removed from database files"
       ],
       "fixed": [
         "Comment spacing fixed from previous formatting commit",
-        "Issue in previous data structure fixed"
+        "Issue in previous data structure fixed",
+        "Naming issue in stock stats file fixed",
+        "Pathing issue fixed",
+        "3Mid's motto fixed",
+        "Footer icons issue fixed"
       ]
     },
     {
@@ -524,13 +528,14 @@
         "Tanks section on home page updated",
         "Placeholder tank pages updated",
         "JS updated for dynamic content fetching",
-        "Tanks.json configuration updated with new data fields",
-        "Image locations fixed in tanks.json"
+        "Tanks.json configuration updated with new data fields"
       ],
       "removed": [
         "Old data format removed from database files"
       ],
-      "fixed": []
+      "fixed": [
+        "Image locations fixed in tanks.json"
+      ]
     },
     {
       "version": "0.0.0119",
@@ -561,15 +566,15 @@
         "Map pages updated with top down views",
         "Logic for tooltips refactored to work globally",
         "Image names updated",
-        "Bat-4M renamed",
-        "Tournament images fixed and updated"
+        "Bat-4M renamed"
       ],
       "removed": [
         "Old placeholder icon removed"
       ],
       "fixed": [
         "Slight pathing problem fixed",
-        "Pathing issue in tournament tab fixed"
+        "Pathing issue in tournament tab fixed",
+        "Tournament images fixed and updated"
       ]
     },
     {
