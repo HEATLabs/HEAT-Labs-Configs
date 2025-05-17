@@ -1,554 +1,769 @@
 {
   "updates": [
     {
-      "version": "0.0.0256",
+      "version": "0.0.0404",
       "date": "2025-05-16",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #22",
-      "description": "Complete patch notes for update v0.0.0256, No. #22, issued on 16 May, 2025.",
+      "description": "Complete patch notes for update v0.0.0404, No. #22, issued on 16 May, 2025.",
       "added": [
-        "Latest news post",
-        "Layer renaming functionality in strat planner"
+        "Added a complete local copy of Font Awesome and updated all pages to use it instead of the CDN version.",
+        "Added a local copy of Tailwind CSS and updated all pages to use it instead of the CDN version.",
+        "Added shape functionality to the strat planner (work in progress).",
+        "Added layer renaming functionality to the strat planner.",
+        "Added latest news post.",
+        "Added new community manager images.",
+        "Created news_60_1.png image."
       ],
       "changed": [
-        "Tweaked share code behavior and UI in strat planner",
-        "Adjusted character counters in strat planner",
-        "Updated M60A3E2's page with new text",
-        "Path issue with image in latest news post"
+        "Fixed webfont paths in Font Awesome.",
+        "Fixed pathing issues in several pages.",
+        "Fixed behavior for selecting lines and arrows in the strat planner.",
+        "Tweaked character counters in the strat planner.",
+        "Tweaked share code behavior and some UI aspects in the strat planner.",
+        "Fixed path issue with the image in the latest news post.",
+        "Removed placeholders from the news page.",
+        "Updated existing community manager images.",
+        "Updated changelog and fixed issues with version numbers and incorrect naming."
       ],
       "removed": [
-        "Placeholders from the news page"
+        "Removed test edit for local copy of Font Awesome."
       ],
       "fixed": []
     },
     {
-      "version": "0.0.0249",
+      "version": "0.0.0387",
       "date": "2025-05-15",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #21",
-      "description": "Complete patch notes for update v0.0.0249, No. #21, issued on 15 May, 2025.",
+      "description": "Complete patch notes for update v0.0.0387, No. #21, issued on 15 May, 2025.",
       "added": [
-        "First and second iteration of Strat Planner (WIP)",
-        "Local copy of lz-string library",
-        "Fact descriptions in Fun Facts section"
+        "Added the first iteration of the strat planner (work in progress).",
+        "Added the second iteration of the strat planner (work in progress).",
+        "Added a local copy of the lz-string library.",
+        "Added fact descriptions to the fun facts section.",
+        "Added Golden Desert Eagle Charm description.",
+        "Added strat planner images.",
+        "Created a backup folder for hero images."
       ],
       "changed": [
-        "Global hero images switched from PNG to WebP",
-        "Fun fact description for team member counter",
-        "Styles for Fun Stats about PCWStats section",
-        "Coffee cup counter is now dynamic",
-        "Paths fixed in home page Features section",
-        "Conclusion section renamed to Tank Summary",
-        "Wording updated in XM1-V page",
-        "Improved Strengths & Weaknesses section in tank pages",
-        "Corrected M1E1 Summary header",
-        "Updated M1E1 Strengths & Weaknesses"
+        "Updated M60A3E2's tank page with new text.",
+        "Tweaked the global-hero to use optimized WebP images instead of PNG images.",
+        "Changed the fun fact description for the team member counter.",
+        "Improved styles for the fun stats about PCWStats section.",
+        "Updated coffee cup counter to be dynamic.",
+        "Fixed paths in the home page Features section.",
+        "Corrected M1E1 Summary header.",
+        "Updated M1E1 Strengths & Weaknesses section.",
+        "Updated Dollar Sign / Buck charm."
       ],
       "removed": [],
       "fixed": []
     },
     {
-      "version": "0.0.0236",
+      "version": "0.0.0371",
       "date": "2025-05-14",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #20",
-      "description": "Complete patch notes for update v0.0.0236, No. #20, issued on 14 May, 2025.",
+      "description": "Complete patch notes for update v0.0.0371, No. #20, issued on 14 May, 2025.",
       "added": [
-        "Extra cup of coffee to the counter"
+        "Added a new icon for tournament buttons on the About Tournament page.",
+        "Added extra cup of coffee (a fun or humorous addition)."
       ],
       "changed": [
-        "Updated tournament 'About' buttons to include new icons"
+        "Renamed the 'Conclusion' section to 'Tank Summary' on tank pages.",
+        "Tweaked wording for clarity and style on the XM1-V tank page.",
+        "Improved the Strengths & Weaknesses section for better readability."
       ],
       "removed": [],
-      "fixed": []
+      "fixed": [
+        "Fixed incorrect name in the changelog configuration.",
+        "Updated changelog.json to reflect recent changes."
+      ]
     },
     {
-      "version": "0.0.0234",
+      "version": "0.0.0366",
       "date": "2025-05-13",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #19",
-      "description": "Complete patch notes for update v0.0.0234, No. #19, issued on 13 May, 2025.",
+      "description": "Complete patch notes for update v0.0.0366, No. #19, issued on 13 May, 2025.",
       "added": [
         "Working version of the search feature",
-        "Search modal globally",
-        "Banner to all pages",
+        "Banner on all pages",
         "Version checker",
         "Changelog page",
         "Fun facts section to home page",
-        "GSS system",
-        "Esmatty's texts"
+        "News pages to search data",
+        "Guide category search data",
+        "Map search data",
+        "Legal search data",
+        "Tournament search data",
+        "Missing main pages to search",
+        "All tanks to search",
+        "Test search config",
+        "Complete changelog",
+        "Created changelog.json"
       ],
       "changed": [
-        "Tweaked search behaviour",
-        "Switched keyword file location to CDN",
         "Tweaked Tournament page description",
-        "Updated fun fact start date to PCWStats v2 date",
+        "Tweaked search behaviour",
+        "Updated search modal globally",
         "Tweaked version display in footer",
+        "Updated fun fact start date to PCWStats v2 date",
         "Adjusted footer disclaimer padding",
+        "Moved import and JS modules to dedicated folder",
+        "Moved check-compare to modules",
+        "Updated site-data",
+        "Adjusted redundant parts of CSS",
+        "Adjusted float values globally",
+        "Adjusted agent cards",
+        "Updated placeholders for unreleased tanks",
+        "Tweaked global imports",
+        "Updated banner data",
+        "Switched keyword file location to CDN",
+        "Switched to full paths in website configs",
+        "Changed authors in changelogs to PCWStats Team",
+        "Corrected TEAM48's OAT1 motto",
+        "Corrected image paths and names for tournament teams",
+        "Updated missing data format"
+      ],
+      "removed": [
+        "Back to top button idea",
+        "More obsolete attributes",
+        "Obsolete attributes",
+        "Compare page from search",
+        "Placeholder added by mistake"
+      ],
+      "fixed": [
+        "Fixed issue with file name of a news article",
+        "Fixed announcement banner",
+        "Fixed typos in some pages",
+        "Fixed typo"
+      ]
+    },
+    {
+      "version": "0.0.0325",
+      "date": "2025-05-12",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #18",
+      "description": "Complete patch notes for update v0.0.0325, No. #18, issued on 12 May, 2025.",
+      "added": [
+        "Esmatty's texts",
+        "GSS system",
+        "Blitz easter egg",
+        "Blitz easter egg to other tanks",
+        "Tournament Announcement",
+        "Four announcements",
+        "Roulette button to the home page",
+        "Roulette page",
+        "Vendors and manufacturers in website configs",
+        "Vendors and manufacturers images",
+        "Blitz.wav sound",
+        "Fail sound",
+        "Secondary clicker sound",
+        "Click.wav sound"
+      ],
+      "changed": [
         "Tweaked agent counter",
         "Tweaked wording in tank pages",
         "Refactored all tank names",
         "Moved GSS tooltip to container globally",
-        "Updated placeholders for unreleased tanks",
-        "Adjusted agent cards",
-        "Adjusted float values globally",
-        "Adjusted redundant parts of CSS",
-        "Tweaked global imports",
-        "Moved JS modules to dedicated folder",
-        "Moved check-compare to modules",
-        "Updated site-data"
-      ],
-      "removed": [
-        "BackToTop button idea",
-        "Obsolete attributes"
-      ],
-      "fixed": []
-    },
-    {
-      "version": "0.0.0206",
-      "date": "2025-05-12",
-      "author": "PCWStats Team",
-      "title": "PCWStats - Update Number #18",
-      "description": "Complete patch notes for update v0.0.0206, No. #18, issued on 12 May, 2025.",
-      "added": [
-        "Easter egg to other tanks",
-        "Roulette button to the home page",
-        "Roulette page",
-        "4 announcements",
-        "Tournament Announcement"
-      ],
-      "changed": [
         "Updated alpha-2-facts-figures.html",
-        "Tweaked roulette settings",
         "Lowered minimum speed",
-        "Tweaked meta description to fit with other pages"
+        "Tweaked roulette settings",
+        "Tweaked meta description to fit with other pages",
+        "Refactored all tank data in website configs",
+        "Refactored all tank images",
+        "Refactored all tank data in database files",
+        "Renamed clicker sound",
+        "Replaced GIF image"
       ],
       "removed": [],
-      "fixed": []
+      "fixed": [
+        "Fixed some issues with tags",
+        "Fixed broken values in website configs"
+      ]
     },
     {
-      "version": "0.0.0197",
+      "version": "0.0.0298",
       "date": "2025-05-11",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #17",
-      "description": "Complete patch notes for update v0.0.0197, No. #17, issued on 11 May, 2025.",
+      "description": "Complete patch notes for update v0.0.0298, No. #17, issued on 11 May, 2025.",
       "added": [
         "Filter section to Tournaments page",
+        "Fourth option in Contact page",
         "View all guides button to tanks",
-        "View all guides button to maps",
-        "Support us page",
-        "Work with us page"
+        "View all guides button to maps"
       ],
       "changed": [
+        "Corrected blog post date",
         "Updated tournaments date format",
-        "Tweaked sidebar styles",
+        "Tweaked sidebar `a` styles",
+        "Adjusted related guides style in tank pages for consistency",
+        "Tweaked quick actions section in tanks",
         "Updated related guides path in tanks",
         "Updated related guides path in maps",
+        "Updated map format",
         "Updated footer globally",
-        "Renamed work and support pages"
+        "Updated CTA sections"
       ],
       "removed": [
+        "Temporary tournament",
         "Placeholder posts from blog page",
         "Agent specific guides section",
         "Gamemode selector from maps"
       ],
-      "fixed": []
+      "fixed": [
+        "Fixed page controls",
+        "Fixed issue with quick action section",
+        "Fixed various issues with meta tags",
+        "Fixed missing hero script from legal pages"
+      ]
     },
     {
-      "version": "0.0.0183",
+      "version": "0.0.0280",
       "date": "2025-05-10",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #16",
-      "description": "Complete patch notes for update v0.0.0183, No. #16, issued on 10 May, 2025.",
+      "description": "Complete patch notes for update v0.0.0280, No. #16, issued on 10 May, 2025.",
       "added": [
+        "Support Us page",
+        "Work With Us page",
         "Special calculation for depression/elevation",
-        "Section ID to button"
+        "Section ID added to button"
       ],
       "changed": [
-        "Updated tank pages and stats script for new structure"
+        "Renamed Work and Support pages",
+        "Small tweaks to Check-Compare",
+        "Updated tank pages and stats script for new structure",
+        "Tweaked stock structure in database files",
+        "Updated upgrade structure in database files",
+        "Tweaked perk structure in database files",
+        "Tweaked consumable structure in database files",
+        "Fixed grammar error",
+        "Fixed social share meta tags"
       ],
       "removed": [
-        "Check & compare from sidebars"
+        "Check & Compare from sidebars"
       ],
       "fixed": []
     },
     {
-      "version": "0.0.0179",
+      "version": "0.0.0266",
       "date": "2025-05-09",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #15",
-      "description": "Complete patch notes for update v0.0.0179, No. #15, issued on 09 May, 2025.",
+      "description": "Complete patch notes for update v0.0.0266, No. #15, issued on 09 May, 2025.",
       "added": [
-        "4th section to contact-us page",
-        "Comparison prototype",
-        "Disclaimer to guides"
+        "4th section added to contact-us page"
       ],
       "changed": [
         "Various tweaks to compare page",
-        "Updated compare modal (still a bit broken)",
+        "Updated compare modal (still partially broken)",
         "Adjusted form height",
-        "Updated social share meta tags",
-        "Swapped compare button to a real button",
-        "Updated tanks page to allow comparison prototype",
-        "Fixed case issue"
+        "Updated social share meta tags"
       ],
       "removed": [],
       "fixed": []
     },
     {
-      "version": "0.0.0169",
+      "version": "0.0.0261",
       "date": "2025-05-08",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #14",
-      "description": "Complete patch notes for update v0.0.0169, No. #14, issued on 08 May, 2025.",
+      "description": "Complete patch notes for update v0.0.0261, No. #14, issued on 08 May, 2025.",
       "added": [
-        "Pagination to blog page",
-        "Pagination to news page",
-        "Experimental contact page",
-        "5 announcements"
+        "Comparison prototype added",
+        "Filter section added to tankopedia",
+        "Pagination added to blog page",
+        "Pagination added to news page",
+        "5 announcements added",
+        "Experimental contact page added",
+        "Medals added",
+        "2 new sections added to Website-Configs",
+        "Long descriptions added",
+        "Charm descriptions updated",
+        "Medal images added",
+        "Paints added",
+        "9 new hero poll images added",
+        "Tank icons added",
+        "Camo images added",
+        "Charms added",
+        "4 announcement images added"
       ],
       "changed": [
-        "Updated related guides section with nicer placeholders",
-        "Adjusted dynamic hero JS for 9 new images",
-        "Tweaked image containers",
-        "Adjusted wording in various pages",
-        "Corrected announcement folder typo"
+        "Tanks page updated to allow comparison prototype",
+        "Compare button swapped to a real button",
+        "Wording adjusted in various pages",
+        "Dynamic hero JS adjusted for 9 new images",
+        "Image containers tweaked",
+        "Related guides sections updated with nicer placeholder",
+        "Charm descriptions updated",
+        "Camo section updated with paints",
+        "Some chart names updated",
+        "Tester reward names updated twice"
       ],
-      "removed": [],
-      "fixed": []
+      "fixed": [
+        "Case issue fixed",
+        "Name consistency issue fixed",
+        "Announcement folder typo corrected",
+        "Issues fixed in tank classes",
+        "Naming issue fixed",
+        "Some images fixed for wrong format"
+      ]
     },
     {
-      "version": "0.0.0160",
+      "version": "0.0.0234",
       "date": "2025-05-07",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #13",
-      "description": "Complete patch notes for update v0.0.0160, No. #13, issued on 07 May, 2025.",
+      "description": "Complete patch notes for update v0.0.0234, No. #13, issued on 07 May, 2025.",
       "added": [
-        "Dynamic hero script",
-        "Tournament blog post",
-        "Banner module",
-        "Author section in blog cards",
-        "Placeholder pages for blogs"
+        "Tournament blog post added",
+        "Dynamic hero script added to all pages",
+        "Temporary updater script added",
+        "Banner module added",
+        "Author section added in blog cards",
+        "Placeholder pages for blogs added",
+        "Placeholder announcement page added",
+        "All news pages added",
+        "Banner config file added",
+        "Dynamic hero images added",
+        "Legal images added",
+        "Last batch of news images added"
       ],
       "changed": [
-        "Updated hero image location",
-        "Renamed blog sections to fix global pathing issues",
-        "Updated missing titles and all news card dates",
-        "Fixed pathing issues in news pages",
-        "Forced all news images to 16:9",
-        "Fixed Pathing issues",
-        "Fixed Various typos",
-        "Fixed Incorrect image formats"
+        "Dynamic hero script adjusted",
+        "Hero image location updated",
+        "Legal page updated with correct image formats",
+        "Blog sections renamed to fix global pathing issues",
+        "All news images forced to 16:9 aspect ratio",
+        "News card dates updated",
+        "News JS now updates the date",
+        "Social share URL paths updated",
+        "Hero images sorted"
+      ],
+      "fixed": [
+        "Pathing issues fixed (multiple)",
+        "Title name fixed",
+        "Patch 9 OAT1 page title fixed",
+        "Issues caused after mass replace fixed",
+        "Incorrect image formats fixed",
+        "Various typos fixed"
       ],
       "removed": [
-        "Hardcoded background image"
-      ],
-      "fixed": []
+        "Hardcoded background image removed",
+        "@ tag removed from some pages",
+        "Unfit images removed",
+        "Old hero image removed"
+      ]
     },
     {
-      "version": "0.0.0146",
+      "version": "0.0.0209",
       "date": "2025-05-06",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #12",
-      "description": "Complete patch notes for update v0.0.0146, No. #12, issued on 06 May, 2025.",
+      "description": "Complete patch notes for update v0.0.0209, No. #12, issued on 06 May, 2025.",
       "added": [
-        "News page",
-        "Video related styles",
-        "Disclaimer to articles",
-        "Placeholder news page",
-        "OAT2 Pincer Quote"
+        "Video related styles added",
+        "Disclaimer added to articles",
+        "Placeholder news page added",
+        "News page added",
+        "First and second batches of news images added",
+        "3Mid team description added"
       ],
       "changed": [
-        "Fixed issue with sidebar active status",
-        "Changed standard path",
-        "Fixed comment issue",
-        "Updated images with placeholders"
+        "Standard path changed",
+        "Images updated with placeholders"
+      ],
+      "fixed": [
+        "Sidebar active status issue fixed",
+        "Comment issue fixed",
+        "Pathing issues fixed"
       ],
       "removed": [
-        "Author Signature"
-      ],
-      "fixed": []
+        "Author Signature removed"
+      ]
     },
     {
-      "version": "0.0.0136",
+      "version": "0.0.0200",
       "date": "2025-05-05",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #11",
-      "description": "Complete patch notes for update v0.0.0136, No. #11, issued on 05 May, 2025.",
+      "description": "Complete patch notes for update v0.0.0200, No. #11, issued on 05 May, 2025.",
       "added": [
-        "Legal page",
-        "Legal section to sidebar",
-        "YouTube thumbnail styles",
-        "Video tutorials section to all tank pages",
-        "Recap to OAT2",
-        "Tankopedia files"
+        "OAT2 Pincer Quote added",
+        "Legal page added",
+        "Legal section added to sidebar",
+        "Custom developer notice added",
+        "Second and third batches of videos added to tank pages",
+        "YouTube thumbnail styles added",
+        "Vudei tutorials section added to all tank pages",
+        "Category order added to tankopedia data",
+        "Individual categories created by dividing tankopedia JSON",
+        "New placeholder images added",
+        "Not available placeholder image added",
+        "TEAM48 tank images added",
+        "Missing tank from team48 added"
       ],
       "changed": [
-        "Updated sidebar on all pages",
-        "Adjusted sidebar color to match header",
-        "Refactored CSS file name",
-        "Updated active status of legal pages",
-        "Tweaked agent cards",
-        "Updated tank pages with videos and changed wording",
-        "Renamed OAT pages to new names",
-        "Updated placeholder images on all pages",
-        "Redesigned home page",
-        "Updated tournament-description",
-        "Updated legal dates",
-        "Adjusted grid layout"
+        "Active status of legal pages updated on sidebar",
+        "Legal dates updated",
+        "CSS file name refactored",
+        "Sidebar updated on all pages with color adjusted to match header",
+        "Agent cards tweaked",
+        "CCs and their styles adjusted in credits",
+        "Grid layout adjusted",
+        "Tank pages updated with videos and wording changes",
+        "Placeholder images updated on all pages",
+        "Error images adjusted",
+        "Wording adjusted site-wide",
+        "Home page redesigned and new sections added",
+        "Hardcoded sections removed and CTA added",
+        "Dynamic fetching rewritten to generate categories automatically",
+        "CSS adjusted for new format",
+        "Tournament description updated",
+        "OAT pages renamed to new names",
+        "Tankopedia data updated and JSON formatting fixed",
+        "Tournament image placeholders adjusted",
+        "Agent data updated on most tanks",
+        "All agent files updated to use new placeholders",
+        "OAT pages updated to use new placeholder images",
+        "OAT2 Large description updated"
+      ],
+      "fixed": [
+        "Extra div causing errors fixed",
+        "Footer icons issue fixed",
+        "Pathing issue fixed in database files",
+        "Missing tank for team Large corrected"
       ],
       "removed": [
-        "Test page for tanks",
-        "Meta data updater",
-        "Title updater"
-      ],
-      "fixed": []
+        "Test page for tanks removed",
+        "Meta data updater removed",
+        "Title updater removed",
+        "Old placeholder images removed"
+      ]
     },
     {
-      "version": "0.0.0115",
+      "version": "0.0.0160",
       "date": "2025-05-04",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #10",
-      "description": "Complete patch notes for update v0.0.0115, No. #10, issued on 04 May, 2025.",
+      "description": "Complete patch notes for update v0.0.0160, No. #10, issued on 04 May, 2025.",
       "added": [
-        "Losing team information to OAT1",
-        "Media gallery to OAT1"
+        "Tankopedia files added",
+        "tankopedia.json configuration file created"
       ],
       "changed": [
-        "Updated OAT1 Quick Facts",
-        "Replaced Icons in OAT pages",
-        "Updated fetcher"
+        "OAT1 Quick Facts updated"
       ],
-      "removed": [],
-      "fixed": []
+      "fixed": [
+        "Image URLs fixed in OAT1.json"
+      ],
+      "removed": []
     },
     {
-      "version": "0.0.0110",
+      "version": "0.0.0157",
       "date": "2025-05-03",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #9",
-      "description": "Complete patch notes for update v0.0.0110, No. #9, issued on 03 May, 2025.",
+      "description": "Complete patch notes for update v0.0.0157, No. #9, issued on 03 May, 2025.",
       "added": [
-        "OAT2 Media Gallery",
-        "Quick Facts"
+        "OAT2 Media Gallery added",
+        "Quick facts added to tournament pages",
+        "Tournaments.json configuration file created",
+        "Redundant placeholder images added",
+        "Placeholder image created",
+        "Total teams key added to database files",
+        "Data structures for tournament teams and agents added",
+        "New data structures added",
+        "Standardized upgrade names"
       ],
       "changed": [
-        "Updated tournament completely to use dynamic data",
-        "Adjusted Insights and Other Tournaments sections",
-        "Revised OAT1/OAT2 formats and added missing information",
-        "Rewrote most of the data fetching method",
-        "Updated compatible agents section",
-        "Adjusted data fetcher for the new data structure",
-        "Fixed comment spacing missed in previous formatting commit"
+        "OAT1 updated with losing team information and media gallery",
+        "Tournament pages completely updated to use dynamic data",
+        "Icons replaced on OAT pages",
+        "Footer icons issue fixed",
+        "Insights and Other Tournaments sections adjusted",
+        "Missing changes added from tournament page revision",
+        "OAT1/OAT2 formats revised with missing information added",
+        "Data fetching method largely rewritten",
+        "Compatible agents section updated",
+        "Data fetcher adjusted for new data structure",
+        "Configuration updated with new paths",
+        "Logo name corrected",
+        "OAT1 updated with potential information and total teams corrected",
+        "3Mid's motto fixed",
+        "OAT1 and OAT2 updated with known information",
+        "Stats format adjusted",
+        "Naming issue in stock stats file fixed",
+        "Pathing issue fixed"
       ],
-      "removed": [],
-      "fixed": []
+      "removed": [
+        "Old data format removed from database files"
+      ],
+      "fixed": [
+        "Comment spacing fixed from previous formatting commit",
+        "Issue in previous data structure fixed"
+      ]
     },
     {
-      "version": "0.0.0101",
+      "version": "0.0.0129",
       "date": "2025-05-02",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #8",
-      "description": "Complete patch notes for update v0.0.0101, No. #8, issued on 02 May, 2025.",
+      "description": "Complete patch notes for update v0.0.0129, No. #8, issued on 02 May, 2025.",
       "added": [
-        "Dynamic pages for all tanks"
+        "Dynamic pages added for all tanks",
+        "Details file added (currently unused)",
+        "New data format added in database files"
       ],
       "changed": [
-        "Updated alt text for tournament cards",
-        "Updated tanks section on home page",
-        "Updated placeholder tank pages",
-        "Updated JS for dynamic content fetching",
-        "Corrected some tournament page information"
+        "Alt text for tournament cards updated",
+        "Tanks section on home page updated",
+        "Placeholder tank pages updated",
+        "JS updated for dynamic content fetching",
+        "Tanks.json configuration updated with new data fields",
+        "Image locations fixed in tanks.json"
       ],
-      "removed": [],
+      "removed": [
+        "Old data format removed from database files"
+      ],
       "fixed": []
     },
     {
-      "version": "0.0.0095",
+      "version": "0.0.0119",
       "date": "2025-05-01",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #7",
-      "description": "Complete patch notes for update v0.0.0095, No. #7, issued on 01 May, 2025.",
+      "description": "Complete patch notes for update v0.0.0119, No. #7, issued on 01 May, 2025.",
       "added": [
-        "Tournament page navigation to all pages",
-        "GSS tooltips"
+        "Tournament page navigation added to all pages",
+        "GSS tooltips added",
+        "Tanks.json configuration created",
+        "Icon images added for all tanks",
+        "Team logo folder added along with Pincer and Team 48 logos",
+        "New tank images: Anuraen.png and VEN0M.png created",
+        "TD images added for some maps"
       ],
       "changed": [
-        "Tweaked tank cards and image styles",
-        "Updated tank and tournament pages with new paths and updated stats section",
-        "Updated team sections",
-        "Replaced Player Stats feature with Tournaments",
-        "Updated about-us and credits pages",
-        "Updated map pages with top-down views",
-        "Refactored the logic for tooltips to work globally"
+        "Tournament page information corrected",
+        "Tournament tag and OAT2 page updated",
+        "Tank cards and image styles tweaked",
+        "Placeholder tank pages tweaked with new paths",
+        "Tanks page updated",
+        "Team sections updated",
+        "Player Stats feature replaced with Tournaments",
+        "About-us and credits pages updated",
+        "Guides and stats sections updated",
+        "Tournament pages further updated",
+        "Map pages updated with top down views",
+        "Logic for tooltips refactored to work globally",
+        "Image names updated",
+        "Bat-4M renamed",
+        "Tournament images fixed and updated"
       ],
-      "removed": [],
-      "fixed": []
+      "removed": [
+        "Old placeholder icon removed"
+      ],
+      "fixed": [
+        "Slight pathing problem fixed",
+        "Pathing issue in tournament tab fixed"
+      ]
     },
     {
-      "version": "0.0.0086",
+      "version": "0.0.0096",
       "date": "2025-04-30",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #6",
-      "description": "Complete patch notes for update v0.0.0086, No. #6, issued on 30 April, 2025.",
+      "description": "Complete patch notes for update v0.0.0096, No. #6, issued on 30 April, 2025.",
       "added": [
-        "No guides yet section to main guides page",
-        "Placeholder table",
-        "No-guides section in each category",
-        "Placeholder tournament files"
+        "No guides yet section added to the main guides page",
+        "Placeholder table added",
+        "No-guides section added in each category",
+        "Placeholder Tournament files added",
+        "Second tank placeholder and tournament added",
+        "OAT2 Announcement Image added",
+        "OAT1 Announcement Image added"
       ],
       "changed": [
-        "Updated placeholder location",
-        "Fixed pathing issues in placeholder tank and tournament files",
-        "Synced test pages with the same styles",
-        "Tweaked features grid to scale nicely",
-        "Updated stats section"
+        "Tournament Page updated along with the OAT2 Page",
+        "Placeholder location updated",
+        "Features grid tweaked to scale nicely",
+        "Stats section updated",
+        "Placeholder-tank-2.html updated",
+        "Placeholder paths replaced with public test page",
+        "Test pages synced to use the same styles"
       ],
       "removed": [],
-      "fixed": []
+      "fixed": [
+        "All pathing issues fixed in placeholder tank",
+        "Pathing issues fixed in placeholder tournament files",
+        "Additional pathing issues fixed"
+      ]
     },
     {
-      "version": "0.0.0077",
+      "version": "0.0.0082",
       "date": "2025-04-28",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #5",
-      "description": "Complete patch notes for update v0.0.0077, No. #5, issued on 28 April, 2025.",
+      "description": "Complete patch notes for update v0.0.0082, No. #5, issued on 28 April, 2025.",
       "added": [
-        "Ballistic-Range map",
-        "Missing maps"
+        "Ballistic Range map",
+        "Missing maps and their images",
+        "Hero background image on the custom 404 page",
+        "Ballistic_Range_1.png asset in Website-Images",
+        "File type selector tool in Database-Tools",
+        "File converter and extractor tools in Database-Tools"
       ],
       "changed": [
-        "Updated map size labels for clarity",
-        "Updated side list contents on certain maps",
-        "Added hero background image to 404 page"
+        "Map size display improved for clarity",
+        "Side list contents updated on several maps",
+        "Database-Tools structure reorganized with tools moved to a dedicated folder"
       ],
       "removed": [],
       "fixed": []
     },
     {
-      "version": "0.0.0072",
+      "version": "0.0.0073",
       "date": "2025-04-27",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #4",
-      "description": "Complete patch notes for update v0.0.0072, No. #4, issued on 27 April, 2025.",
+      "description": "Complete patch notes for update v0.0.0073, No. #4, issued on 27 April, 2025.",
       "added": [
         "Placeholder tank page",
-        "Hero style module",
-        "Site-data folder",
+        "Hero style module and custom tooltip module",
+        "Site-data directory",
         "Custom 404 page",
-        "New modules for each page",
-        "Custom tooltip module",
-        "Known map sizes"
+        "PWA tags and comments on all pages",
+        "New modules on each page for better structure",
+        "Known map sizes metadata",
+        "Images for aircraft carrier and PWA setup in Website-Images",
+        "placeholder-chopper.png and PCWStats.png assets"
       ],
       "changed": [
-        "Updated CTA sections and formatting",
-        "Adjusted hero sections",
-        "Updated all pages with PWA tags and comments",
+        "CTA sections with improved formatting",
+        "Hero sections layout and style",
+        "Main JavaScript and CSS files split into modular components",
         "Moved style modules to a dedicated folder",
-        "Updated CTA section on home page",
-        "Updated footer with dev tag",
-        "Split main.js into modules",
-        "Split main.css into modules",
-        "Updated branding with link to home",
-        "Renamed Friendship Dam to Nexus Dam",
-        "Updated all maps to use new image format"
+        "Footer updated with a development tag",
+        "Home page branding now links back to homepage",
+        "All maps updated to use new image format",
+        "Nexus Dam FAQ updated",
+        "Project Phoenix description revised",
+        "Friendship Dam renamed to Nexus Dam",
+        "Standardized all images in Website-Images"
       ],
-      "removed": [],
+      "removed": [
+        "Outdated PCWSTATS.png image from Website-Images"
+      ],
       "fixed": []
     },
     {
-      "version": "0.0.0054",
+      "version": "0.0.0052",
       "date": "2025-04-26",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #3",
-      "description": "Complete patch notes for update v0.0.0054, No. #3, issued on 26 April, 2025.",
+      "description": "Complete patch notes for update v0.0.0052, No. #3, issued on 26 April, 2025.",
       "added": [
-        "Custom search feature",
+        "Custom search functionality",
         "New guides section placeholder",
         "Official map descriptions",
-        "Missing image on Aircraft Carrier map",
-        "Tanks page",
-        "Warning on home page",
-        "New tanks page",
-        "Descriptions for various sections",
-        "Missing map"
+        "Missing image for Aircraft Carrier map",
+        "Tanks page and new tanks section on the home page",
+        "Warning notice on the home page",
+        "Descriptions throughout various sections",
+        "Missing map asset",
+        "New agent images in Website-Images",
+        "Placeholders for future image and content use",
+        "Aircraft_Carrier.png and Friendship_Dam.png images"
       ],
       "changed": [
-        "Updated all pages to use custom search",
-        "Fixed class names in guides page",
-        "Adjusted class names to fit their purposes",
-        "Fixed issue with filters",
-        "Renamed cards in Tank-Specific Strategy section",
-        "Manually merged changes from PR #2 by @ooFVenomous",
-        "Updated tanks section on home page",
-        "Updated credits page",
-        "Updated footer and side menu with new page",
-        "Fixed issue causing theme flashing",
-        "Fixed issue from PR #1",
-        "Fixed missing placeholders",
-        "Fixed issue with map button",
-        "Updated placeholders for future content"
+        "All pages to integrate new custom search",
+        "Credits page content",
+        "Footer and side menu to include new tanks page",
+        "Cards in the Tank-Specific Strategy section (renamed)",
+        "Class names in guides and other pages for improved consistency",
+        "Tanks section presentation on the home page",
+        "Placeholder formatting for future content"
       ],
       "removed": [
-        "Image subtext",
-        "Recommended Team Composition"
+        "Image subtext from pages",
+        "Recommended Team Composition section",
+        "Old and unused agent images from Website-Images"
       ],
-      "fixed": []
+      "fixed": [
+        "Class names in guides page",
+        "Filter issue in various pages",
+        "Typos in official map descriptions",
+        "Issue with missing placeholders",
+        "Map button malfunction",
+        "Theme flashing issue",
+        "Issue introduced in PR #1"
+      ]
     },
     {
-      "version": "0.0.0029",
+      "version": "0.0.0031",
       "date": "2025-04-25",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #2",
-      "description": "Complete patch notes for update v0.0.0029, No. #2, issued on 25 April, 2025.",
+      "description": "Complete patch notes for update v0.0.0031, No. #2, issued on 25 April, 2025.",
       "added": [
-        "CTA sections",
-        "Placeholder map pages"
+        "CTA (Call-To-Action) sections",
+        "Placeholder map pages",
+        "New images in Website-Images"
       ],
       "changed": [
-        "Updated images",
-        "Made CTA styles more standardized",
-        "Fixed icon in player stats button",
-        "Updated side menu contents",
-        "Improved sidebar logic"
+        "CTA styles for improved standardization",
+        "Updated existing images in pcwstats.github.io"
       ],
-      "removed": [],
+      "removed": [
+        "Old unused images from Website-Images"
+      ],
       "fixed": []
     },
     {
-      "version": "0.0.0022",
+      "version": "0.0.0025",
       "date": "2025-04-24",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #1",
-      "description": "Complete patch notes for update v0.0.0022, No. #1, issued on 24 April, 2025.",
+      "description": "Complete patch notes for update v0.0.0025, No. #1, issued on 24 April, 2025.",
       "added": [
         "Credits page",
-        "Placeholder files for search",
         "About us page",
+        "Guide pages",
         "Gallery view",
-        "Maps section",
+        "Maps section with sidebar card tweaks",
         "Hero buttons",
         "Legal pages",
+        "Smooth scrolling functionality",
         "Discord invite link",
-        "Smooth scrolling",
-        "Guide pages",
-        "Home page and main JS/CSS files"
+        "Home page along with main JavaScript and CSS files",
+        "Placeholder files for search",
+        "Placeholder JSON file in Website-Configs",
+        "Image in Website-Images",
+        "Placeholder image: placeholder-image.png",
+        ".gitignore files in Website-Configs, Website-Images, Database-Tools, and Database-Files",
+        "Initial project files across all repositories"
       ],
       "changed": [
-        "Updated about page",
-        "Updated team member image",
-        "Updated footer with the new pages",
-        "Tweaked sidebar cards",
-        "Updated footer with new section",
-        "Updated footer",
-        "Fixed issue with home button",
-        "Fixed home page button",
-        "Updated buttons on home page",
-        "Changed search placeholder",
-        "Tweaked animations"
+        "Side menu contents",
+        "Sidebar logic improvements",
+        "About page content",
+        "Footer with new sections",
+        "Team member image",
+        "Buttons on the home page",
+        "Search placeholder text",
+        "Animations"
       ],
-      "removed": [],
-      "fixed": []
+      "removed": [
+        "Placeholders"
+      ],
+      "fixed": [
+        "Icon in player stats button",
+        "Issue with home page button"
+      ]
     }
   ]
 }
