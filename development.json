@@ -1,0 +1,52 @@
+{
+  "stages": {
+    "⚪": "Not started",
+    "🔵": "Concept",
+    "🟡": "Work in progress",
+    "🟠": "Postponed",
+    "🔴": "Cancelled",
+    "🟢": "Completed"
+  },
+  "categories": [
+    {
+      "name": "Website Sections",
+      "tasks": [
+        { "name": "Home Page", "status": "🟢" },
+        { "name": "Tank Statistics", "status": "🟡" },
+        { "name": "Map Knowledge", "status": "🟡" },
+        { "name": "Check & Compare", "status": "🟡" },
+        { "name": "Common Builds", "status": "🟠" },
+        { "name": "Player Statistics", "status": "🟠" },
+        { "name": "Clan Statistics", "status": "🟠" },
+        { "name": "Community Guides", "status": "🟡" },
+        { "name": "Community Credits", "status": "🟢" },
+        { "name": "Tournaments", "status": "🟢" },
+        { "name": "Game News", "status": "🟡" },
+        { "name": "Tankopedia", "status": "🟡" },
+        { "name": "Official Blog", "status": "🟢" },
+        { "name": "About the Project", "status": "🟢" },
+        { "name": "Contact Us", "status": "🟢" },
+        { "name": "Get Involved", "status": "🟢" },
+        { "name": "Support Us", "status": "🟢" },
+        { "name": "Project Policies", "status": "🟢" },
+        { "name": "Changelog", "status": "🟢" },
+        { "name": "Dev Only Page", "status": "🟢" }
+      ]
+    },
+    {
+      "name": "Individual Tasks",
+      "tasks": [
+        { "name": "Site-wide search feature", "status": "🟢" },
+        { "name": "Dynamic banner", "status": "🟢" },
+        { "name": "Pagination in news and blog pages", "status": "🟢" },
+        { "name": "Custom Contact Forms", "status": "🟢" },
+        { "name": "Filter system for Tankopedia", "status": "🟢" },
+        { "name": "Texts and Details about tanks", "status": "🟡" },
+        { "name": "Tank Roulette", "status": "🟢" },
+        { "name": "Version Checker", "status": "🟢" },
+        { "name": "Model / Armor / Module viewer", "status": "🟠" },
+        { "name": "Upgrade / Perk / Consumable Selector", "status": "🟠" }
+      ]
+    }
+  ]
+}
