@@ -288,6 +288,24 @@
     "keywords": ["terms", "terms of service", "tos", "agreement", "legal", "usage"]
   },
   {
+    "name": "Code of Conduct",
+    "description": "Rules and expectations for behavior within the PCWStats community and contributions",
+    "path": "https://pcwstats.github.io/legal/code-of-conduct.html",
+    "keywords": ["code of conduct", "behavior", "community", "guidelines", "rules", "conduct"]
+  },
+  {
+    "name": "Project Contributions",
+    "description": "Guidelines for contributing to PCWStats, including code standards and submission process",
+    "path": "https://pcwstats.github.io/legal/project-contributions.html",
+    "keywords": ["contributions", "contributing", "guidelines", "code", "open source"]
+  },
+  {
+    "name": "Project Security",
+    "description": "Information about PCWStats' security practices and how to report vulnerabilities",
+    "path": "https://pcwstats.github.io/legal/project-security.html",
+    "keywords": ["security", "vulnerabilities", "reporting", "bugs", "disclosure"]
+  },
+  {
     "name": "Aircraft Carrier",
     "description": "Tactical overview and key areas of the Aircraft Carrier map",
     "path": "https://pcwstats.github.io/maps/aircraft-carrier.html",
