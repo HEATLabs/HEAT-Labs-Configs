@@ -10,19 +10,21 @@
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/alpha_tester_reward_1.png",
                     "name": "Alpha #1 Tester Reward",
                     "description": "Charm Description 1",
-                    "acquire": "Reward for participation in alpha 1 tournament"
+                    "howto": "Reward for participation in alpha 1 tournament"
                 },
                 {
                     "id": "Charm-0002",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/alpha_tester_reward_2.png",
                     "name": "Alpha #2 Testers Reward",
-                    "description": "Charm Description 2"
+                    "description": "Charm Description 2",
+                    "howto": "Reward for participation in alpha 1 tournament"
                 },
                 {
                     "id": "Charm-0003",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/alpha_tournament_medal_1.png",
                     "name": "Alpha #1 Tournament Medal",
-                    "description": "The Tournament Medal Talisman celebrates your tournament participation, symbolizing skill and camaraderie. Carry it as a token of your achievements and a reminder of shared victories."
+                    "description": "The Tournament Medal Talisman celebrates your tournament participation, symbolizing skill and camaraderie. Carry it as a token of your achievements and a reminder of shared victories.",
+                    "howto": "Reward for participation in alpha 1 tournament"
                 },
                 {
                     "id": "Charm-0004",
