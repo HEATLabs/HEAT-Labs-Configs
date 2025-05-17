@@ -18,7 +18,8 @@
       ],
       "removed": [
         "Placeholders from the news page"
-      ]
+      ],
+      "fixed": []
     },
     {
       "version": "0.0.0249",
@@ -43,7 +44,8 @@
         "Corrected M1E1 Summary header",
         "Updated M1E1 Strengths & Weaknesses"
       ],
-      "removed": []
+      "removed": [],
+      "fixed": []
     },
     {
       "version": "0.0.0236",
@@ -57,7 +59,8 @@
       "changed": [
         "Updated tournament 'About' buttons to include new icons"
       ],
-      "removed": []
+      "removed": [],
+      "fixed": []
     },
     {
       "version": "0.0.0234",
@@ -98,7 +101,8 @@
       "removed": [
         "BackToTop button idea",
         "Obsolete attributes"
-      ]
+      ],
+      "fixed": []
     },
     {
       "version": "0.0.0206",
@@ -119,7 +123,8 @@
         "Lowered minimum speed",
         "Tweaked meta description to fit with other pages"
       ],
-      "removed": []
+      "removed": [],
+      "fixed": []
     },
     {
       "version": "0.0.0197",
@@ -146,7 +151,8 @@
         "Placeholder posts from blog page",
         "Agent specific guides section",
         "Gamemode selector from maps"
-      ]
+      ],
+      "fixed": []
     },
     {
       "version": "0.0.0183",
@@ -163,7 +169,8 @@
       ],
       "removed": [
         "Check & compare from sidebars"
-      ]
+      ],
+      "fixed": []
     },
     {
       "version": "0.0.0179",
@@ -185,7 +192,8 @@
         "Updated tanks page to allow comparison prototype",
         "Fixed case issue"
       ],
-      "removed": []
+      "removed": [],
+      "fixed": []
     },
     {
       "version": "0.0.0169",
@@ -206,7 +214,8 @@
         "Adjusted wording in various pages",
         "Corrected announcement folder typo"
       ],
-      "removed": []
+      "removed": [],
+      "fixed": []
     },
     {
       "version": "0.0.0160",
@@ -233,7 +242,8 @@
       ],
       "removed": [
         "Hardcoded background image"
-      ]
+      ],
+      "fixed": []
     },
     {
       "version": "0.0.0146",
@@ -256,7 +266,8 @@
       ],
       "removed": [
         "Author Signature"
-      ]
+      ],
+      "fixed": []
     },
     {
       "version": "0.0.0136",
@@ -290,7 +301,8 @@
         "Test page for tanks",
         "Meta data updater",
         "Title updater"
-      ]
+      ],
+      "fixed": []
     },
     {
       "version": "0.0.0115",
@@ -307,7 +319,8 @@
         "Replaced Icons in OAT pages",
         "Updated fetcher"
       ],
-      "removed": []
+      "removed": [],
+      "fixed": []
     },
     {
       "version": "0.0.0110",
@@ -328,7 +341,8 @@
         "Adjusted data fetcher for the new data structure",
         "Fixed comment spacing missed in previous formatting commit"
       ],
-      "removed": []
+      "removed": [],
+      "fixed": []
     },
     {
       "version": "0.0.0101",
@@ -346,7 +360,8 @@
         "Updated JS for dynamic content fetching",
         "Corrected some tournament page information"
       ],
-      "removed": []
+      "removed": [],
+      "fixed": []
     },
     {
       "version": "0.0.0095",
@@ -367,7 +382,8 @@
         "Updated map pages with top-down views",
         "Refactored the logic for tooltips to work globally"
       ],
-      "removed": []
+      "removed": [],
+      "fixed": []
     },
     {
       "version": "0.0.0086",
@@ -388,7 +404,8 @@
         "Tweaked features grid to scale nicely",
         "Updated stats section"
       ],
-      "removed": []
+      "removed": [],
+      "fixed": []
     },
     {
       "version": "0.0.0077",
@@ -405,7 +422,8 @@
         "Updated side list contents on certain maps",
         "Added hero background image to 404 page"
       ],
-      "removed": []
+      "removed": [],
+      "fixed": []
     },
     {
       "version": "0.0.0072",
@@ -435,7 +453,8 @@
         "Renamed Friendship Dam to Nexus Dam",
         "Updated all maps to use new image format"
       ],
-      "removed": []
+      "removed": [],
+      "fixed": []
     },
     {
       "version": "0.0.0054",
@@ -473,7 +492,8 @@
       "removed": [
         "Image subtext",
         "Recommended Team Composition"
-      ]
+      ],
+      "fixed": []
     },
     {
       "version": "0.0.0029",
@@ -492,7 +512,8 @@
         "Updated side menu contents",
         "Improved sidebar logic"
       ],
-      "removed": []
+      "removed": [],
+      "fixed": []
     },
     {
       "version": "0.0.0022",
@@ -526,7 +547,8 @@
         "Changed search placeholder",
         "Tweaked animations"
       ],
-      "removed": []
+      "removed": [],
+      "fixed": []
     }
   ]
 }
