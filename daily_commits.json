@@ -1,4 +1,28 @@
 {
+  "2025-05-18": [
+    "[pcwstats.github.io] added australian-localization.js easter egg",
+    "[pcwstats.github.io] added complete classified document easter egg",
+    "[pcwstats.github.io] Added Esmatty's m60e2 texts",
+    "[pcwstats.github.io] Updated Devs Only script and Page",
+    "[pcwstats.github.io] added bug hunting related pages",
+    "[pcwstats.github.io] Created Devs Only page generation script",
+    "[Website-Configs] fixed version counting",
+    "[Website-Configs] updated changelog",
+    "[Website-Configs] updated daily commits log",
+    "[Website-Configs] added new task to development progress",
+    "[Website-Images] added confidential easter egg image",
+    "[Website-Images] added bug hunters team logo",
+    "[Database-Tools] removed onefile version of gsc monitor discord bot",
+    "[Database-Tools] tweaked GSC auth in gsc monitor discord bot",
+    "[Database-Tools] fixed issue with validator not counting the correct version number",
+    "[Database-Tools] added missing library from requirements of gsc monitor bot",
+    "[Database-Tools] Update .gitignore",
+    "[Database-Tools] added production version of GSC monitor discord bot",
+    "[Database-Tools] added one-file version of gsc monitor discord bot",
+    "[Database-Tools] created requirements.txt file for GSC discord bot",
+    "[Database-Tools] Update .env.example",
+    "[Database-Tools] Update .gitignore"
+  ],
   "2025-05-17": [
     "[pcwstats.github.io] fixed path to development progress data",
     "[pcwstats.github.io] updated lines of code fun fact on home page",
