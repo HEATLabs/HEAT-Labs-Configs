@@ -1,6 +1,42 @@
 {
   "updates": [
     {
+      "version": "0.0.0528",
+      "date": "2025-05-18",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #24",
+      "description": "Complete patch notes for update v0.0.0528, No. #24, issued on 18 May, 2025.",
+      "added": [
+        "Australian localization easter egg",
+        "Complete classified document easter egg",
+        "Esmatty's M60E2 texts",
+        "Bug hunting related pages",
+        "Devs Only page generation script",
+        "New task to development progress tracker",
+        "Confidential easter egg image",
+        "Bug Hunters team logo",
+        "Production version of GSC Monitor Discord Bot",
+        "One-file version of GSC Monitor Discord Bot",
+        "requirements.txt file for GSC Monitor Discord Bot"
+      ],
+      "changed": [
+        "Devs Only script and page",
+        "Changelog",
+        "Daily commits log",
+        "GSC auth in GSC Monitor Discord Bot",
+        ".gitignore file (updated twice)",
+        ".env.example file"
+      ],
+      "removed": [
+        "One-file version of GSC Monitor Discord Bot (previous version)"
+      ],
+      "fixed": [
+        "Version counting in Website-Configs",
+        "Issue with validator not counting the correct version number",
+        "Missing library from requirements of GSC Monitor Discord Bot"
+      ]
+    },
+    {
       "version": "0.0.0507",
       "date": "2025-05-17",
       "author": "PCWStats Team",
