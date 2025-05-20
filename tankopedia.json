@@ -768,11 +768,194 @@
             "items": [
                 {
                     "id": "TankSkin-001",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/steel_blue.png",
-                    "name": "Placeholder Name",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/m1e1/m1e1_skin_1.png",
+                    "name": "M1E1 - Skin 1",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-002",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/m1e1/m1e1_skin_2.png",
+                    "name": "M1E1 - Skin 2",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-003",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/m1e1/m1e1_skin_3.png",
+                    "name": "M1E1 - Skin 3",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-004",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/m1e1/m1e1_skin_4.png",
+                    "name": "M1E1 - Skin 4",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-005",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/m1e1/m1e1_skin_5.png",
+                    "name": "M1E1 - Skin 5",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-006",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/m1e1/m1e1_skin_6.png",
+                    "name": "M1E1 - Skin 6",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-007",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/m1e1/m1e1_skin_7.png",
+                    "name": "M1E1 - Skin 7",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-008",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/m1e1/m1e1_skin_8.png",
+                    "name": "M1E1 - Skin 8",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-009",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/m1e1/m1e1_skin_biker_1.png",
+                    "name": "M1E1 - Biker 1",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-010",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/m1e1/m1e1_skin_biker_2.png",
+                    "name": "M1E1 - Biker 2",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-011",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/m1e1/m1e1_skin_biker_3.png",
+                    "name": "M1E1 - Biker 3",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-012",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/m1e1/m1e1_skin_biker_4.png",
+                    "name": "M1E1 - Biker 4",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-013",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/xm1-90/xm1-90_skin_1.png",
+                    "name": "XM1-90 - Skin 1",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-014",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/xm1-90/xm1-90_skin_2.png",
+                    "name": "XM1-90 - Skin 2",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-015",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/xm1-90/xm1-90_skin_3.png",
+                    "name": "XM1-90 - Skin 3",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-016",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/xm1-90/xm1-90_skin_4.png",
+                    "name": "XM1-90 - Skin 4",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-017",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/xm1-90/xm1-90_skin_5.png",
+                    "name": "XM1-90 - Skin 5",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-018",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/xm1-90/xm1-90_skin_6.png",
+                    "name": "XM1-90 - Skin 6",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-019",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/xm1-90/xm1-90_skin_7.png",
+                    "name": "XM1-90 - Skin 7",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-020",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/leopard-1a6a1/leopard-1a6a1_skin_1.png",
+                    "name": "Leopard-1A6A1 - Skin 1",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-021",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/leopard-1a6a1/leopard-1a6a1_skin_2.png",
+                    "name": "Leopard-1A6A1 - Skin 2",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-022",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/leopard-1a6a1/leopard-1a6a1_skin_3.png",
+                    "name": "Leopard-1A6A1 - Skin 3",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-023",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/leopard-1a6a1/leopard-1a6a1_skin_4.png",
+                    "name": "Leopard-1A6A1 - Skin 4",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-024",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/leopard-1a6a1/leopard-1a6a1_skin_5.png",
+                    "name": "Leopard-1A6A1 - Skin 5",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-025",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/leopard-1a6a1/leopard-1a6a1_skin_6.png",
+                    "name": "Leopard-1A6A1 - Skin 6",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-026",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/leopard-1a6a1/leopard-1a6a1_skin_7.png",
+                    "name": "Leopard-1A6A1 - Skin 7",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "TankSkin-027",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tank-skins/t-62av/t62av_skin_scavenger.png",
+                    "name": "T-62AV - Scavenger",
                     "description": "Placeholder Description",
                     "howto": "Placeholder HowTo"
                 }
+
             ]
 
         },
