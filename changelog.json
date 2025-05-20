@@ -1,6 +1,79 @@
 {
   "updates": [
     {
+      "version": "0.0.0573",
+      "date": "2025-05-20",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #26",
+      "description": "Complete patch notes for update v0.0.0573, No. #26, issued on 20 May, 2025.",
+      "added": [
+        "Link to Esmatty's Meet the Team post on Devs Only page",
+        "Social easter eggs",
+        "Joke to console easter egg",
+        "News article pages to sitemap",
+        "Meet the Team pages to sitemap",
+        "Announcement pages to sitemap",
+        "Tank Skins to Tankopedia",
+        "Jager Agent skins",
+        "Chopper Agent skins",
+        "Kent Agent skins",
+        "Tank Skin images",
+        "Kent base agent skin",
+        "Jager agent skin images",
+        "Chopper agent skin images",
+        "Kent agent skin images"
+      ],
+      "changed": [
+        "generate-devsonly-page script",
+        "Tankopedia.json for easier testing",
+        "Agent skin names (new naming schema)",
+        "Base agent skin descriptions",
+        "Jager base agent skin path",
+        "Agent skin image naming schema"
+      ],
+      "fixed": [
+        "Corrected Agent Skin IDs",
+        "Added missing pages to sitemap"
+      ],
+      "removed": []
+    },
+    {
+      "version": "0.0.0550",
+      "date": "2025-05-19",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #25",
+      "description": "Complete patch notes for update v0.0.0550, No. #25, issued on 19 May, 2025.",
+      "added": [
+        "Meet the Team blog post: Esmatty",
+        "Meet the Team blog post: Venom",
+        "Legend for development progress section",
+        "Blossom Crash map page texts",
+        "Meet the Team blog post template",
+        "First Meet the Team blog post",
+        "Missing tasks to development progress tracker",
+        "New task to development progress tracker",
+        "Missing import in GSC Monitor Discord Bot"
+      ],
+      "changed": [
+        "Meet the Team post descriptions (standardized)",
+        "Footer globally to include Project CW and Wargaming links",
+        "Texts for Nord Oko map page",
+        "Dev-only page",
+        "Site-data config files",
+        "Changelog dataset",
+        "Daily commit log",
+        ".gitignore",
+        "Folder name for GSC Monitor Discord Bot"
+      ],
+      "fixed": [
+        "Pathing issue with Venom's Meet the Team post",
+        "Wording issues for SEO optimization",
+        "Minor spelling errors and SEO wording",
+        "Typo in development progress JSON file"
+      ],
+      "removed": []
+    },
+    {
       "version": "0.0.0528",
       "date": "2025-05-18",
       "author": "PCWStats Team",
