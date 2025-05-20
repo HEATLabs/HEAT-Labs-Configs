@@ -1,5 +1,5 @@
 {
-    "category_order": ["Charms", "Camos & Paints","Agent Skins", "Medals", "Tank Classes"],
+    "category_order": ["Charms", "Camos & Paints","Tank Skins" ,"Agent Skins", "Medals", "Tank Classes"],
     "categories": [
         {
             "name": "Charms",
@@ -763,90 +763,104 @@
             ]
         },
         {
+            "name": "Tank Skins",
+            "description": "Tank skins are visual skins tailored to a specific tank, consisting of either recolors or new visual design",
+            "items": [
+                {
+                    "id": "TankSkin-001",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/steel_blue.png",
+                    "name": "Placeholder Name",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                }
+            ]
+
+        },
+        {
             "name": "Agent Skins",
             "description": "Agent skins are visual skins tailored to a specific agent, letting them mix & match with their tank camo",
             "items": [
                 {
                     "id": "AgentSkin-001",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/steel_blue.png",
-                    "name": "Steel Blue - Kent",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/kent-steel_blue.png",
+                    "name": "Kent - Steel Blue",
                     "description": "Placeholder Description",
                     "howto": "Placeholder HowTo"
                 },
                 {
                     "id": "AgentSkin-002",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/green_gray.png",
-                    "name": "Green Gray - Kent",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/kent-green_gray.png",
+                    "name": "Kent - Green Gray",
                     "description": "Placeholder Description",
                     "howto": "Placeholder HowTo"
                 },
                 {
                     "id": "AgentSkin-003",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/gold.png",
-                    "name": "Gold - Kent",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/kent-gold.png",
+                    "name": "Kent - Gold",
                     "description": "Placeholder Description",
                     "howto": "Placeholder HowTo"
                 },
                 {
                     "id": "AgentSkin-004",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/kent_base.png",
-                    "name": "Base - Kent",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/kent-base.png",
+                    "name": "Kent - Base",
                     "description": "Placeholder Description",
                     "howto": "Base Agent Skin"
                 },
                 {
                     "id": "AgentSkin-005",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/desert_yellow.png",
-                    "name": "Desert Yellow - Chopper",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/chopper-desert_yellow.png",
+                    "name": "Chopper - Desert Yellow",
                     "description": "Placeholder Description",
                     "howto": "Placeholder HowTo"
                 },
                 {
                     "id": "AgentSkin-006",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/desert_green.png",
-                    "name": "Desert Green - Chopper",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/chopper-desert_green.png",
+                    "name": "Chopper - Desert Green",
                     "description": "Placeholder Description",
                     "howto": "Placeholder HowTo"
                 },
                 {
                     "id": "AgentSkin-007",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/green_scarlet.png",
-                    "name": "Green Scarlet - Chopper",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/chopper-green_scarlet.png",
+                    "name": "Chopper - Green Scarlet",
                     "description": "Placeholder Description",
                     "howto": "Placeholder HowTo"
                 },
                 {
                     "id": "AgentSkin-008",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/chopper_base.png",
-                    "name": "Base - Chopper",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/chopper-base.png",
+                    "name": "Chopper - Base",
                     "description": "Placeholder Description",
                     "howto": "Base Agent Skin"
                 },
                 {
                     "id": "AgentSkin-009",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/gray.png",
-                    "name": "Gray - Jager",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/jager-gray.png",
+                    "name": "Jager - Gray",
                     "description": "Placeholder Description",
                     "howto": "Placeholder HowTo"
                 },
                 {
                     "id": "AgentSkin-010",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/orange.png",
-                    "name": "Orange - Jager",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/jager-orange.png",
+                    "name": "Jager - Orange",
                     "description": "Placeholder Description",
                     "howto": "Placeholder HowTo"
                 },
                 {
                     "id": "AgentSkin-011",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/pink_green.png",
-                    "name": "Pink Green - Jager",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/jager-pink_green.png",
+                    "name": "Jager - Pink Green",
                     "description": "Placeholder Description",
                     "howto": "Placeholder HowTo"
                 },
                 {
                     "id": "AgentSkin-012",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/jager_base.png",
-                    "name": "Base - Jager",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/jager-base.png",
+                    "name": "Jager - Base",
                     "description": "Placeholder Description",
                     "howto": "Base Agent Skin"
                 }
