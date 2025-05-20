@@ -1,5 +1,5 @@
 {
-    "category_order": ["Charms", "Camos & Paints", "Medals", "Tank Classes"],
+    "category_order": ["Charms", "Camos & Paints","Agent Skins", "Medals", "Tank Classes"],
     "categories": [
         {
             "name": "Charms",
@@ -758,6 +758,33 @@
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/paints/paint_6.png",
                     "name": "Paint #6",
                     "description": "Paint Description 6",
+                    "howto": "Placeholder HowTo"
+                }
+            ]
+        },
+        {
+            "name": "Agent Skins",
+            "description": "Agent skins are visual skins tailored to a specific agent, letting them mix & match with their tank camo",
+            "items": [
+                {
+                    "id": "AgentCamo-001",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/steel_blue.png",
+                    "name": "Steel Blue - Kent",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "AgentCamo-002",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/green_gray.png",
+                    "name": "Green Gray - Kent",
+                    "description": "Placeholder Description",
+                    "howto": "Placeholder HowTo"
+                },
+                {
+                    "id": "AgentCamo-003",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/agent-skins/gold.png",
+                    "name": "Gold - Kent",
+                    "description": "Placeholder Description",
                     "howto": "Placeholder HowTo"
                 }
             ]
