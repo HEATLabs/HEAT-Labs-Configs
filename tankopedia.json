@@ -1,5 +1,5 @@
 {
-    "category_order": ["Charms", "Camos", "Paints", "Tank Skins" ,"Agent Skins", "Medals", "Tank Classes", "Videos"],
+    "category_order": ["Charms", "Camos", "Paints", "Tank Skins" ,"Agent Skins", "Medals", "Tank Classes", "Videos", "Divisions", "Divisions Perks", "Menu Placeholders", "Consumables", "Player Ranks"],
     "categories": [
         {
             "name": "Charms",
@@ -2521,6 +2521,589 @@
                     "name": "XM1-V Deploy Mines",
                     "description": "XM1-V deploy mines demonstration",
                     "category": "Tank Ability"
+                }
+            ]
+        },
+        {
+            "name": "Divisions",
+            "description": "Division Section Description",
+            "items": [
+                {
+                    "id": "Divisions-0001",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/divisions/bravo_badge.png",
+                    "name": "Bravo - Badge",
+                    "description": "Bravo Badge Description"
+                },
+                {
+                    "id": "Divisions-0002",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/divisions/bravo_bg.png",
+                    "name": "Bravo - Background",
+                    "description": "Bravo Background Description"
+                },
+                {
+                    "id": "Divisions-0003",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/divisions/bravo_rep_1.png",
+                    "name": "Bravo - Rep #1",
+                    "description": "Bravo Rep #1 Description"
+                },
+                {
+                    "id": "Divisions-0004",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/divisions/bravo_rep_2.png",
+                    "name": "Bravo - Rep #1",
+                    "description": "Bravo Rep #1 Description"
+                },
+                {
+                    "id": "Divisions-0005",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/divisions/bravo_token.png",
+                    "name": "Bravo - Token",
+                    "description": "Bravo Token Description"
+                },
+                {
+                    "id": "Divisions-0006",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/divisions/poachers_badge.png",
+                    "name": "Poachers - Badge",
+                    "description": "Poachers Badge Description"
+                },
+                {
+                    "id": "Divisions-0007",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/divisions/poachers_bg.png",
+                    "name": "Poachers - Background",
+                    "description": "Poachers Background Description"
+                },
+                {
+                    "id": "Divisions-0008",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/divisions/poachers_rep_1.png",
+                    "name": "Poachers - Rep #1",
+                    "description": "Poachers Rep #1 Description"
+                },
+                {
+                    "id": "Divisions-0009",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/divisions/poachers_rep_2.png",
+                    "name": "Poachers - Rep #2",
+                    "description": "Poachers Rep #2 Description"
+                },
+                {
+                    "id": "Divisions-0010",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/divisions/poachers_token.png",
+                    "name": "Poachers - Token",
+                    "description": "Poachers Token Description"
+                },
+                {
+                    "id": "Divisions-0011",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/divisions/spezialkrafte_badge.png",
+                    "name": "Spezialkrafte - Badge",
+                    "description": "Spezialkrafte Badge Description"
+                },
+                {
+                    "id": "Divisions-0012",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/divisions/spezialkrafte_bg.png",
+                    "name": "Spezialkrafte - Background",
+                    "description": "Spezialkrafte Background Description"
+                },
+                {
+                    "id": "Divisions-0013",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/divisions/spezialkrafte_rep_1.png",
+                    "name": "Spezialkrafte - Rep #1",
+                    "description": "Spezialkrafte Rep #1 Description"
+                },
+                {
+                    "id": "Divisions-0014",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/divisions/spezialkrafte_rep_2.png",
+                    "name": "Spezialkrafte - Rep #2",
+                    "description": "Spezialkrafte Rep #2 Description"
+                },
+                {
+                    "id": "Divisions-0015",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/divisions/spezialkrafte_token.png",
+                    "name": "Spezialkrafte - Token",
+                    "description": "Spezialkrafte Token Description"
+                }
+            ]
+        },
+        {
+            "name": "Division Perks",
+            "description": "Division Perks Section Description",
+            "items": [
+               {
+                    "id": "Division-Perk-0001",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/division_perks_1.png",
+                    "name": "Division Perk Badges #1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0002",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/division_perks_2.png",
+                    "name": "Division Perk Badges #1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0003",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/division_perks_3.png",
+                    "name": "Division Perk Badges #1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0004",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/dying_fire_badge.png",
+                    "name": "Dying Fire - Badge",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0005",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/dying_fire_bg.png",
+                    "name": "Dying Fire - Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0006",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/dying_fire_icon.png",
+                    "name": "Dying Fire - Icon",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0007",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/field_gunner_badge.png",
+                    "name": "Field Gunner - Badge",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0008",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/field_gunner_bg.png",
+                    "name": "Field Gunner - Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0009",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/field_gunner_icon.png",
+                    "name": "Field Gunner - Icon",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0010",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/gunner-grip_bg.png",
+                    "name": "Gunner Grip - Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0011",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/gunners_grip_badge.png",
+                    "name": "Gunner's Grip - Badge",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0012",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/gunners_grip_icon.png",
+                    "name": "Gunner's Grip - Icon",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0013",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/know_your_enemy_badge.png",
+                    "name": "Know Your Enemy - Badge",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0014",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/know_your_enemy_bg.png",
+                    "name": "Know Your Enemy - Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0015",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/know_your_enemy_icon.png",
+                    "name": "Know Your Enemy - Icon",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0016",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/medical_training_badge.png",
+                    "name": "Medical Training - Badge",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0017",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/medical_training_bg.png",
+                    "name": "Medical Training - Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0018",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/medical_training_icon.png",
+                    "name": "Medical Training - Icon",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0019",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/peripheral_vision_badge.png",
+                    "name": "Peripheral Vision - Badge",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0020",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/peripheral_vision_bg.png",
+                    "name": "Peripheral Vision - Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0021",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/peripheral_vision_icon.png",
+                    "name": "Peripheral Vision - Icon",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0022",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/signal_officer_badge.png",
+                    "name": "Signal Officer - Badge",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0023",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/signal_officer_bg.png",
+                    "name": "Signal Officer - Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0024",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/signal_officer_icon.png",
+                    "name": "Signal Officer - Icon",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0025",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/stable_approach_badge.png",
+                    "name": "Stable Approach - Badge",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0026",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/stable_approach_bg.png",
+                    "name": "Stable Approach - Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0027",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/stable_approach_icon.png",
+                    "name": "Stable Approach - Icon",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0028",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/stim_pack_plus_badge.png",
+                    "name": "Stim Pack Plus - Badge",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0029",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/stim_pack_plus_bg.png",
+                    "name": "Stim Pack Plus - Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Division-Perk-0030",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/stim_pack_plus_icon.png",
+                    "name": "Stim Pack Plus - Icon",
+                    "description": "Placeholder Description"
+                }
+            ]
+        },
+        {
+            "name": "Consumables",
+            "description": "Consumables Section Description",
+            "items": [
+                {
+                    "id": "Consumables-0001",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/consumables/fire_ex.png",
+                    "name": "Fire Extinguisher",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Consumables-0002",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/consumables/fire_ex_big.png",
+                    "name": "Fire Extinguisher - Big",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Consumables-0003",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/consumables/health_kit.png",
+                    "name": "Health Kit",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Consumables-0004",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/consumables/health_kit_big.png",
+                    "name": "Health Kit - Big",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Consumables-0005",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/consumables/repair.png",
+                    "name": "Repair",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Consumables-0006",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/consumables/repair_big.png",
+                    "name": "Repair - Big",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Consumables-0007",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/consumables/stim_pack.png",
+                    "name": "Stim Pack",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Consumables-0008",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/consumables/stim_pack_big.png",
+                    "name": "Stim Pack - Big",
+                    "description": "Placeholder Description"
+                }
+            ]
+        },
+        {
+            "name": "Menu Placeholders",
+            "description": "Menu Placeholders Section Description",
+            "items": [
+                {
+                    "id": "Placeholders-0001",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/menu-placeholders/challenges.png",
+                    "name": "Challenges",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Placeholders-0002",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/menu-placeholders/friends.png",
+                    "name": "Friends",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Placeholders-0003",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/menu-placeholders/operation_test.png",
+                    "name": "Operation Test",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Placeholders-0004",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/menu-placeholders/pcw_plus.png",
+                    "name": "PCW Plus",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Placeholders-0005",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/menu-placeholders/player_stats.png",
+                    "name": "Player Stats",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Placeholders-0006",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/menu-placeholders/premium_shop.png",
+                    "name": "Premium Shop",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Placeholders-0007",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/menu-placeholders/tactical_ops.png",
+                    "name": "Tactical Ops",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Placeholders-0008",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/menu-placeholders/trophy_road.png",
+                    "name": "Trophy Road",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Placeholders-0009",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/menu-placeholders/tutorial_assault.png",
+                    "name": "Tutorial - Assault",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Placeholders-0010",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/menu-placeholders/tutorial_defender.png",
+                    "name": "Tutorial - Defender",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Placeholders-0011",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/menu-placeholders/tutorial_marksman.png",
+                    "name": "Tutorial - Marksman",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Placeholders-0012",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/menu-placeholders/tutorial_support.png",
+                    "name": "Tutorial - Support",
+                    "description": "Placeholder Description"
+                }
+            ]
+        },
+        {
+            "name": "Player Ranks",
+            "description": "Player Ranks Section Description",
+            "items": [
+                {
+                    "id": "Rank-0001",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/1st_chevron.png",
+                    "name": "1st Chevron",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Rank-0002",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/2nd_chevron.png",
+                    "name": "2nd Chevron",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Rank-0003",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/3rd_chevron.png",
+                    "name": "3rd Chevron",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Rank-0004",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/second_liutenant.png",
+                    "name": "Second Lieutenant",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Rank-0005",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/first_liutenant.png",
+                    "name": "First Lieutenant",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Rank-0006",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/captain.png",
+                    "name": "Captain",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Rank-0007",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/major.png",
+                    "name": "Major",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Rank-0008",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/liutenant_colonel.png",
+                    "name": "Lieutenant Colonel",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Rank-0009",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/colonel.png",
+                    "name": "Colonel",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Rank-0010",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/brigadier_general.png",
+                    "name": "Brigadier General",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Rank-0011",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/major_general.png",
+                    "name": "Major General",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Rank-0012",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/liutenant_general.png",
+                    "name": "Lieutenant General",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Rank-0013",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/general.png",
+                    "name": "General",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Rank-0014",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/general_of_the_army.png",
+                    "name": "General of the Army",
+                    "description": "Placeholder Description"
                 }
             ]
         }
