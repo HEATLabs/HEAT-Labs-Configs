@@ -1,6 +1,21 @@
 {
   "updates": [
     {
+      "version": "0.0.0575",
+      "date": "2025-05-21",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #27",
+      "description": "Complete patch notes for update v0.0.0575, No. #27, issued on 21 May, 2025.",
+      "added": [
+        "All video files to Tankopedia data"
+      ],
+      "changed": [
+        "All YouTube embeds to use the `-nocookie` flag for enhanced privacy"
+      ],
+      "fixed": [],
+      "removed": []
+    },
+    {
       "version": "0.0.0573",
       "date": "2025-05-20",
       "author": "PCWStats Team",
