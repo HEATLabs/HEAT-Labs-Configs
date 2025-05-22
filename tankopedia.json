@@ -1,5 +1,5 @@
 {
-    "category_order": ["Charms", "Camos", "Paints", "Tank Skins" ,"Agent Skins", "Medals", "Tank Classes", "Videos", "Divisions", "Divisions Perks", "Menu Placeholders", "Consumables", "Player Ranks"],
+    "category_order": ["Charms", "Camos", "Paints", "Tank Skins" ,"Agent Skins", "Medals", "Tank Classes", "Videos", "Divisions", "Divisions Perks", "Menu Placeholders", "Consumables", "Player Ranks", "Reference Images", "Perks"],
     "categories": [
         {
             "name": "Charms",
@@ -3103,6 +3103,1892 @@
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/general_of_the_army.png",
                     "name": "General of the Army",
+                    "description": "Placeholder Description"
+                }
+            ]
+        },
+        {
+            "name": "Reference Images",
+            "description": "Reference Images Section Description",
+            "items": [
+                {
+                    "id": "Reference-0001",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/reference-images/b737_overhead_panel1.png",
+                    "name": "B737 - Overhead Panel #1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Reference-0002",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/reference-images/b737_overhead_panel2.png",
+                    "name": "B737 - Overhead Panel #2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Reference-0003",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/reference-images/bg_vietnam.png",
+                    "name": "Vietnam Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Reference-0004",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/reference-images/efis.png",
+                    "name": "EFIS Display",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Reference-0005",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/reference-images/engine03_am77.png",
+                    "name": "Engine AM77",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Reference-0006",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/reference-images/fish.png",
+                    "name": "Fish",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Reference-0007",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/reference-images/fmc500.png",
+                    "name": "FMC 500",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Reference-0008",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/reference-images/lower_panels.png",
+                    "name": "Lower Panels",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Reference-0009",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/reference-images/mainpanels1.png",
+                    "name": "Main Panels #1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Reference-0010",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/reference-images/mainpanels2.png",
+                    "name": "Main Panels #2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Reference-0011",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/reference-images/panasonic_emissiwe1.png",
+                    "name": "Panasonic Emissive #1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Reference-0012",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/reference-images/panasonic_emissiwe2.png",
+                    "name": "Panasonic Emissive #2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Reference-0013",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/reference-images/panasonic_emissiwe3.png",
+                    "name": "Panasonic Emissive #3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Reference-0014",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/reference-images/screens.png",
+                    "name": "Display Screens",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Reference-0015",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/reference-images/transponderpart.png",
+                    "name": "Transponder Part",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Reference-0016",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/reference-images/turret_rotator_mpb18.png",
+                    "name": "Turret Rotator MPB18",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Reference-0017",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/reference-images/vietnam_tree.png",
+                    "name": "Vietnam Tree",
+                    "description": "Placeholder Description"
+                }
+            ]
+        },
+        {
+            "name": "Perks",
+            "description": "Perks Section Description",
+            "items": [
+                {
+                    "id": "Perks-0001",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/aerodynamic.png",
+                    "name": "Aerodynamic",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0002",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/all_mighty.png",
+                    "name": "All Mighty",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0003",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/back_on_track.png",
+                    "name": "Back On Track",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0004",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/backyard_party.png",
+                    "name": "Backyard Party",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0005",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/bombardier.png",
+                    "name": "Bombardier",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0006",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/bullseye_boost.png",
+                    "name": "Bullseye Boost",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0007",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/cold_blooded.png",
+                    "name": "Cold Blooded",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0008",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/collision_course.png",
+                    "name": "Collision Course",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0009",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/combat_cruiser.png",
+                    "name": "Combat Cruiser",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0010",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/combat_technican.png",
+                    "name": "Combat Technician",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0011",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/cool_aid.png",
+                    "name": "Cool Aid",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0012",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/crazy_train.png",
+                    "name": "Crazy Train",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0013",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/dead_eye.png",
+                    "name": "Dead Eye",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0014",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/detent.png",
+                    "name": "Detent",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0015",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/dont_need_roads.png",
+                    "name": "Don't Need Roads",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0016",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/dying_fire.png",
+                    "name": "Dying Fire",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0017",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/eagle_eye.png",
+                    "name": "Eagle Eye",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0018",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/el_rayo.png",
+                    "name": "El Rayo",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0019",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/energy_efficient.png",
+                    "name": "Energy Efficient",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0020",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/engineering_excellence.png",
+                    "name": "Engineering Excellence",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0021",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/evasive_maneuver.png",
+                    "name": "Evasive Maneuver",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0022",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/farsighted.png",
+                    "name": "Farsighted",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0023",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/fastest_gun.png",
+                    "name": "Fastest Gun",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0024",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/feeling_electric.png",
+                    "name": "Feeling Electric",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0025",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/field_gunner.png",
+                    "name": "Field Gunner",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0026",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/gunners_grip.png",
+                    "name": "Gunner's Grip",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0027",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/hold_your_breath.png",
+                    "name": "Hold Your Breath",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0028",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/it_fixed_itself.png",
+                    "name": "It Fixed Itself",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0029",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/it_hits_the_spot.png",
+                    "name": "It Hits The Spot",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0030",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/know_your_enemy.png",
+                    "name": "Know Your Enemy",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0031",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/locked_and_loaded.png",
+                    "name": "Locked And Loaded",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0032",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/master_engineer.png",
+                    "name": "Master Engineer",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0033",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/mechanical_reinforcement.png",
+                    "name": "Mechanical Reinforcement",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0034",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/medical_training.png",
+                    "name": "Medical Training",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0035",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/optical_reconnaissance.png",
+                    "name": "Optical Reconnaissance",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0036",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/overclocked.png",
+                    "name": "Overclocked",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0037",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/peripheral_vision.png",
+                    "name": "Peripheral Vision",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0038",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/pumped.png",
+                    "name": "Pumped",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0039",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/punchline.png",
+                    "name": "Punchline",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0040",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/quick_draw.png",
+                    "name": "Quick Draw",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0041",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/rapid_deployment.png",
+                    "name": "Rapid Deployment",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0042",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/run_n_gun.png",
+                    "name": "Run N Gun",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0043",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/saddle_shooting.png",
+                    "name": "Saddle Shooting",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0044",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/second_wind.png",
+                    "name": "Second Wind",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0045",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/signal_officer.png",
+                    "name": "Signal Officer",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0046",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/sky_master.png",
+                    "name": "Sky Master",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0047",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/smoking_gun.png",
+                    "name": "Smoking Gun",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0048",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/smooth_moves.png",
+                    "name": "Smooth Moves",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0049",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/sniper.png",
+                    "name": "Sniper",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0050",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/speed_demon.png",
+                    "name": "Speed Demon",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0051",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/spinor.png",
+                    "name": "Spinor",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0052",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/stable_approach.png",
+                    "name": "Stable Approach",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0053",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/steady_hands.png",
+                    "name": "Steady Hands",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0054",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/stim_pack_plus.png",
+                    "name": "Stim Pack Plus",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0055",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/supercharger.png",
+                    "name": "Supercharger",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0056",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/the_red_fury.png",
+                    "name": "The Red Fury",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0057",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/this_is_my_gun.png",
+                    "name": "This Is My Gun",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0058",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/watch_your_back.png",
+                    "name": "Watch Your Back",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0059",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/well_oiled_machine.png",
+                    "name": "Well Oiled Machine",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0060",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/well_oiled_machine_linked.png",
+                    "name": "Well Oiled Machine Linked",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Perks-0061",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/perks/win_the_race.png",
+                    "name": "Win The Race",
+                    "description": "Placeholder Description"
+                }
+            ]
+        },
+        {
+            "name": "Backgrounds",
+            "description": "Backgrounds Images Section Description",
+            "items": [
+                {
+                    "id": "Background-0001",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/aircraftcarrier_background.png",
+                    "name": "Aircraft Carrier Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0002",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/aircraftcarrier_play_button.png",
+                    "name": "Aircraft Carrier Play Button",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0003",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/aircraftcarrier_play_widget.png",
+                    "name": "Aircraft Carrier Play Widget",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0004",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/archie_background.png",
+                    "name": "Archie Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0005",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/avalanche_background.png",
+                    "name": "Avalanche Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0006",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/background.png",
+                    "name": "Default Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0007",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/baikonur_background.png",
+                    "name": "Baikonur Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0008",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/baikonur_play_button.png",
+                    "name": "Baikonur Play Button",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0009",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/baikonur_play_widget.png",
+                    "name": "Baikonur Play Widget",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0010",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/ballistic_background.png",
+                    "name": "Ballistic Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0011",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/ballistic_play_button.png",
+                    "name": "Ballistic Play Button",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0012",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/ballistic_play_widget.png",
+                    "name": "Ballistic Play Widget",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0013",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/beirut1.png",
+                    "name": "Beirut 1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0014",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/beirut2.png",
+                    "name": "Beirut 2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0015",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/beirut3.png",
+                    "name": "Beirut 3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0016",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/beirut_background.png",
+                    "name": "Beirut Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0017",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/beirut_play_button.png",
+                    "name": "Beirut Play Button",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0018",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/beirut_play_widget.png",
+                    "name": "Beirut Play Widget",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0019",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg1.png",
+                    "name": "Background 1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0020",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg2.png",
+                    "name": "Background 2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0021",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg2_wide.png",
+                    "name": "Background 2 Wide",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0022",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg3.png",
+                    "name": "Background 3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0023",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg3_wide.png",
+                    "name": "Background 3 Wide",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0024",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg_camp.png",
+                    "name": "Camp Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0025",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg_dark_screen.png",
+                    "name": "Dark Screen Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0026",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg_link_0.png",
+                    "name": "Link Background 0",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0027",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg_link_1.png",
+                    "name": "Link Background 1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0028",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg_link_2.png",
+                    "name": "Link Background 2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0029",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg_link_3.png",
+                    "name": "Link Background 3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0030",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg_link_4.png",
+                    "name": "Link Background 4",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0031",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg_link_5.png",
+                    "name": "Link Background 5",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0032",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg_link_6.png",
+                    "name": "Link Background 6",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0033",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg_link_7.png",
+                    "name": "Link Background 7",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0034",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg_link_8.png",
+                    "name": "Link Background 8",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0035",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg_link_9.png",
+                    "name": "Link Background 9",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0036",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg_plant_defuse_splash.png",
+                    "name": "Plant/Defuse Splash Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0037",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg_select_first_hero.png",
+                    "name": "Select First Hero Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0038",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bg_welcome.png",
+                    "name": "Welcome Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0039",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bootcamp_bg.png",
+                    "name": "Bootcamp Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0040",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bootcamp_poster.png",
+                    "name": "Bootcamp Poster",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0041",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/bootcamp_stop_frame.png",
+                    "name": "Bootcamp Stop Frame",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0042",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/conquest_game_selector_bg.png",
+                    "name": "Conquest Game Selector Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0043",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/conquest_game_selector_bg_wide.png",
+                    "name": "Conquest Game Selector Wide Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0044",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/crossroad_background.png",
+                    "name": "Crossroad Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0045",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/custom_game_bg.png",
+                    "name": "Custom Game Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0046",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/custom_game_mode.png",
+                    "name": "Custom Game Mode",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0047",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/custom_game_selector_bg.png",
+                    "name": "Custom Game Selector Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0048",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/custom_game_selector_bg_wide.png",
+                    "name": "Custom Game Selector Wide Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0049",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_alphatester.png",
+                    "name": "Customization Alpha Tester",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0050",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_booster.png",
+                    "name": "Customization Booster",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0051",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_cactus.png",
+                    "name": "Customization Cactus",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0052",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_camo01.png",
+                    "name": "Customization Camo 01",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0053",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_camo06.png",
+                    "name": "Customization Camo 06",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0054",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_camo19.png",
+                    "name": "Customization Camo 19",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0055",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_camo23.png",
+                    "name": "Customization Camo 23",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0056",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_camo34.png",
+                    "name": "Customization Camo 34",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0057",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_disco_ball.png",
+                    "name": "Customization Disco Ball",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0058",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_dollar_sign.png",
+                    "name": "Customization Dollar Sign",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0059",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_goldfish_big.png",
+                    "name": "Customization Goldfish",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0060",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_maneki_neko.png",
+                    "name": "Customization Maneki Neko",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0061",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_ms-1.png",
+                    "name": "Customization MS-1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0062",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_paint22.png",
+                    "name": "Customization Paint 22",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0063",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_paint26.png",
+                    "name": "Customization Paint 26",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0064",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_paint35.png",
+                    "name": "Customization Paint 35",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0065",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_paint36.png",
+                    "name": "Customization Paint 36",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0066",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_piston_skull.png",
+                    "name": "Customization Piston Skull",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0067",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_reward_big.png",
+                    "name": "Customization Reward",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0068",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_sandwatch.png",
+                    "name": "Customization Sandwatch",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0069",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_style4.png",
+                    "name": "Customization Style 4",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0070",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_sugar_skull.png",
+                    "name": "Customization Sugar Skull",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0071",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/customization_yin_yang.png",
+                    "name": "Customization Yin Yang",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0072",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/dolcegusta_background.png",
+                    "name": "Dolce Gusta Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0073",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/firing_range_bg.png",
+                    "name": "Firing Range Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0074",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/firing_range_mode.png",
+                    "name": "Firing Range Mode",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0075",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/firing_range_selector_bg.png",
+                    "name": "Firing Range Selector Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0076",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/firing_range_selector_bg_wide.png",
+                    "name": "Firing Range Selector Wide Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0077",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/friendshipdam_background.png",
+                    "name": "Friendship Dam Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0078",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/friendshipdam_play_button.png",
+                    "name": "Friendship Dam Play Button",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0079",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/friendshipdam_play_widget.png",
+                    "name": "Friendship Dam Play Widget",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0080",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/ftue_bg.png",
+                    "name": "FTUE Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0081",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/ftue_postbattle.png",
+                    "name": "FTUE Post Battle",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0082",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/harvest_background.png",
+                    "name": "Harvest Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0083",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/height911tb_background.png",
+                    "name": "Height 911TB Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0084",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/hero.png",
+                    "name": "Hero Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0085",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/hero_walkure.png",
+                    "name": "Walkure Hero Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0086",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/hq_background.png",
+                    "name": "HQ Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0087",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/inferno_background.png",
+                    "name": "Inferno Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0088",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/inferno_play_button.png",
+                    "name": "Inferno Play Button",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0089",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/inferno_play_widget.png",
+                    "name": "Inferno Play Widget",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0090",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/juggernaut_hero_reward.png",
+                    "name": "Juggernaut Hero Reward",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0091",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/loading_bg.png",
+                    "name": "Loading Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0092",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/loadscreen_sky.png",
+                    "name": "Loadscreen Sky",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0093",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/military_training_background.png",
+                    "name": "Military Training Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0094",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/military_training_play_button.png",
+                    "name": "Military Training Play Button",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0095",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/military_training_play_widget.png",
+                    "name": "Military Training Play Widget",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0096",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/moonshot_background.png",
+                    "name": "Moonshot Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0097",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/moonshot_play_button.png",
+                    "name": "Moonshot Play Button",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0098",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/moonshot_widget.png",
+                    "name": "Moonshot Widget",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0099",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/nordoko_background.png",
+                    "name": "Nordoko Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0100",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/nordoko_play_button.png",
+                    "name": "Nordoko Play Button",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0101",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/nordoko_play_widget.png",
+                    "name": "Nordoko Play Widget",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0102",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/operation.png",
+                    "name": "Operation Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0103",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/operations.png",
+                    "name": "Operations Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0104",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/overlapping_scene_login.png",
+                    "name": "Overlapping Scene Login",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0105",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/projectphoenix_background.png",
+                    "name": "Project Phoenix Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0106",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/projectphoenix_play_button.png",
+                    "name": "Project Phoenix Play Button",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0107",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/projectphoenix_play_widget.png",
+                    "name": "Project Phoenix Play Widget",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0108",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/quick_match_bg.png",
+                    "name": "Quick Match Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0109",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/ray_big_reward.png",
+                    "name": "Ray Big Reward",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0110",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/researchinstitute_background.png",
+                    "name": "Research Institute Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0111",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/reward_big.png",
+                    "name": "Big Reward Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0112",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/ring_of_fury_background.png",
+                    "name": "Ring of Fury Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0113",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/ring_of_fury_play_button.png",
+                    "name": "Ring of Fury Play Button",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0114",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/ring_of_fury_play_widget.png",
+                    "name": "Ring of Fury Play Widget",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0115",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/soft_big.png",
+                    "name": "Soft Big Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0116",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/starter_pack.png",
+                    "name": "Starter Pack Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0117",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/sunstroke1.png",
+                    "name": "Sunstroke 1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0118",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/sunstroke2.png",
+                    "name": "Sunstroke 2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0119",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/sunstroke3.png",
+                    "name": "Sunstroke 3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0120",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/sunstroke_background.png",
+                    "name": "Sunstroke Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0121",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/sunstroke_play_button.png",
+                    "name": "Sunstroke Play Button",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0122",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/sunstroke_play_widget.png",
+                    "name": "Sunstroke Play Widget",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0123",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/tajbeg_background.png",
+                    "name": "Tajbeg Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0124",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/tank.png",
+                    "name": "Tank Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0125",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/tournament_bg.png",
+                    "name": "Tournament Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0126",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/versus_ai_bg.png",
+                    "name": "Versus AI Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0127",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/vietnam1.png",
+                    "name": "Vietnam 1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0128",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/vietnam2.png",
+                    "name": "Vietnam 2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0129",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/vietnam3.png",
+                    "name": "Vietnam 3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0130",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/vietnam_background.png",
+                    "name": "Vietnam Background",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0131",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/vietnam_play_button.png",
+                    "name": "Vietnam Play Button",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Background-0132",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/backgrounds/vietnam_play_widget.png",
+                    "name": "Vietnam Play Widget",
+                    "description": "Placeholder Description"
+                }
+            ]
+        },
+        {
+            "name": "Abilities",
+            "description": "Various combat abilities available to agents and vehicles",
+            "items": [
+                {
+                    "id": "Ability-0001",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/3_shots_autoloader.png",
+                    "name": "3-Shot Autoloader",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0002",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/air_bomber.png",
+                    "name": "Air Bomber",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0003",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/air_gunship.png",
+                    "name": "Air Gunship",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0004",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/air_gunship_guided.png",
+                    "name": "Air Gunship Guided",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0005",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/attach_artillery_strike.png",
+                    "name": "Attach Artillery Strike",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0006",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/attack_helicopter_rockets.png",
+                    "name": "Attack Helicopter Rockets",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0007",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/autocannon.png",
+                    "name": "Autocannon",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0008",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/autoloader_2_shot.png",
+                    "name": "Autoloader 2-Shot",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0009",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/autoloader_3_shot.png",
+                    "name": "Autoloader 3-Shot",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0010",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/blitz_ballistic_strike.png",
+                    "name": "Blitz - Ballistic Strike",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0011",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/blitz_emp_discharge.png",
+                    "name": "Blitz - EMP Discharge",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0012",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/blitz_quick_fix.png",
+                    "name": "Blitz - Quick Fix",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0013",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/blitz_seeker.png",
+                    "name": "Blitz - Seeker",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0014",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/burst.png",
+                    "name": "Burst",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0015",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/decoy.png",
+                    "name": "Decoy",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0016",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/demolition_charges.png",
+                    "name": "Demolition Charges",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0017",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/drum_overheat.png",
+                    "name": "Drum Overheat",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0018",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/gatling_gun.png",
+                    "name": "Gatling Gun",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0019",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/helicopter_defender.png",
+                    "name": "Helicopter Defender",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0020",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/helicopter_defender_auto.png",
+                    "name": "Helicopter Defender Auto",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0021",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/jager_decoy.png",
+                    "name": "Jager - Decoy",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0022",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/jager_mark_of_the_hunter.png",
+                    "name": "Jager - Mark of the Hunter",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0023",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/jager_pounce.png",
+                    "name": "Jager - Pounce",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0024",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/jager_smokescreen.png",
+                    "name": "Jager - Smokescreen",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0025",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/jager_thermal_scope.png",
+                    "name": "Jager - Thermal Scope",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0026",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/jager_trappings_shot.png",
+                    "name": "Jager - Trappings Shot",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0027",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/ladle.png",
+                    "name": "Ladle",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0028",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/los_f_h_air_defense.png",
+                    "name": "LOS F/H Air Defense",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0029",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/mds_mine_system.png",
+                    "name": "MDS Mine System",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0030",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/mim_146_missiles.png",
+                    "name": "MIM-146 Missiles",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0031",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/mine_sweeper_twmp.png",
+                    "name": "Mine Sweeper TWMP",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0032",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/mine_trawle.png",
+                    "name": "Mine Trawle",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0033",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/mines.png",
+                    "name": "Mines",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0034",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/minigun.png",
+                    "name": "Minigun",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0035",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/missile_strike.png",
+                    "name": "Missile Strike",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0036",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/missiles.png",
+                    "name": "Missiles",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0037",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/rail_gun.png",
+                    "name": "Rail Gun",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0038",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/raketa_boost.png",
+                    "name": "Raketa Boost",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0039",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/raketa_dissasemble.png",
+                    "name": "Raketa - Dissasemble",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0040",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/raketa_rocket_barrage.png",
+                    "name": "Raketa - Rocket Barrage",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0041",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/raketa_scavange.png",
+                    "name": "Raketa - Scavanger",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0042",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/reb_electronic_warfare.png",
+                    "name": "REB Electronic Warfare",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0043",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/rockets.png",
+                    "name": "Rockets",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0044",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/rockets_pods.png",
+                    "name": "Rockets Pods",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0045",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/self_ballistic_calibration.png",
+                    "name": "Self Ballistic Calibration",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0046",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/self_engine_boost.png",
+                    "name": "Self Engine Boost",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0047",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/singleshot.png",
+                    "name": "Single Shot",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0048",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/smoke_artillery.png",
+                    "name": "Smoke Artillery",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0049",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/smoke_mortar.png",
+                    "name": "Smoke Mortar",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0050",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/smoke_screen.png",
+                    "name": "Smoke Screen",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0051",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/tank_autocannon.png",
+                    "name": "Tank Autocannon",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0052",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/thermal_imager.png",
+                    "name": "Thermal Imager",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0053",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/titan_keep_it_coming.png",
+                    "name": "Titan - Keep It Coming",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0054",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/titan_recover.png",
+                    "name": "Titan - Recover",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0055",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/titan_shell.png",
+                    "name": "Titan - Shell",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Ability-0056",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/abilities/titan_spike.png",
+                    "name": "Titan - Spike",
                     "description": "Placeholder Description"
                 }
             ]
