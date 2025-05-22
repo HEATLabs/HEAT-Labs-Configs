@@ -1,7 +1,11 @@
 {
+  "2025-05-21": [
+    "[pcwstats.github.io] updated all youtube embeds to use the `-nocookie` flag",
+    "[Website-Images] added all video files to tankopedia data"
+  ],
   "2025-05-20": [
     "[pcwstats.github.io] Added link to Esmatty's Meet the Team post to Devs Only page and updated generate-devsonly-page script",
-    "[pcwstats.github.io] Addition of social easter eggs",
+    "[pcwstats.github.io] Addition of \"Go-To\" social easter eggs",
     "[pcwstats.github.io] Added joke to console easter egg",
     "[pcwstats.github.io] added missing pages to sitemap",
     "[pcwstats.github.io] added news article pages to sitemap",
@@ -9,6 +13,9 @@
     "[pcwstats.github.io] Merge branch 'main' of https://github.com/PCWStats/pcwstats.github.io",
     "[pcwstats.github.io] added announcement pages to sidemap",
     "[pcwstats.github.io] Tweaked tankopedia.json for easier testing",
+    "[Website-Configs] Merge branch 'main' of https://github.com/PCWStats/Website-Configs",
+    "[Website-Configs] updated daily commit log data",
+    "[Website-Configs] updated changelog.json data",
     "[Website-Configs] Added Tank Skins to Tankopedia",
     "[Website-Configs] Updated Agent skin names to new naming schema",
     "[Website-Configs] Corrected Agent Skin IDs",
