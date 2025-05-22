@@ -1757,6 +1757,772 @@
                     "description": "Vendor Description 12"
                 }
             ]
+        },
+        {
+            "name": "Videos",
+            "description": "Collection of game videos including tank abilities, commanders, loading screens, and previews",
+            "items": [
+                {
+                    "id": "Video-001",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/abrams_vid_aerial_radar_ability.webm",
+                    "name": "Abrams - Aerial Radar Ability",
+                    "description": "Demonstration of the Abrams tank's aerial radar ability",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-002",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/abrams_vid_gattling_gun_ability.webm",
+                    "name": "Abrams - Gatling Gun Ability",
+                    "description": "Demonstration of the Abrams tank's gatling gun ability",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-003",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/abrams_vid_gunship_ability.webm",
+                    "name": "Abrams - Gunship Ability",
+                    "description": "Demonstration of the Abrams tank's gunship ability",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-004",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/abrams_vid_mine_sweeper_ability.webm",
+                    "name": "Abrams - Mine Sweeper Ability",
+                    "description": "Demonstration of the Abrams tank's mine sweeper ability",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-005",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/abrams_vid_missile_strike_ability.webm",
+                    "name": "Abrams - Missile Strike Ability",
+                    "description": "Demonstration of the Abrams tank's missile strike ability",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-006",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/abrams_vid_smoke_mortar_ability.webm",
+                    "name": "Abrams - Smoke Mortar Ability",
+                    "description": "Demonstration of the Abrams tank's smoke mortar ability",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-007",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/agds_los-f_h_air_defense.webm",
+                    "name": "AGDS LOS-F H Air Defense",
+                    "description": "Air defense system demonstration",
+                    "category": "Defense System"
+                },
+                {
+                    "id": "Video-008",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/agds_mim_146_missile.webm",
+                    "name": "AGDS MIM-146 Missile",
+                    "description": "MIM-146 missile system demonstration",
+                    "category": "Missile System"
+                },
+                {
+                    "id": "Video-009",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/aim_dynamic.webm",
+                    "name": "Aim Dynamic",
+                    "description": "Dynamic aiming system demonstration",
+                    "category": "Aiming System"
+                },
+                {
+                    "id": "Video-010",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/aim_static.webm",
+                    "name": "Aim Static",
+                    "description": "Static aiming system demonstration",
+                    "category": "Aiming System"
+                },
+                {
+                    "id": "Video-011",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/bat_4m_deploy_dozer.webm",
+                    "name": "BAT-4M Deploy Dozer",
+                    "description": "BAT-4M dozer deployment demonstration",
+                    "category": "Vehicle Ability"
+                },
+                {
+                    "id": "Video-012",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/bat_4m_repair_welder.webm",
+                    "name": "BAT-4M Repair Welder",
+                    "description": "BAT-4M repair welder demonstration",
+                    "category": "Vehicle Ability"
+                },
+                {
+                    "id": "Video-013",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/c_anansi.webm",
+                    "name": "Commander Anansi",
+                    "description": "Commander Anansi showcase",
+                    "category": "Commander"
+                },
+                {
+                    "id": "Video-014",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/c_blitz.webm",
+                    "name": "Commander Blitz",
+                    "description": "Commander Blitz showcase",
+                    "category": "Commander"
+                },
+                {
+                    "id": "Video-015",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/c_chopper.webm",
+                    "name": "Commander Chopper",
+                    "description": "Commander Chopper showcase",
+                    "category": "Commander"
+                },
+                {
+                    "id": "Video-016",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/c_ember.webm",
+                    "name": "Commander Ember",
+                    "description": "Commander Ember showcase",
+                    "category": "Commander"
+                },
+                {
+                    "id": "Video-017",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/c_hound.webm",
+                    "name": "Commander Hound",
+                    "description": "Commander Hound showcase",
+                    "category": "Commander"
+                },
+                {
+                    "id": "Video-018",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/c_kent.webm",
+                    "name": "Commander Kent",
+                    "description": "Commander Kent showcase",
+                    "category": "Commander"
+                },
+                {
+                    "id": "Video-019",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/c_raketa.webm",
+                    "name": "Commander Raketa",
+                    "description": "Commander Raketa showcase",
+                    "category": "Commander"
+                },
+                {
+                    "id": "Video-020",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/c_reaper.webm",
+                    "name": "Commander Reaper",
+                    "description": "Commander Reaper showcase",
+                    "category": "Commander"
+                },
+                {
+                    "id": "Video-021",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/first_login_video.webm",
+                    "name": "First Login Video",
+                    "description": "Initial video shown on first login",
+                    "category": "System"
+                },
+                {
+                    "id": "Video-022",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/hstv_l_grenade_machine_gun.webm",
+                    "name": "HSTV-L Grenade Machine Gun",
+                    "description": "HSTV-L grenade machine gun demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-023",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/hstv_l_smoke_mortars.webm",
+                    "name": "HSTV-L Smoke Mortars",
+                    "description": "HSTV-L smoke mortars demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-024",
+                    "modalType": "video",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/videos/initial_video.webm",
+                    "name": "Initial Video",
+                    "description": "Game initial video",
+                    "category": "System"
+                },
+                {
+                    "id": "Video-025",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/jager_decoy.webm",
+                    "name": "Jager Decoy",
+                    "description": "Jager decoy ability demonstration",
+                    "category": "Commander Ability"
+                },
+                {
+                    "id": "Video-026",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leo2_vid_g_missile_firemode.webm",
+                    "name": "Leo2 G-Missile Firemode",
+                    "description": "Leopard 2 G-missile firemode demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-027",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leo2k_vid_automatic_defence_ability.webm",
+                    "name": "Leo2K Automatic Defence Ability",
+                    "description": "Leopard 2K automatic defence ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-028",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leo2k_vid_overheat_firemode.webm",
+                    "name": "Leo2K Overheat Firemode",
+                    "description": "Leopard 2K overheat firemode demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-029",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leopard1_vid_tvmissle_ability.webm",
+                    "name": "Leopard 1 TV Missile Ability",
+                    "description": "Leopard 1 TV missile ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-030",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leopard1a1_vid_airstrike_ability.webm",
+                    "name": "Leopard 1A1 Airstrike Ability",
+                    "description": "Leopard 1A1 airstrike ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-031",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leopard1a1_vid_artillery_smoke_ability.webm",
+                    "name": "Leopard 1A1 Artillery Smoke Ability",
+                    "description": "Leopard 1A1 artillery smoke ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-032",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leopard1a1_vid_artillery_strike_ability.webm",
+                    "name": "Leopard 1A1 Artillery Strike Ability",
+                    "description": "Leopard 1A1 artillery strike ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-033",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leopard1a6_vid_decoy_kit_ability.webm",
+                    "name": "Leopard 1A6 Decoy Kit Ability",
+                    "description": "Leopard 1A6 decoy kit ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-034",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leopard1a6_vid_smoke_mortar_ability.webm",
+                    "name": "Leopard 1A6 Smoke Mortar Ability",
+                    "description": "Leopard 1A6 smoke mortar ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-035",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leopard1a6_vid_thermal_scope_ability.webm",
+                    "name": "Leopard 1A6 Thermal Scope Ability",
+                    "description": "Leopard 1A6 thermal scope ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-036",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leopard2_vid_autoloader_ability.webm",
+                    "name": "Leopard 2 Autoloader Ability",
+                    "description": "Leopard 2 autoloader ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-037",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leopard2_vid_smoke_mortar_ability.webm",
+                    "name": "Leopard 2 Smoke Mortar Ability",
+                    "description": "Leopard 2 smoke mortar ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-038",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leopard_1a1b_deadzone_gerat.webm",
+                    "name": "Leopard 1A1B Deadzone Gerat",
+                    "description": "Leopard 1A1B deadzone gerat demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-039",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leopard_1a1b_vampyr_drone.webm",
+                    "name": "Leopard 1A1B Vampyr Drone",
+                    "description": "Leopard 1A1B vampyr drone demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-040",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leopard_1a6a1_decoy.webm",
+                    "name": "Leopard 1A6A1 Decoy",
+                    "description": "Leopard 1A6A1 decoy ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-041",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leopard_1a6a1_trapping_shot.webm",
+                    "name": "Leopard 1A6A1 Trapping Shot",
+                    "description": "Leopard 1A6A1 trapping shot demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-042",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leopard_2fk_feign_destruction.webm",
+                    "name": "Leopard 2FK Feign Destruction",
+                    "description": "Leopard 2FK feign destruction ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-043",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leopard_2fk_vanish.webm",
+                    "name": "Leopard 2FK Vanish",
+                    "description": "Leopard 2FK vanish ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-044",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leopard_2kt14_autonomous_grenade_turret.webm",
+                    "name": "Leopard 2K14 Autonomous Grenade Turret",
+                    "description": "Leopard 2K14 autonomous grenade turret demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-045",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/leopard_2kt14_high_frequency_jammer.webm",
+                    "name": "Leopard 2K14 High Frequency Jammer",
+                    "description": "Leopard 2K14 high frequency jammer demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-046",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/loading_beirut.webm",
+                    "name": "Loading Beirut",
+                    "description": "Beirut map loading screen",
+                    "category": "Loading Screen"
+                },
+                {
+                    "id": "Video-047",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/loading_camp.webm",
+                    "name": "Loading Camp",
+                    "description": "Camp map loading screen",
+                    "category": "Loading Screen"
+                },
+                {
+                    "id": "Video-048",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/loading_viet.webm",
+                    "name": "Loading Vietnam",
+                    "description": "Vietnam map loading screen",
+                    "category": "Loading Screen"
+                },
+                {
+                    "id": "Video-049",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/m1e1_active_protection_system.webm",
+                    "name": "M1E1 Active Protection System",
+                    "description": "M1E1 active protection system demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-050",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/m1e1_gatling_gun.webm",
+                    "name": "M1E1 Gatling Gun",
+                    "description": "M1E1 gatling gun demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-051",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/m60_vid_bomber_ability.webm",
+                    "name": "M60 Bomber Ability",
+                    "description": "M60 bomber ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-052",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/m60_vid_machine_ability.webm",
+                    "name": "M60 Machine Ability",
+                    "description": "M60 machine ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-053",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/m60_vid_self_ballistic_calibration_ability.webm",
+                    "name": "M60 Self Ballistic Calibration Ability",
+                    "description": "M60 self ballistic calibration ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-054",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/m60_vid_smoke_chassis_ability.webm",
+                    "name": "M60 Smoke Chassis Ability",
+                    "description": "M60 smoke chassis ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-055",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/m60_vid_smoke_mortar_ability.webm",
+                    "name": "M60 Smoke Mortar Ability",
+                    "description": "M60 smoke mortar ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-056",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/m60_vid_thermal_scope_ability.webm",
+                    "name": "M60 Thermal Scope Ability",
+                    "description": "M60 thermal scope ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-057",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/m60a3e2_spike.webm",
+                    "name": "M60A3E2 Spike",
+                    "description": "M60A3E2 spike ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-058",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/m60a3e2_titan_shell.webm",
+                    "name": "M60A3E2 Titan Shell",
+                    "description": "M60A3E2 titan shell demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-059",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/m60e2_charge.webm",
+                    "name": "M60E2 Charge",
+                    "description": "M60E2 charge ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-060",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/m60e2_suppressive_fire.webm",
+                    "name": "M60E2 Suppressive Fire",
+                    "description": "M60E2 suppressive fire demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-061",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/mvp_defender.webm",
+                    "name": "MVP Defender",
+                    "description": "MVP defender award video",
+                    "category": "MVP Award"
+                },
+                {
+                    "id": "Video-062",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/mvp_fantome.webm",
+                    "name": "MVP Fantome",
+                    "description": "MVP fantome award video",
+                    "category": "MVP Award"
+                },
+                {
+                    "id": "Video-063",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/mvp_grandmaster.webm",
+                    "name": "MVP Grandmaster",
+                    "description": "MVP grandmaster award video",
+                    "category": "MVP Award"
+                },
+                {
+                    "id": "Video-064",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/mvp_twister.webm",
+                    "name": "MVP Twister",
+                    "description": "MVP twister award video",
+                    "category": "MVP Award"
+                },
+                {
+                    "id": "Video-065",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/screens_video_preview.webm",
+                    "name": "Screens Video Preview",
+                    "description": "Screens video preview",
+                    "category": "Preview"
+                },
+                {
+                    "id": "Video-066",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/screens_video_previewf09c72727c60ed746e2283167dee66b1.webm",
+                    "name": "Screens Video Preview Extended",
+                    "description": "Extended screens video preview",
+                    "category": "Preview"
+                },
+                {
+                    "id": "Video-067",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/sequence_start_montage.webm",
+                    "name": "Sequence Start Montage",
+                    "description": "Game start sequence montage",
+                    "category": "System"
+                },
+                {
+                    "id": "Video-068",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/shell_ap_video_preview.webm",
+                    "name": "Shell AP Video Preview",
+                    "description": "Armor-piercing shell preview video",
+                    "category": "Shell Preview"
+                },
+                {
+                    "id": "Video-069",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/shell_he_video_preview.webm",
+                    "name": "Shell HE Video Preview",
+                    "description": "High-explosive shell preview video",
+                    "category": "Shell Preview"
+                },
+                {
+                    "id": "Video-070",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/shell_heat_video_preview.webm",
+                    "name": "Shell HEAT Video Preview",
+                    "description": "HEAT shell preview video",
+                    "category": "Shell Preview"
+                },
+                {
+                    "id": "Video-071",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/t62_vid_autoloader_ability.webm",
+                    "name": "T-62 Autoloader Ability",
+                    "description": "T-62 autoloader ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-072",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/t62_vid_autoloader_b1_firemode.webm",
+                    "name": "T-62 Autoloader B1 Firemode",
+                    "description": "T-62 autoloader B1 firemode demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-073",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/t62_vid_autoloader_b2_firemode.webm",
+                    "name": "T-62 Autoloader B2 Firemode",
+                    "description": "T-62 autoloader B2 firemode demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-074",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/t62_vid_rockets_firemode.webm",
+                    "name": "T-62 Rockets Firemode",
+                    "description": "T-62 rockets firemode demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-075",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/t62obr1975_vid_air_strike_ability.webm",
+                    "name": "T-62 Obr1975 Air Strike Ability",
+                    "description": "T-62 Obr1975 air strike ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-076",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/t62obr1975_vid_mine_sweeper_ability.webm",
+                    "name": "T-62 Obr1975 Mine Sweeper Ability",
+                    "description": "T-62 Obr1975 mine sweeper ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-077",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/t62obr1975_vid_smoke_mortar_ability.webm",
+                    "name": "T-62 Obr1975 Smoke Mortar Ability",
+                    "description": "T-62 Obr1975 smoke mortar ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-078",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/t72_vid_autoloader_ability.webm",
+                    "name": "T-72 Autoloader Ability",
+                    "description": "T-72 autoloader ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-079",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/t72_vid_dozer_ability.webm",
+                    "name": "T-72 Dozer Ability",
+                    "description": "T-72 dozer ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-080",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/t72_vid_reb_electronic_ability.webm",
+                    "name": "T-72 REB Electronic Ability",
+                    "description": "T-72 REB electronic ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-081",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/t-62av_afterburner.webm",
+                    "name": "T-62AV Afterburner",
+                    "description": "T-62AV afterburner ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-082",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/t-62av_rocketbarrage.webm",
+                    "name": "T-62AV Rocket Barrage",
+                    "description": "T-62AV rocket barrage demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-083",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/xm1_90_fastdraw_magazines.webm",
+                    "name": "XM1-90 Fastdraw Magazines",
+                    "description": "XM1-90 fastdraw magazines demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-084",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/xm1_90_recon_probe.webm",
+                    "name": "XM1-90 Recon Probe",
+                    "description": "XM1-90 recon probe demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-085",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/xm1_vid_air_strike_ability.webm",
+                    "name": "XM1 Air Strike Ability",
+                    "description": "XM1 air strike ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-086",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/xm1_vid_artillery_strike_ability.webm",
+                    "name": "XM1 Artillery Strike Ability",
+                    "description": "XM1 artillery strike ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-087",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/xm1_vid_burst_firemode.webm",
+                    "name": "XM1 Burst Firemode",
+                    "description": "XM1 burst firemode demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-088",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/xm1_vid_bushmaster_ability.webm",
+                    "name": "XM1 Bushmaster Ability",
+                    "description": "XM1 bushmaster ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-089",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/xm1_vid_demi_charge_ability.webm",
+                    "name": "XM1-V Demo Charge Ability",
+                    "description": "XM1-V demo charge ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-090",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/xm1_vid_mine_sweeper_ability.webm",
+                    "name": "XM1 Mine Sweeper Ability",
+                    "description": "XM1 mine sweeper ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-091",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/xm1_vid_smoke_chassis_ability.webm",
+                    "name": "XM1-V Smoke Chassis Ability",
+                    "description": "XM1-V smoke chassis ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-092",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/xm1_vid_smoke_granades_ability.webm",
+                    "name": "XM1-V Smoke Grenades Ability",
+                    "description": "XM1-V smoke grenades ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-093",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/xm1_vid_volcano_mine_ability.webm",
+                    "name": "XM1-V Volcano Mine Ability",
+                    "description": "XM1-V volcano mine ability demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-094",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/xm1v_demolition_charges.webm",
+                    "name": "XM1-V Demolition Charges",
+                    "description": "XM1-V demolition charges demonstration",
+                    "category": "Tank Ability"
+                },
+                {
+                    "id": "Video-095",
+                    "modalType": "video",
+                    "image": "https://github.com/PCWStats/Website-Images/raw/refs/heads/main/tankopedia/videos/xm1v_deploy_mines.webm",
+                    "name": "XM1-V Deploy Mines",
+                    "description": "XM1-V deploy mines demonstration",
+                    "category": "Tank Ability"
+                }
+            ]
         }
     ]
 }
