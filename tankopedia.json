@@ -6278,6 +6278,1089 @@
                     "description": "Placeholder Description"
                 }
             ]
+        },
+        {
+            "name": "Shell Components",
+            "description": "Shell Components Section Description",
+            "items": [
+                {
+                    "id": "Shell-001",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/shells/heat_charge.png",
+                    "name": "HEAT Charge",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Shell-002",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/shells/heat_fin.png",
+                    "name": "HEAT Fin",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Shell-003",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/shells/shell_apds_core_1.png",
+                    "name": "APDS Core #1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Shell-004",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/shells/shell_apds_core_2.png",
+                    "name": "APDS Core #2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Shell-005",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/shells/shell_apds_core_3.png",
+                    "name": "APDS Core #3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Shell-006",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/shells/shell_apds_fin_1.png",
+                    "name": "APDS Fin #1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Shell-007",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/shells/shell_apds_fin_2.png",
+                    "name": "APDS Fin #2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Shell-008",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/shells/shell_apds_fin_3.png",
+                    "name": "APDS Fin #3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Shell-009",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/shells/shell_apds_primer_1.png",
+                    "name": "APDS Primer #1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Shell-010",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/shells/shell_apds_primer_2.png",
+                    "name": "APDS Primer #2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Shell-011",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/shells/shell_apds_propelant_1.png",
+                    "name": "APDS Propellant #1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Shell-012",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/shells/shell_apds_propelant_2.png",
+                    "name": "APDS Propellant #2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Shell-013",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/shells/shell_apds_sabot_1.png",
+                    "name": "APDS Sabot #1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Shell-014",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/shells/shell_apds_sabot_2.png",
+                    "name": "APDS Sabot #2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Shell-015",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/shells/shell_apds_sabot_3.png",
+                    "name": "APDS Sabot #3",
+                    "description": "Placeholder Description"
+                }
+            ]
+        },
+        {
+            "name": "Console console-Keybinds",
+            "description": "Console Keybinds Section Description",
+            "items": [
+                {
+                    "id": "Keybind-0001",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/xboxy.png",
+                    "name": "Xbox Y",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0002",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altpscircle.png",
+                    "name": "Alt PS Circle",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0003",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altpscreate.png",
+                    "name": "Alt PS Create",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0004",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altpscross.png",
+                    "name": "Alt PS Cross",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0005",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altpsdpad.png",
+                    "name": "Alt PS D-Pad",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0006",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altpsdpaddown.png",
+                    "name": "Alt PS D-Pad Down",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0007",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altpsdpadleft.png",
+                    "name": "Alt PS D-Pad Left",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0008",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altpsdpadright.png",
+                    "name": "Alt PS D-Pad Right",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0009",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altpsdpadup.png",
+                    "name": "Alt PS D-Pad Up",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0010",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altpsl1.png",
+                    "name": "Alt PS L1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0011",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altpsl2.png",
+                    "name": "Alt PS L2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0012",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altpsoptions.png",
+                    "name": "Alt PS Options",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0013",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altpsr1.png",
+                    "name": "Alt PS R1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0014",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altpsr2.png",
+                    "name": "Alt PS R2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0015",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altpssquare.png",
+                    "name": "Alt PS Square",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0016",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altpstouchpad.png",
+                    "name": "Alt PS Touchpad",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0017",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altpstriangle.png",
+                    "name": "Alt PS Triangle",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0018",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdl1.png",
+                    "name": "Alt SD L1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0019",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdl2.png",
+                    "name": "Alt SD L2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0020",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdl3.png",
+                    "name": "Alt SD L3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0021",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdl4.png",
+                    "name": "Alt SD L4",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0022",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdl5.png",
+                    "name": "Alt SD L5",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0023",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdlsdown.png",
+                    "name": "Alt SD LS Down",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0024",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdlsleft.png",
+                    "name": "Alt SD LS Left",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0025",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdlsright.png",
+                    "name": "Alt SD LS Right",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0026",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdlsup.png",
+                    "name": "Alt SD LS Up",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0027",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdmenu.png",
+                    "name": "Alt SD Menu",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0028",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdr1.png",
+                    "name": "Alt SD R1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0029",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdr2.png",
+                    "name": "Alt SD R2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0030",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdr3.png",
+                    "name": "Alt SD R3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0031",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdr4.png",
+                    "name": "Alt SD R4",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0032",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdr5.png",
+                    "name": "Alt SD R5",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0033",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdrsdown.png",
+                    "name": "Alt SD RS Down",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0034",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdrsleft.png",
+                    "name": "Alt SD RS Left",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0035",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdrsright.png",
+                    "name": "Alt SD RS Right",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0036",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdrsup.png",
+                    "name": "Alt SD RS Up",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0037",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsdview.png",
+                    "name": "Alt SD View",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0038",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsharels.png",
+                    "name": "Alt Share LS",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0039",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsharels3.png",
+                    "name": "Alt Share LS3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0040",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsharelsdown.png",
+                    "name": "Alt Share LS Down",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0041",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsharelsleft.png",
+                    "name": "Alt Share LS Left",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0042",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsharelsleftright.png",
+                    "name": "Alt Share LS Left Right",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0043",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsharelsright.png",
+                    "name": "Alt Share LS Right",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0044",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsharelsup.png",
+                    "name": "Alt Share LS Up",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0045",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsharelsupdown.png",
+                    "name": "Alt Share LS Up Down",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0046",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsharers.png",
+                    "name": "Alt Share RS",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0047",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsharers3.png",
+                    "name": "Alt Share RS3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0048",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsharersdown.png",
+                    "name": "Alt Share RS Down",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0049",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsharersleft.png",
+                    "name": "Alt Share RS Left",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0050",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsharersleftright.png",
+                    "name": "Alt Share RS Left Right",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0051",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsharersright.png",
+                    "name": "Alt Share RS Right",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0052",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsharersup.png",
+                    "name": "Alt Share RS Up",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0053",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altsharersupdown.png",
+                    "name": "Alt Share RS Up Down",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0054",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altxboxa.png",
+                    "name": "Alt Xbox A",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0055",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altxboxb.png",
+                    "name": "Alt Xbox B",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0056",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altxboxdpad.png",
+                    "name": "Alt Xbox D-Pad",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0057",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altxboxdpaddown.png",
+                    "name": "Alt Xbox D-Pad Down",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0058",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altxboxdpadleft.png",
+                    "name": "Alt Xbox D-Pad Left",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0059",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altxboxdpadright.png",
+                    "name": "Alt Xbox D-Pad Right",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0060",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altxboxdpadup.png",
+                    "name": "Alt Xbox D-Pad Up",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0061",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altxboxl3.png",
+                    "name": "Alt Xbox L3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0062",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altxboxlb.png",
+                    "name": "Alt Xbox LB",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0063",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altxboxlt.png",
+                    "name": "Alt Xbox LT",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0064",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altxboxmenu.png",
+                    "name": "Alt Xbox Menu",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0065",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altxboxr3.png",
+                    "name": "Alt Xbox R3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0066",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altxboxrb.png",
+                    "name": "Alt Xbox RB",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0067",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altxboxrt.png",
+                    "name": "Alt Xbox RT",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0068",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altxboxview.png",
+                    "name": "Alt Xbox View",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0069",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altxboxx.png",
+                    "name": "Alt Xbox X",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0070",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/altxboxy.png",
+                    "name": "Alt Xbox Y",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0071",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/pscircle.png",
+                    "name": "PS Circle",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0072",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/pscreate.png",
+                    "name": "PS Create",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0073",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/pscross.png",
+                    "name": "PS Cross",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0074",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/psdpad.png",
+                    "name": "PS D-Pad",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0075",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/psdpaddown.png",
+                    "name": "PS D-Pad Down",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0076",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/psdpadleft.png",
+                    "name": "PS D-Pad Left",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0077",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/psdpadright.png",
+                    "name": "PS D-Pad Right",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0078",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/psdpadup.png",
+                    "name": "PS D-Pad Up",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0079",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/psl1.png",
+                    "name": "PS L1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0080",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/psl2.png",
+                    "name": "PS L2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0081",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/psoptions.png",
+                    "name": "PS Options",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0082",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/psr1.png",
+                    "name": "PS R1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0083",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/psr2.png",
+                    "name": "PS R2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0084",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/pssquare.png",
+                    "name": "PS Square",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0085",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/pstouchpad.png",
+                    "name": "PS Touchpad",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0086",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/pstriangle.png",
+                    "name": "PS Triangle",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0087",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdl1.png",
+                    "name": "SD L1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0088",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdl2.png",
+                    "name": "SD L2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0089",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdl3.png",
+                    "name": "SD L3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0090",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdl4.png",
+                    "name": "SD L4",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0091",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdl5.png",
+                    "name": "SD L5",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0092",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdlsdown.png",
+                    "name": "SD LS Down",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0093",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdlsleft.png",
+                    "name": "SD LS Left",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0094",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdlsright.png",
+                    "name": "SD LS Right",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0095",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdlsup.png",
+                    "name": "SD LS Up",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0096",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdmenu.png",
+                    "name": "SD Menu",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0097",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdr1.png",
+                    "name": "SD R1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0098",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdr2.png",
+                    "name": "SD R2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0099",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdr3.png",
+                    "name": "SD R3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0100",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdr4.png",
+                    "name": "SD R4",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0101",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdr5.png",
+                    "name": "SD R5",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0102",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdrsdown.png",
+                    "name": "SD RS Down",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0103",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdrsleft.png",
+                    "name": "SD RS Left",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0104",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdrsright.png",
+                    "name": "SD RS Right",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0105",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdrsup.png",
+                    "name": "SD RS Up",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0106",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sdview.png",
+                    "name": "SD View",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0107",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sharels.png",
+                    "name": "Share LS",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0108",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sharels3.png",
+                    "name": "Share LS3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0109",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sharelsdown.png",
+                    "name": "Share LS Down",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0110",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sharelsleft.png",
+                    "name": "Share LS Left",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0111",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sharelsleftright.png",
+                    "name": "Share LS Left Right",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0112",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sharelsrightab.png",
+                    "name": "Share LS Right AB",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0113",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sharelsup.png",
+                    "name": "Share LS Up",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0114",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sharelsupdown.png",
+                    "name": "Share LS Up Down",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0115",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sharer3.png",
+                    "name": "Share R3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0116",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sharers.png",
+                    "name": "Share RS",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0117",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sharersdown.png",
+                    "name": "Share RS Down",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0118",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sharersleft.png",
+                    "name": "Share RS Left",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0119",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sharersleftright.png",
+                    "name": "Share RS Left Right",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0120",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sharersright.png",
+                    "name": "Share RS Right",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0121",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sharersup.png",
+                    "name": "Share RS Up",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0122",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/sharersupdown.png",
+                    "name": "Share RS Up Down",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0123",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/xbox.png",
+                    "name": "Xbox",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0124",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/xboxa.png",
+                    "name": "Xbox A",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0125",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/xboxb.png",
+                    "name": "Xbox B",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0126",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/xboxdpad.png",
+                    "name": "Xbox D-Pad",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0127",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/xboxdpaddown.png",
+                    "name": "Xbox D-Pad Down",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0128",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/xboxdpadleft.png",
+                    "name": "Xbox D-Pad Left",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0129",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/xboxdpadright.png",
+                    "name": "Xbox D-Pad Right",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0130",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/xboxdpadup.png",
+                    "name": "Xbox D-Pad Up",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0131",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/xboxlb.png",
+                    "name": "Xbox LB",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0132",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/xboxlt.png",
+                    "name": "Xbox LT",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0133",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/xboxmenu.png",
+                    "name": "Xbox Menu",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0134",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/xboxr3.png",
+                    "name": "Xbox R3",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0135",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/xboxrb.png",
+                    "name": "Xbox RB",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0136",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/xboxrt.png",
+                    "name": "Xbox RT",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0137",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/xboxview.png",
+                    "name": "Xbox View",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Keybind-0138",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/console-keybinds/xboxx.png",
+                    "name": "Xbox X",
+                    "description": "Placeholder Description"
+                }
+            ]
         }
     ]
 }
