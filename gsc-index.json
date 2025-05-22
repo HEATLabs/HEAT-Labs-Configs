@@ -1,0 +1,114 @@
+{
+  "generated_at": "2025-05-22T14:51:02.319945",
+  "site_url": "https://pcwstats.github.io/",
+  "data": {
+    "site_url": "https://pcwstats.github.io/",
+    "last_checked": "2025-05-22T14:51:01.943977",
+    "date_range": {
+      "start_date": "2025-04-22",
+      "end_date": "2025-05-22"
+    },
+    "pages": [
+      {
+        "url": "https://pcwstats.github.io/",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/tanks.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/about-us.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/maps/blossom-crash.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/maps/scarred-city.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/tankopedia.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/tournaments.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      }
+    ],
+    "summary": {
+      "total_pages": 7,
+      "indexed_pages": 7,
+      "not_indexed_pages": 0,
+      "errors": 0
+    },
+    "sitemaps": [
+      {
+        "path": "https://pcwstats.github.io/site-data/sitemap.xml",
+        "last_submitted": "2025-05-19T00:17:00.785Z",
+        "is_pending": true,
+        "is_sitemaps_index": false,
+        "type": "",
+        "last_downloaded": "",
+        "warnings": "0",
+        "errors": "0"
+      }
+    ]
+  },
+  "summary": {
+    "total_pages_found": 7,
+    "indexed_pages": 7,
+    "errors": 0
+  }
+}
