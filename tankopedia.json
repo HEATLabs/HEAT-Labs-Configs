@@ -1,5 +1,23 @@
 {
-    "category_order": ["Charms", "Camos", "Paints", "Tank Skins" ,"Agent Skins", "Medals", "Tank Classes", "Videos", "Divisions", "Divisions Perks", "Menu Placeholders", "Consumables", "Player Ranks", "Reference Images", "Perks"],
+    "category_order": [
+        "Charms",
+        "Camos",
+        "Paints",
+        "Tank Skins",
+        "Agent Skins",
+        "Medals",
+        "Tank Classes",
+        "Videos",
+        "Divisions",
+        "Divisions Perks",
+        "Menu Placeholders",
+        "Consumables",
+        "Player Ranks",
+        "Reference Images",
+        "Perks",
+        "Hit Decals",
+        "Platform Icons"
+    ],
     "categories": [
         {
             "name": "Charms",
@@ -1327,9 +1345,7 @@
                     "description": "Placeholder Description",
                     "howto": "Placeholder HowTo"
                 }
-
             ]
-
         },
         {
             "name": "Agent Skins",
@@ -1431,7 +1447,6 @@
                     "description": "Placeholder Description",
                     "howto": "Base Agent Skin"
                 }
-
             ]
         },
         {
@@ -2639,7 +2654,7 @@
             "name": "Division Perks",
             "description": "Division Perks Section Description",
             "items": [
-               {
+                {
                     "id": "Division-Perk-0001",
                     "modalType": "banner",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/division-perks/division_perks_1.png",
@@ -6085,8 +6100,181 @@
                 {
                     "id": "Dev-Images-156",
                     "modalType": "standard",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/tankopedia/dev-images/wrldspace_clr.png",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/dev-images/wrldspace_clr.png",
                     "name": "World Space Color",
+                    "description": "Placeholder Description"
+                }
+            ]
+        },
+        {
+            "name": "Platform Icons",
+            "description": "Various combat abilities available to agents and vehicles",
+            "items": [
+                {
+                    "id": "Platform-Icon-001",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/platform-icons/icon_platform_pc.png",
+                    "name": "PC Platform",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Platform-Icon-002",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/platform-icons/icon_platform_playstation_1.png",
+                    "name": "PlayStation #1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Platform-Icon-003",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/platform-icons/icon_platform_playstation_2.png",
+                    "name": "PlayStation #2",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Platform-Icon-004",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/platform-icons/icon_platform_steamdeck.png",
+                    "name": "Steam Deck",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Platform-Icon-005",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/platform-icons/icon_platform_unknown_1.png",
+                    "name": "Unknown Platform",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Platform-Icon-006",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/platform-icons/icon_platform_xbox_1.png",
+                    "name": "Xbox #1",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Platform-Icon-007",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/platform-icons/icon_platform_xbox_2.png",
+                    "name": "Xbox #2",
+                    "description": "Placeholder Description"
+                }
+            ]
+        },
+        {
+            "name": "Hit Decals",
+            "description": "Various combat abilities available to agents and vehicles",
+            "items": [
+                {
+                    "id": "Hit-Decal-001",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/hit-decals/ap_autocannon_hit.png",
+                    "name": "AP Autocannon Hit",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Hit-Decal-002",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/hit-decals/ap_autocannon_hit_angle.png",
+                    "name": "AP Autocannon Hit Angle",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Hit-Decal-003",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/hit-decals/ap_autocannon_penetration.png",
+                    "name": "AP Autocannon Penetration",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Hit-Decal-004",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/hit-decals/ap_autocannon_penetration_angle.png",
+                    "name": "AP Autocannon Penetration Angle",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Hit-Decal-005",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/hit-decals/ap_autocannon_ricochet.png",
+                    "name": "AP Autocannon Ricochet",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Hit-Decal-006",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/hit-decals/apfsds_hit.png",
+                    "name": "APFSDS Hit",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Hit-Decal-007",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/hit-decals/apfsds_hit_angle.png",
+                    "name": "APFSDS Hit Angle",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Hit-Decal-008",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/hit-decals/apfsds_penetration.png",
+                    "name": "APFSDS Penetration",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Hit-Decal-009",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/hit-decals/apfsds_penetration_angle.png",
+                    "name": "APFSDS Penetration Angle",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Hit-Decal-010",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/hit-decals/apfsds_ricochet.png",
+                    "name": "APFSDS Ricochet",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Hit-Decal-011",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/hit-decals/concrete_hit.png",
+                    "name": "Concrete Hit",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Hit-Decal-012",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/hit-decals/he_hit.png",
+                    "name": "HE Hit",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Hit-Decal-013",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/hit-decals/heat_hit.png",
+                    "name": "HEAT Hit",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Hit-Decal-014",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/hit-decals/heat_hit_angle.png",
+                    "name": "HEAT Hit Angle",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Hit-Decal-015",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/hit-decals/heat_penetration.png",
+                    "name": "HEAT Penetration",
+                    "description": "Placeholder Description"
+                },
+                {
+                    "id": "Hit-Decal-016",
+                    "modalType": "banner",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/hit-decals/heat_ricochet.png",
+                    "name": "HEAT Ricochet",
                     "description": "Placeholder Description"
                 }
             ]
