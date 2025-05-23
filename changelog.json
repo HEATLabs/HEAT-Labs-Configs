@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "version": "0.0.0592",
+      "date": "2025-05-22",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #28",
+      "description": "Complete patch notes for update v0.0.0592, No. #28, issued on 22 May, 2025.",
+      "added": [
+        "GSC-Index-Checker script to check indexing status via Index API",
+        "First iteration of optimization to Tournaments, Tournament 1, and Tournament 2 pages",
+        "Videos, developer images, shell components, keybinds, perks, platform icons, hit decals, and reference images to Tankopedia data",
+        "New Tankopedia categories including Platform Icons, Hit Decals, and Perks",
+        "modalType key to all Tankopedia entries",
+        "Console keybind, shell, hit decal, platform icon, reference, perk, player rank, division, division perk, background, consumable, and menu placeholder images to Tankopedia"
+      ],
+      "changed": [
+        "Tankopedia loading behavior to default to first filter",
+        "Tankopedia updated with multi-modal layout",
+        "Alpha 1 Tournament page updated to use new media gallery format",
+        "Tournament 2 page updated with new media gallery format and fixed Pincer logo path",
+        "Tournament pages optimized by preloading tank icons",
+        "Home page line-of-code counter updated",
+        "Tankopedia.json now separates Paints from Camos"
+      ],
+      "fixed": [
+        "Console Keybinds category typo on Tankopedia page",
+        "Filename issues in Tankopedia developer images",
+        "Leopard 1A1B image pathing issue in OAT1.json"
+      ],
+      "removed": [
+        "Mislabeled image from Tankopedia consumable images"
+      ]
+    },
+    {
       "version": "0.0.0575",
       "date": "2025-05-21",
       "author": "PCWStats Team",
