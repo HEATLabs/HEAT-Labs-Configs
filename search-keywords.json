@@ -820,5 +820,113 @@
     "description": "Article: Who Are They 2",
     "path": "https://pcwstats.github.io/news/who-are-they-2.html",
     "keywords": ["news", "article", "who are they 2"]
+  },
+  {
+    "name": "Alpha 1 Announcement 1",
+    "description": "First announcement for Alpha 1 testing phase",
+    "path": "https://pcwstats.github.io/announcements/alpha-1-announcement-1.html",
+    "keywords": ["announcement", "alpha 1", "testing", "phase", "first"]
+  },
+  {
+    "name": "Alpha 1 Announcement 2",
+    "description": "Second announcement for Alpha 1 testing phase",
+    "path": "https://pcwstats.github.io/announcements/alpha-1-announcement-2.html",
+    "keywords": ["announcement", "alpha 1", "testing", "phase", "second"]
+  },
+  {
+    "name": "Alpha 2 Facts and Figures",
+    "description": "Statistics and data from the Alpha 2 testing phase",
+    "path": "https://pcwstats.github.io/announcements/alpha-2-facts-figures.html",
+    "keywords": ["alpha 2", "facts", "figures", "stats", "data", "testing"]
+  },
+  {
+    "name": "Alpha 2 Has Ended",
+    "description": "Announcement about the conclusion of Alpha 2 testing",
+    "path": "https://pcwstats.github.io/announcements/alpha-2-has-ended.html",
+    "keywords": ["alpha 2", "ended", "conclusion", "testing", "phase"]
+  },
+  {
+    "name": "Alpha 2 Livestream",
+    "description": "Information about Alpha 2 livestream events",
+    "path": "https://pcwstats.github.io/announcements/alpha-2-livestream.html",
+    "keywords": ["alpha 2", "livestream", "twitch", "youtube", "stream"]
+  },
+  {
+    "name": "Alpha 2 Tournament",
+    "description": "Details about the Alpha 2 tournament",
+    "path": "https://pcwstats.github.io/announcements/alpha-2-tournament.html",
+    "keywords": ["alpha 2", "tournament", "competitive", "esports", "event"]
+  },
+  {
+    "name": "James's Introduction",
+    "description": "Introduction of PCW team member James",
+    "path": "https://pcwstats.github.io/announcements/jamess-introduction.html",
+    "keywords": ["team", "introduction", "james", "developer", "staff"]
+  },
+  {
+    "name": "Last Day of Alpha 2",
+    "description": "Announcement about the final day of Alpha 2 testing",
+    "path": "https://pcwstats.github.io/announcements/last-day-of-alpha-2.html",
+    "keywords": ["alpha 2", "last day", "final", "testing", "phase"]
+  },
+  {
+    "name": "Voreksis's Introduction",
+    "description": "Introduction of PCW team member Voreksis",
+    "path": "https://pcwstats.github.io/announcements/voreksis-introduction.html",
+    "keywords": ["team", "introduction", "voreksis", "developer", "staff"]
+  },
+  {
+    "name": "Winter Wargames Tournament",
+    "description": "Details about the Winter Wargames Tournament",
+    "path": "https://pcwstats.github.io/announcements/winter-wargames-tournament-1.html",
+    "keywords": ["winter", "wargames", "tournament", "event", "competitive"]
+  },
+  {
+    "name": "Meet the Team: Esmatty",
+    "description": "Profile of PCWStats team member Esmatty",
+    "path": "https://pcwstats.github.io/blog/meet-the-team-esmatty.html",
+    "keywords": ["team", "profile", "esmatty", "developer", "staff", "blog"]
+  },
+  {
+    "name": "Meet the Team: SINEWAVE",
+    "description": "Profile of PCWStats team member Sinewave",
+    "path": "https://pcwstats.github.io/blog/meet-the-team-sinewave.html",
+    "keywords": ["team", "profile", "sinewave", "developer", "staff", "blog"]
+  },
+  {
+    "name": "Meet the Team: _VEN0M",
+    "description": "Profile of PCWStats team member _VEN0M",
+    "path": "https://pcwstats.github.io/blog/meet-the-team-ven0m.html",
+    "keywords": ["team", "profile", "ven0m", "developer", "staff", "blog"]
+  },
+  {
+    "name": "Tournament Feature Blog",
+    "description": "Blog post about tournament features",
+    "path": "https://pcwstats.github.io/blog/tournament-feature-blog.html",
+    "keywords": ["tournament", "features", "blog", "competitive", "events"]
+  },
+  {
+    "name": "Bug Hunting",
+    "description": "Information about bug hunting and reporting",
+    "path": "https://pcwstats.github.io/bug-hunting.html",
+    "keywords": ["bug", "hunting", "report", "issues", "feedback"]
+  },
+  {
+    "name": "Esmatty's XM1-V Guide",
+    "description": "Guide for the XM1-V tank by Esmatty",
+    "path": "https://pcwstats.github.io/guides/tanks/esmattys-xm1-v-guide.html",
+    "keywords": ["guide", "xm1-v", "tank", "esmatty", "strategy", "build"]
+  },
+  {
+    "name": "Long Time No See",
+    "description": "News update after a period of inactivity",
+    "path": "https://pcwstats.github.io/news/long-time-no-see.html",
+    "keywords": ["news", "update", "return", "announcement", "status"]
+  },
+  {
+    "name": "Strategy Planner",
+    "description": "Tool for planning and sharing battle strategies",
+    "path": "https://pcwstats.github.io/strategy-planner.html",
+    "keywords": ["strategy", "planner", "tool", "plan", "tactics", "battle"]
   }
 ]
