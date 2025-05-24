@@ -1,6 +1,42 @@
 {
   "updates": [
     {
+      "version": "0.0.0613",
+      "date": "2025-05-23",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #29",
+      "description": "Complete patch notes for update v0.0.0613, No. #29, issued on 23 May, 2025.",
+      "added": [
+        "Primary Meta Tags section and updater script",
+        "Platform-specific meta tags: Twitter, Open Graph, compatibility, favicon, and shortcut icons to all pages",
+        "New quick links section to About Us page",
+        "WIP modal for sidebar menu and links",
+        "misc.css and misc.js files, imported across all pages",
+        "Additional hero background images",
+        "Image for Esmatty's XM1V guide"
+      ],
+      "changed": [
+        "Development dashboard and generation script to include new pages",
+        "Hero script to use new hero images",
+        "Sidebar menu order on all pages",
+        "Strategy planner page renamed from strat-planner",
+        "Sidebar menu with removed redundant theme toggle",
+        "All meta descriptions for all page types (news, announcement, blog, guide, map, legal, tank, tournament, main)",
+        "Loading optimizations on tournament and homepage (crossorigin attribute, Tankopedia lazy loading)",
+        "Devs-only page and script with new sidebar format",
+        "All site images and new PNGs tagged with PCWStats metadata"
+      ],
+      "fixed": [
+        "Spacing error in head link on Alpha 2 tournament pages",
+        "Two corrupted agent images",
+        "Meta URL path issue"
+      ],
+      "removed": [
+        "Unused maps.js import from tournaments page",
+        "Unused image from Tankopedia console keybinds"
+      ]
+    },
+    {
       "version": "0.0.0592",
       "date": "2025-05-22",
       "author": "PCWStats Team",
