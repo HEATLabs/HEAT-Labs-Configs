@@ -50,10 +50,10 @@
     {
         "id": 4,
         "name": "Challenger",
-        "slug": "Work in Progress",
+        "slug": "challenger",
         "nation": "UK",
         "type": "Unknown",
-        "class": "Unknown",
+        "class": "Work in Progress",
         "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tanks/challenger/upscaled_challenger.png",
         "stock": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/challenger/stock.json",
         "upgrades": "https://raw.githubusercontent.com/PCWStats/Database-Files/main/tanks/challenger/upgrades.json",
