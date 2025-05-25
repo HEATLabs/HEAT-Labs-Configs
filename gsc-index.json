@@ -1,9 +1,9 @@
 {
-  "generated_at": "2025-05-25T04:05:54.230641",
+  "generated_at": "2025-05-25T20:14:02.213777",
   "site_url": "https://pcwstats.github.io/",
   "data": {
     "site_url": "https://pcwstats.github.io/",
-    "last_checked": "2025-05-25T04:05:53.812630",
+    "last_checked": "2025-05-25T20:14:01.870264",
     "date_range": {
       "start_date": "2025-04-25",
       "end_date": "2025-05-25"
@@ -120,6 +120,17 @@
         "user_agent": "DESKTOP"
       },
       {
+        "url": "https://pcwstats.github.io/maps/moonshot.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
         "url": "https://pcwstats.github.io/maps/nexus-dam.html",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -164,6 +175,28 @@
         "user_agent": "DESKTOP"
       },
       {
+        "url": "https://pcwstats.github.io/news/gun-dispersion-changes.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/news/new-agents-2.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
         "url": "https://pcwstats.github.io/tankopedia.html",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -187,15 +220,25 @@
       }
     ],
     "summary": {
-      "total_pages": 16,
-      "indexed_pages": 16,
+      "total_pages": 19,
+      "indexed_pages": 19,
       "not_indexed_pages": 0,
       "errors": 0
     },
     "sitemaps": [
       {
+        "path": "https://pcwstats.github.io/sitemap.xml",
+        "last_submitted": "2025-05-25T16:23:59.077Z",
+        "is_pending": true,
+        "is_sitemaps_index": false,
+        "type": "",
+        "last_downloaded": "",
+        "warnings": "0",
+        "errors": "0"
+      },
+      {
         "path": "https://pcwstats.github.io/site-data/sitemap.xml",
-        "last_submitted": "2025-05-19T00:17:00.785Z",
+        "last_submitted": "2025-05-25T15:38:07.387Z",
         "is_pending": true,
         "is_sitemaps_index": false,
         "type": "",
@@ -206,8 +249,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 16,
-    "indexed_pages": 16,
+    "total_pages_found": 19,
+    "indexed_pages": 19,
     "errors": 0
   }
 }
