@@ -1,6 +1,32 @@
 {
   "updates": [
     {
+      "version": "0.0.0625",
+      "date": "2025-05-24",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #30",
+      "description": "Complete patch notes for update v0.0.0625, No. #30, issued on 24 May, 2025.",
+      "added": [
+        "Esmatty's XM1-V tank guide",
+        "XM1-V guide linked to both guide pages",
+        "Checker script for search-keywords.json file",
+        "New GSC data to gsc-index.json",
+        "Missing pages to search-keywords.json"
+      ],
+      "changed": [
+        "Guide category pages updated to use blog-style layout",
+        "Guide templates updated for all categories",
+        "Tankopedia page updated to use local copy of Pannellum",
+        "Formatted Pannellum library files",
+        "Date format in Esmatty's XM1-V guide",
+        "Image paths in Esmatty's XM1-V guide"
+      ],
+      "fixed": [],
+      "removed": [
+        "Redundant go-to easter egg scripts (replaced with unified snippet in misc.js)"
+      ]
+    },
+    {
       "version": "0.0.0613",
       "date": "2025-05-23",
       "author": "PCWStats Team",
