@@ -1,4 +1,23 @@
 {
+  "2025-05-24": [
+    "[pcwstats.github.io] updated guide category pages to use the new blog style format",
+    "[pcwstats.github.io] formatted pannellum library files",
+    "[pcwstats.github.io] removed redundant go-to easter egg scripts",
+    "[pcwstats.github.io] added \"go-to\" easter egg scripts as a single snippet inside misc.js",
+    "[pcwstats.github.io] updated tankopedia page to use local copy of pannellum",
+    "[pcwstats.github.io] updated guide template for all guide categories",
+    "[pcwstats.github.io] linked esmatty's xm1-v guide to both guide pages",
+    "[pcwstats.github.io] updated date format in esmatty's xm1-v guide",
+    "[pcwstats.github.io] fixed issues with image paths in esmatty's xm1-v guide",
+    "[pcwstats.github.io] Merge branch 'main' of https://github.com/PCWStats/pcwstats.github.io",
+    "[pcwstats.github.io] added esmatty's xm1-v tank guide",
+    "[Website-Configs] updated gsc-index.json with new GSC data",
+    "[Website-Configs] added missing pages to search-keywords.json",
+    "[Website-Configs] updated changelog",
+    "[Website-Configs] updated daily commit log",
+    "[Website-Images] moved esmatty's xm1v guide image to dedicated folder",
+    "[Database-Tools] added checker script for the search-keywords.json file"
+  ],
   "2025-05-23": [
     "[pcwstats.github.io] Updated development dashboard and generation script to include new pages",
     "[pcwstats.github.io] tweaked global hero script to use the new hero images",
