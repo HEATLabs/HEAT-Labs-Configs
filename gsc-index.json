@@ -1,12 +1,12 @@
 {
-  "generated_at": "2025-05-24T09:43:12.331471",
+  "generated_at": "2025-05-25T04:05:54.230641",
   "site_url": "https://pcwstats.github.io/",
   "data": {
     "site_url": "https://pcwstats.github.io/",
-    "last_checked": "2025-05-24T09:43:11.906403",
+    "last_checked": "2025-05-25T04:05:53.812630",
     "date_range": {
-      "start_date": "2025-04-24",
-      "end_date": "2025-05-24"
+      "start_date": "2025-04-25",
+      "end_date": "2025-05-25"
     },
     "pages": [
       {
@@ -142,6 +142,17 @@
         "user_agent": "DESKTOP"
       },
       {
+        "url": "https://pcwstats.github.io/maps/project-phoenix.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
         "url": "https://pcwstats.github.io/maps/scarred-city.html",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -176,8 +187,8 @@
       }
     ],
     "summary": {
-      "total_pages": 15,
-      "indexed_pages": 15,
+      "total_pages": 16,
+      "indexed_pages": 16,
       "not_indexed_pages": 0,
       "errors": 0
     },
@@ -195,8 +206,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 15,
-    "indexed_pages": 15,
+    "total_pages_found": 16,
+    "indexed_pages": 16,
     "errors": 0
   }
 }
