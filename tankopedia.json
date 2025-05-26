@@ -24,39 +24,39 @@
             "description": "Charms are cosmetic attachments that players can equip on their tanks to showcase achievements, express personality, or add flair to their tanks. From rare rewards to quirky collectibles, each charm tells a story, whether it's earned in fierce tournaments or discovered through limited-time events.",
             "items": [
                 {
-                    "id": "Charm-0001",
+                    "id": "Charm-0014",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/alpha_tester_reward_1.png",
-                    "name": "Alpha #1 Tester Reward",
-                    "description": "Charm Description 1",
-                    "howto": "Reach and claim level 11 in the Alpha 1 seasonal pass"
+                    "name": "Alpha Test",
+                    "description": "The Alpha Tester Token is a special emblem honoring your innovation and dedication. Carry it as a symbol of your contribution during the alpha testing phase, embodying the spirit of exploration and progress.",
+                    "howto": "This charm was awarded to testers who participated in the first Open Alpha playtest."
                 },
                 {
-                    "id": "Charm-0002",
+                    "id": "Charm-0052",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/alpha_tester_reward_2.png",
-                    "name": "Alpha #2 Testers Reward",
+                    "name": "Alpha 2 Test",
                     "description": "For those who joined the game at the next stage of its evolution and helped shaping up its future. Our Alpha 2 playtesters, wear this charm as a symbol of the battles for the perfect game we've been through together.",
-                    "howto": "Participate in Alpha 2 test"
+                    "howto": "This item is available for Alpha 2 playtest participants. Don't want to miss another playtest? Check our Discord for updates!"
+                },
+                {
+                    "id": "Charm-0018",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/alpha_tournament_medal_1.png",
+                    "name": "Alpha Tournament Medal",
+                    "description": "The Tournament Medal Talisman celebrates your tournament participation, symbolizing skill and camaraderie. Carry it as a token of your achievements and a reminder of shared victories.",
+                    "howto": "This item could be obtained in our Alpha Tournament. Want more rewards? Check our Discord for upcoming events!"
+                },
+                {
+                    "id": "Charm-0048",
+                    "modalType": "standard",
+                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/alpha_tournament_medal_2.png",
+                    "name": "Alpha Tournament 2 Medal",
+                    "description": "The Tournament Medal Talisman celebrates your tournament participation, symbolizing skill and camaraderie. Carry it as a token of your achievements and a reminder of shared victories.",
+                    "howto": "This item could be obtained in our Alpha Tournament. Want more rewards? Check our Discord for upcoming events!"
                 },
                 {
                     "id": "Charm-0003",
-                    "modalType": "standard",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/alpha_tournament_medal_1.png",
-                    "name": "Alpha #1 Tournament Medal",
-                    "description": "The Tournament Medal Talisman celebrates your tournament participation, symbolizing skill and camaraderie. Carry it as a token of your achievements and a reminder of shared victories.",
-                    "howto": "Participate in Alpha 1 tournament"
-                },
-                {
-                    "id": "Charm-0004",
-                    "modalType": "standard",
-                    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/alpha_tournament_medal_2.png",
-                    "name": "Alpha #2 Tournament Medal",
-                    "description": "The Tournament Medal Talisman celebrates your tournament participation, symbolizing skill and camaraderie. Carry it as a token of your achievements and a reminder of shared victories.",
-                    "howto": "Participate in Alpha 2 tournament"
-                },
-                {
-                    "id": "Charm-0005",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/batmaus.png",
                     "name": "Batmaus",
@@ -64,7 +64,7 @@
                     "howto": "Placeholder HowTo"
                 },
                 {
-                    "id": "Charm-0006",
+                    "id": "Charm-0019",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/battle_tank.png",
                     "name": "Battle Tank",
@@ -72,11 +72,11 @@
                     "howto": "Placeholder HowTo"
                 },
                 {
-                    "id": "Charm-0007",
+                    "id": "Charm-0006",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/cactus.png",
                     "name": "Cactus",
-                    "description": "Charm Description 7",
+                    "description": "The Cactus charm is a resilient item inspired by a miniature cactus, symbolizing strength and adaptability. Carry it to embrace the spirit of endurance in any situation.",
                     "howto": "Placeholder HowTo"
                 },
                 {
@@ -88,12 +88,12 @@
                     "howto": "Placeholder HowTo"
                 },
                 {
-                    "id": "Charm-0009",
+                    "id": "Charm-0049",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/crt_tv.png",
-                    "name": "CRT TV",
+                    "name": "Ready, Steady... Stand By",
                     "description": "For the stalwart pioneers who stood their ground during Alpha 2 Day 1's technical turbulence: a nostalgic TV test pattern display, frozen in time from when the engines first tried to turn. Your patience didn't go unnoticed - wear it as a badge of honor.",
-                    "howto": "Play the game within the first three days of Alpha 2 starting"
+                    "howto": "This award is granted for taking part in the Alpha 2 launch within the first 3 days."
                 },
                 {
                     "id": "Charm-0010",
@@ -120,15 +120,15 @@
                     "howto": "Placeholder HowTo"
                 },
                 {
-                    "id": "Charm-0013",
+                    "id": "Charm-0005",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/disco_ball.png",
                     "name": "Disco Ball",
-                    "description": "Charm Description 13",
+                    "description": "The Disco Ball charm is a vibrant item that mirrors dancefloor energy. With reflective facets, it radiates dazzling lights, broadcasting the lively spirit of disco wherever you go.",
                     "howto": "Placeholder HowTo"
                 },
                 {
-                    "id": "Charm-0014",
+                    "id": "Charm-0037",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/dollar_sign.png",
                     "name": "Buck",
@@ -160,19 +160,19 @@
                     "howto": "Placeholder HowTo"
                 },
                 {
-                    "id": "Charm-0018",
+                    "id": "Charm-0025",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/golden_aksu.png",
-                    "name": "Golden AK",
-                    "description": "Charm Description 18",
+                    "name": "AKSU-74",
+                    "description": "The AKSU-74 Talisman is a symbol of resilience and adaptability, inspired by the compact assault rifle renowned for its effectiveness in close-quarters combat. Carry it as a reminder of your ability to navigate challenges with precision and agility, embodying the spirit of resilience in any situation.",
                     "howto": "Placeholder HowTo"
                 },
                 {
-                    "id": "Charm-0019",
+                    "id": "Charm-0007",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/goldfish.png",
                     "name": "Goldfish",
-                    "description": "Charm Description 19",
+                    "description": "The Goldfish Aquarium charm is a serene item featuring lively goldfish in a miniature underwater world. Carry it to bring a touch of tranquility and positive energy wherever you go.",
                     "howto": "Placeholder HowTo"
                 },
                 {
@@ -200,27 +200,27 @@
                     "howto": "Placeholder HowTo"
                 },
                 {
-                    "id": "Charm-0023",
+                    "id": "Charm-0050",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/lodestar_program_1.png",
-                    "name": "Lodestar Program #1",
+                    "name": "Lodestar Program",
                     "description": "A tribute to the fearless test pilots who push our bleeding-edge tech and most experimental vehicles to their limits. This charm honors your curiosity and persistence - may it light your path to victory.",
-                    "howto": "Lodestar Exclusive"
+                    "howto": "Available exclusively to Lodestar Program members. Ready to join our next testing phase? Join us on Discord!"
                 },
                 {
-                    "id": "Charm-0024",
+                    "id": "Charm-0051",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/lodestar_program_2.png",
-                    "name": "Lodestar Program #2",
+                    "name": "Lodestar Program",
                     "description": "A tribute to the fearless test pilots who push our bleeding-edge tech and most experimental vehicles to their limits. This charm honors your curiosity and persistence - may it light your path to victory.",
-                    "howto": "Lodestar Exclusive"
+                    "howto": "Available exclusively to Lodestar Program members. Ready to join our next testing phase? Join us on Discord!"
                 },
                 {
-                    "id": "Charm-0025",
+                    "id": "Charm-0013",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/maneki_neko.png",
                     "name": "Maneki Neko",
-                    "description": "Charm Description 25",
+                    "description": "The Maneki Neko talisman, modeled after the Japanese beckoning cat, brings good fortune and positivity. Carry it for a touch of charm and blessings in your life.",
                     "howto": "Placeholder HowTo"
                 },
                 {
@@ -312,11 +312,11 @@
                     "howto": "Placeholder HowTo"
                 },
                 {
-                    "id": "Charm-0037",
+                    "id": "Charm-0001",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/piston_skull.png",
-                    "name": "Piston Skull",
-                    "description": "Charm Description 37",
+                    "name": "The Jolly Piston",
+                    "description": "A skull adorned with mechanical teeth and surrounded by energetic pistons, exuding power and engineering magic.",
                     "howto": "Placeholder HowTo"
                 },
                 {
@@ -400,7 +400,7 @@
                     "howto": "Placeholder HowTo"
                 },
                 {
-                    "id": "Charm-0048",
+                    "id": "Charm-0024",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/sandwatch.png",
                     "name": "Sandwatch",
@@ -408,7 +408,7 @@
                     "howto": "Placeholder HowTo"
                 },
                 {
-                    "id": "Charm-0049",
+                    "id": "Charm-0009",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/wall_clock.png",
                     "name": "Wall Clock",
@@ -416,7 +416,7 @@
                     "howto": "Placeholder HowTo"
                 },
                 {
-                    "id": "Charm-0050",
+                    "id": "Charm-0023",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/wg_logo.png",
                     "name": "Wargaming Logo",
@@ -424,15 +424,15 @@
                     "howto": "Wargaming Exclusive"
                 },
                 {
-                    "id": "Charm-0051",
+                    "id": "Charm-0004",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/wind_spinner_sugar_skull.png",
-                    "name": "Wind Spinner Sugar Skull",
-                    "description": "Charm Description 51",
+                    "name": "Calavera",
+                    "description": "An enchanting token, Calavera dances with vibrant hues and mystical energy, weaving tales of celebration and spiritual transcendence.",
                     "howto": "Placeholder HowTo"
                 },
                 {
-                    "id": "Charm-0052",
+                    "id": "Charm-0002",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/charms/wind_spinner_yin_yang.png",
                     "name": "Wind Spinner Yin Yang",
@@ -449,7 +449,7 @@
                     "id": "Paint-0001",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/paints/paint01.png",
-                    "name": "Paint #1",
+                    "name": "Mochaccino",
                     "description": "Paint Description 1",
                     "howto": "Placeholder HowTo"
                 },
@@ -545,7 +545,7 @@
                     "id": "Paint-0013",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/paints/paint13.png",
-                    "name": "Paint #13",
+                    "name": "Goblin",
                     "description": "Paint Description 13",
                     "howto": "Placeholder HowTo"
                 },
@@ -609,7 +609,7 @@
                     "id": "Paint-0022",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/paints/paint22.png",
-                    "name": "Paint #22",
+                    "name": "Night Rider",
                     "description": "Paint Description 22",
                     "howto": "Placeholder HowTo"
                 },
@@ -641,7 +641,7 @@
                     "id": "Paint-0026",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/paints/paint26.png",
-                    "name": "Paint #26",
+                    "name": "Dark Gray",
                     "description": "Paint Description 26",
                     "howto": "Placeholder HowTo"
                 },
@@ -713,7 +713,7 @@
                     "id": "Paint-0035",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/paints/paint35.png",
-                    "name": "Paint #35",
+                    "name": "Grandis Metallic",
                     "description": "Paint Description 35",
                     "howto": "Placeholder HowTo"
                 },
@@ -721,7 +721,7 @@
                     "id": "Paint-0036",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/paints/paint36.png",
-                    "name": "Paint #36",
+                    "name": "Magenta",
                     "description": "Paint Description 36",
                     "howto": "Placeholder HowTo"
                 }
@@ -735,8 +735,8 @@
                     "id": "Camouflage-0001",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/camouflages/camo_1.png",
-                    "name": "Camouflage #1",
-                    "description": "Camouflage Description 1",
+                    "name": "American Fireball",
+                    "description": "A unique all-season camouflage for the American Fireball style.",
                     "howto": "Placeholder HowTo"
                 },
                 {
@@ -751,8 +751,8 @@
                     "id": "Camouflage-0003",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/camouflages/camo_3.png",
-                    "name": "Camouflage #3",
-                    "description": "Camouflage Description 3",
+                    "name": "Desert Pattern",
+                    "description": "Camouflage style for the Soviet design school.",
                     "howto": "Placeholder HowTo"
                 },
                 {
@@ -775,7 +775,7 @@
                     "id": "Camouflage-0006",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/camouflages/camo_6.png",
-                    "name": "Camouflage #6",
+                    "name": "Digital adapted summer",
                     "description": "Camouflage Description 6",
                     "howto": "Placeholder HowTo"
                 },
@@ -879,8 +879,8 @@
                     "id": "Camouflage-0019",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/camouflages/camo_19.png",
-                    "name": "Camouflage #19",
-                    "description": "Camouflage Description 19",
+                    "name": "Czechoslovakian From 1930",
+                    "description": "Used until 1939. Yellow and brown spots were applied over dull-green dye. Each vehicle had a unique pattern.",
                     "howto": "Placeholder HowTo"
                 },
                 {
@@ -911,8 +911,8 @@
                     "id": "Camouflage-0023",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/camouflages/camo_23.png",
-                    "name": "Camouflage #23",
-                    "description": "Camouflage Description 23",
+                    "name": "Wu Xing Element: Wood",
+                    "description": "All-season camouflage pattern that commemorates the celebration of the Chinese New Year and represents a Wu Xing element.",
                     "howto": "Placeholder HowTo"
                 },
                 {
@@ -1000,7 +1000,7 @@
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/camouflages/camo_34.png",
                     "name": "Camouflage #34",
-                    "description": "Camouflage Description 34",
+                    "description": "Days of Glory",
                     "howto": "Placeholder HowTo"
                 },
                 {
@@ -1060,7 +1060,7 @@
                     "howto": "Placeholder HowTo"
                 },
                 {
-                    "id": "Charm-0042",
+                    "id": "Camouflage-0042",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/camouflages/camo_42.png",
                     "name": "Camouflage #42",
