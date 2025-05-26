@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Alpha #1 Tournament",
+    "slug": "open-alpha-1-tournament",
+    "description": "Open Alpha Tournament 1",
+    "date": "2024-01-27",
+    "mode": "Plant & Defuse",
+    "type": "Ended",
+    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/tournaments/OAT1/Tournament_announcement-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Alpha #2 Tournament",
+    "slug": "open-alpha-2-tournament",
+    "description": "Open Alpha Tournament 2",
+    "date": "2025-02-22",
+    "mode": "Plant & Defuse",
+    "type": "Ended",
+    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/tournaments/OAT2/Tournament_announcement-2.png"
+  },
+  {
+    "id": 3,
+    "name": "Test Ongoing Placeholder Tournament",
+    "slug": "open-alpha-3-tournament",
+    "description": "Placeholder tournament description 3",
+    "date": "2026-02-22",
+    "mode": "Plant & Defuse",
+    "type": "Ongoing",
+    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/placeholder/imagecomingsoon.png"
+  }
+]
