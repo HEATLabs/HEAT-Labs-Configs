@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Alpha #1 Tournament",
+    "slug": "alpha #1 tournament",
+    "date": "January 27, 2024 - January 28, 2024",
+    "mode": "Plant & Defuse",
+    "type": "Ended",
+    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/tournaments/OAT1/Tournament_announcement-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Alpha #2 Tournament",
+    "slug": "alpha #2 tournament",
+    "date": "February 22, 2025 - February 23, 2025",
+    "mode": "Plant & Defuse",
+    "type": "Ended",
+    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/tournaments/OAT2/Tournament_announcement-2.png"
+  },
+  {
+    "id": 3,
+    "name": "Test Ongoing Placeholder Tournament",
+    "slug": "test ongoing placeholder tournament",
+    "date": "February 24, 2025 - February 25, 2025",
+    "mode": "Plant & Defuse",
+    "type": "Ongoing",
+    "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/refs/heads/main/placeholder/imagecomingsoon.png"
+  }
+]
