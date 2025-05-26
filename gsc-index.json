@@ -1,12 +1,12 @@
 {
-  "generated_at": "2025-05-25T20:14:02.213777",
+  "generated_at": "2025-05-26T15:33:37.305852",
   "site_url": "https://pcwstats.github.io/",
   "data": {
     "site_url": "https://pcwstats.github.io/",
-    "last_checked": "2025-05-25T20:14:01.870264",
+    "last_checked": "2025-05-26T15:33:36.804373",
     "date_range": {
-      "start_date": "2025-04-25",
-      "end_date": "2025-05-25"
+      "start_date": "2025-04-26",
+      "end_date": "2025-05-26"
     },
     "pages": [
       {
@@ -66,6 +66,17 @@
       },
       {
         "url": "https://pcwstats.github.io/maps.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/maps/baikonur.html",
         "status": "indexed_and_served",
         "last_crawled": null,
         "indexing_state": "INDEXED",
@@ -197,6 +208,17 @@
         "user_agent": "DESKTOP"
       },
       {
+        "url": "https://pcwstats.github.io/news/progression-and-social-changes.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
         "url": "https://pcwstats.github.io/tankopedia.html",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -220,15 +242,15 @@
       }
     ],
     "summary": {
-      "total_pages": 19,
-      "indexed_pages": 19,
+      "total_pages": 21,
+      "indexed_pages": 21,
       "not_indexed_pages": 0,
       "errors": 0
     },
     "sitemaps": [
       {
         "path": "https://pcwstats.github.io/sitemap.xml",
-        "last_submitted": "2025-05-25T16:23:59.077Z",
+        "last_submitted": "2025-05-26T12:31:44.951Z",
         "is_pending": true,
         "is_sitemaps_index": false,
         "type": "",
@@ -249,8 +271,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 19,
-    "indexed_pages": 19,
+    "total_pages_found": 21,
+    "indexed_pages": 21,
     "errors": 0
   }
 }
