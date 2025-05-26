@@ -1,6 +1,57 @@
 {
   "updates": [
     {
+      "version": "0.0.0661",
+      "date": "2025-05-25",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #31",
+      "description": "Complete patch notes for update v0.0.0661, No. #31, issued on 25 May, 2025.",
+      "added": [
+        "Experimental Common Builds page",
+        "WIP modal bypass for WIP features in sidebar menu",
+        "Recommended Builds section to all tank pages",
+        "AI upscaling warning to all tank pages",
+        "Upscaled version of all tank images",
+        "Dummy sitemap to root",
+        "All video files to Tankopedia data",
+        "Build-related keys (`moduleFeatured`, `buildDisplay`, etc.) to all builds.json files",
+        "Template / placeholder build datasets for all tanks",
+        "Tools moved from website repo to Database-Tools",
+        "Sitemap import to DevsOnly page generation template"
+      ],
+      "changed": [
+        "Updated font setup to use local fonts instead of CDN",
+        "Updated YouTube embeds to use the `-nocookie` flag",
+        "Updated tank-description placeholders for all tanks without data",
+        "Revised image loading logic in tankopedia.js for lazy/eager attributes",
+        "Updated gsc-index.json with new GSC data",
+        "Renamed consumables to equipment for game consistency",
+        "Renamed common upgrade, perk and consumable images",
+        "Tweaked bubble/tank class behavior on tank cards",
+        "Changed category order in build cards on tank pages",
+        "Updated daily commit log and changelog"
+      ],
+      "fixed": [
+        "Canonical URL path in Esmatty's XM1-V guide page",
+        "Type filter and icon issues on Tanks page",
+        "Path to Common Builds page from all tank pages",
+        "Pathing issue in Common Builds page",
+        "Issue with builds layout",
+        "Formatting in tank.css",
+        "Overflow side-scroll issue on mobile",
+        "Typos and paths in all builds.json and tanks config files",
+        "Agent name typo in XM1-V data",
+        "Naming issue with ALVT upscaled image",
+        "JSON validation tool format",
+        "Daily commit fetcher tool format",
+        "Slug and class issue with Challenger tank"
+      ],
+      "removed": [
+        "Redundant images",
+        "Tools from website repository (now housed in Database-Tools)"
+      ]
+    },
+    {
       "version": "0.0.0625",
       "date": "2025-05-24",
       "author": "PCWStats Team",
