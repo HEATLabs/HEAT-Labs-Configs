@@ -3027,7 +3027,7 @@
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/1st_chevron.png",
                     "name": "1st Chevron",
-                    "description": "Placeholder Description"
+                    "description": "Placeholder Description",
                 },
                 {
                     "id": "Rank-0002",
@@ -3048,77 +3048,88 @@
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/second_liutenant.png",
                     "name": "Second Lieutenant",
-                    "description": "Placeholder Description"
+                    "description": "0 XP Points required",
+                    "howto": "Reach the required total amount of XP to unlock and earn this rank."
                 },
                 {
                     "id": "Rank-0005",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/first_liutenant.png",
                     "name": "First Lieutenant",
-                    "description": "Placeholder Description"
+                    "description": "200 XP Points required",
+                    "howto": "Reach the required total amount of XP to unlock and earn this rank."
                 },
                 {
                     "id": "Rank-0006",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/captain.png",
                     "name": "Captain",
-                    "description": "Placeholder Description"
+                    "description": "2000 XP Points required",
+                    "howto": "Reach the required total amount of XP to unlock and earn this rank."
                 },
                 {
                     "id": "Rank-0007",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/major.png",
                     "name": "Major",
-                    "description": "Placeholder Description"
+                    "description": "4000 XP Points required",
+                    "howto": "Reach the required total amount of XP to unlock and earn this rank."
                 },
                 {
                     "id": "Rank-0008",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/liutenant_colonel.png",
                     "name": "Lieutenant Colonel",
-                    "description": "Placeholder Description"
+                    "description": "5000 XP Points required",
+                    "howto": "Reach the required total amount of XP to unlock and earn this rank."
                 },
                 {
                     "id": "Rank-0009",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/colonel.png",
                     "name": "Colonel",
-                    "description": "Placeholder Description"
+                    "description": "8000 XP Points required",
+                    "howto": "Reach the required total amount of XP to unlock and earn this rank."
                 },
                 {
                     "id": "Rank-0010",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/brigadier_general.png",
                     "name": "Brigadier General",
-                    "description": "Placeholder Description"
+                    "description": "10000 XP Points required",
+                    "howto": "Reach the required total amount of XP to unlock and earn this rank."
                 },
                 {
                     "id": "Rank-0011",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/major_general.png",
                     "name": "Major General",
-                    "description": "Placeholder Description"
+                    "description": "12000 XP Points required",
+                    "howto": "Reach the required total amount of XP to unlock and earn this rank."
                 },
                 {
                     "id": "Rank-0012",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/liutenant_general.png",
                     "name": "Lieutenant General",
-                    "description": "Placeholder Description"
+                    "description": "15000 XP Points required",
+                    "howto": "Reach the required total amount of XP to unlock and earn this rank."
                 },
                 {
                     "id": "Rank-0013",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/general.png",
                     "name": "General",
-                    "description": "Placeholder Description"
+                    "description": "18000 XP Points required",
+                    "howto": "Reach the required total amount of XP to unlock and earn this rank."
                 },
                 {
                     "id": "Rank-0014",
                     "modalType": "standard",
                     "image": "https://raw.githubusercontent.com/PCWStats/Website-Images/main/tankopedia/player-ranks/general_of_the_army.png",
-                    "name": "General of the Army",
-                    "description": "Placeholder Description"
+                    "name": "Army General",
+                    "description": "21000 XP Points required",
+                    "howto": "Reach the required total amount of XP to unlock and earn this rank."
                 }
             ]
         },
