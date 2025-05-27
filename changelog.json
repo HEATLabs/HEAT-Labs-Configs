@@ -1,6 +1,44 @@
 {
   "updates": [
     {
+      "version": "0.0.0684",
+      "date": "2025-05-26",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #32",
+      "description": "Complete patch notes for update v0.0.0684, No. #32, issued on 26 May, 2025.",
+      "added": [
+        "Tournament page easter egg and associated confused cat sound + gif",
+        "Dynamic loading for tournament cards on the tournament page",
+        "Descriptions, slugs, and date formatting to tournament_cards.json",
+        "Venom's Blitz - Leo 1A1B build",
+        "Game world, mission, and matchmaker data from game files",
+        "Empty mock-api data files for players and clans pages"
+      ],
+      "changed": [
+        "Challenger renamed to FV 4030/X site-wide (HTML, configs, images, and data files)",
+        "Warning modal updated with Firefox hardware acceleration notice",
+        "Tournament page upgraded to use dynamically loaded cards",
+        "Updated manufacturer names, vendor data, and rank info in Tankopedia",
+        "Updated agent skin descriptions and charm/paint data in Tankopedia",
+        "Updated GSC index and tournament descriptions",
+        "Updated mock-api data for players and clans, including leaders",
+        "All alt texts in blogs page images corrected",
+        "Timeout logic corrected in the tournament easter egg",
+        "Tweaked easter egg triggers to avoid overlaps",
+        "Camo 35 renamed to Lava-Ozean, Camo 27 renamed to Semper Feles"
+      ],
+      "fixed": [
+        "Rate-limiting issues on Builds page by adding batching and retry logic",
+        "Trailing comma issue in Tankopedia config file",
+        "Key name in game worlds data file",
+        "Placeholder builds now display correctly",
+        "Incorrect date in Venom's Leo 1A1B build"
+      ],
+      "removed": [
+        "tournaments prefix from slugs in tournament_cards.json"
+      ]
+    },
+    {
       "version": "0.0.0661",
       "date": "2025-05-25",
       "author": "PCWStats Team",
