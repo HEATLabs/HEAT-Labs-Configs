@@ -1,6 +1,33 @@
 {
   "updates": [
     {
+      "version": "0.0.0696",
+      "date": "2025-05-27",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #33",
+      "description": "Full patch notes for Update v0.0.0696 (#33), detailing all changes made on 27 May, 2025.",
+      "added": [
+        "Meet the Team images",
+        "config.yml for GitHub Pages deployments"
+      ],
+      "changed": [
+        "Tournament pages now use the unified tournaments.json file",
+        "Merged tournament-cards.js into tournaments.js for consistency",
+        "Moved page-specific JS and CSS files into dedicated folders under /assets",
+        "Updated dynamic loading to correctly format dates",
+        "Updated meet the team blog posts with new images",
+        "Updated changelog patch note descriptions for clarity",
+        "Tweaked file name from tournament_cards.json to tournaments.json",
+        "Refined description generator in changelog-validator"
+      ],
+      "fixed": [
+        "Pathing issue in tournaments.js"
+      ],
+      "removed": [
+        "Ongoing tournament card placeholder from tournament display logic"
+      ]
+    },
+    {
       "version": "0.0.0684",
       "date": "2025-05-26",
       "author": "PCWStats Team",
