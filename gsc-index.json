@@ -1,12 +1,12 @@
 {
-  "generated_at": "2025-05-26T15:33:37.305852",
+  "generated_at": "2025-05-28T05:34:22.049105",
   "site_url": "https://pcwstats.github.io/",
   "data": {
     "site_url": "https://pcwstats.github.io/",
-    "last_checked": "2025-05-26T15:33:36.804373",
+    "last_checked": "2025-05-28T05:34:18.809377",
     "date_range": {
-      "start_date": "2025-04-26",
-      "end_date": "2025-05-26"
+      "start_date": "2025-04-28",
+      "end_date": "2025-05-28"
     },
     "pages": [
       {
@@ -44,6 +44,28 @@
       },
       {
         "url": "https://pcwstats.github.io/blog/tournament-feature-blog.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/changelog.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/guides/tanks.html",
         "status": "indexed_and_served",
         "last_crawled": null,
         "indexing_state": "INDEXED",
@@ -186,6 +208,17 @@
         "user_agent": "DESKTOP"
       },
       {
+        "url": "https://pcwstats.github.io/news/balanced-and-reworked-maps.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
         "url": "https://pcwstats.github.io/news/gun-dispersion-changes.html",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -242,8 +275,8 @@
       }
     ],
     "summary": {
-      "total_pages": 21,
-      "indexed_pages": 21,
+      "total_pages": 24,
+      "indexed_pages": 24,
       "not_indexed_pages": 0,
       "errors": 0
     },
@@ -271,8 +304,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 21,
-    "indexed_pages": 21,
+    "total_pages_found": 24,
+    "indexed_pages": 24,
     "errors": 0
   }
 }
