@@ -1,4 +1,25 @@
 {
+  "2025-05-27": [
+    "[pcwstats.github.io] second test commit for jekyll setup",
+    "[pcwstats.github.io] test commit for jekyll setup",
+    "[pcwstats.github.io] added config.yml file for github deployments",
+    "[pcwstats.github.io] fixed pathing issue in tournaments.js file",
+    "[pcwstats.github.io] merged tournament-cards.js into tournaments.js for consistency",
+    "[pcwstats.github.io] moved CSS and JS folders to `/assets` for to fit development standards",
+    "[pcwstats.github.io] moved page related JS and CSS to dedicated folders",
+    "[pcwstats.github.io] updated tournament pages to use the updated tournament-cards.json file",
+    "[pcwstats.github.io] updated meet the team blog posts with new images",
+    "[pcwstats.github.io] Updated dynamic loading to properly handle date formatting",
+    "[Website-Configs] merged tournament-cards.json into tournaments.json for consistency",
+    "[Website-Configs] tweaked the name for tournament_cards.json file to fit the naming scheme",
+    "[Website-Configs] updated wording in the description for all patch notes in the changelog",
+    "[Website-Configs] Merge branch 'main' of https://github.com/PCWStats/Website-Configs",
+    "[Website-Configs] updated changelog",
+    "[Website-Configs] updated daily commit log",
+    "[Website-Configs] Removed ongoing tournament card placeholder",
+    "[Website-Images] added meet the team images",
+    "[Database-Tools] tweaked description generator in Changelog-Validator with new wording"
+  ],
   "2025-05-26": [
     "[pcwstats.github.io] fixed wrong alt texts for images in blogs page",
     "[pcwstats.github.io] added request batching and retry logic for builds page to prevent rate limiting",
