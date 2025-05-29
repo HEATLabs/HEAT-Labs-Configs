@@ -1,16 +1,27 @@
 {
-  "generated_at": "2025-05-28T05:34:22.049105",
+  "generated_at": "2025-05-29T12:39:29.044021",
   "site_url": "https://pcwstats.github.io/",
   "data": {
     "site_url": "https://pcwstats.github.io/",
-    "last_checked": "2025-05-28T05:34:18.809377",
+    "last_checked": "2025-05-29T12:39:28.746130",
     "date_range": {
-      "start_date": "2025-04-28",
-      "end_date": "2025-05-28"
+      "start_date": "2025-04-29",
+      "end_date": "2025-05-29"
     },
     "pages": [
       {
         "url": "https://pcwstats.github.io/",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/tankopedia.html",
         "status": "indexed_and_served",
         "last_crawled": null,
         "indexing_state": "INDEXED",
@@ -33,6 +44,17 @@
       },
       {
         "url": "https://pcwstats.github.io/about-us.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/blog/meet-the-team-ven0m.html",
         "status": "indexed_and_served",
         "last_crawled": null,
         "indexing_state": "INDEXED",
@@ -66,6 +88,17 @@
       },
       {
         "url": "https://pcwstats.github.io/guides/tanks.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/guides/tanks/esmattys-xm1-v-guide.html",
         "status": "indexed_and_served",
         "last_crawled": null,
         "indexing_state": "INDEXED",
@@ -252,7 +285,18 @@
         "user_agent": "DESKTOP"
       },
       {
-        "url": "https://pcwstats.github.io/tankopedia.html",
+        "url": "https://pcwstats.github.io/tanks/agds.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/tanks/xm1-v.html",
         "status": "indexed_and_served",
         "last_crawled": null,
         "indexing_state": "INDEXED",
@@ -275,8 +319,8 @@
       }
     ],
     "summary": {
-      "total_pages": 24,
-      "indexed_pages": 24,
+      "total_pages": 28,
+      "indexed_pages": 28,
       "not_indexed_pages": 0,
       "errors": 0
     },
@@ -304,8 +348,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 24,
-    "indexed_pages": 24,
+    "total_pages_found": 28,
+    "indexed_pages": 28,
     "errors": 0
   }
 }
