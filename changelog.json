@@ -1,14 +1,32 @@
 {
   "updates": [
     {
-      "version": "0.0.0696",
+      "version": "0.0.0702",
+      "date": "2025-05-28",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #34",
+      "description": "Full patch notes for Update v0.0.0702 (#34), detailing all changes made on 28 May, 2025.",
+      "added": [
+        "Performance Comparison charts to all tank pages (experimental)"
+      ],
+      "changed": [
+        "GSC index data",
+        "Changelog",
+        "Daily commit log"
+      ],
+      "fixed": [],
+      "removed": []
+    },
+    {
+      "version": "0.0.0698",
       "date": "2025-05-27",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #33",
-      "description": "Full patch notes for Update v0.0.0696 (#33), detailing all changes made on 27 May, 2025.",
+      "description": "Full patch notes for Update v0.0.0698 (#33), detailing all changes made on 27 May, 2025.",
       "added": [
         "Meet the Team images",
-        "config.yml for GitHub Pages deployments"
+        "config.yml for GitHub Pages deployments",
+        "local copy of chart.js"
       ],
       "changed": [
         "Tournament pages now use the unified tournaments.json file",
@@ -24,7 +42,8 @@
         "Pathing issue in tournaments.js"
       ],
       "removed": [
-        "Ongoing tournament card placeholder from tournament display logic"
+        "Ongoing tournament card placeholder from tournament display logic",
+        "tests for jekyll setup"
       ]
     },
     {
