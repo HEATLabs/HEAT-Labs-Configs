@@ -1,12 +1,12 @@
 {
-  "generated_at": "2025-05-29T12:39:29.044021",
+  "generated_at": "2025-05-31T01:09:42.841010",
   "site_url": "https://pcwstats.github.io/",
   "data": {
     "site_url": "https://pcwstats.github.io/",
-    "last_checked": "2025-05-29T12:39:28.746130",
+    "last_checked": "2025-05-31T01:09:42.441609",
     "date_range": {
-      "start_date": "2025-04-29",
-      "end_date": "2025-05-29"
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-31"
     },
     "pages": [
       {
@@ -87,6 +87,17 @@
         "user_agent": "DESKTOP"
       },
       {
+        "url": "https://pcwstats.github.io/guides/general.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
         "url": "https://pcwstats.github.io/guides/tanks.html",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -121,6 +132,17 @@
       },
       {
         "url": "https://pcwstats.github.io/maps.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/maps/aircraft-carrier.html",
         "status": "indexed_and_served",
         "last_crawled": null,
         "indexing_state": "INDEXED",
@@ -296,6 +318,39 @@
         "user_agent": "DESKTOP"
       },
       {
+        "url": "https://pcwstats.github.io/tanks/bat-4m.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/tanks/m1e1.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/tanks/m60e2.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
         "url": "https://pcwstats.github.io/tanks/xm1-v.html",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -316,11 +371,22 @@
         "crawl_time": null,
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/tournaments/open-alpha-2-tournament.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
       }
     ],
     "summary": {
-      "total_pages": 28,
-      "indexed_pages": 28,
+      "total_pages": 34,
+      "indexed_pages": 34,
       "not_indexed_pages": 0,
       "errors": 0
     },
@@ -348,8 +414,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 28,
-    "indexed_pages": 28,
+    "total_pages_found": 34,
+    "indexed_pages": 34,
     "errors": 0
   }
 }
