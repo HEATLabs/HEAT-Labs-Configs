@@ -1,6 +1,41 @@
 {
   "updates": [
     {
+      "version": "0.0.0722",
+      "date": "2025-05-29",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #35",
+      "description": "Full patch notes for Update v0.0.0722 (#35), detailing all changes made on 29 May, 2025.",
+      "added": [
+        "Tracking pixel in all pages",
+        "Description to chart sections on all tank pages",
+        "Experimental game-data page",
+        "Tracking pixel index data",
+        "Default tracker pixel",
+        "Tool to add tracking pixel in all pages",
+        "Manual purger and indexer for JsDelivr CDN URLs"
+      ],
+      "changed": [
+        "All JS, HTML, and CSS file URLs updated to use JsDelivr CDN URLs",
+        "Tank guides and maps page paths updated for CDN compatibility",
+        "Filters on builds page now display dynamic options",
+        "Spacing and text descriptions tweaked across pages for improved UX",
+        "Build section on all tank pages now uses buildFeatured key",
+        "Tournaments, tanks, agent data, and build data updated to JsDelivr CDN URLs",
+        "Updated page tag updater to work with new file names",
+        "Updated JsDelivr URL index data file",
+        "Updated GSC index data"
+      ],
+      "fixed": [
+        "Typo in tank guides page name",
+        "Formatting in matchmaker.json"
+      ],
+      "removed": [
+        "Redundant __type__ field from missions file",
+        "Display of placeholder builds for all tanks"
+      ]
+    },
+    {
       "version": "0.0.0702",
       "date": "2025-05-28",
       "author": "PCWStats Team",
