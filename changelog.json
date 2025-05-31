@@ -1,6 +1,43 @@
 {
   "updates": [
     {
+      "version": "0.0.0745",
+      "date": "2025-05-30",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #36",
+      "description": "Full patch notes for Update v0.0.0745 (#36), detailing all changes made on 30 May, 2025.",
+      "added": [
+        "Edward's XM1V build and Leo 1A1B build to the database",
+        "Guide for Edward's BAT-4M build",
+        "New articles to the news page",
+        "Tracking pixels to multiple pages",
+        "Loading cat GIF to 404 page",
+        "48th hero background image",
+        "Missing metadata and images for Edward's BAT-4M guide",
+        "Updated Devs Only page with jsDelivr support",
+        "Global hero image module updated with 48th image",
+        "Sitemap links refreshed"
+      ],
+      "changed": [
+        "IAmEdWard's role corrected in About Us and Credits pages",
+        "Guides for XM1-V and BAT-4M updated with latest info",
+        "Main guides page restructured (tank guides moved to top)",
+        "Loader with random messages on builds page fixed",
+        "News article titles reformatted",
+        "Guide index page and internal pathing corrected",
+        "robots.txt relocated to root for proper SEO indexing",
+        "Meta tags on two pages improved",
+        "Devs Only generator script and output format revamped",
+        "Page tag updater script pathing fixed"
+      ],
+      "fixed": [
+        "Typo in main guides page",
+        "Pathing issue on main guides index page",
+        "Incorrect names on certain tracking pixels"
+      ],
+      "removed": []
+    },
+    {
       "version": "0.0.0722",
       "date": "2025-05-29",
       "author": "PCWStats Team",
