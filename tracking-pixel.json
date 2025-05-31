@@ -1,1 +1,1406 @@
-{}
+{
+  "generated_at": "2025-05-31T15:42:44.151635",
+  "base_cdn_url": "https://pcwstats-pixel-api.vercel.app/api/track",
+  "pixels": [
+    {
+      "page_name": "Page Not Found",
+      "page_identifier": "404",
+      "html_file": "404.html",
+      "pixel_filename": "pcwstats-tracker-pixel-404.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-404.png",
+      "html_title": "Page Not Found - PCWStats"
+    },
+    {
+      "page_name": "About the Project",
+      "page_identifier": "about-us",
+      "html_file": "about-us.html",
+      "pixel_filename": "pcwstats-tracker-pixel-about-us.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-about-us.png",
+      "html_title": "About the Project - PCWStats"
+    },
+    {
+      "page_name": "Official Blog",
+      "page_identifier": "blog",
+      "html_file": "blog.html",
+      "pixel_filename": "pcwstats-tracker-pixel-blog.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-blog.png",
+      "html_title": "Official Blog - PCWStats"
+    },
+    {
+      "page_name": "Bored Developers",
+      "page_identifier": "bored-developers",
+      "html_file": "bored-developers.html",
+      "pixel_filename": "pcwstats-tracker-pixel-bored-developers.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-bored-developers.png",
+      "html_title": "Bored Developers - PCWStats"
+    },
+    {
+      "page_name": "Bug Hunters",
+      "page_identifier": "bug-hunting",
+      "html_file": "bug-hunting.html",
+      "pixel_filename": "pcwstats-tracker-pixel-bug-hunting.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-bug-hunting.png",
+      "html_title": "Bug Hunters - PCWStats"
+    },
+    {
+      "page_name": "Common Builds",
+      "page_identifier": "builds",
+      "html_file": "builds.html",
+      "pixel_filename": "pcwstats-tracker-pixel-builds.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-builds.png",
+      "html_title": "Common Builds - PCWStats"
+    },
+    {
+      "page_name": "Changelog",
+      "page_identifier": "changelog",
+      "html_file": "changelog.html",
+      "pixel_filename": "pcwstats-tracker-pixel-changelog.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-changelog.png",
+      "html_title": "Changelog - PCWStats"
+    },
+    {
+      "page_name": "Check & Compare",
+      "page_identifier": "check-compare",
+      "html_file": "check-compare.html",
+      "pixel_filename": "pcwstats-tracker-pixel-check-compare.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-check-compare.png",
+      "html_title": "Check & Compare - PCWStats"
+    },
+    {
+      "page_name": "Contact Us",
+      "page_identifier": "contact-us",
+      "html_file": "contact-us.html",
+      "pixel_filename": "pcwstats-tracker-pixel-contact-us.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-contact-us.png",
+      "html_title": "Contact Us - PCWStats"
+    },
+    {
+      "page_name": "Community Credits",
+      "page_identifier": "credits",
+      "html_file": "credits.html",
+      "pixel_filename": "pcwstats-tracker-pixel-credits.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-credits.png",
+      "html_title": "Community Credits - PCWStats"
+    },
+    {
+      "page_name": "Devs Only",
+      "page_identifier": "devsonly",
+      "html_file": "devsonly.html",
+      "pixel_filename": "pcwstats-tracker-pixel-devsonly.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-devsonly.png",
+      "html_title": "Devs Only - PCWStats"
+    },
+    {
+      "page_name": "Game Data",
+      "page_identifier": "game-data",
+      "html_file": "game-data.html",
+      "pixel_filename": "pcwstats-tracker-pixel-game-data.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-game-data.png",
+      "html_title": "Game Data - PCWStats"
+    },
+    {
+      "page_name": "Get Involved",
+      "page_identifier": "get-involved",
+      "html_file": "get-involved.html",
+      "pixel_filename": "pcwstats-tracker-pixel-get-involved.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-get-involved.png",
+      "html_title": "Get Involved - PCWStats"
+    },
+    {
+      "page_name": "Community Guides",
+      "page_identifier": "guides",
+      "html_file": "guides.html",
+      "pixel_filename": "pcwstats-tracker-pixel-guides.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-guides.png",
+      "html_title": "Community Guides - PCWStats"
+    },
+    {
+      "page_name": "Home",
+      "page_identifier": "index",
+      "html_file": "index.html",
+      "pixel_filename": "pcwstats-tracker-pixel-index.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-index.png",
+      "html_title": "Home - PCWStats"
+    },
+    {
+      "page_name": "Project Policies",
+      "page_identifier": "legal",
+      "html_file": "legal.html",
+      "pixel_filename": "pcwstats-tracker-pixel-legal.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-legal.png",
+      "html_title": "Project Policies - PCWStats"
+    },
+    {
+      "page_name": "Map Knowledge",
+      "page_identifier": "maps",
+      "html_file": "maps.html",
+      "pixel_filename": "pcwstats-tracker-pixel-maps.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-maps.png",
+      "html_title": "Map Knowledge - PCWStats"
+    },
+    {
+      "page_name": "Game News",
+      "page_identifier": "news",
+      "html_file": "news.html",
+      "pixel_filename": "pcwstats-tracker-pixel-news.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-news.png",
+      "html_title": "Game News - PCWStats"
+    },
+    {
+      "page_name": "Tank Roulette",
+      "page_identifier": "roulette",
+      "html_file": "roulette.html",
+      "pixel_filename": "pcwstats-tracker-pixel-roulette.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-roulette.png",
+      "html_title": "Tank Roulette - PCWStats"
+    },
+    {
+      "page_name": "Strategy Planner",
+      "page_identifier": "strategy-planner",
+      "html_file": "strategy-planner.html",
+      "pixel_filename": "pcwstats-tracker-pixel-strategy-planner.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-strategy-planner.png",
+      "html_title": "Strategy Planner - PCWStats"
+    },
+    {
+      "page_name": "Support Us",
+      "page_identifier": "support-us",
+      "html_file": "support-us.html",
+      "pixel_filename": "pcwstats-tracker-pixel-support-us.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-support-us.png",
+      "html_title": "Support Us - PCWStats"
+    },
+    {
+      "page_name": "Tankopedia",
+      "page_identifier": "tankopedia",
+      "html_file": "tankopedia.html",
+      "pixel_filename": "pcwstats-tracker-pixel-tankopedia.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tankopedia.png",
+      "html_title": "Tankopedia - PCWStats"
+    },
+    {
+      "page_name": "Tank Statistics",
+      "page_identifier": "tanks",
+      "html_file": "tanks.html",
+      "pixel_filename": "pcwstats-tracker-pixel-tanks.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tanks.png",
+      "html_title": "Tank Statistics - PCWStats"
+    },
+    {
+      "page_name": "Tournaments",
+      "page_identifier": "tournaments",
+      "html_file": "tournaments.html",
+      "pixel_filename": "pcwstats-tracker-pixel-tournaments.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tournaments.png",
+      "html_title": "Tournaments - PCWStats"
+    },
+    {
+      "page_name": "Alpha 1 Announcement #1",
+      "page_identifier": "alpha-1-announcement-1",
+      "html_file": "announcements/alpha-1-announcement-1.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-announcement-1.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-announcement-1.png",
+      "html_title": "Alpha 1 Announcement #1 - PCWStats"
+    },
+    {
+      "page_name": "Alpha 1 Announcement #2",
+      "page_identifier": "alpha-1-announcement-2",
+      "html_file": "announcements/alpha-1-announcement-2.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-announcement-2.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-announcement-2.png",
+      "html_title": "Alpha 1 Announcement #2 - PCWStats"
+    },
+    {
+      "page_name": "Alpha 2 Facts & Figures",
+      "page_identifier": "alpha-2-facts-figures",
+      "html_file": "announcements/alpha-2-facts-figures.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-facts-figures.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-facts-figures.png",
+      "html_title": "Alpha 2 Facts & Figures - PCWStats"
+    },
+    {
+      "page_name": "Alpha 2 Has Ended",
+      "page_identifier": "alpha-2-has-ended",
+      "html_file": "announcements/alpha-2-has-ended.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-has-ended.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-has-ended.png",
+      "html_title": "Alpha 2 Has Ended - PCWStats"
+    },
+    {
+      "page_name": "Alpha 2 Live Stream",
+      "page_identifier": "alpha-2-livestream",
+      "html_file": "announcements/alpha-2-livestream.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-livestream.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-livestream.png",
+      "html_title": "Alpha 2 Live Stream - PCWStats"
+    },
+    {
+      "page_name": "Alpha 2 Tournament",
+      "page_identifier": "alpha-2-tournament",
+      "html_file": "announcements/alpha-2-tournament.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-tournament.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-tournament.png",
+      "html_title": "Alpha 2 Tournament - PCWStats"
+    },
+    {
+      "page_name": "New Community Manger #2",
+      "page_identifier": "jamess-introduction",
+      "html_file": "announcements/jamess-introduction.html",
+      "pixel_filename": "pcwstats-tracker-pixel-jamess-introduction.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-jamess-introduction.png",
+      "html_title": "New Community Manger #2 - PCWStats"
+    },
+    {
+      "page_name": "Last Day of Alpha 2",
+      "page_identifier": "last-day-of-alpha-2",
+      "html_file": "announcements/last-day-of-alpha-2.html",
+      "pixel_filename": "pcwstats-tracker-pixel-last-day-of-alpha-2.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-last-day-of-alpha-2.png",
+      "html_title": "Last Day of Alpha 2 - PCWStats"
+    },
+    {
+      "page_name": "Announcement Title",
+      "page_identifier": "placeholder-announcement",
+      "html_file": "announcements/placeholder-announcement.html",
+      "pixel_filename": "pcwstats-tracker-pixel-placeholder-announcement.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-announcement.png",
+      "html_title": "Announcement Title - PCWStats"
+    },
+    {
+      "page_name": "New Community Manger #1",
+      "page_identifier": "voreksis-introduction",
+      "html_file": "announcements/voreksis-introduction.html",
+      "pixel_filename": "pcwstats-tracker-pixel-voreksis-introduction.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-voreksis-introduction.png",
+      "html_title": "New Community Manger #1 - PCWStats"
+    },
+    {
+      "page_name": "Winter Wargames Tournament #1",
+      "page_identifier": "winter-wargames-tournament-1",
+      "html_file": "announcements/winter-wargames-tournament-1.html",
+      "pixel_filename": "pcwstats-tracker-pixel-winter-wargames-tournament-1.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-winter-wargames-tournament-1.png",
+      "html_title": "Winter Wargames Tournament #1 - PCWStats"
+    },
+    {
+      "page_name": "Meet The Team: esmatty",
+      "page_identifier": "meet-the-team-esmatty",
+      "html_file": "blog/meet-the-team-esmatty.html",
+      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-esmatty.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-meet-the-team-esmatty.png",
+      "html_title": "Meet The Team: esmatty - PCWStats"
+    },
+    {
+      "page_name": "Meet The Team: SINEWAVE",
+      "page_identifier": "meet-the-team-sinewave",
+      "html_file": "blog/meet-the-team-sinewave.html",
+      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-sinewave.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-meet-the-team-sinewave.png",
+      "html_title": "Meet The Team: SINEWAVE - PCWStats"
+    },
+    {
+      "page_name": "Meet The Team: Template",
+      "page_identifier": "meet-the-team-template",
+      "html_file": "blog/meet-the-team-template.html",
+      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-template.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-meet-the-team-template.png",
+      "html_title": "Meet The Team: Template - PCWStats"
+    },
+    {
+      "page_name": "Meet The Team: _VEN0M",
+      "page_identifier": "meet-the-team-ven0m",
+      "html_file": "blog/meet-the-team-ven0m.html",
+      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-ven0m.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-meet-the-team-ven0m.png",
+      "html_title": "Meet The Team: _VEN0M - PCWStats"
+    },
+    {
+      "page_name": "Blog Title",
+      "page_identifier": "placeholder-blog-post",
+      "html_file": "blog/placeholder-blog-post.html",
+      "pixel_filename": "pcwstats-tracker-pixel-placeholder-blog-post.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-blog-post.png",
+      "html_title": "Blog Title - PCWStats"
+    },
+    {
+      "page_name": "New Feature: Tournaments",
+      "page_identifier": "tournament-feature-blog",
+      "html_file": "blog/tournament-feature-blog.html",
+      "pixel_filename": "pcwstats-tracker-pixel-tournament-feature-blog.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tournament-feature-blog.png",
+      "html_title": "New Feature: Tournaments - PCWStats"
+    },
+    {
+      "page_name": "Bug Hunt Post",
+      "page_identifier": "placeholder-bug-hunt",
+      "html_file": "bug-hunting/placeholder-bug-hunt.html",
+      "pixel_filename": "pcwstats-tracker-pixel-placeholder-bug-hunt.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-bug-hunt.png",
+      "html_title": "Bug Hunt Post - PCWStats"
+    },
+    {
+      "page_name": "General Guides",
+      "page_identifier": "general-guides",
+      "html_file": "guides/general-guides.html",
+      "pixel_filename": "pcwstats-tracker-pixel-general-guides.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-general-guides.png",
+      "html_title": "General Guides - PCWStats"
+    },
+    {
+      "page_name": "Map Guides",
+      "page_identifier": "map-guides",
+      "html_file": "guides/map-guides.html",
+      "pixel_filename": "pcwstats-tracker-pixel-map-guides.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-map-guides.png",
+      "html_title": "Map Guides - PCWStats"
+    },
+    {
+      "page_name": "Tank Guides",
+      "page_identifier": "tank-guides",
+      "html_file": "guides/tank-guides.html",
+      "pixel_filename": "pcwstats-tracker-pixel-tank-guides.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tank-guides.png",
+      "html_title": "Tank Guides - PCWStats"
+    },
+    {
+      "page_name": "Guide Title",
+      "page_identifier": "placeholder-general-guide",
+      "html_file": "guides/general-guides/placeholder-general-guide.html",
+      "pixel_filename": "pcwstats-tracker-pixel-placeholder-general-guide.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-general-guide.png",
+      "html_title": "Guide Title - PCWStats"
+    },
+    {
+      "page_name": "Guide Title",
+      "page_identifier": "placeholder-map-guide",
+      "html_file": "guides/map-guides/placeholder-map-guide.html",
+      "pixel_filename": "pcwstats-tracker-pixel-placeholder-map-guide.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-map-guide.png",
+      "html_title": "Guide Title - PCWStats"
+    },
+    {
+      "page_name": "BAT-4M Basic Guide",
+      "page_identifier": "bat-4m-basic-guide",
+      "html_file": "guides/tank-guides/bat-4m-basic-guide.html",
+      "pixel_filename": "pcwstats-tracker-pixel-bat-4m-basic-guide.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-bat-4m-basic-guide.png",
+      "html_title": "BAT-4M Basic Guide - PCWStats"
+    },
+    {
+      "page_name": "Guide Title",
+      "page_identifier": "placeholder-tank-guide",
+      "html_file": "guides/tank-guides/placeholder-tank-guide.html",
+      "pixel_filename": "pcwstats-tracker-pixel-placeholder-tank-guide.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-tank-guide.png",
+      "html_title": "Guide Title - PCWStats"
+    },
+    {
+      "page_name": "XM1-V Build Guide",
+      "page_identifier": "xm1-v-build-guide",
+      "html_file": "guides/tank-guides/xm1-v-build-guide.html",
+      "pixel_filename": "pcwstats-tracker-pixel-xm1-v-build-guide.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-xm1-v-build-guide.png",
+      "html_title": "XM1-V Build Guide - PCWStats"
+    },
+    {
+      "page_name": "Code of Conduct",
+      "page_identifier": "code-of-conduct",
+      "html_file": "legal/code-of-conduct.html",
+      "pixel_filename": "pcwstats-tracker-pixel-code-of-conduct.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-code-of-conduct.png",
+      "html_title": "Code of Conduct - PCWStats"
+    },
+    {
+      "page_name": "Privacy Policy",
+      "page_identifier": "privacy-policy",
+      "html_file": "legal/privacy-policy.html",
+      "pixel_filename": "pcwstats-tracker-pixel-privacy-policy.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-privacy-policy.png",
+      "html_title": "Privacy Policy - PCWStats"
+    },
+    {
+      "page_name": "Project Contributions",
+      "page_identifier": "project-contributions",
+      "html_file": "legal/project-contributions.html",
+      "pixel_filename": "pcwstats-tracker-pixel-project-contributions.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-project-contributions.png",
+      "html_title": "Project Contributions - PCWStats"
+    },
+    {
+      "page_name": "Project License",
+      "page_identifier": "project-license",
+      "html_file": "legal/project-license.html",
+      "pixel_filename": "pcwstats-tracker-pixel-project-license.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-project-license.png",
+      "html_title": "Project License - PCWStats"
+    },
+    {
+      "page_name": "Project Security",
+      "page_identifier": "project-security",
+      "html_file": "legal/project-security.html",
+      "pixel_filename": "pcwstats-tracker-pixel-project-security.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-project-security.png",
+      "html_title": "Project Security - PCWStats"
+    },
+    {
+      "page_name": "Terms of Service",
+      "page_identifier": "terms-of-service",
+      "html_file": "legal/terms-of-service.html",
+      "pixel_filename": "pcwstats-tracker-pixel-terms-of-service.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-terms-of-service.png",
+      "html_title": "Terms of Service - PCWStats"
+    },
+    {
+      "page_name": "Aircraft Carrier",
+      "page_identifier": "aircraft-carrier",
+      "html_file": "maps/aircraft-carrier.html",
+      "pixel_filename": "pcwstats-tracker-pixel-aircraft-carrier.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-aircraft-carrier.png",
+      "html_title": "Aircraft Carrier - PCWStats"
+    },
+    {
+      "page_name": "Baikonur",
+      "page_identifier": "baikonur",
+      "html_file": "maps/baikonur.html",
+      "pixel_filename": "pcwstats-tracker-pixel-baikonur.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-baikonur.png",
+      "html_title": "Baikonur - PCWStats"
+    },
+    {
+      "page_name": "Ballistic Range",
+      "page_identifier": "ballistic-range",
+      "html_file": "maps/ballistic-range.html",
+      "pixel_filename": "pcwstats-tracker-pixel-ballistic-range.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-ballistic-range.png",
+      "html_title": "Ballistic Range - PCWStats"
+    },
+    {
+      "page_name": "Blossom Crash",
+      "page_identifier": "blossom-crash",
+      "html_file": "maps/blossom-crash.html",
+      "pixel_filename": "pcwstats-tracker-pixel-blossom-crash.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-blossom-crash.png",
+      "html_title": "Blossom Crash - PCWStats"
+    },
+    {
+      "page_name": "Inferno",
+      "page_identifier": "inferno",
+      "html_file": "maps/inferno.html",
+      "pixel_filename": "pcwstats-tracker-pixel-inferno.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-inferno.png",
+      "html_title": "Inferno - PCWStats"
+    },
+    {
+      "page_name": "Military Training",
+      "page_identifier": "military-training",
+      "html_file": "maps/military-training.html",
+      "pixel_filename": "pcwstats-tracker-pixel-military-training.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-military-training.png",
+      "html_title": "Military Training - PCWStats"
+    },
+    {
+      "page_name": "Moonshot",
+      "page_identifier": "moonshot",
+      "html_file": "maps/moonshot.html",
+      "pixel_filename": "pcwstats-tracker-pixel-moonshot.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-moonshot.png",
+      "html_title": "Moonshot - PCWStats"
+    },
+    {
+      "page_name": "Nexus Dam",
+      "page_identifier": "nexus-dam",
+      "html_file": "maps/nexus-dam.html",
+      "pixel_filename": "pcwstats-tracker-pixel-nexus-dam.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-nexus-dam.png",
+      "html_title": "Nexus Dam - PCWStats"
+    },
+    {
+      "page_name": "Nord Oko",
+      "page_identifier": "nord-oko",
+      "html_file": "maps/nord-oko.html",
+      "pixel_filename": "pcwstats-tracker-pixel-nord-oko.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-nord-oko.png",
+      "html_title": "Nord Oko - PCWStats"
+    },
+    {
+      "page_name": "Placeholder Map",
+      "page_identifier": "placeholder-map",
+      "html_file": "maps/placeholder-map.html",
+      "pixel_filename": "pcwstats-tracker-pixel-placeholder-map.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-map.png",
+      "html_title": "Placeholder Map - PCWStats"
+    },
+    {
+      "page_name": "Project Phoenix",
+      "page_identifier": "project-phoenix",
+      "html_file": "maps/project-phoenix.html",
+      "pixel_filename": "pcwstats-tracker-pixel-project-phoenix.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-project-phoenix.png",
+      "html_title": "Project Phoenix - PCWStats"
+    },
+    {
+      "page_name": "Scarred City",
+      "page_identifier": "scarred-city",
+      "html_file": "maps/scarred-city.html",
+      "pixel_filename": "pcwstats-tracker-pixel-scarred-city.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-scarred-city.png",
+      "html_title": "Scarred City - PCWStats"
+    },
+    {
+      "page_name": "Sunstroke",
+      "page_identifier": "sunstroke",
+      "html_file": "maps/sunstroke.html",
+      "pixel_filename": "pcwstats-tracker-pixel-sunstroke.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-sunstroke.png",
+      "html_title": "Sunstroke - PCWStats"
+    },
+    {
+      "page_name": "Akira Agent Spotlight",
+      "page_identifier": "agent-spotlight-akira",
+      "html_file": "news/agent-spotlight-akira.html",
+      "pixel_filename": "pcwstats-tracker-pixel-agent-spotlight-akira.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-agent-spotlight-akira.png",
+      "html_title": "Akira Agent Spotlight - PCWStats"
+    },
+    {
+      "page_name": "Fantome Agent Spotlight",
+      "page_identifier": "agent-spotlight-fantome",
+      "html_file": "news/agent-spotlight-fantome.html",
+      "pixel_filename": "pcwstats-tracker-pixel-agent-spotlight-fantome.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-agent-spotlight-fantome.png",
+      "html_title": "Fantome Agent Spotlight - PCWStats"
+    },
+    {
+      "page_name": "Kent Agent Spotlight",
+      "page_identifier": "agent-spotlight-kent",
+      "html_file": "news/agent-spotlight-kent.html",
+      "pixel_filename": "pcwstats-tracker-pixel-agent-spotlight-kent.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-agent-spotlight-kent.png",
+      "html_title": "Kent Agent Spotlight - PCWStats"
+    },
+    {
+      "page_name": "1 Day to Go (Alpha 1)",
+      "page_identifier": "alpha-1-1-day-to-go",
+      "html_file": "news/alpha-1-1-day-to-go.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-1-day-to-go.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-1-day-to-go.png",
+      "html_title": "1 Day to Go (Alpha 1) - PCWStats"
+    },
+    {
+      "page_name": "2 Days to Go (Alpha 1)",
+      "page_identifier": "alpha-1-2-days-to-go",
+      "html_file": "news/alpha-1-2-days-to-go.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-2-days-to-go.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-2-days-to-go.png",
+      "html_title": "2 Days to Go (Alpha 1) - PCWStats"
+    },
+    {
+      "page_name": "3 Days to Go (Alpha 1)",
+      "page_identifier": "alpha-1-3-days-to-go",
+      "html_file": "news/alpha-1-3-days-to-go.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-3-days-to-go.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-3-days-to-go.png",
+      "html_title": "3 Days to Go (Alpha 1) - PCWStats"
+    },
+    {
+      "page_name": "Alpha 1 Facts & Figures",
+      "page_identifier": "alpha-1-facts-figures",
+      "html_file": "news/alpha-1-facts-figures.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-facts-figures.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-facts-figures.png",
+      "html_title": "Alpha 1 Facts & Figures - PCWStats"
+    },
+    {
+      "page_name": "Patch #10 Tournament Preparation & Improvements (Alpha 1)",
+      "page_identifier": "alpha-1-patch-10-tournament-preparation-improvements",
+      "html_file": "news/alpha-1-patch-10-tournament-preparation-improvements.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-10-tournament-preparation-improvements.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-10-tournament-preparation-improvements.png",
+      "html_title": "Patch #10 Tournament Preparation & Improvements (Alpha 1) - PCWStats"
+    },
+    {
+      "page_name": "Patch #11 Post Tournament QoL Improvements (Alpha 1)",
+      "page_identifier": "alpha-1-patch-11-post-tournament-qol-improvements",
+      "html_file": "news/alpha-1-patch-11-post-tournament-qol-improvements.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-11-post-tournament-qol-improvements.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-11-post-tournament-qol-improvements.png",
+      "html_title": "Patch #11 Post Tournament QoL Improvements (Alpha 1) - PCWStats"
+    },
+    {
+      "page_name": "Patch #3 Quick Match Updates (Alpha 1)",
+      "page_identifier": "alpha-1-patch-3-quick-match-updates",
+      "html_file": "news/alpha-1-patch-3-quick-match-updates.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-3-quick-match-updates.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-3-quick-match-updates.png",
+      "html_title": "Patch #3 Quick Match Updates (Alpha 1) - PCWStats"
+    },
+    {
+      "page_name": "Patch #4 Quality of Life (Alpha 1)",
+      "page_identifier": "alpha-1-patch-4-quality-of-life",
+      "html_file": "news/alpha-1-patch-4-quality-of-life.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-4-quality-of-life.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-4-quality-of-life.png",
+      "html_title": "Patch #4 Quality of Life (Alpha 1) - PCWStats"
+    },
+    {
+      "page_name": "Patch #5 Fantôme Updates (Alpha 1)",
+      "page_identifier": "alpha-1-patch-5-fantome-updates",
+      "html_file": "news/alpha-1-patch-5-fantome-updates.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-5-fantome-updates.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-5-fantome-updates.png",
+      "html_title": "Patch #5 Fantôme Updates (Alpha 1) - PCWStats"
+    },
+    {
+      "page_name": "Patch #6 Ray Updates (Alpha 1)",
+      "page_identifier": "alpha-1-patch-6-ray-updates",
+      "html_file": "news/alpha-1-patch-6-ray-updates.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-6-ray-updates.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-6-ray-updates.png",
+      "html_title": "Patch #6 Ray Updates (Alpha 1) - PCWStats"
+    },
+    {
+      "page_name": "Patch #7 Raketa Updates (Alpha 1)",
+      "page_identifier": "alpha-1-patch-7-raketa-updates",
+      "html_file": "news/alpha-1-patch-7-raketa-updates.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-7-raketa-updates.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-7-raketa-updates.png",
+      "html_title": "Patch #7 Raketa Updates (Alpha 1) - PCWStats"
+    },
+    {
+      "page_name": "Patch #8 Akira Updates (Alpha 1)",
+      "page_identifier": "alpha-1-patch-8-akira-updates",
+      "html_file": "news/alpha-1-patch-8-akira-updates.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-8-akira-updates.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-8-akira-updates.png",
+      "html_title": "Patch #8 Akira Updates (Alpha 1) - PCWStats"
+    },
+    {
+      "page_name": "Patch #8 Delayed (Alpha 1)",
+      "page_identifier": "alpha-1-patch-8-delayed",
+      "html_file": "news/alpha-1-patch-8-delayed.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-8-delayed.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-8-delayed.png",
+      "html_title": "Patch #8 Delayed (Alpha 1) - PCWStats"
+    },
+    {
+      "page_name": "Patch #9 HSTV-L Updates (Alpha 1)",
+      "page_identifier": "alpha-1-patch-9-hstvl-updates",
+      "html_file": "news/alpha-1-patch-9-hstvl-updates.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-9-hstvl-updates.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-9-hstvl-updates.png",
+      "html_title": "Patch #9 HSTV-L Updates (Alpha 1) - PCWStats"
+    },
+    {
+      "page_name": "Valentine's Day (Alpha 1)",
+      "page_identifier": "alpha-1-valentines-day",
+      "html_file": "news/alpha-1-valentines-day.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-valentines-day.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-valentines-day.png",
+      "html_title": "Valentine's Day (Alpha 1) - PCWStats"
+    },
+    {
+      "page_name": "1 Day to Go (Alpha 2)",
+      "page_identifier": "alpha-2-1-day-to-go",
+      "html_file": "news/alpha-2-1-day-to-go.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-1-day-to-go.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-1-day-to-go.png",
+      "html_title": "1 Day to Go (Alpha 2) - PCWStats"
+    },
+    {
+      "page_name": "2 Days to Go (Alpha 2)",
+      "page_identifier": "alpha-2-2-days-to-go",
+      "html_file": "news/alpha-2-2-days-to-go.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-2-days-to-go.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-2-days-to-go.png",
+      "html_title": "2 Days to Go (Alpha 2) - PCWStats"
+    },
+    {
+      "page_name": "3 Days to Go (Alpha 2)",
+      "page_identifier": "alpha-2-3-days-to-go",
+      "html_file": "news/alpha-2-3-days-to-go.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-3-days-to-go.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-3-days-to-go.png",
+      "html_title": "3 Days to Go (Alpha 2) - PCWStats"
+    },
+    {
+      "page_name": "Patch #1 The First Patch (Alpha 2)",
+      "page_identifier": "alpha-2-patch-1-first-patch",
+      "html_file": "news/alpha-2-patch-1-first-patch.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-1-first-patch.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-1-first-patch.png",
+      "html_title": "Patch #1 The First Patch (Alpha 2) - PCWStats"
+    },
+    {
+      "page_name": "Patch #2 Client Server Update (Alpha 2)",
+      "page_identifier": "alpha-2-patch-2-client-server-update",
+      "html_file": "news/alpha-2-patch-2-client-server-update.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-2-client-server-update.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-2-client-server-update.png",
+      "html_title": "Patch #2 Client Server Update (Alpha 2) - PCWStats"
+    },
+    {
+      "page_name": "Patch #3 Hounds Become the Hunted (Alpha 2)",
+      "page_identifier": "alpha-2-patch-3-hounds-become-the-hunted",
+      "html_file": "news/alpha-2-patch-3-hounds-become-the-hunted.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-3-hounds-become-the-hunted.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-3-hounds-become-the-hunted.png",
+      "html_title": "Patch #3 Hounds Become the Hunted (Alpha 2) - PCWStats"
+    },
+    {
+      "page_name": "Patch #4 Balance Improvements (Alpha 2)",
+      "page_identifier": "alpha-2-patch-4-balance-improvements",
+      "html_file": "news/alpha-2-patch-4-balance-improvements.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-4-balance-improvements.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-4-balance-improvements.png",
+      "html_title": "Patch #4 Balance Improvements (Alpha 2) - PCWStats"
+    },
+    {
+      "page_name": "Patch #5 Small Improvements (Alpha 2)",
+      "page_identifier": "alpha-2-patch-5-small-improvements",
+      "html_file": "news/alpha-2-patch-5-small-improvements.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-5-small-improvements.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-5-small-improvements.png",
+      "html_title": "Patch #5 Small Improvements (Alpha 2) - PCWStats"
+    },
+    {
+      "page_name": "Patch #6 Important Changes (Alpha 2)",
+      "page_identifier": "alpha-2-patch-6-important-changes",
+      "html_file": "news/alpha-2-patch-6-important-changes.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-6-important-changes.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-6-important-changes.png",
+      "html_title": "Patch #6 Important Changes (Alpha 2) - PCWStats"
+    },
+    {
+      "page_name": "Patch #7 M3A1 Bradley is Here (Alpha 2)",
+      "page_identifier": "alpha-2-patch-7-bradley-is-here",
+      "html_file": "news/alpha-2-patch-7-bradley-is-here.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-7-bradley-is-here.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-7-bradley-is-here.png",
+      "html_title": "Patch #7 M3A1 Bradley is Here (Alpha 2) - PCWStats"
+    },
+    {
+      "page_name": "Patch #8 Balancing Changes (Alpha 2)",
+      "page_identifier": "alpha-2-patch-8-balancing-changes",
+      "html_file": "news/alpha-2-patch-8-balancing-changes.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-8-balancing-changes.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-8-balancing-changes.png",
+      "html_title": "Patch #8 Balancing Changes (Alpha 2) - PCWStats"
+    },
+    {
+      "page_name": "Patch #9 Balancing Tweaks (Alpha 2)",
+      "page_identifier": "alpha-2-patch-9-balancing-tweaks",
+      "html_file": "news/alpha-2-patch-9-balancing-tweaks.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-9-balancing-tweaks.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-9-balancing-tweaks.png",
+      "html_title": "Patch #9 Balancing Tweaks (Alpha 2) - PCWStats"
+    },
+    {
+      "page_name": "Valentine's Day (Alpha 2)",
+      "page_identifier": "alpha-2-valentines-day",
+      "html_file": "news/alpha-2-valentines-day.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-valentines-day.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-valentines-day.png",
+      "html_title": "Valentine's Day (Alpha 2) - PCWStats"
+    },
+    {
+      "page_name": "Balanced and Reworked Maps",
+      "page_identifier": "balanced-and-reworked-maps",
+      "html_file": "news/balanced-and-reworked-maps.html",
+      "pixel_filename": "pcwstats-tracker-pixel-balanced-and-reworked-maps.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-balanced-and-reworked-maps.png",
+      "html_title": "Balanced and Reworked Maps - PCWStats"
+    },
+    {
+      "page_name": "Beirut Concept Art",
+      "page_identifier": "beirut-concept-art",
+      "html_file": "news/beirut-concept-art.html",
+      "pixel_filename": "pcwstats-tracker-pixel-beirut-concept-art.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-beirut-concept-art.png",
+      "html_title": "Beirut Concept Art - PCWStats"
+    },
+    {
+      "page_name": "Blossom Crash Concept Art #1",
+      "page_identifier": "blossom-crash-concept-art-1",
+      "html_file": "news/blossom-crash-concept-art-1.html",
+      "pixel_filename": "pcwstats-tracker-pixel-blossom-crash-concept-art-1.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-blossom-crash-concept-art-1.png",
+      "html_title": "Blossom Crash Concept Art #1 - PCWStats"
+    },
+    {
+      "page_name": "Blossom Crash Concept Art #2",
+      "page_identifier": "blossom-crash-concept-art-2",
+      "html_file": "news/blossom-crash-concept-art-2.html",
+      "pixel_filename": "pcwstats-tracker-pixel-blossom-crash-concept-art-2.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-blossom-crash-concept-art-2.png",
+      "html_title": "Blossom Crash Concept Art #2 - PCWStats"
+    },
+    {
+      "page_name": "Community Managers Reintroduction",
+      "page_identifier": "community-managers-reintroduction",
+      "html_file": "news/community-managers-reintroduction.html",
+      "pixel_filename": "pcwstats-tracker-pixel-community-managers-reintroduction.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-community-managers-reintroduction.png",
+      "html_title": "Community Managers Reintroduction - PCWStats"
+    },
+    {
+      "page_name": "Concept Art #1",
+      "page_identifier": "concept-art-1",
+      "html_file": "news/concept-art-1.html",
+      "pixel_filename": "pcwstats-tracker-pixel-concept-art-1.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-concept-art-1.png",
+      "html_title": "Concept Art #1 - PCWStats"
+    },
+    {
+      "page_name": "Concept Art #2",
+      "page_identifier": "concept-art-2",
+      "html_file": "news/concept-art-2.html",
+      "pixel_filename": "pcwstats-tracker-pixel-concept-art-2.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-concept-art-2.png",
+      "html_title": "Concept Art #2 - PCWStats"
+    },
+    {
+      "page_name": "Content Creator Impressions",
+      "page_identifier": "content-creator-impressions",
+      "html_file": "news/content-creator-impressions.html",
+      "pixel_filename": "pcwstats-tracker-pixel-content-creator-impressions.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-content-creator-impressions.png",
+      "html_title": "Content Creator Impressions - PCWStats"
+    },
+    {
+      "page_name": "Desktop & Mobile Backgrounds",
+      "page_identifier": "desktop-mobile-backgrounds",
+      "html_file": "news/desktop-mobile-backgrounds.html",
+      "pixel_filename": "pcwstats-tracker-pixel-desktop-mobile-backgrounds.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-desktop-mobile-backgrounds.png",
+      "html_title": "Desktop & Mobile Backgrounds - PCWStats"
+    },
+    {
+      "page_name": "Design Developer Q&A",
+      "page_identifier": "dev-questions-answers-design",
+      "html_file": "news/dev-questions-answers-design.html",
+      "pixel_filename": "pcwstats-tracker-pixel-dev-questions-answers-design.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-dev-questions-answers-design.png",
+      "html_title": "Design Developer Q&A - PCWStats"
+    },
+    {
+      "page_name": "Narrative Design Developer Q&A",
+      "page_identifier": "dev-questions-answers-narrative",
+      "html_file": "news/dev-questions-answers-narrative.html",
+      "pixel_filename": "pcwstats-tracker-pixel-dev-questions-answers-narrative.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-dev-questions-answers-narrative.png",
+      "html_title": "Narrative Design Developer Q&A - PCWStats"
+    },
+    {
+      "page_name": "Friendship Dam Concept Art #1",
+      "page_identifier": "friendship-dam-concept-art-1",
+      "html_file": "news/friendship-dam-concept-art-1.html",
+      "pixel_filename": "pcwstats-tracker-pixel-friendship-dam-concept-art-1.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-friendship-dam-concept-art-1.png",
+      "html_title": "Friendship Dam Concept Art #1 - PCWStats"
+    },
+    {
+      "page_name": "Friendship Dam Sneak Peek #1",
+      "page_identifier": "friendship-dam-sneak-peek-1",
+      "html_file": "news/friendship-dam-sneak-peek-1.html",
+      "pixel_filename": "pcwstats-tracker-pixel-friendship-dam-sneak-peek-1.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-friendship-dam-sneak-peek-1.png",
+      "html_title": "Friendship Dam Sneak Peek #1 - PCWStats"
+    },
+    {
+      "page_name": "Friendship Dam Sneak Peek #2",
+      "page_identifier": "friendship-dam-sneak-peek-2",
+      "html_file": "news/friendship-dam-sneak-peek-2.html",
+      "pixel_filename": "pcwstats-tracker-pixel-friendship-dam-sneak-peek-2.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-friendship-dam-sneak-peek-2.png",
+      "html_title": "Friendship Dam Sneak Peek #2 - PCWStats"
+    },
+    {
+      "page_name": "Gun Dispersion Changes",
+      "page_identifier": "gun-dispersion-changes",
+      "html_file": "news/gun-dispersion-changes.html",
+      "pixel_filename": "pcwstats-tracker-pixel-gun-dispersion-changes.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-gun-dispersion-changes.png",
+      "html_title": "Gun Dispersion Changes - PCWStats"
+    },
+    {
+      "page_name": "Happy Tanksgiving",
+      "page_identifier": "happy-tanksgiving",
+      "html_file": "news/happy-tanksgiving.html",
+      "pixel_filename": "pcwstats-tracker-pixel-happy-tanksgiving.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-happy-tanksgiving.png",
+      "html_title": "Happy Tanksgiving - PCWStats"
+    },
+    {
+      "page_name": "Hit-box Monday #1",
+      "page_identifier": "hitbox-monday-1",
+      "html_file": "news/hitbox-monday-1.html",
+      "pixel_filename": "pcwstats-tracker-pixel-hitbox-monday-1.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hitbox-monday-1.png",
+      "html_title": "Hit-box Monday #1 - PCWStats"
+    },
+    {
+      "page_name": "Hit-box Monday #2",
+      "page_identifier": "hitbox-monday-2",
+      "html_file": "news/hitbox-monday-2.html",
+      "pixel_filename": "pcwstats-tracker-pixel-hitbox-monday-2.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hitbox-monday-2.png",
+      "html_title": "Hit-box Monday #2 - PCWStats"
+    },
+    {
+      "page_name": "Hit-box Monday #3",
+      "page_identifier": "hitbox-monday-3",
+      "html_file": "news/hitbox-monday-3.html",
+      "pixel_filename": "pcwstats-tracker-pixel-hitbox-monday-3.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hitbox-monday-3.png",
+      "html_title": "Hit-box Monday #3 - PCWStats"
+    },
+    {
+      "page_name": "Hit-box Monday #4",
+      "page_identifier": "hitbox-monday-4",
+      "html_file": "news/hitbox-monday-4.html",
+      "pixel_filename": "pcwstats-tracker-pixel-hitbox-monday-4.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hitbox-monday-4.png",
+      "html_title": "Hit-box Monday #4 - PCWStats"
+    },
+    {
+      "page_name": "Hit-box Monday #5",
+      "page_identifier": "hitbox-monday-5",
+      "html_file": "news/hitbox-monday-5.html",
+      "pixel_filename": "pcwstats-tracker-pixel-hitbox-monday-5.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hitbox-monday-5.png",
+      "html_title": "Hit-box Monday #5 - PCWStats"
+    },
+    {
+      "page_name": "Jäger's Wall Bug",
+      "page_identifier": "jager-wall-bug",
+      "html_file": "news/jager-wall-bug.html",
+      "pixel_filename": "pcwstats-tracker-pixel-jager-wall-bug.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-jager-wall-bug.png",
+      "html_title": "Jäger's Wall Bug - PCWStats"
+    },
+    {
+      "page_name": "Map Monday #1",
+      "page_identifier": "map-monday-1",
+      "html_file": "news/map-monday-1.html",
+      "pixel_filename": "pcwstats-tracker-pixel-map-monday-1.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-map-monday-1.png",
+      "html_title": "Map Monday #1 - PCWStats"
+    },
+    {
+      "page_name": "Map Monday #2",
+      "page_identifier": "map-monday-2",
+      "html_file": "news/map-monday-2.html",
+      "pixel_filename": "pcwstats-tracker-pixel-map-monday-2.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-map-monday-2.png",
+      "html_title": "Map Monday #2 - PCWStats"
+    },
+    {
+      "page_name": "Map Monday #3",
+      "page_identifier": "map-monday-3",
+      "html_file": "news/map-monday-3.html",
+      "pixel_filename": "pcwstats-tracker-pixel-map-monday-3.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-map-monday-3.png",
+      "html_title": "Map Monday #3 - PCWStats"
+    },
+    {
+      "page_name": "Map Monday #4",
+      "page_identifier": "map-monday-4",
+      "html_file": "news/map-monday-4.html",
+      "pixel_filename": "pcwstats-tracker-pixel-map-monday-4.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-map-monday-4.png",
+      "html_title": "Map Monday #4 - PCWStats"
+    },
+    {
+      "page_name": "Map Monday #5",
+      "page_identifier": "map-monday-5",
+      "html_file": "news/map-monday-5.html",
+      "pixel_filename": "pcwstats-tracker-pixel-map-monday-5.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-map-monday-5.png",
+      "html_title": "Map Monday #5 - PCWStats"
+    },
+    {
+      "page_name": "Medals Explained",
+      "page_identifier": "medals-explained",
+      "html_file": "news/medals-explained.html",
+      "pixel_filename": "pcwstats-tracker-pixel-medals-explained.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-medals-explained.png",
+      "html_title": "Medals Explained - PCWStats"
+    },
+    {
+      "page_name": "New Agents #1",
+      "page_identifier": "new-agents-1",
+      "html_file": "news/new-agents-1.html",
+      "pixel_filename": "pcwstats-tracker-pixel-new-agents-1.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-new-agents-1.png",
+      "html_title": "New Agents #1 - PCWStats"
+    },
+    {
+      "page_name": "New Agents #2",
+      "page_identifier": "new-agents-2",
+      "html_file": "news/new-agents-2.html",
+      "pixel_filename": "pcwstats-tracker-pixel-new-agents-2.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-new-agents-2.png",
+      "html_title": "New Agents #2 - PCWStats"
+    },
+    {
+      "page_name": "New Agents #3",
+      "page_identifier": "new-agents-3",
+      "html_file": "news/new-agents-3.html",
+      "pixel_filename": "pcwstats-tracker-pixel-new-agents-3.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-new-agents-3.png",
+      "html_title": "New Agents #3 - PCWStats"
+    },
+    {
+      "page_name": "Nord Oko Concept Art #1",
+      "page_identifier": "nord-oko-concept-art-1",
+      "html_file": "news/nord-oko-concept-art-1.html",
+      "pixel_filename": "pcwstats-tracker-pixel-nord-oko-concept-art-1.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-nord-oko-concept-art-1.png",
+      "html_title": "Nord Oko Concept Art #1 - PCWStats"
+    },
+    {
+      "page_name": "Nord Oko Concept Art #2",
+      "page_identifier": "nord-oko-concept-art-2",
+      "html_file": "news/nord-oko-concept-art-2.html",
+      "pixel_filename": "pcwstats-tracker-pixel-nord-oko-concept-art-2.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-nord-oko-concept-art-2.png",
+      "html_title": "Nord Oko Concept Art #2 - PCWStats"
+    },
+    {
+      "page_name": "Nord Oko Concept Art #3",
+      "page_identifier": "nord-oko-concept-art-3",
+      "html_file": "news/nord-oko-concept-art-3.html",
+      "pixel_filename": "pcwstats-tracker-pixel-nord-oko-concept-art-3.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-nord-oko-concept-art-3.png",
+      "html_title": "Nord Oko Concept Art #3 - PCWStats"
+    },
+    {
+      "page_name": "News Title",
+      "page_identifier": "placeholder-news",
+      "html_file": "news/placeholder-news.html",
+      "pixel_filename": "pcwstats-tracker-pixel-placeholder-news.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-news.png",
+      "html_title": "News Title - PCWStats"
+    },
+    {
+      "page_name": "Plant/Defuse Game Mode",
+      "page_identifier": "plant-defuse-mode",
+      "html_file": "news/plant-defuse-mode.html",
+      "pixel_filename": "pcwstats-tracker-pixel-plant-defuse-mode.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-plant-defuse-mode.png",
+      "html_title": "Plant/Defuse Game Mode - PCWStats"
+    },
+    {
+      "page_name": "Progression and Social Changes",
+      "page_identifier": "progression-and-social-changes",
+      "html_file": "news/progression-and-social-changes.html",
+      "pixel_filename": "pcwstats-tracker-pixel-progression-and-social-changes.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-progression-and-social-changes.png",
+      "html_title": "Progression and Social Changes - PCWStats"
+    },
+    {
+      "page_name": "Project CW Debrief #1",
+      "page_identifier": "project-cw-debrief-1",
+      "html_file": "news/project-cw-debrief-1.html",
+      "pixel_filename": "pcwstats-tracker-pixel-project-cw-debrief-1.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-project-cw-debrief-1.png",
+      "html_title": "Project CW Debrief #1 - PCWStats"
+    },
+    {
+      "page_name": "Project CW Debrief #2",
+      "page_identifier": "project-cw-debrief-2",
+      "html_file": "news/project-cw-debrief-2.html",
+      "pixel_filename": "pcwstats-tracker-pixel-project-cw-debrief-2.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-project-cw-debrief-2.png",
+      "html_title": "Project CW Debrief #2 - PCWStats"
+    },
+    {
+      "page_name": "Project CW at Gamescom 2025",
+      "page_identifier": "project-cw-gamescom-2025",
+      "html_file": "news/project-cw-gamescom-2025.html",
+      "pixel_filename": "pcwstats-tracker-pixel-project-cw-gamescom-2025.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-project-cw-gamescom-2025.png",
+      "html_title": "Project CW at Gamescom 2025 - PCWStats"
+    },
+    {
+      "page_name": "Update on Quest Progress",
+      "page_identifier": "quest-progress",
+      "html_file": "news/quest-progress.html",
+      "pixel_filename": "pcwstats-tracker-pixel-quest-progress.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-quest-progress.png",
+      "html_title": "Update on Quest Progress - PCWStats"
+    },
+    {
+      "page_name": "Update Recap",
+      "page_identifier": "update-recap",
+      "html_file": "news/update-recap.html",
+      "pixel_filename": "pcwstats-tracker-pixel-update-recap.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-update-recap.png",
+      "html_title": "Update Recap - PCWStats"
+    },
+    {
+      "page_name": "Who Are They #1",
+      "page_identifier": "who-are-they-1",
+      "html_file": "news/who-are-they-1.html",
+      "pixel_filename": "pcwstats-tracker-pixel-who-are-they-1.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-who-are-they-1.png",
+      "html_title": "Who Are They #1 - PCWStats"
+    },
+    {
+      "page_name": "Who Are They #2",
+      "page_identifier": "who-are-they-2",
+      "html_file": "news/who-are-they-2.html",
+      "pixel_filename": "pcwstats-tracker-pixel-who-are-they-2.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-who-are-they-2.png",
+      "html_title": "Who Are They #2 - PCWStats"
+    },
+    {
+      "page_name": "Community Guides",
+      "page_identifier": "all-guides-placeholder",
+      "html_file": "placeholder-tables/all-guides-placeholder.html",
+      "pixel_filename": "pcwstats-tracker-pixel-all-guides-placeholder.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-all-guides-placeholder.png",
+      "html_title": "Community Guides - PCWStats"
+    },
+    {
+      "page_name": "Placeholder",
+      "page_identifier": "guide-category-placeholder",
+      "html_file": "placeholder-tables/guide-category-placeholder.html",
+      "pixel_filename": "pcwstats-tracker-pixel-guide-category-placeholder.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-guide-category-placeholder.png",
+      "html_title": "Placeholder - PCWStats"
+    },
+    {
+      "page_name": "AGDS",
+      "page_identifier": "agds",
+      "html_file": "tanks/agds.html",
+      "pixel_filename": "pcwstats-tracker-pixel-agds.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-agds.png",
+      "html_title": "AGDS - PCWStats"
+    },
+    {
+      "page_name": "ALVT",
+      "page_identifier": "alvt",
+      "html_file": "tanks/alvt.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alvt.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alvt.png",
+      "html_title": "ALVT - PCWStats"
+    },
+    {
+      "page_name": "BAT-4M",
+      "page_identifier": "bat-4m",
+      "html_file": "tanks/bat-4m.html",
+      "pixel_filename": "pcwstats-tracker-pixel-bat-4m.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-bat-4m.png",
+      "html_title": "BAT-4M - PCWStats"
+    },
+    {
+      "page_name": "FV 4030/X",
+      "page_identifier": "fv4030x",
+      "html_file": "tanks/fv4030x.html",
+      "pixel_filename": "pcwstats-tracker-pixel-fv4030x.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-fv4030x.png",
+      "html_title": "FV 4030/X - PCWStats"
+    },
+    {
+      "page_name": "HSTV-L",
+      "page_identifier": "hstv-l",
+      "html_file": "tanks/hstv-l.html",
+      "pixel_filename": "pcwstats-tracker-pixel-hstv-l.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hstv-l.png",
+      "html_title": "HSTV-L - PCWStats"
+    },
+    {
+      "page_name": "Leopard 1A1B",
+      "page_identifier": "leopard-1a1b",
+      "html_file": "tanks/leopard-1a1b.html",
+      "pixel_filename": "pcwstats-tracker-pixel-leopard-1a1b.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-leopard-1a1b.png",
+      "html_title": "Leopard 1A1B - PCWStats"
+    },
+    {
+      "page_name": "Leopard 1A6A1",
+      "page_identifier": "leopard-1a6a1",
+      "html_file": "tanks/leopard-1a6a1.html",
+      "pixel_filename": "pcwstats-tracker-pixel-leopard-1a6a1.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-leopard-1a6a1.png",
+      "html_title": "Leopard 1A6A1 - PCWStats"
+    },
+    {
+      "page_name": "Leopard 2FK",
+      "page_identifier": "leopard-2fk",
+      "html_file": "tanks/leopard-2fk.html",
+      "pixel_filename": "pcwstats-tracker-pixel-leopard-2fk.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-leopard-2fk.png",
+      "html_title": "Leopard 2FK - PCWStats"
+    },
+    {
+      "page_name": "Leopard 2K14",
+      "page_identifier": "leopard-2k14",
+      "html_file": "tanks/leopard-2k14.html",
+      "pixel_filename": "pcwstats-tracker-pixel-leopard-2k14.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-leopard-2k14.png",
+      "html_title": "Leopard 2K14 - PCWStats"
+    },
+    {
+      "page_name": "M1 Railgun",
+      "page_identifier": "m1-railgun",
+      "html_file": "tanks/m1-railgun.html",
+      "pixel_filename": "pcwstats-tracker-pixel-m1-railgun.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-m1-railgun.png",
+      "html_title": "M1 Railgun - PCWStats"
+    },
+    {
+      "page_name": "M1E1",
+      "page_identifier": "m1e1",
+      "html_file": "tanks/m1e1.html",
+      "pixel_filename": "pcwstats-tracker-pixel-m1e1.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-m1e1.png",
+      "html_title": "M1E1 - PCWStats"
+    },
+    {
+      "page_name": "M3A1 Bradley",
+      "page_identifier": "m3a1-bradley",
+      "html_file": "tanks/m3a1-bradley.html",
+      "pixel_filename": "pcwstats-tracker-pixel-m3a1-bradley.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-m3a1-bradley.png",
+      "html_title": "M3A1 Bradley - PCWStats"
+    },
+    {
+      "page_name": "M60A3E2",
+      "page_identifier": "m60a3e2",
+      "html_file": "tanks/m60a3e2.html",
+      "pixel_filename": "pcwstats-tracker-pixel-m60a3e2.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-m60a3e2.png",
+      "html_title": "M60A3E2 - PCWStats"
+    },
+    {
+      "page_name": "M60E2",
+      "page_identifier": "m60e2",
+      "html_file": "tanks/m60e2.html",
+      "pixel_filename": "pcwstats-tracker-pixel-m60e2.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-m60e2.png",
+      "html_title": "M60E2 - PCWStats"
+    },
+    {
+      "page_name": "Object 279",
+      "page_identifier": "object-279",
+      "html_file": "tanks/object-279.html",
+      "pixel_filename": "pcwstats-tracker-pixel-object-279.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-object-279.png",
+      "html_title": "Object 279 - PCWStats"
+    },
+    {
+      "page_name": "Object 287",
+      "page_identifier": "object-287",
+      "html_file": "tanks/object-287.html",
+      "pixel_filename": "pcwstats-tracker-pixel-object-287.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-object-287.png",
+      "html_title": "Object 287 - PCWStats"
+    },
+    {
+      "page_name": "Tank",
+      "page_identifier": "placeholder-tank",
+      "html_file": "tanks/placeholder-tank.html",
+      "pixel_filename": "pcwstats-tracker-pixel-placeholder-tank.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-tank.png",
+      "html_title": "Tank - PCWStats"
+    },
+    {
+      "page_name": "PTZ-89C",
+      "page_identifier": "ptz89c",
+      "html_file": "tanks/ptz89c.html",
+      "pixel_filename": "pcwstats-tracker-pixel-ptz89c.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-ptz89c.png",
+      "html_title": "PTZ-89C - PCWStats"
+    },
+    {
+      "page_name": "T-62AV",
+      "page_identifier": "t-62av",
+      "html_file": "tanks/t-62av.html",
+      "pixel_filename": "pcwstats-tracker-pixel-t-62av.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-t-62av.png",
+      "html_title": "T-62AV - PCWStats"
+    },
+    {
+      "page_name": "T-62MS",
+      "page_identifier": "t-62ms",
+      "html_file": "tanks/t-62ms.html",
+      "pixel_filename": "pcwstats-tracker-pixel-t-62ms.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-t-62ms.png",
+      "html_title": "T-62MS - PCWStats"
+    },
+    {
+      "page_name": "T-64A",
+      "page_identifier": "t-64a",
+      "html_file": "tanks/t-64a.html",
+      "pixel_filename": "pcwstats-tracker-pixel-t-64a.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-t-64a.png",
+      "html_title": "T-64A - PCWStats"
+    },
+    {
+      "page_name": "T-72AU",
+      "page_identifier": "t-72au",
+      "html_file": "tanks/t-72au.html",
+      "pixel_filename": "pcwstats-tracker-pixel-t-72au.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-t-72au.png",
+      "html_title": "T-72AU - PCWStats"
+    },
+    {
+      "page_name": "T-72B",
+      "page_identifier": "t-72b",
+      "html_file": "tanks/t-72b.html",
+      "pixel_filename": "pcwstats-tracker-pixel-t-72b.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-t-72b.png",
+      "html_title": "T-72B - PCWStats"
+    },
+    {
+      "page_name": "XM1-90",
+      "page_identifier": "xm1-90",
+      "html_file": "tanks/xm1-90.html",
+      "pixel_filename": "pcwstats-tracker-pixel-xm1-90.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-xm1-90.png",
+      "html_title": "XM1-90 - PCWStats"
+    },
+    {
+      "page_name": "XM1-V",
+      "page_identifier": "xm1-v",
+      "html_file": "tanks/xm1-v.html",
+      "pixel_filename": "pcwstats-tracker-pixel-xm1-v.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-xm1-v.png",
+      "html_title": "XM1-V - PCWStats"
+    },
+    {
+      "page_name": "XM551",
+      "page_identifier": "xm551",
+      "html_file": "tanks/xm551.html",
+      "pixel_filename": "pcwstats-tracker-pixel-xm551.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-xm551.png",
+      "html_title": "XM551 - PCWStats"
+    },
+    {
+      "page_name": "XM808 Twister",
+      "page_identifier": "xm808-twister",
+      "html_file": "tanks/xm808-twister.html",
+      "pixel_filename": "pcwstats-tracker-pixel-xm808-twister.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-xm808-twister.png",
+      "html_title": "XM808 Twister - PCWStats"
+    },
+    {
+      "page_name": "Alpha #1 Tournament",
+      "page_identifier": "open-alpha-1-tournament",
+      "html_file": "tournaments/open-alpha-1-tournament.html",
+      "pixel_filename": "pcwstats-tracker-pixel-open-alpha-1-tournament.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-open-alpha-1-tournament.png",
+      "html_title": "Alpha #1 Tournament - PCWStats"
+    },
+    {
+      "page_name": "Alpha #2 Tournament",
+      "page_identifier": "open-alpha-2-tournament",
+      "html_file": "tournaments/open-alpha-2-tournament.html",
+      "pixel_filename": "pcwstats-tracker-pixel-open-alpha-2-tournament.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-open-alpha-2-tournament.png",
+      "html_title": "Alpha #2 Tournament - PCWStats"
+    }
+  ]
+}
