@@ -9,7 +9,8 @@
         "type": "Ended",
         "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tournaments/OAT1/Tournament_announcement-1.png",
         "tournament-id": "OAT1",
-        "tournament-data": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tournaments/OAT1.json"
+        "tournament-data": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tournaments/OAT1.json",
+        "tournament-views": "https://pcwstats-pixel-api.vercel.app/api/stats?image=pcwstats-tracker-pixel-open-alpha-2-tournament.png"
     },
     {
         "id": 2,
@@ -21,6 +22,7 @@
         "type": "Ended",
         "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tournaments/OAT2/Tournament_announcement-2.png",
         "tournament-id": "OAT2",
-        "tournament-data": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tournaments/OAT2.json"
+        "tournament-data": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tournaments/OAT2.json",
+        "tournament-views": "https://pcwstats-pixel-api.vercel.app/api/stats?image=pcwstats-tracker-pixel-open-alpha-2-tournament.png"
     }
 ]
