@@ -33,14 +33,15 @@
         { "name": "Project Policies", "status": "🟢" },
         { "name": "Changelog", "status": "🟢" },
         { "name": "Dev Only Page", "status": "🟢" },
+        { "name": "Website Statistics", "status": "🟢" },
         { "name": "Bug Hunting Page", "status": "🟢" }
       ]
     },
     {
       "name": "Individual Tasks",
       "tasks": [
-        { "name": "Site-wide search feature", "status": "🟢" },
-        { "name": "Dynamic banner", "status": "🟢" },
+        { "name": "Site-wide Search Feature", "status": "🟢" },
+        { "name": "Dynamic Banner", "status": "🟢" },
         { "name": "Pagination in news and blog pages", "status": "🟢" },
         { "name": "Custom Contact Forms", "status": "🟢" },
         { "name": "Filter system for Tankopedia", "status": "🟢" },
@@ -48,6 +49,8 @@
         { "name": "Meet the Team blog posts", "status": "🟡" },
         { "name": "Tank Roulette", "status": "🟢" },
         { "name": "Version Checker", "status": "🟢" },
+        { "name": "View Tracking System", "status": "🟢" },
+        { "name": "JsDelivr CDN Integration", "status": "🟢" },
         { "name": "Model / Armor / Module viewer", "status": "🟠" },
         { "name": "Upgrade / Perk / Consumable Selector", "status": "🟠" }
       ]
