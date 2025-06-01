@@ -1,12 +1,12 @@
 {
-  "generated_at": "2025-05-31T01:09:42.841010",
+  "generated_at": "2025-06-01T19:18:27.618075",
   "site_url": "https://pcwstats.github.io/",
   "data": {
     "site_url": "https://pcwstats.github.io/",
-    "last_checked": "2025-05-31T01:09:42.441609",
+    "last_checked": "2025-06-01T19:18:27.301928",
     "date_range": {
-      "start_date": "2025-05-01",
-      "end_date": "2025-05-31"
+      "start_date": "2025-05-02",
+      "end_date": "2025-06-01"
     },
     "pages": [
       {
@@ -54,6 +54,17 @@
         "user_agent": "DESKTOP"
       },
       {
+        "url": "https://pcwstats.github.io/blog/meet-the-team-esmatty.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
         "url": "https://pcwstats.github.io/blog/meet-the-team-ven0m.html",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -66,6 +77,17 @@
       },
       {
         "url": "https://pcwstats.github.io/blog/tournament-feature-blog.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/builds.html",
         "status": "indexed_and_served",
         "last_crawled": null,
         "indexing_state": "INDEXED",
@@ -285,6 +307,17 @@
         "user_agent": "DESKTOP"
       },
       {
+        "url": "https://pcwstats.github.io/news/new-agents-1.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
         "url": "https://pcwstats.github.io/news/new-agents-2.html",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -307,7 +340,29 @@
         "user_agent": "DESKTOP"
       },
       {
+        "url": "https://pcwstats.github.io/strategy-planner.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
         "url": "https://pcwstats.github.io/tanks/agds.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/tanks/alvt.html",
         "status": "indexed_and_served",
         "last_crawled": null,
         "indexing_state": "INDEXED",
@@ -329,7 +384,84 @@
         "user_agent": "DESKTOP"
       },
       {
+        "url": "https://pcwstats.github.io/tanks/fv4030x.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/tanks/hstv-l.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/tanks/leopard-1a6a1.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/tanks/leopard-2fk.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/tanks/m1-railgun.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
         "url": "https://pcwstats.github.io/tanks/m1e1.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/tanks/m3a1-bradley.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/tanks/m60a3e2.html",
         "status": "indexed_and_served",
         "last_crawled": null,
         "indexing_state": "INDEXED",
@@ -351,6 +483,28 @@
         "user_agent": "DESKTOP"
       },
       {
+        "url": "https://pcwstats.github.io/tanks/object-287.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/tanks/ptz89c.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
         "url": "https://pcwstats.github.io/tanks/xm1-v.html",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -362,7 +516,29 @@
         "user_agent": "DESKTOP"
       },
       {
+        "url": "https://pcwstats.github.io/tanks/xm808-twister.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
         "url": "https://pcwstats.github.io/tournaments.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/tournaments/open-alpha-1-tournament.html",
         "status": "indexed_and_served",
         "last_crawled": null,
         "indexing_state": "INDEXED",
@@ -385,8 +561,8 @@
       }
     ],
     "summary": {
-      "total_pages": 34,
-      "indexed_pages": 34,
+      "total_pages": 50,
+      "indexed_pages": 50,
       "not_indexed_pages": 0,
       "errors": 0
     },
@@ -414,8 +590,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 34,
-    "indexed_pages": 34,
+    "total_pages_found": 50,
+    "indexed_pages": 50,
     "errors": 0
   }
 }
