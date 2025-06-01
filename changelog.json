@@ -1,6 +1,52 @@
 {
   "updates": [
     {
+      "version": "0.0.0776",
+      "date": "2025-05-31",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #37",
+      "description": "Full patch notes for Update v0.0.0776 (#37), detailing all changes made on 31 May, 2025.",
+      "added": [
+        "New column and description to the Website Statistics page",
+        "Public Website Statistics page and linked it in Quick Links",
+        "Navigation capability to agent modal in tank pages",
+        "View counters on all tank, map, news, legal, guide, blog, bug hunting, and tournament pages",
+        "Pixel trackers to all pages",
+        "Hidden 'Bored Developers' page with unique tracking pixel",
+        "Easter egg loading messages for esmatty, Shockwave, Anuraen, and others",
+        "Complete build link sharing logic",
+        "New funny loading messages across the builds page",
+        "New loader message from antitank99 on builds page",
+        "View API link config for both tournaments",
+        "Tracking pixel remover in development tools"
+      ],
+      "changed": [
+        "Website statistics charts updated to use forced styles and improved dark mode compatibility",
+        "Tank pages charts now render without inherited text styles",
+        "Tooltip behavior fixed on Website Statistics page",
+        "All pages now use updated pixel tracker system",
+        "Builds page: improved styles for featured tags and card consistency",
+        "Filters updated on common builds page",
+        "Increased max concurrent request limit on builds page for faster loading",
+        "Increased max-width on builds page",
+        "Tweaked name for the first XM1-V build",
+        "Updated Edwards XM1V build to be featured",
+        "Updated tracking pixel data list and example env file for tools"
+      ],
+      "fixed": [
+        "Hyperlink hover effect on Website Statistics page",
+        "Pathing issue in Quick Links section of the About Us page",
+        "View counter issues on main blogs and guide pages",
+        "Spacing issue in loader messages"
+      ],
+      "removed": [
+        "Old tracking pixels from all pages and Website-Images",
+        "Placeholder builds for all tanks including XM1-V and Leopard 1A1B",
+        "Featured status from one module for consistency",
+        "Tracking data from tracking-pixel file"
+      ]
+    },
+    {
       "version": "0.0.0745",
       "date": "2025-05-30",
       "author": "PCWStats Team",
