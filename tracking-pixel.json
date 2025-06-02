@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-02T00:33:51.262766",
+  "generated_at": "2025-06-02T09:22:27.420620",
   "base_cdn_url": "https://pcwstats-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -1537,6 +1537,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-wierd-pattern-images.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-wierd-pattern-images.png",
       "html_title": "Wierd Pattern Images - PCWStats"
+    },
+    {
+      "page_name": "Alpha 3 Playtest",
+      "page_identifier": "alpha-3-playtest",
+      "html_file": "alpha-3-playtest.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-3-playtest.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-3-playtest.png",
+      "html_title": "Alpha 3 Playtest - PCWStats"
     }
   ]
 }
