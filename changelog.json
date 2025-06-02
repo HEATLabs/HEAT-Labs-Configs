@@ -1,6 +1,36 @@
 {
   "updates": [
     {
+      "version": "0.0.0791",
+      "date": "2025-06-01",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #38",
+      "description": "Full patch notes for Update v0.0.0791 (#38), detailing all changes made on 01 June, 2025.",
+      "added": [
+        "Multiple new bug hunting posts",
+        "Tracking pixel to all new bug hunting posts",
+        "Final bug hunting post and required media",
+        "Status filters on the main tanks page",
+        "Tags for tanks that are completed and changed tags for unreleased tanks",
+        "Images and videos for new bug hunting posts"
+      ],
+      "changed": [
+        "Related Articles section for all bug hunting posts",
+        "Map and tank placeholder texts and tags",
+        "Development status data for Tankopedia, Bug Hunting, Strat Planner, and Compare features",
+        "Tracking pixel index and how-to placeholder in Tankopedia data"
+      ],
+      "fixed": [
+        "Bug hunting post file names, images, thumbnails, and formatting",
+        "Table of Contents and video playback issues in bug hunting posts",
+        "Canonical URL tag issues",
+        "Naming scheme of one bug hunting video"
+      ],
+      "removed": [
+        "Redundant category fields from Tankopedia placeholder data"
+      ]
+    },
+    {
       "version": "0.0.0776",
       "date": "2025-05-31",
       "author": "PCWStats Team",
