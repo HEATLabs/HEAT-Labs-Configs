@@ -928,5 +928,161 @@
     "description": "Tool for planning and sharing battle strategies",
     "path": "https://pcwstats.github.io/strategy-planner.html",
     "keywords": ["strategy", "planner", "tool", "plan", "tactics", "battle"]
+  },
+  {
+    "name": "Alpha 3 Playtest",
+    "description": "Information about the Alpha 3 playtesting phase",
+    "path": "https://pcwstats.github.io/alpha-3-playtest.html",
+    "keywords": ["alpha 3", "playtest", "testing", "phase", "early access"]
+  },
+  {
+    "name": "Damage Calculation Bug Hunting",
+    "description": "Investigation into damage calculation mechanics",
+    "path": "https://pcwstats.github.io/bug-hunting/damage-calculation.html",
+    "keywords": ["bug", "damage", "calculation", "mechanics", "investigation"]
+  },
+  {
+    "name": "Developer Guide Images",
+    "description": "Analysis of developer guide images for hidden clues",
+    "path": "https://pcwstats.github.io/bug-hunting/developer-guide-images.html",
+    "keywords": ["developer", "guide", "images", "analysis", "clues"]
+  },
+  {
+    "name": "Discovery of CoreX",
+    "description": "Findings about the mysterious CoreX system",
+    "path": "https://pcwstats.github.io/bug-hunting/discovery-of-corex.html",
+    "keywords": ["corex", "discovery", "system", "mysterious", "findings"]
+  },
+  {
+    "name": "Animation and Movement Desync",
+    "description": "Research into animation and movement synchronization issues",
+    "path": "https://pcwstats.github.io/bug-hunting/exploring-animation-and-movement-desync.html",
+    "keywords": ["animation", "movement", "desync", "research", "bugs"]
+  },
+  {
+    "name": "Main Menu Garage Exploration",
+    "description": "Findings from investigating the main menu garage",
+    "path": "https://pcwstats.github.io/bug-hunting/exploring-the-main-menu-garage.html",
+    "keywords": ["main menu", "garage", "exploration", "investigation", "ui"]
+  },
+  {
+    "name": "Hidden Servers Hunt",
+    "description": "Search for potential hidden game servers",
+    "path": "https://pcwstats.github.io/bug-hunting/hunting-for-potential-hidden-servers.html",
+    "keywords": ["hidden", "servers", "hunt", "network", "discovery"]
+  },
+  {
+    "name": "Info from Developers",
+    "description": "Compilation of information gathered from developers",
+    "path": "https://pcwstats.github.io/bug-hunting/info-from-developers.html",
+    "keywords": ["developers", "information", "compilation", "insights", "findings"]
+  },
+  {
+    "name": "Mysterious Engine Picture",
+    "description": "Analysis of a mysterious engine-related image",
+    "path": "https://pcwstats.github.io/bug-hunting/mysterious-engine-picture.html",
+    "keywords": ["engine", "mysterious", "picture", "analysis", "clue"]
+  },
+  {
+    "name": "Potential Campaign Mode",
+    "description": "Evidence suggesting a possible campaign mode",
+    "path": "https://pcwstats.github.io/bug-hunting/potential-campaign-mode.html",
+    "keywords": ["campaign", "mode", "evidence", "potential", "pve"]
+  },
+  {
+    "name": "Tank Module Locations",
+    "description": "Research into tank module positioning data",
+    "path": "https://pcwstats.github.io/bug-hunting/tank-module-locations.html",
+    "keywords": ["tank", "module", "locations", "positioning", "data"]
+  },
+  {
+    "name": "The Three Badges",
+    "description": "Investigation into three mysterious badges",
+    "path": "https://pcwstats.github.io/bug-hunting/the-three-badges.html",
+    "keywords": ["badges", "mysterious", "three", "investigation", "achievements"]
+  },
+  {
+    "name": "Titan Dummies Respawn Glitch",
+    "description": "Documentation of a Titan dummies respawn glitch",
+    "path": "https://pcwstats.github.io/bug-hunting/titan-dummies-respawn-glitch.html",
+    "keywords": ["titan", "dummies", "respawn", "glitch", "bug"]
+  },
+  {
+    "name": "Unlocking the Camera",
+    "description": "Experiments with camera freedom and limitations",
+    "path": "https://pcwstats.github.io/bug-hunting/unlocking-the-camera.html",
+    "keywords": ["camera", "unlock", "freedom", "limitations", "experiments"]
+  },
+  {
+    "name": "Who is PCW Bug Hunters",
+    "description": "Introduction to the PCW bug hunting community",
+    "path": "https://pcwstats.github.io/bug-hunting/who-is-pcw-bug-hunters.html",
+    "keywords": ["bug", "hunters", "community", "introduction", "pcw"]
+  },
+  {
+    "name": "Weird Pattern Images",
+    "description": "Analysis of strange pattern images found in game files",
+    "path": "https://pcwstats.github.io/bug-hunting/wierd-pattern-images.html",
+    "keywords": ["pattern", "images", "weird", "analysis", "files"]
+  },
+  {
+    "name": "Check and Compare",
+    "description": "Tool for comparing game data and statistics",
+    "path": "https://pcwstats.github.io/check-compare.html",
+    "keywords": ["check", "compare", "tool", "statistics", "data"]
+  },
+  {
+    "name": "General Guides",
+    "description": "Overview of general game guides",
+    "path": "https://pcwstats.github.io/guides/general-guides.html",
+    "keywords": ["guides", "general", "overview", "gameplay", "tips"]
+  },
+  {
+    "name": "Map Guides",
+    "description": "Overview of available map guides",
+    "path": "https://pcwstats.github.io/guides/map-guides.html",
+    "keywords": ["maps", "guides", "overview", "locations", "strategies"]
+  },
+  {
+    "name": "Tank Guides",
+    "description": "Overview of available tank guides",
+    "path": "https://pcwstats.github.io/guides/tank-guides.html",
+    "keywords": ["tanks", "guides", "overview", "vehicles", "strategies"]
+  },
+  {
+    "name": "BAT-4M Basic Guide",
+    "description": "Basic guide for the BAT-4M tank",
+    "path": "https://pcwstats.github.io/guides/tank-guides/bat-4m-basic-guide.html",
+    "keywords": ["bat-4m", "guide", "basic", "tank", "strategy"]
+  },
+  {
+    "name": "XM1-V Build Guide",
+    "description": "Build guide for the XM1-V tank",
+    "path": "https://pcwstats.github.io/guides/tank-guides/xm1-v-build-guide.html",
+    "keywords": ["xm1-v", "build", "guide", "tank", "strategy"]
+  },
+  {
+    "name": "Project CW Debrief 1",
+    "description": "First development debrief for Project CW",
+    "path": "https://pcwstats.github.io/news/project-cw-debrief-1.html",
+    "keywords": ["project cw", "debrief", "development", "update", "news"]
+  },
+  {
+    "name": "Project CW Debrief 2",
+    "description": "Second development debrief for Project CW",
+    "path": "https://pcwstats.github.io/news/project-cw-debrief-2.html",
+    "keywords": ["project cw", "debrief", "development", "update", "news"]
+  },
+  {
+    "name": "Project CW Gamescom 2025",
+    "description": "Coverage of Project CW at Gamescom 2025",
+    "path": "https://pcwstats.github.io/news/project-cw-gamescom-2025.html",
+    "keywords": ["project cw", "gamescom", "2025", "event", "news"]
+  },
+  {
+    "name": "Website Statistics",
+    "description": "Statistics and analytics for the PCWStats website",
+    "path": "https://pcwstats.github.io/website-statistics.html",
+    "keywords": ["website", "statistics", "analytics", "traffic", "data"]
   }
 ]
