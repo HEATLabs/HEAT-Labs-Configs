@@ -1,18 +1,57 @@
 {
   "updates": [
     {
-      "version": "0.0.0791",
+      "version": "0.0.0815",
+      "date": "2025-06-02",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #39",
+      "description": "Full patch notes for Update v0.0.0815 (#39), detailing all changes made on 02 June, 2025.",
+      "added": [
+        "Start date to website statistics page",
+        "Alpha 3 Playtest to home page",
+        "Alpha 3 playtest countdown page",
+        "Tracker pixel to Alpha 3 playtest countdown page",
+        "Tooltips to chart stat toggles on all tank pages",
+        "Final fix for charts on all tank pages"
+      ],
+      "changed": [
+        "Tournament cards layout (trophy icon margin)",
+        "View counter logic on tournament pages",
+        "Date formatting to match site's date structure",
+        "Lines of code counter on homepage",
+        "Charts on all tank pages",
+        "Devs Only page with new tracker and pages",
+        "Game Data page to only hold missions",
+        "Search keyword index with missing pages",
+        "Tracker pixel index data",
+        "jsdelivr CDN index data",
+        "Devs Only generator script (added tracking pixel)",
+        "Alpha 1 OnlyOnce tournament team tank data"
+      ],
+      "fixed": [
+        "Incorrect labeling on all bar charts in tank pages",
+        "Spacing issues in new chart controls on tank pages",
+        "Bored API link",
+        "OnlyOnce Alpha 1 team information"
+      ],
+      "removed": [
+        "Old jsdelivr caches (purged)"
+      ]
+    },
+    {
+      "version": "0.0.0792",
       "date": "2025-06-01",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #38",
-      "description": "Full patch notes for Update v0.0.0791 (#38), detailing all changes made on 01 June, 2025.",
+      "description": "Full patch notes for Update v0.0.0792 (#38), detailing all changes made on 01 June, 2025.",
       "added": [
         "Multiple new bug hunting posts",
         "Tracking pixel to all new bug hunting posts",
         "Final bug hunting post and required media",
         "Status filters on the main tanks page",
         "Tags for tanks that are completed and changed tags for unreleased tanks",
-        "Images and videos for new bug hunting posts"
+        "Images and videos for new bug hunting posts",
+        "Custom Views API to serve all pages across the site"
       ],
       "changed": [
         "Related Articles section for all bug hunting posts",
