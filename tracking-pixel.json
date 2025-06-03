@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-03T13:14:21.481391",
+  "generated_at": "2025-06-04T00:02:55.745164",
   "base_cdn_url": "https://pcwstats-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -1553,6 +1553,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-maxwell.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-maxwell.png",
       "html_title": "Maxwell - PCWStats"
+    },
+    {
+      "page_name": "Frequently Asked Questions",
+      "page_identifier": "frequent-questions",
+      "html_file": "about-us/frequent-questions.html",
+      "pixel_filename": "pcwstats-tracker-pixel-frequent-questions.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-frequent-questions.png",
+      "html_title": "Frequently Asked Questions - PCWStats"
     }
   ]
 }
