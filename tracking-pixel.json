@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-02T09:22:27.420620",
+  "generated_at": "2025-06-03T13:14:21.481391",
   "base_cdn_url": "https://pcwstats-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -1545,6 +1545,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-alpha-3-playtest.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-3-playtest.png",
       "html_title": "Alpha 3 Playtest - PCWStats"
+    },
+    {
+      "page_name": "Maxwell",
+      "page_identifier": "maxwell",
+      "html_file": "maxwell.html",
+      "pixel_filename": "pcwstats-tracker-pixel-maxwell.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-maxwell.png",
+      "html_title": "Maxwell - PCWStats"
     }
   ]
 }
