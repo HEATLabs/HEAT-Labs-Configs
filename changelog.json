@@ -1,118 +1,148 @@
 {
   "updates": [
     {
-      "version": "0.0.0815",
+      "version": "0.0.0847",
       "date": "2025-06-02",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #39",
-      "description": "Full patch notes for Update v0.0.0815 (#39), detailing all changes made on 02 June, 2025.",
+      "description": "Full patch notes for Update v0.0.0847 (#39), detailing all changes made on 02 June, 2025.",
       "added": [
-        "Start date to website statistics page",
-        "Alpha 3 Playtest to home page",
-        "Alpha 3 playtest countdown page",
-        "Tracker pixel to Alpha 3 playtest countdown page",
-        "Tooltips to chart stat toggles on all tank pages",
-        "Final fix for charts on all tank pages"
+        "Start date to Website Statistics page",
+        "Alpha 3 Playtest to homepage",
+        "Alpha 3 Playtest countdown page",
+        "Tracker pixel to Alpha 3 Playtest countdown page",
+        "Tooltips to chart stat toggles in all tank pages",
+        "Final chart fix for all tank pages",
+        "Search keyword index with all missing pages",
+        "New tracker and pages to Devs Only page"
       ],
       "changed": [
-        "Tournament cards layout (trophy icon margin)",
-        "View counter logic on tournament pages",
-        "Date formatting to match site's date structure",
+        "Tournament cards to use margin between trophy icon",
         "Lines of code counter on homepage",
-        "Charts on all tank pages",
-        "Devs Only page with new tracker and pages",
-        "Game Data page to only hold missions",
-        "Search keyword index with missing pages",
+        "Game data page to only hold missions for now",
         "Tracker pixel index data",
-        "jsdelivr CDN index data",
-        "Devs Only generator script (added tracking pixel)",
-        "Alpha 1 OnlyOnce tournament team tank data"
+        "jsDelivr CDN index data",
+        "Devs Only page and generator script with new tracking pixel",
+        "jsDelivr purger tool purge speed",
+        "Alpha 1 OnlyOnce tournament team's tank information",
+        "Changelog",
+        "Daily commit log"
       ],
       "fixed": [
-        "Incorrect labeling on all bar charts in tank pages",
-        "Spacing issues in new chart controls on tank pages",
+        "View counter issues on all tournament pages",
+        "View counter issues on tournaments main page",
+        "Date formatting structure to fit site format",
+        "Incorrect labeling on chart bars in all tank pages",
+        "Spacing issues in new chart controls on all tank pages",
         "Bored API link",
         "OnlyOnce Alpha 1 team information"
       ],
-      "removed": [
-        "Old jsdelivr caches (purged)"
-      ]
+      "removed": []
     },
     {
-      "version": "0.0.0792",
+      "version": "0.0.0822",
       "date": "2025-06-01",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #38",
-      "description": "Full patch notes for Update v0.0.0792 (#38), detailing all changes made on 01 June, 2025.",
+      "description": "Full patch notes for Update v0.0.0822 (#38), detailing all changes made on 01 June, 2025.",
       "added": [
-        "Multiple new bug hunting posts",
-        "Tracking pixel to all new bug hunting posts",
-        "Final bug hunting post and required media",
-        "Status filters on the main tanks page",
-        "Tags for tanks that are completed and changed tags for unreleased tanks",
-        "Images and videos for new bug hunting posts",
-        "Custom Views API to serve all pages across the site"
+        "Tracking pixel to all new Bug Hunting posts",
+        "Last Bug Hunting post",
+        "3 more Bug Hunting posts",
+        "4 new Bug Hunting posts",
+        "Two more Bug Hunting posts",
+        "Last Bug Hunting post for testing purposes",
+        "Styles for hyperlinks in Bug Hunting posts",
+        "Who is PCW Bug Hunters blog post details",
+        "First Bug Hunters post migrated for testing",
+        "Status filters on main Tanks page",
+        "More missing elements in development status file",
+        "Missing individual tasks to development status",
+        "Tags for completed tanks",
+        "Images and videos for new Bug Hunting posts",
+        "Images for final Bug Hunting post",
+        "Pixel trackers for all new pages (PCWStats Views API)"
       ],
       "changed": [
-        "Related Articles section for all bug hunting posts",
-        "Map and tank placeholder texts and tags",
-        "Development status data for Tankopedia, Bug Hunting, Strat Planner, and Compare features",
-        "Tracking pixel index and how-to placeholder in Tankopedia data"
+        "Related Articles section of all Bug Hunting posts",
+        "Main Maps page placeholders: map-desc, tags, descriptions, introductions",
+        "Tankopedia page placeholder descriptions and category fields",
+        "Tankopedia how-to section",
+        "Development status of Strat Planner and Compare Feature",
+        "Development status for Tankopedia and Bug Hunting section",
+        "Tracking pixel index",
+        "GSC index data",
+        "Tags for unreleased tanks",
+        "Changelog",
+        "Daily commit log"
       ],
       "fixed": [
-        "Bug hunting post file names, images, thumbnails, and formatting",
-        "Table of Contents and video playback issues in bug hunting posts",
-        "Canonical URL tag issues",
-        "Naming scheme of one bug hunting video"
+        "File name of one Bug Hunting post",
+        "Table of Contents in one Bug Hunting post",
+        "Missing post type on main Bug Hunting page",
+        "Pathing issue in one Bug Hunting post",
+        "Incorrect image on one Bug Hunting post",
+        "Video playback in one Bug Hunting post",
+        "Incorrect thumbnail image on Bug Hunting post",
+        "Formatting issues in Bug Hunting posts",
+        "Canonical URL tags",
+        "Naming scheme of one video used in Bug Hunting posts"
       ],
-      "removed": [
-        "Redundant category fields from Tankopedia placeholder data"
-      ]
+      "removed": []
     },
     {
-      "version": "0.0.0776",
+      "version": "0.0.0785",
       "date": "2025-05-31",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #37",
-      "description": "Full patch notes for Update v0.0.0776 (#37), detailing all changes made on 31 May, 2025.",
+      "description": "Full patch notes for Update v0.0.0785 (#37), detailing all changes made on 31 May, 2025.",
       "added": [
-        "New column and description to the Website Statistics page",
-        "Public Website Statistics page and linked it in Quick Links",
+        "Public Website Statistics page",
+        "New column to Website Statistics page",
+        "Description to Website Statistics page",
+        "View counters to all tank, blog, guide, legal, tournament, news, and bug hunting pages",
         "Navigation capability to agent modal in tank pages",
-        "View counters on all tank, map, news, legal, guide, blog, bug hunting, and tournament pages",
-        "Pixel trackers to all pages",
-        "Hidden 'Bored Developers' page with unique tracking pixel",
-        "Easter egg loading messages for esmatty, Shockwave, Anuraen, and others",
+        "Pixel trackers on all pages",
+        "Hidden Bored Developers page",
+        "Easter egg loading messages for antitank99, Esmatty, Shockwave, Anuraen, and IAmEdWards",
+        "New funny loader messages",
         "Complete build link sharing logic",
-        "New funny loading messages across the builds page",
-        "New loader message from antitank99 on builds page",
-        "View API link config for both tournaments",
-        "Tracking pixel remover in development tools"
+        "New loader message to builds page",
+        "PCWStats Views API (initial version)",
+        "README, SECURITY, CONTRIBUTING, CODE_OF_CONDUCT files to PCWStats Views API",
+        "Issue templates to PCWStats Views API"
       ],
       "changed": [
-        "Website statistics charts updated to use forced styles and improved dark mode compatibility",
-        "Tank pages charts now render without inherited text styles",
-        "Tooltip behavior fixed on Website Statistics page",
-        "All pages now use updated pixel tracker system",
-        "Builds page: improved styles for featured tags and card consistency",
-        "Filters updated on common builds page",
-        "Increased max concurrent request limit on builds page for faster loading",
-        "Increased max-width on builds page",
-        "Tweaked name for the first XM1-V build",
-        "Updated Edwards XM1V build to be featured",
-        "Updated tracking pixel data list and example env file for tools"
+        "Website statistics charts to use forced styles",
+        "All loading messages updated",
+        "Build card styles for consistency",
+        "Max width and concurrent requests on builds page",
+        "Filters on common builds page",
+        "Slug added to builds files for all tanks",
+        "Removed featured status of one module",
+        "Tweaked name for first XM1-V build",
+        "Updated Edwards XM1-V build to be featured",
+        "Tracking pixel data list and links in Website-Configs",
+        "Tracking pixel paths in pixel generator",
+        "ENV example for PCWStats internal tools",
+        "Daily commit log",
+        "Changelog"
       ],
       "fixed": [
         "Hyperlink hover effect on Website Statistics page",
-        "Pathing issue in Quick Links section of the About Us page",
+        "Dark mode chart styles on all tank pages",
+        "Tooltip behavior on Website Statistics page",
+        "Pathing issue in quick links section on About Us page",
         "View counter issues on main blogs and guide pages",
-        "Spacing issue in loader messages"
+        "Spacing issue in loader messages",
+        "Formatting and location issues in Views API"
       ],
       "removed": [
-        "Old tracking pixels from all pages and Website-Images",
-        "Placeholder builds for all tanks including XM1-V and Leopard 1A1B",
-        "Featured status from one module for consistency",
-        "Tracking data from tracking-pixel file"
+        "Old tracking pixels from all pages",
+        "Text styles on charts in tank pages",
+        "All tracking pixel files from Website-Images",
+        "Placeholder builds for all tanks",
+        "Placeholders from XM1-V and Leopard 1A1B builds"
       ]
     },
     {

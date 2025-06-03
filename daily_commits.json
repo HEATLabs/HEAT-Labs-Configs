@@ -80,7 +80,8 @@
     "[Website-Images] added required images for the new bug hunting posts",
     "[Website-Images] added required images for the two new bug hunting posts",
     "[Website-Images] added required images for the first bug hunters post",
-    "[Database-Tools] updated tracking pixel generator tool to not overwrite the index data it generates"
+    "[Database-Tools] updated tracking pixel generator tool to not overwrite the index data it generates",
+    "[ThatSINEWAVE/PCWStats-Views-API] added new pixel trackers for all new pages"
   ],
   "2025-05-31": [
     "[pcwstats.github.io] fixed hyperlink hover effect on website statistics page",
@@ -135,7 +136,21 @@
     "[Database-Files] removed placeholders builds for all tanks",
     "[Database-Files] removed placeholders from xm1-v and leopard 1a1b builds",
     "[Database-Files] tweaked name for the first XM1-V build",
-    "[Database-Files] Updated Edwards XM1V build to be featured"
+    "[Database-Files] Updated Edwards XM1V build to be featured",
+    "[ThatSINEWAVE/PCWStats-Views-API] Update README.md",
+    "[ThatSINEWAVE/PCWStats-Views-API] Create SECURITY.md",
+    "[ThatSINEWAVE/PCWStats-Views-API] Create CONTRIBUTING.md",
+    "[ThatSINEWAVE/PCWStats-Views-API] Create CODE_OF_CONDUCT.md",
+    "[ThatSINEWAVE/PCWStats-Views-API] added issue templates",
+    "[ThatSINEWAVE/PCWStats-Views-API] fixed formatting",
+    "[ThatSINEWAVE/PCWStats-Views-API] implemented caching for smaller load on db",
+    "[ThatSINEWAVE/PCWStats-Views-API] added CORS headers to all API parts",
+    "[ThatSINEWAVE/PCWStats-Views-API] added all page pixels",
+    "[ThatSINEWAVE/PCWStats-Views-API] updated API again",
+    "[ThatSINEWAVE/PCWStats-Views-API] updated API",
+    "[ThatSINEWAVE/PCWStats-Views-API] fixed location issue",
+    "[ThatSINEWAVE/PCWStats-Views-API] added initial version of PCWStats Views API",
+    "[ThatSINEWAVE/PCWStats-Views-API] Initial commit"
   ],
   "2025-05-30": [
     "[pcwstats.github.io] updated sitemap with up-to-date links",
