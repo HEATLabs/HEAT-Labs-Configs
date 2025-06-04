@@ -1,6 +1,66 @@
 {
   "updates": [
     {
+      "version": "0.0.0892",
+      "date": "2025-06-03",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #40",
+      "description": "Full patch notes for Update v0.0.0892 (#40), detailing all changes made on 03 June, 2025.",
+      "added": [
+        "Frequently Asked Questions (FAQ) page",
+        "Quick FAQ section on About Us page",
+        "Loading overlay for Website Statistics page",
+        "2 new charts on Website Statistics",
+        "Experimental mockup settings menu",
+        "Maxwell Easter Egg page",
+        "Tracking pixel on new FAQ page",
+        "Tracking pixel on Maxwell page",
+        "Maxwell audio file and gifs",
+        "Maxwell Easter Egg audio playback function",
+        "Playtest countdown on Devs Only page",
+        "Dev and Cancelled Tournament tags",
+        "Dev and Cancelled accent colors",
+        "Website logo image",
+        "New header logo and styles",
+        "Mobile-specific styles for header and brand logo",
+        "Mobile spacing fixes for global hero",
+        "Sidebar style and spacing improvements",
+        "Team48's team description",
+        "Missing 3Mid player tank in data",
+        "Tracking pixel images in PCWStats-Views-API",
+        "Rate limiting in PCWStats-Views-API"
+      ],
+      "changed": [
+        "Lines of code counter on homepage",
+        "Cups of coffee counter: 9 \u00e2\u2020\u2019 11/day",
+        "Search feature now uses direct GitHub URLs instead of CDN",
+        "Website Statistics page optimized for faster data updates",
+        "Warning modal adjusted for mobile screens",
+        "Privacy policy now includes mention of privacy-focused view tracker",
+        "All legal pages updated with contact email address",
+        "Header format and logo across all pages",
+        "Theme loader default theme changed to dark",
+        "Tournaments.js to support dev/cancelled tags",
+        "Home hero section updated and WIP text removed",
+        "Daily commit fetcher updated for API commits",
+        "TEAM48\u00e2\u20ac\u2122s team description"
+      ],
+      "fixed": [
+        "Spacing of theme and search buttons",
+        "Spacing and display issues with header and sidebar on mobile",
+        "Brand logo boldness issue",
+        "Hamburger icon not closing sidebar on mobile",
+        "Header shadow and border display on different resolutions",
+        "Formatting and import issues in PCWStats-Views-API"
+      ],
+      "removed": [
+        "Redundant button from Project License page",
+        "WIP text from home page",
+        "Discord bot from Database-Tools",
+        "Test script for rybbit.io"
+      ]
+    },
+    {
       "version": "0.0.0847",
       "date": "2025-06-02",
       "author": "PCWStats Team",
