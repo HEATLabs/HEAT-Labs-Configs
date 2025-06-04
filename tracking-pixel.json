@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-04T00:02:55.745164",
+  "generated_at": "2025-06-04T20:24:31.341276",
   "base_cdn_url": "https://pcwstats-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -1561,6 +1561,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-frequent-questions.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-frequent-questions.png",
       "html_title": "Frequently Asked Questions - PCWStats"
+    },
+    {
+      "page_name": "System Status",
+      "page_identifier": "system-status",
+      "html_file": "system-status.html",
+      "pixel_filename": "pcwstats-tracker-pixel-system-status.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-system-status.png",
+      "html_title": "System Status - PCWStats"
     }
   ]
 }
