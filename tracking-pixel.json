@@ -29,7 +29,7 @@
     {
       "page_name": "Bored Developers",
       "page_identifier": "bored-developers",
-      "html_file": "bored-developers.html",
+      "html_file": "easter-eggs/bored-developers.html",
       "pixel_filename": "pcwstats-tracker-pixel-bored-developers.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-bored-developers.png",
       "html_title": "Bored Developers - PCWStats"
@@ -85,7 +85,7 @@
     {
       "page_name": "Devs Only",
       "page_identifier": "devsonly",
-      "html_file": "devsonly.html",
+      "html_file": "easter-eggs/devsonly.html",
       "pixel_filename": "pcwstats-tracker-pixel-devsonly.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-devsonly.png",
       "html_title": "Devs Only - PCWStats"
@@ -149,7 +149,7 @@
     {
       "page_name": "Tank Roulette",
       "page_identifier": "roulette",
-      "html_file": "roulette.html",
+      "html_file": "easter-eggs/roulette.html",
       "pixel_filename": "pcwstats-tracker-pixel-roulette.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-roulette.png",
       "html_title": "Tank Roulette - PCWStats"
@@ -1541,7 +1541,7 @@
     {
       "page_name": "Alpha 3 Playtest",
       "page_identifier": "alpha-3-playtest",
-      "html_file": "alpha-3-playtest.html",
+      "html_file": "easter-eggs/alpha-3-playtest.html",
       "pixel_filename": "pcwstats-tracker-pixel-alpha-3-playtest.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-3-playtest.png",
       "html_title": "Alpha 3 Playtest - PCWStats"
@@ -1549,7 +1549,7 @@
     {
       "page_name": "Maxwell",
       "page_identifier": "maxwell",
-      "html_file": "maxwell.html",
+      "html_file": "easter-eggs/maxwell.html",
       "pixel_filename": "pcwstats-tracker-pixel-maxwell.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-maxwell.png",
       "html_title": "Maxwell - PCWStats"
