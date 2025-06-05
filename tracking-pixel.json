@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-05T12:48:26.825252",
+  "generated_at": "2025-06-05T20:18:26.646825",
   "base_cdn_url": "https://pcwstats-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -1577,6 +1577,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-ring-of-fury.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-ring-of-fury.png",
       "html_title": "Ring of Fury - PCWStats"
+    },
+    {
+      "page_name": "Alpha 2 Fuel Crit Multiplier Incident",
+      "page_identifier": "alpha-2-fuel-crit-multiplier",
+      "html_file": "bug-hunting/alpha-2-fuel-crit-multiplier.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-fuel-crit-multiplier.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-fuel-crit-multiplier.png",
+      "html_title": "Alpha 2 Fuel Crit Multiplier Incident - PCWStats"
     }
   ]
 }
