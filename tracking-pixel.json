@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-04T20:24:31.341276",
+  "generated_at": "2025-06-05T12:48:26.825252",
   "base_cdn_url": "https://pcwstats-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -1569,6 +1569,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-system-status.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-system-status.png",
       "html_title": "System Status - PCWStats"
+    },
+    {
+      "page_name": "Ring of Fury",
+      "page_identifier": "ring-of-fury",
+      "html_file": "maps/ring-of-fury.html",
+      "pixel_filename": "pcwstats-tracker-pixel-ring-of-fury.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-ring-of-fury.png",
+      "html_title": "Ring of Fury - PCWStats"
     }
   ]
 }
