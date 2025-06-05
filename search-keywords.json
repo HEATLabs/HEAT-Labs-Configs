@@ -32,7 +32,7 @@
   {
     "name": "Community Credits",
     "description": "Acknowledgements for community contributors",
-    "path": "https://pcwstats.github.io/credits.html",
+    "path": "https://pcwstats.github.io/resources/credits.html",
     "keywords": ["credits", "contributors", "acknowledgements", "thanks", "team"]
   },
   {
@@ -62,7 +62,7 @@
   {
     "name": "About the Project",
     "description": "Information about the PCWStats project",
-    "path": "https://pcwstats.github.io/about-us.html",
+    "path": "https://pcwstats.github.io/resources/about-us.html",
     "keywords": ["about", "project", "information", "mission", "purpose", "team"]
   },
   {
@@ -80,25 +80,25 @@
   {
     "name": "Changelog",
     "description": "Full history of changes, fixes, and feature additions",
-    "path": "https://pcwstats.github.io/changelog.html",
+    "path": "https://pcwstats.github.io/resources/changelog.html",
     "keywords": ["changelog", "history", "updates", "patches", "log", "changes"]
   },
   {
     "name": "Contact Us",
     "description": "Reach out to the PCWStats team",
-    "path": "https://pcwstats.github.io/contact-us.html",
+    "path": "https://pcwstats.github.io/resources/contact-us.html",
     "keywords": ["contact", "reach", "message", "email", "support", "questions"]
   },
   {
     "name": "Get Involved",
     "description": "Learn how to contribute to PCWStats",
-    "path": "https://pcwstats.github.io/get-involved.html",
+    "path": "https://pcwstats.github.io/resources/get-involved.html",
     "keywords": ["involved", "contribute", "help", "volunteer", "join", "community"]
   },
   {
     "name": "Support Us",
     "description": "Ways to support the PCWStats project",
-    "path": "https://pcwstats.github.io/support-us.html",
+    "path": "https://pcwstats.github.io/resources/support-us.html",
     "keywords": ["support", "donate", "help", "fund", "contribute", "keep alive"]
   },
   {
@@ -1082,8 +1082,20 @@
   {
     "name": "Website Statistics",
     "description": "Statistics and analytics for the PCWStats website",
-    "path": "https://pcwstats.github.io/website-statistics.html",
+    "path": "https://pcwstats.github.io/resources/website-statistics.html",
     "keywords": ["website", "statistics", "analytics", "traffic", "data"]
+  },
+  {
+    "name": "Frequent Questions",
+    "description": "Find answers to common questions about PCWStats",
+    "path": "https://pcwstats.github.io/resources/frequent-questions.html",
+    "keywords": ["questions", "answers", "asked", "faq"]
+  },
+  {
+    "name": "System Status",
+    "description": "Current status of PCWStats services and systems",
+    "path": "https://pcwstats.github.io/resources/system-status.html",
+    "keywords": ["website", "status", "system", "uptime"]
   },
   {
     "name": "Maxwell",
