@@ -1,6 +1,51 @@
 {
   "updates": [
     {
+      "version": "0.0.0922",
+      "date": "2025-06-04",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #41",
+      "description": "Full patch notes for Update v0.0.0922 (#41), detailing all changes made on 04 June, 2025.",
+      "added": [
+        "Map tags to all maps in maps page",
+        "System Status page",
+        "2 new buttons on the header of all pages",
+        "Special styles and formatting for mobile screens in Tanks and Builds pages",
+        "Maxwell and Frequently Asked Questions pages to Devs Only section",
+        "WG charm information",
+        "System status page to tracking pixel data list",
+        "Data file for system status page",
+        "System Status page to development status list",
+        "Frequently Questions page to development status list",
+        "Tracking pixel image for system status page"
+      ],
+      "changed": [
+        "Map type placeholders",
+        "About Us folder renamed to Resources",
+        "Devsonly and Changelog pages to skip CDN and use direct GitHub URLs",
+        "Home page title and buttons",
+        "Final match setup for Alpha 1 tournament",
+        "GSC index data",
+        "Changelog",
+        "Daily commit log",
+        "Devs Only generator script with new logo",
+        "TEAM48 Alpha 1 tank information",
+        "OnlyOnce team description"
+      ],
+      "fixed": [
+        "Incorrect tank name and path in Tank Roulette page",
+        "Issue with path to system-status.json in System Status page",
+        "Pathing issues in System Status page",
+        "Inconsistent styles for header buttons",
+        "Formatting issues within changelog data",
+        "Corrected tank names for team OnlyOnce in Alpha 1 tournament",
+        "Corrected OnlyOnce team data"
+      ],
+      "removed": [
+        "Tracking pixel from all placeholder pages"
+      ]
+    },
+    {
       "version": "0.0.0892",
       "date": "2025-06-03",
       "author": "PCWStats Team",
