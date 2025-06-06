@@ -27,34 +27,24 @@
         },
         {
             "name": "CDN",
-            "status": "operational",
+            "status": "degraded",
             "message": "Content delivery network is functioning optimally."
         }
     ],
     "incidents": [
         {
-            "id": "inc-20250604-001",
-            "title": "Scheduled Database Maintenance",
-            "description": "We performed scheduled maintenance on our database servers to improve performance and reliability.",
-            "severity": "info",
-            "start_time": "2025-06-04T02:00:00Z",
-            "end_time": "2025-06-04T04:30:00Z",
-            "status": "resolved",
+            "id": "inc-20250606-001",
+            "title": "Site-wide Image Optimizations",
+            "description": "We are in the process of migrating all website images from .png to the more efficient .webp format to improve loading speeds. During this transition, you may experience temporary display issues until the updates fully propagate across all CDN nodes.",
+            "severity": "warning",
+            "start_time": "2025-06-06T10:06:09Z",
+            "end_time": "2025-06-06T16:00:00Z",
+            "status": "ongoing",
             "updates": [
                 {
-                    "status": "maintenance",
-                    "message": "Maintenance has begun as scheduled. Database services may be intermittently unavailable during this window.",
-                    "time": "2025-06-04T02:00:00Z"
-                },
-                {
-                    "status": "maintenance",
-                    "message": "Maintenance is progressing as expected. We're about halfway through the process.",
-                    "time": "2025-06-04T03:15:00Z"
-                },
-                {
-                    "status": "operational",
-                    "message": "Maintenance has been completed successfully and all services have been restored.",
-                    "time": "2025-06-04T04:25:00Z"
+                    "status": "degraded",
+                    "message": "Image optimization maintenance has started. Some visual elements may load improperly while CDN updates are in progress.",
+                    "time": "2025-06-06T10:06:09Z"
                 }
             ]
         }
