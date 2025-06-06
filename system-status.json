@@ -27,7 +27,7 @@
         },
         {
             "name": "CDN",
-            "status": "maintenance",
+            "status": "operational",
             "message": "Content delivery network is functioning optimally."
         }
     ],
@@ -38,9 +38,14 @@
             "description": "We are in the process of migrating all website images from .png to the more efficient .webp format to improve loading speeds. During this transition, you may experience temporary display issues until the updates fully propagate across all CDN nodes.",
             "severity": "warning",
             "start_time": "2025-06-06T10:06:09Z",
-            "end_time": "2025-06-06T16:00:00Z",
-            "status": "ongoing",
+            "end_time": "2025-06-06T11:32:15Z",
+            "status": "ended",
             "updates": [
+                {
+                    "status": "operational",
+                    "message": "Image optimization has been successfully completed. All systems are fully operational and image loading functionality has returned to normal.",
+                    "time": "2025-06-06T11:32:15Z"
+                },
                 {
                     "status": "maintenance",
                     "message": "Image optimization has been completed. We are currently verifying that all images are displaying correctly and no functionality is affected.",
