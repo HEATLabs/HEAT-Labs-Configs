@@ -1,6 +1,40 @@
 {
   "updates": [
     {
+      "version": "0.0.0941",
+      "date": "2025-06-05",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #42",
+      "description": "Full patch notes for Update v0.0.0941 (#42), detailing all changes made on 05 June, 2025.",
+      "added": [
+        "Alpha 2 Fuel Crit Bug Hunter post",
+        "Missing Ring of Fury map to main maps page",
+        "Filters to main maps page",
+        "Tracking pixel image for latest Bug Hunters post (API)",
+        "Tracking pixel image for missing map (API)",
+        "Game art images for Tankopedia page",
+        "Fuel Crit Bug Hunter post media"
+      ],
+      "changed": [
+        "Development warning modal content (reduced)",
+        "Tournament card loading (now sorts before rendering)",
+        "Website statistics page (2 new page categories)",
+        "Tracking pixel and search index data with new paths",
+        "Changelog",
+        "Daily commit log"
+      ],
+      "fixed": [
+        "Post tags in latest Bug Hunters post",
+        "Meta tag URLs in latest Bug Hunters post",
+        "Pathing issue with changelog button in footer",
+        "Size filter issue on main maps page"
+      ],
+      "removed": [
+        "Moved easter egg pages to dedicated category (code cleanup)",
+        "Moved website-specific pages to dedicated category (code cleanup)"
+      ]
+    },
+    {
       "version": "0.0.0922",
       "date": "2025-06-04",
       "author": "PCWStats Team",
