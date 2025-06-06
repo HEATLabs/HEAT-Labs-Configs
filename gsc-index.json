@@ -1,12 +1,12 @@
 {
-  "generated_at": "2025-06-04T18:01:25.145556",
+  "generated_at": "2025-06-06T10:58:00.799953",
   "site_url": "https://pcwstats.github.io/",
   "data": {
     "site_url": "https://pcwstats.github.io/",
-    "last_checked": "2025-06-04T18:01:24.461425",
+    "last_checked": "2025-06-06T10:58:00.358133",
     "date_range": {
-      "start_date": "2025-05-05",
-      "end_date": "2025-06-04"
+      "start_date": "2025-05-07",
+      "end_date": "2025-06-06"
     },
     "pages": [
       {
@@ -142,7 +142,40 @@
         "user_agent": "DESKTOP"
       },
       {
+        "url": "https://pcwstats.github.io/bug-hunting/damage-calculation.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
         "url": "https://pcwstats.github.io/bug-hunting/developer-guide-images.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/bug-hunting/hunting-for-potential-hidden-servers.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/bug-hunting/potential-campaign-mode.html",
         "status": "indexed_and_served",
         "last_crawled": null,
         "indexing_state": "INDEXED",
@@ -472,6 +505,28 @@
         "user_agent": "DESKTOP"
       },
       {
+        "url": "https://pcwstats.github.io/news/new-agents-3.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
+        "url": "https://pcwstats.github.io/news/nord-oko-concept-art-1.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
         "url": "https://pcwstats.github.io/news/progression-and-social-changes.html",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -703,6 +758,17 @@
         "user_agent": "DESKTOP"
       },
       {
+        "url": "https://pcwstats.github.io/tanks/t-64a.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP"
+      },
+      {
         "url": "https://pcwstats.github.io/tanks/t-72au.html",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -814,8 +880,8 @@
       }
     ],
     "summary": {
-      "total_pages": 73,
-      "indexed_pages": 73,
+      "total_pages": 79,
+      "indexed_pages": 79,
       "not_indexed_pages": 0,
       "errors": 0
     },
@@ -843,8 +909,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 73,
-    "indexed_pages": 73,
+    "total_pages_found": 79,
+    "indexed_pages": 79,
     "errors": 0
   }
 }
