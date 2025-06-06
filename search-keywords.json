@@ -318,6 +318,12 @@
     "keywords": ["baikonur", "map", "cosmodrome", "overview"]
   },
   {
+    "name": "Ring of Fury",
+    "description": "Tactical overview and key areas of the Ring of Fury map",
+    "path": "https://pcwstats.github.io/maps/ring-of-fury.html",
+    "keywords": ["ring of fury", "map", "overview"]
+  },
+  {
     "name": "Ballistic Range",
     "description": "Tactical overview and key areas of the Ballistic Range map",
     "path": "https://pcwstats.github.io/maps/ballistic-range.html",
@@ -1024,6 +1030,12 @@
     "description": "Analysis of strange pattern images found in game files",
     "path": "https://pcwstats.github.io/bug-hunting/wierd-pattern-images.html",
     "keywords": ["pattern", "images", "weird", "analysis", "files"]
+  },
+  {
+    "name": "Alpha 2 Fuel Crit Multiplier Incident",
+    "description": "Analysis of a bug concerning the fuel crit multiplier",
+    "path": "https://pcwstats.github.io/bug-hunting/alpha-2-fuel-crit-multiplier.html",
+    "keywords": ["fuel", "crit", "multiplier", "alpha"]
   },
   {
     "name": "Check and Compare",
