@@ -1,6 +1,51 @@
 {
   "updates": [
     {
+      "version": "0.0.0971",
+      "date": "2025-06-06",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #43",
+      "description": "Full patch notes for Update v0.0.0971 (#43), detailing all changes made on 06 June, 2025.",
+      "added": [
+        "Add-All button to comparison modal",
+        "Compare functionality for Add to Comparison button on all tank pages",
+        "Compare sidebar menu button animation",
+        "Missing search index entries",
+        "Image Optimizations to development tasks",
+        "3 new images to global hero image pool",
+        "PNG to WEBP converter tool"
+      ],
+      "changed": [
+        "Compare modal completely remade into compare sidebar",
+        "Tanks.js updated to append comparison modal after buttons (testing mobile fix)",
+        "Add All button updated to match Clear button",
+        "Hover styles for compare sidebar buttons tweaked",
+        "Hero image script now uses new images",
+        "Devs Only incident section in status page updated",
+        "System status and system status page data updated",
+        "Tournaments data updated to use new WEBP images",
+        "Tankopedia and tanks data index updated to new WEBP images",
+        "GSC index data updated",
+        "Daily commit log and changelog updated",
+        "Image validator tool renamed to metadata validator",
+        "All guide, tournament, profile, bug hunting, blog, legal, strat planner, placeholder, logo, map, roulette, tank, and agent images converted from PNG to WEBP",
+        "News and announcement images converted from WEBP to PNG for optimization",
+        "Tankopedia images converted from WEBP to PNG for optimization",
+        "Build files for all tanks updated to WEBP",
+        "Agent files for all tanks updated to WEBP",
+        "Tournament data files updated to WEBP"
+      ],
+      "fixed": [
+        "Issue with videos not stopping playback on Tankopedia page",
+        "Incorrect file name in Meet the Team post"
+      ],
+      "removed": [
+        "Old compare modals from tanks and compare pages",
+        "One image from the global hero image pool",
+        "Old redundant hero background backup folder"
+      ]
+    },
+    {
       "version": "0.0.0941",
       "date": "2025-06-05",
       "author": "PCWStats Team",
