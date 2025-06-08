@@ -33,6 +33,32 @@
     ],
     "incidents": [
         {
+            "id": "inc-20250609-001",
+            "title": "Migration of Website Statistics, Changelog and Status Pages",
+            "description": "This migration moved the Website Statistics, Changelog, and Status Pages into standalone repositories, separating them from the main website repository. The goal is to enable hosting these pages on dedicated subdomains in the future, allowing them to operate independently from the main website.",
+            "severity": "warning",
+            "start_time": "2025-06-08T20:04:29Z",
+            "end_time": "2025-06-08T21:10:32Z",
+            "status": "ended",
+            "updates": [
+                {
+                    "status": "ended",
+                    "message": "Migration completed successfully. Website Statistics, Changelog, and Status Pages are now fully operational on the new system.",
+                    "time": "2025-06-08T21:10:32Z"
+                },
+                {
+                    "status": "maintenance",
+                    "message": "Final checks and data verification are in progress. Services may appear temporarily unavailable or out of sync.",
+                    "time": "2025-06-08T20:45:12Z"
+                },
+                {
+                    "status": "started",
+                    "message": "Migration in progress. Website Statistics, Changelog, and Status Pages may be partially unavailable during this time.",
+                    "time": "2025-06-08T20:04:29Z"
+                }
+            ]
+        },
+        {
             "id": "inc-20250606-001",
             "title": "Site-wide Image Optimizations",
             "description": "We are in the process of migrating all website images from .png to the more efficient .webp format to improve loading speeds. During this transition, you may experience temporary display issues until the updates fully propagate across all CDN nodes.",
@@ -42,7 +68,7 @@
             "status": "ended",
             "updates": [
                 {
-                    "status": "operational",
+                    "status": "ended",
                     "message": "Image optimization has been successfully completed. All systems are fully operational and image loading functionality has returned to normal.",
                     "time": "2025-06-06T11:32:15Z"
                 },
@@ -52,7 +78,7 @@
                     "time": "2025-06-06T11:19:31Z"
                 },
                 {
-                    "status": "degraded",
+                    "status": "started",
                     "message": "Image optimization maintenance has started. Some visual elements may load improperly while CDN updates are in progress.",
                     "time": "2025-06-06T10:06:09Z"
                 }
