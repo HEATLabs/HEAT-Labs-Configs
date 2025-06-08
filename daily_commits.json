@@ -1,4 +1,24 @@
 {
+  "2025-06-07": [
+    "[pcwstats.github.io] updated radio easter egg to be persistent so it doesnt stop on page change or refresh",
+    "[pcwstats.github.io] updated lines of code counter on home page",
+    "[pcwstats.github.io] added new waves pattern to hero sections on all pages",
+    "[pcwstats.github.io] added arabic radio easter egg",
+    "[pcwstats.github.io] improved home page hero styles with custom wave animation",
+    "[pcwstats.github.io] Updated pathing issues on Devs Only page",
+    "[pcwstats.github.io] Fixed pathing issue in devs only.js",
+    "[pcwstats.github.io] Updated Add All button text color to be more unique",
+    "[pcwstats.github.io] Revert \"Updated tanks.js with second test to fix mobile compare buttons disappearing\"",
+    "[pcwstats.github.io] Updated tanks.js with second test to fix mobile compare buttons disappearing",
+    "[pcwstats.github.io] Revert \"Updated tanks.js to append comparison modal after buttons to test if it fixes the mobile bug\"",
+    "[Website-Configs] updated GSC index data",
+    "[Website-Configs] updated daily commit log",
+    "[Website-Configs] updated changelog",
+    "[Database-Tools] Updated Devs Only generator script with new hero overlay",
+    "[Database-Tools] Updated Devs Only generator script with correct paths",
+    "[Database-Tools] updated GSC index checker tool",
+    "[Database-Files] Updated Team48's team description"
+  ],
   "2025-06-06": [
     "[pcwstats.github.io] Updated tanks.js to append comparison modal after buttons to test if it fixes the mobile bug",
     "[pcwstats.github.io] Updated Add All button to match Clear button",
