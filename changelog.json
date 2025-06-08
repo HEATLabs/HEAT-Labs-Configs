@@ -1,6 +1,37 @@
 {
   "updates": [
     {
+      "version": "0.0.0987",
+      "date": "2025-06-07",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #44",
+      "description": "Full patch notes for Update v0.0.0987 (#44), detailing all changes made on 07 June, 2025.",
+      "added": [
+        "Arabic radio easter egg",
+        "New waves pattern to hero sections on all pages"
+      ],
+      "changed": [
+        "Radio easter egg is now persistent across page changes and refreshes",
+        "Lines of code counter on home page",
+        "Hero styles on home page with custom wave animation",
+        "Add All button text color to be more unique",
+        "Devs Only page pathing",
+        "tanks.js with additional test for mobile compare button fix",
+        "GSC index data",
+        "Daily commit log",
+        "Changelog",
+        "Devs Only generator script (added hero overlay and corrected paths)",
+        "GSC index checker tool",
+        "Team48's team description"
+      ],
+      "fixed": [
+        "Pathing issue in devs only.js"
+      ],
+      "removed": [
+        "Reverted previous mobile compare button fixes in tanks.js"
+      ]
+    },
+    {
       "version": "0.0.0971",
       "date": "2025-06-06",
       "author": "PCWStats Team",
