@@ -1,6 +1,33 @@
 {
   "updates": [
     {
+      "version": "0.0.0999",
+      "date": "2025-06-08",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #45",
+      "description": "Full patch notes for Update v0.0.0999 (#45), detailing all changes made on 08 June, 2025.",
+      "added": [
+        "New incident report to Website Status page",
+        "Pirate cat image",
+        "Project statistics counter tool"
+      ],
+      "changed": [
+        "Devs Only page pathing",
+        "Header buttons on all pages with new paths",
+        "Changelog",
+        "Daily commit log",
+        "Devs Only generator script (with new paths)"
+      ],
+      "removed": [
+        "Redundant Website Status, Changelog, and Statistics pages from main repository"
+      ],
+      "fixed": [
+        "Lines of code counter issue after exceeding 1 million",
+        "Incorrect file types in two news posts",
+        "Incorrect path to changelog"
+      ]
+    },
+    {
       "version": "0.0.0987",
       "date": "2025-06-07",
       "author": "PCWStats Team",
