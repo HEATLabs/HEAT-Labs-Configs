@@ -1,4 +1,18 @@
 {
+  "2025-06-08": [
+    "[pcwstats.github.io] Updated pathing issue in Devs Only page",
+    "[pcwstats.github.io] fixed issue with lines of code counter after passing 1 million",
+    "[pcwstats.github.io] fixed path to changelog",
+    "[pcwstats.github.io] updated header buttons on all pages with new paths",
+    "[pcwstats.github.io] fixed incorrect file types in two news posts",
+    "[pcwstats.github.io] removed redundant website status, changelog and statistics pages from main repo",
+    "[Website-Configs] added new incident report to website status page",
+    "[Website-Configs] updated changelog",
+    "[Website-Configs] updated daily commit log",
+    "[Website-Images] added pirate cat image",
+    "[Database-Tools] Updated Devs only generator script with new paths",
+    "[Database-Tools] added project statistics counter tool"
+  ],
   "2025-06-07": [
     "[pcwstats.github.io] updated radio easter egg to be persistent so it doesnt stop on page change or refresh",
     "[pcwstats.github.io] updated lines of code counter on home page",
