@@ -53,7 +53,7 @@
     {
       "page_name": "Changelog",
       "page_identifier": "changelog",
-      "html_file": "resources/changelog.html",
+      "html_file": "Website-Changelog",
       "pixel_filename": "pcwstats-tracker-pixel-changelog.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-changelog.png",
       "html_title": "Changelog - PCWStats"
@@ -1405,7 +1405,7 @@
     {
       "page_name": "Website Statistics",
       "page_identifier": "website-statistics",
-      "html_file": "resources/website-statistics.html",
+      "html_file": "Website-Statistics",
       "pixel_filename": "pcwstats-tracker-pixel-website-statistics.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-website-statistics.png",
       "html_title": "Website Statistics - PCWStats"
@@ -1565,7 +1565,7 @@
     {
       "page_name": "System Status",
       "page_identifier": "system-status",
-      "html_file": "resources/system-status.html",
+      "html_file": "Website-Status",
       "pixel_filename": "pcwstats-tracker-pixel-system-status.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-system-status.png",
       "html_title": "System Status - PCWStats"
