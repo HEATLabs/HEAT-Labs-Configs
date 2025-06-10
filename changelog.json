@@ -1,6 +1,45 @@
 {
   "updates": [
     {
+      "version": "0.0.1023",
+      "date": "2025-06-09",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #46",
+      "description": "Full patch notes for Update v0.0.1023 (#46), detailing all changes made on 09 June, 2025.",
+      "added": [
+        "Image protection module",
+        "Additional styles to global hero for mobile touch scrolling"
+      ],
+      "changed": [
+        "Integrated image protection script into all pages",
+        "Updated site-map with all missing pages and new paths",
+        "Updated main site-map with correct paths for technical pages",
+        "Updated humans.txt file",
+        "Updated tracking pixel data with new paths",
+        "Updated search index with new paths",
+        "Updated changelog",
+        "Updated daily commit log",
+        "Updated all optimized images with required metadata",
+        "Updated Devs Only page generator to include image protection",
+        "Updated OAT2.json with match data"
+      ],
+      "removed": [
+        "Leftover tournament-cards.js path in main tournaments page",
+        "Unnecessary comments from Alpha 2 tournament page"
+      ],
+      "fixed": [
+        "Image protection script pathing issue in Alpha 1 Tournament page",
+        "Image protection script pathing issue in Alpha Tournament 2 page",
+        "Image protection script pathing issue in tank pages",
+        "Waves pattern bug preventing scroll on mobile",
+        "Match IDs in OAT2.json",
+        "Name inconsistencies in 4 matches in OAT2 tournament data file",
+        "Logical inconsistency in 1 match in OAT2 tournament data file",
+        "Non-unique match IDs in 2 matches in OAT2 tournament data file",
+        "Syntax errors in OAT2 tournament data file"
+      ]
+    },
+    {
       "version": "0.0.0999",
       "date": "2025-06-08",
       "author": "PCWStats Team",
