@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-11T07:45:13.287147",
+  "generated_at": "2025-06-12T00:29:07.285800",
   "base_cdn_url": "https://pcwstats-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -1601,6 +1601,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-t-55-enigma.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-t-55-enigma.png",
       "html_title": "T-55 Enigma - PCWStats"
+    },
+    {
+      "page_name": "Agents",
+      "page_identifier": "agents",
+      "html_file": "agents.html",
+      "pixel_filename": "pcwstats-tracker-pixel-agents.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-agents.png",
+      "html_title": "Agents - PCWStats"
     }
   ]
 }
