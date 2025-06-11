@@ -16,7 +16,8 @@
         "Reference Images",
         "Perks",
         "Hit Decals",
-        "Platform Icons"
+        "Platform Icons",
+        "Tank Challenges"
     ],
     "categories": [
         {
@@ -7277,6 +7278,96 @@
                     "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tankopedia/console-keybinds/xboxx.webp",
                     "name": "Xbox X",
                     "description": "Description for this keybind is not yet available."
+                }
+            ]
+        },
+        {
+            "name": "Tank Challenges",
+            "description": "Tank Challenges Section Description",
+            "items": [
+                {
+                    "id": "Challenge-0001",
+                    "modalType": "standard",
+                    "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tankopedia/tank-challenges/challenge_leopard-1a1b_tier_2.webp",
+                    "name": "Leopard 1A1B Tier 2",
+                    "description": "Description for this challenge is not yet available."
+                },
+                {
+                    "id": "Challenge-0002",
+                    "modalType": "standard",
+                    "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tankopedia/tank-challenges/challenge_leopard-1a1b_tier_3.webp",
+                    "name": "Leopard 1A1B Tier 3",
+                    "description": "Description for this challenge is not yet available."
+                },
+                {
+                    "id": "Challenge-0003",
+                    "modalType": "standard",
+                    "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tankopedia/tank-challenges/challenge_leopard-1a1b_tier_4.webp",
+                    "name": "Leopard 1A1B Tier 4",
+                    "description": "Description for this challenge is not yet available."
+                },
+                {
+                    "id": "Challenge-0004",
+                    "modalType": "standard",
+                    "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tankopedia/tank-challenges/challenge_leopard-1a6a1_tier_2.webp",
+                    "name": "Leopard 1A6A1 Tier 2",
+                    "description": "Description for this challenge is not yet available."
+                },
+                {
+                    "id": "Challenge-0005",
+                    "modalType": "standard",
+                    "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tankopedia/tank-challenges/challenge_leopard-1a6a1_tier_3.webp",
+                    "name": "Leopard 1A6A1 Tier 3",
+                    "description": "Description for this challenge is not yet available."
+                },
+                {
+                    "id": "Challenge-0006",
+                    "modalType": "standard",
+                    "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tankopedia/tank-challenges/challenge_leopard-1a6a1_tier_4.webp",
+                    "name": "Leopard 1A6A1 Tier 4",
+                    "description": "Description for this challenge is not yet available."
+                },
+                {
+                    "id": "Challenge-0007",
+                    "modalType": "standard",
+                    "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tankopedia/tank-challenges/challenge_m60e2_tier_2.webp",
+                    "name": "M60E2 Tier 2",
+                    "description": "Description for this challenge is not yet available."
+                },
+                {
+                    "id": "Challenge-0008",
+                    "modalType": "standard",
+                    "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tankopedia/tank-challenges/challenge_m60e2_tier_3.webp",
+                    "name": "M60E2 Tier 3",
+                    "description": "Description for this challenge is not yet available."
+                },
+                {
+                    "id": "Challenge-0009",
+                    "modalType": "standard",
+                    "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tankopedia/tank-challenges/challenge_m60e2_tier_4.webp",
+                    "name": "M60E2 Tier 4",
+                    "description": "Description for this challenge is not yet available."
+                },
+                {
+                    "id": "Challenge-0010",
+                    "modalType": "standard",
+                    "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tankopedia/tank-challenges/challenge_t-62av_tier_2.webp",
+                    "name": "T-62AV Tier 2",
+                    "description": "Description for this challenge is not yet available."
+                },
+                {
+                    "id": "Challenge-0011",
+                    "modalType": "standard",
+                    "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tankopedia/tank-challenges/challenge_t-62av_tier_3.webp",
+                    "name": "T-62AV Tier 3",
+                    "description": "Description for this challenge is not yet available."
+                },
+                {
+                    "id": "Challenge-0012",
+                    "modalType": "standard",
+                    "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tankopedia/tank-challenges/challenge_t-62av_tier_4.webp",
+                    "name": "T-62AV Tier 4",
+                    "description": "Description for this challenge is not yet available."
                 }
             ]
         }
