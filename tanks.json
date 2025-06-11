@@ -209,6 +209,22 @@
     },
     {
         "id": 14,
+        "name": "M60A3E2 Bot",
+        "slug": "m60a3e2-bot",
+        "nation": "USA",
+        "type": "Defender",
+        "class": "Only for Bots",
+        "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/m60a3e2-bot/upscaled_m60a3e2-bot.webp",
+        "stock": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/m60a3e2-bot/stock.json",
+        "upgrades": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/m60a3e2-bot/upgrades.json",
+        "consumables": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/m60a3e2-bot/consumables.json",
+        "perks": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/m60a3e2-bot/perks.json",
+        "agents": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/m60a3e2-bot/agents.json",
+        "details": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/m60a3e2-bot/details.json",
+        "builds": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/m60a3e2-bot/builds.json"
+    },
+    {
+        "id": 15,
         "name": "M60E2",
         "slug": "m60e2",
         "nation": "USA",
@@ -224,7 +240,7 @@
         "builds": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/m60e2/builds.json"
     },
     {
-        "id": 15,
+        "id": 16,
         "name": "XM551",
         "slug": "xm551",
         "nation": "USA",
@@ -240,7 +256,7 @@
         "builds": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/xm551/builds.json"
     },
     {
-        "id": 16,
+        "id": 17,
         "name": "Object 279",
         "slug": "object-279",
         "nation": "USSR",
@@ -256,7 +272,7 @@
         "builds": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/object-279/builds.json"
     },
     {
-        "id": 17,
+        "id": 18,
         "name": "Object 287",
         "slug": "object-287",
         "nation": "USSR",
@@ -272,7 +288,7 @@
         "builds": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/object-287/builds.json"
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "PTZ-89C",
         "slug": "ptz89c",
         "nation": "China",
@@ -288,7 +304,7 @@
         "builds": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/ptz89c/builds.json"
     },
     {
-        "id": 19,
+        "id": 20,
         "name": "T-62AV",
         "slug": "t-62av",
         "nation": "USSR",
@@ -304,7 +320,7 @@
         "builds": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/t-62av/builds.json"
     },
     {
-        "id": 20,
+        "id": 21,
         "name": "T-64A",
         "slug": "t-64a",
         "nation": "USSR",
@@ -320,7 +336,7 @@
         "builds": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/t-64a/builds.json"
     },
     {
-        "id": 21,
+        "id": 22,
         "name": "T-62MS",
         "slug": "t-62ms",
         "nation": "USSR",
@@ -336,7 +352,7 @@
         "builds": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/t-62ms/builds.json"
     },
     {
-        "id": 22,
+        "id": 23,
         "name": "T-72AU",
         "slug": "t-72au",
         "nation": "USSR",
@@ -352,7 +368,7 @@
         "builds": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/t-72au/builds.json"
     },
     {
-        "id": 23,
+        "id": 24,
         "name": "T-72B",
         "slug": "t-72b",
         "nation": "USSR",
@@ -368,7 +384,7 @@
         "builds": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/t-72b/builds.json"
     },
     {
-        "id": 24,
+        "id": 25,
         "name": "XM1-90",
         "slug": "xm1-90",
         "nation": "USA",
@@ -384,7 +400,7 @@
         "builds": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/xm1-90/builds.json"
     },
     {
-        "id": 25,
+        "id": 26,
         "name": "XM1-V",
         "slug": "xm1-v",
         "nation": "USA",
@@ -400,7 +416,7 @@
         "builds": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/xm1-v/builds.json"
     },
     {
-        "id": 26,
+        "id": 27,
         "name": "XM808 Twister",
         "slug": "xm808-twister",
         "nation": "USA",
