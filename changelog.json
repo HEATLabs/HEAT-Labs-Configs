@@ -6,13 +6,19 @@
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #47",
       "description": "Full patch notes for Update v0.0.1025 (#47), detailing all changes made on 10 June, 2025.",
-      "added": [],
+      "added": [
+        "Nothing was added in this update"
+      ],
       "changed": [
         "Updated changelog",
         "Updated daily commit log"
       ],
-      "removed": [],
-      "fixed": []
+      "fixed": [
+        "Nothing was fixed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ]
     },
     {
       "version": "0.0.1023",
@@ -332,7 +338,9 @@
         "Bored API link",
         "OnlyOnce Alpha 1 team information"
       ],
-      "removed": []
+      "removed": [
+        "Nothing was removed in this update"
+      ]
     },
     {
       "version": "0.0.0822",
@@ -383,7 +391,9 @@
         "Canonical URL tags",
         "Naming scheme of one video used in Bug Hunting posts"
       ],
-      "removed": []
+      "removed": [
+        "Nothing was removed in this update"
+      ]
     },
     {
       "version": "0.0.0785",
@@ -475,7 +485,9 @@
         "Pathing issue on main guides index page",
         "Incorrect names on certain tracking pixels"
       ],
-      "removed": []
+      "removed": [
+        "Nothing was removed in this update"
+      ]
     },
     {
       "version": "0.0.0722",
@@ -526,8 +538,12 @@
         "Changelog",
         "Daily commit log"
       ],
-      "fixed": [],
-      "removed": []
+      "fixed": [
+        "Nothing was fixed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ]
     },
     {
       "version": "0.0.0698",
@@ -668,7 +684,9 @@
         "Date format in Esmatty's XM1-V guide",
         "Image paths in Esmatty's XM1-V guide"
       ],
-      "fixed": [],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ],
       "removed": [
         "Redundant go-to easter egg scripts (replaced with unified snippet in misc.js)"
       ]
@@ -753,8 +771,12 @@
       "changed": [
         "All YouTube embeds to use the `-nocookie` flag for enhanced privacy"
       ],
-      "fixed": [],
-      "removed": []
+      "fixed": [
+        "Nothing was fixed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ]
     },
     {
       "version": "0.0.0573",
@@ -827,7 +849,9 @@
         "Minor spelling errors and SEO wording",
         "Typo in development progress JSON file"
       ],
-      "removed": []
+      "removed": [
+        "Nothing was removed in this update"
+      ]
     },
     {
       "version": "0.0.0528",
@@ -992,7 +1016,9 @@
         "Updated M1E1 Strengths & Weaknesses section.",
         "Updated Dollar Sign / Buck charm."
       ],
-      "removed": [],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
       "fixed": [
         "Fixed paths in the home page Features section."
       ]
@@ -1012,7 +1038,9 @@
         "Tweaked wording for clarity and style on the XM1-V tank page.",
         "Improved the Strengths & Weaknesses section for better readability."
       ],
-      "removed": [],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
       "fixed": [
         "Fixed incorrect name in the changelog configuration.",
         "Updated changelog.json to reflect recent changes."
@@ -1115,7 +1143,9 @@
         "Renamed clicker sound",
         "Replaced GIF image"
       ],
-      "removed": [],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
       "fixed": [
         "Fixed some issues with tags",
         "Fixed broken values in website configs"
@@ -1202,8 +1232,12 @@
         "Adjusted form height",
         "Updated social share meta tags"
       ],
-      "removed": [],
-      "fixed": []
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
     },
     {
       "version": "0.0.0297",
@@ -1399,7 +1433,9 @@
       "fixed": [
         "Image URLs fixed in OAT1.json"
       ],
-      "removed": []
+      "removed": [
+        "Nothing was removed in this update"
+      ]
     },
     {
       "version": "0.0.0173",
@@ -1561,8 +1597,12 @@
         "Side list contents updated on several maps",
         "Database-Tools structure reorganized with tools moved to a dedicated folder"
       ],
-      "removed": [],
-      "fixed": []
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
     },
     {
       "version": "0.0.0082",
@@ -1597,7 +1637,9 @@
       "removed": [
         "Outdated PCWSTATS.png image from Website-Images"
       ],
-      "fixed": []
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
     },
     {
       "version": "0.0.0061",
@@ -1660,7 +1702,9 @@
       "removed": [
         "Old unused images from Website-Images"
       ],
-      "fixed": []
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
     },
     {
       "version": "0.0.0027",
