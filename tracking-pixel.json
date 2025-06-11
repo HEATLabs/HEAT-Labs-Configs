@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-05T20:18:26.646825",
+  "generated_at": "2025-06-11T07:45:13.287147",
   "base_cdn_url": "https://pcwstats-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -1585,6 +1585,22 @@
       "pixel_filename": "pcwstats-tracker-pixel-alpha-2-fuel-crit-multiplier.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-fuel-crit-multiplier.png",
       "html_title": "Alpha 2 Fuel Crit Multiplier Incident - PCWStats"
+    },
+    {
+      "page_name": "M60A3E2 Bot",
+      "page_identifier": "m60a3e2-bot",
+      "html_file": "tanks/m60a3e2-bot.html",
+      "pixel_filename": "pcwstats-tracker-pixel-m60a3e2-bot.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-m60a3e2-bot.png",
+      "html_title": "M60A3E2 Bot - PCWStats"
+    },
+    {
+      "page_name": "T-55 Enigma",
+      "page_identifier": "t-55-enigma",
+      "html_file": "tanks/t-55-enigma.html",
+      "pixel_filename": "pcwstats-tracker-pixel-t-55-enigma.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-t-55-enigma.png",
+      "html_title": "T-55 Enigma - PCWStats"
     }
   ]
 }
