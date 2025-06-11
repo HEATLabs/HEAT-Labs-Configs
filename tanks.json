@@ -385,6 +385,22 @@
     },
     {
         "id": 25,
+        "name": "T-55 Enigma",
+        "slug": "t-55-enigma",
+        "nation": "USSR",
+        "type": "Unknown",
+        "class": "Only for Bots",
+        "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/tanks/t-55-enigma/upscaled_t-55-enigma.webp",
+        "stock": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/t-55-enigma/stock.json",
+        "upgrades": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/t-55-enigma/upgrades.json",
+        "consumables": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/t-55-enigma/consumables.json",
+        "perks": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/t-55-enigma/perks.json",
+        "agents": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/t-55-enigma/agents.json",
+        "details": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/t-55-enigma/details.json",
+        "builds": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/t-55-enigma/builds.json"
+    },
+    {
+        "id": 26,
         "name": "XM1-90",
         "slug": "xm1-90",
         "nation": "USA",
@@ -400,7 +416,7 @@
         "builds": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/xm1-90/builds.json"
     },
     {
-        "id": 26,
+        "id": 27,
         "name": "XM1-V",
         "slug": "xm1-v",
         "nation": "USA",
@@ -416,7 +432,7 @@
         "builds": "https://cdn.jsdelivr.net/gh/PCWStats/Database-Files@main/tanks/xm1-v/builds.json"
     },
     {
-        "id": 27,
+        "id": 28,
         "name": "XM808 Twister",
         "slug": "xm808-twister",
         "nation": "USA",
