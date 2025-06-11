@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-12T00:29:07.285800",
+  "generated_at": "2025-06-12T02:28:08.840893",
   "base_cdn_url": "https://pcwstats-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -1609,6 +1609,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-agents.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-agents.png",
       "html_title": "Agents - PCWStats"
+    },
+    {
+      "page_name": "Meet The Team: Template",
+      "page_identifier": "meet-the-team-shockwave",
+      "html_file": "blog/meet-the-team-shockwave.html",
+      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-shockwave.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-meet-the-team-shockwave.png",
+      "html_title": "Meet The Team: Template - PCWStats"
     }
   ]
 }
