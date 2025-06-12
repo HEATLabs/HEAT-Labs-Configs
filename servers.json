@@ -1,0 +1,74 @@
+{
+  "servers": [
+    {
+      "name": "Project CW Main Public Gateway",
+      "full_address": "gate.projectcw.dev:27100",
+      "address": "gate.projectcw.dev",
+      "port": 27100,
+      "country": "Germany",
+      "countryCode": "DE",
+      "city": "Frankfurt am Main",
+      "timezone": "Europe/Berlin"
+    },
+    {
+      "name": "Project CW Main Server #1",
+      "full_address": "18.199.129.79:27100",
+      "address": "18.199.129.79",
+      "port": 27100,
+      "country": "Germany",
+      "countryCode": "DE",
+      "city": "Frankfurt am Main",
+      "timezone": "Europe/Berlin"
+    },
+    {
+      "name": "Project CW Main Server #2",
+      "full_address": "3.65.141.192:27100",
+      "address": "3.65.141.192",
+      "port": 27100,
+      "country": "Germany",
+      "countryCode": "DE",
+      "city": "Frankfurt am Main",
+      "timezone": "Europe/Berlin"
+    },
+    {
+      "name": "Project CW Main Server #3",
+      "full_address": "35.157.23.252:27100",
+      "address": "35.157.23.252",
+      "port": 27100,
+      "country": "Germany",
+      "countryCode": "DE",
+      "city": "Frankfurt am Main",
+      "timezone": "Europe/Berlin"
+    },
+    {
+      "name": "Project CW Main Lodestar Gateway",
+      "full_address": "gatelodestar.projectcw.dev:27100",
+      "address": "gatelodestar.projectcw.dev",
+      "port": 27100,
+      "country": "Germany",
+      "countryCode": "DE",
+      "city": "Frankfurt am Main",
+      "timezone": "Europe/Berlin"
+    },
+    {
+      "name": "Project CW Lodestar Server #1",
+      "full_address": "18.184.243.98:27100",
+      "address": "18.184.243.98",
+      "port": 27100,
+      "country": "Germany",
+      "countryCode": "DE",
+      "city": "Frankfurt am Main",
+      "timezone": "Europe/Berlin"
+    },
+    {
+      "name": "Project CW Lodestar Server #2",
+      "full_address": "3.78.94.109:27100",
+      "address": "3.78.94.109",
+      "port": 27100,
+      "country": "Germany",
+      "countryCode": "DE",
+      "city": "Frankfurt am Main",
+      "timezone": "Europe/Berlin"
+    }
+  ]
+}
