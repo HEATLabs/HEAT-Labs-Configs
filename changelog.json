@@ -1,6 +1,69 @@
 {
   "updates": [
     {
+      "version": "0.0.1095",
+      "date": "2025-06-11",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #48",
+      "description": "Full patch notes for Update v0.0.1095 (#48), detailing all changes made on 11 June, 2025.",
+      "added": [
+        "Meet the Team blog post for Shockwave",
+        "New Agents page",
+        "View All Agents button to all tank pages",
+        "Tank page for T-55 Enigma",
+        "Tank page for M60A3E2 Bot",
+        "Glare animation on tournament announcement images",
+        "Tracking pixel to new Meet the Team blog post",
+        "Tracking pixel to new Agents page",
+        "Tracking pixel to T-55 Enigma and M60A3E2 Bot pages",
+        "Agents.json config for new agents page",
+        "Missing task to development progress data",
+        "T-55 Enigma and M60A3E2 Bot pages to search index",
+        "Images for T-55 Enigma and M60A3E2 Bot",
+        "Tank Challenge image batch",
+        "Tank Challenges icons to Tankopedia",
+        "New tracking pixel image assets (Views API)",
+        "Data files for T-55 Enigma",
+        "Data files for M60A3E2 Bot"
+      ],
+      "changed": [
+        "Related Articles section on all Meet the Team blog posts",
+        "Tank summary placeholder for Leopard 2FK",
+        "Devs Only page with new cards",
+        "Beta tag now shows version number",
+        "Main tanks filter updated to include bots",
+        "Tanks in team modal on tournament pages are now clickable",
+        "Tank config files for T-55 Enigma and M60A3E2 Bot",
+        "Tracking pixel index data (multiple updates)",
+        "Leopard 2FK status in tanks data",
+        "Placeholder texts for Ray and Udarnik in agents data",
+        "Changelog shortcut in footer to use direct GitHub URL",
+        "CDN purge in jsDelivr URL index",
+        "Updated changelog",
+        "Updated daily commit log",
+        "Version numbers adjusted for new placeholders",
+        "Development progress and changelog logs",
+        "Agent data files for BAT-4M and M60A3E2",
+        "Views API with new pixel image references",
+        "Updated Devs Only generator to support new beta tag",
+        "Simplified keywords in tank search",
+        "`nothing was` placeholder added to all required patch notes",
+        "dont even look at this commit (yes, we saw it)"
+      ],
+      "fixed": [
+        "Incorrect tank IDs in 14 tank pages",
+        "Incorrect tank IDs in T-55 Enigma and M60A3E2 Bot pages",
+        "Pathing issue in new Agents page",
+        "Corrupted Easter Egg GIFs",
+        "Incorrect image path in M60A3E2 Bot agent data",
+        "Incorrect slugs in T-55 Enigma agent data",
+        "Formatting issue caused by long build name"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ]
+    },
+    {
       "version": "0.0.1047",
       "date": "2025-06-10",
       "author": "PCWStats Team",
