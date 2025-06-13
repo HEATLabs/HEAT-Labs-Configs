@@ -1,6 +1,44 @@
 {
   "updates": [
     {
+      "version": "0.0.1118",
+      "date": "2025-06-12",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #49",
+      "description": "Full patch notes for Update v0.0.1118 (#49), detailing all changes made on 12 June, 2025.",
+      "added": [
+        "Settings menu button and modal with full functionality",
+        "Required CSS and JS imports for new settings menu",
+        "Special styles for reduced motion setting",
+        "Toast notifications for settings modal",
+        "Easter egg to T-55 Enigma page",
+        "Dev Scripts modal prototype",
+        "Shockwave's MTT and Agents pages to Devs Only Page",
+        "Settings menu entry to development progress tasks",
+        "New servers.json file",
+        "Server error images",
+        "Enigma Pear gif",
+        "Enigma Pear sound effect"
+      ],
+      "changed": [
+        "Theme toggle button replaced with settings menu button",
+        "Styles for buttons on header",
+        "VEN0M's tagline",
+        "Placeholder image for T-55 Enigma",
+        "OAT1.json updated with Tournament match data",
+        "Changelog",
+        "Daily commit log"
+      ],
+      "removed": [
+        "Units setting from settings modal",
+        "All references to toggle buttons from theme loader"
+      ],
+      "fixed": [
+        "Missing reset in Enigma easter egg",
+        "Typo in Enigma Pear sound effect"
+      ]
+    },
+    {
       "version": "0.0.1095",
       "date": "2025-06-11",
       "author": "PCWStats Team",
