@@ -1,37 +1,67 @@
 {
   "updates": [
     {
-      "version": "0.0.1118",
+      "version": "0.0.1140",
+      "date": "2025-06-13",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #50",
+      "description": "Full patch notes for Update v0.0.1140 (#50), detailing all changes made on 13 June, 2025.",
+      "added": [
+        "Sticky footer behavior for compare sidemenu",
+        "Outdated content warning modal to all map pages",
+        "Outdated content warning modal to all tank pages",
+        "CSS and JS logic for outdated content warning modal",
+        "Data Management section to settings modal",
+        "Missing styles for settings modal"
+      ],
+      "changed": [
+        "Compare sidemenu styles to improve spacing on mobile",
+        "Compare sidemenu behavior to close when user clicks outside",
+        "Reduced motion setting from toggle to dropdown",
+        "All styles for settings modal",
+        "GSC index data",
+        "Changelog",
+        "Daily commit log",
+        "moved compare sidemenu styles to tanks.css file",
+        "Match scores in OAT1.json"
+      ],
+      "removed": [
+        "Redundant check and compare imports from main tanks file",
+        "Word trigger for settings modal"
+      ]
+    },
+    {
+      "version": "0.0.1123",
       "date": "2025-06-12",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #49",
-      "description": "Full patch notes for Update v0.0.1118 (#49), detailing all changes made on 12 June, 2025.",
+      "description": "Full patch notes for Update v0.0.1123 (#49), detailing all changes made on 12 June, 2025.",
       "added": [
-        "Settings menu button and modal with full functionality",
-        "Required CSS and JS imports for new settings menu",
-        "Special styles for reduced motion setting",
+        "Required CSS and JS imports for the new settings menu to all main website pages",
+        "Special styles for Reduced Motion setting",
         "Toast notifications for settings modal",
         "Easter egg to T-55 Enigma page",
         "Dev Scripts modal prototype",
-        "Shockwave's MTT and Agents pages to Devs Only Page",
-        "Settings menu entry to development progress tasks",
-        "New servers.json file",
+        "Shockwave's MTT and Agents pages to Devs Only page",
+        "Settings menu task to development progress tracker",
+        "servers.json configuration file",
         "Server error images",
+        "Enigma Pear sound effect",
         "Enigma Pear gif",
-        "Enigma Pear sound effect"
+        "Settings logic and styles to Changelog, Statistics, and Status pages"
       ],
       "changed": [
-        "Theme toggle button replaced with settings menu button",
-        "Styles for buttons on header",
-        "VEN0M's tagline",
-        "Placeholder image for T-55 Enigma",
-        "OAT1.json updated with Tournament match data",
-        "Changelog",
+        "Theme toggle button replaced with Settings menu button across all major pages (Changelog, Statistics, Status, etc.)",
+        "Updated styles for buttons in the header",
+        "Updated VEN0M's tagline",
+        "Updated placeholder image for T-55 Enigma",
+        "OAT1.json with Tournament match data",
+        "Website changelog",
         "Daily commit log"
       ],
       "removed": [
-        "Units setting from settings modal",
-        "All references to toggle buttons from theme loader"
+        "All references to theme toggle buttons from theme loader",
+        "Units setting from settings modal"
       ],
       "fixed": [
         "Missing reset in Enigma easter egg",
@@ -39,74 +69,68 @@
       ]
     },
     {
-      "version": "0.0.1095",
+      "version": "0.0.1100",
       "date": "2025-06-11",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #48",
-      "description": "Full patch notes for Update v0.0.1095 (#48), detailing all changes made on 11 June, 2025.",
+      "description": "Full patch notes for Update v0.0.1100 (#48), detailing all changes made on 11 June, 2025.",
       "added": [
         "Meet the Team blog post for Shockwave",
         "New Agents page",
+        "Tracking pixel in new Meet the Team blog post",
+        "Tracking pixel in new Agents page",
+        "Tracking pixels in T-55 Enigma and M60A3E2 Bot pages",
         "View All Agents button to all tank pages",
         "Tank page for T-55 Enigma",
         "Tank page for M60A3E2 Bot",
-        "Glare animation on tournament announcement images",
-        "Tracking pixel to new Meet the Team blog post",
-        "Tracking pixel to new Agents page",
-        "Tracking pixel to T-55 Enigma and M60A3E2 Bot pages",
-        "Agents.json config for new agents page",
-        "Missing task to development progress data",
-        "T-55 Enigma and M60A3E2 Bot pages to search index",
         "Images for T-55 Enigma and M60A3E2 Bot",
-        "Tank Challenge image batch",
-        "Tank Challenges icons to Tankopedia",
-        "New tracking pixel image assets (Views API)",
-        "Data files for T-55 Enigma",
-        "Data files for M60A3E2 Bot"
+        "Small batch of tank challenge images",
+        "Tracking pixel image files (Views API) for all new pages",
+        "agents.json file for Agents page",
+        "Missing task to development progress data file",
+        "Data files for T-55 Enigma and M60A3E2 Bot",
+        "Tankopedia Tank Challenges icons",
+        "`nothing was` placeholder to all patch notes that required them"
       ],
       "changed": [
         "Related Articles section on all Meet the Team blog posts",
         "Tank summary placeholder for Leopard 2FK",
+        "Shockwave's Leopard 2FK texts",
         "Devs Only page with new cards",
-        "Beta tag now shows version number",
-        "Main tanks filter updated to include bots",
-        "Tanks in team modal on tournament pages are now clickable",
-        "Tank config files for T-55 Enigma and M60A3E2 Bot",
-        "Tracking pixel index data (multiple updates)",
-        "Leopard 2FK status in tanks data",
-        "Placeholder texts for Ray and Udarnik in agents data",
-        "Changelog shortcut in footer to use direct GitHub URL",
-        "CDN purge in jsDelivr URL index",
-        "Updated changelog",
-        "Updated daily commit log",
-        "Version numbers adjusted for new placeholders",
-        "Development progress and changelog logs",
+        "Filter on main tanks page to include bots",
+        "Changelog shortcut in footer to use direct GitHub URL instead of CDN",
+        "Tournament pages: tanks in team modal are now clickable",
+        "Tournament announcement images now have glare animation",
+        "Status for Leopard 2FK in main tanks data file",
+        "Placeholder texts for Ray and Udarnik in main agents data file",
+        "Search index with new T-55 Enigma and M60A3E2 Bot pages",
+        "Simplified keywords for tanks to improve search accuracy",
+        "jsDelivr CDN URL index with latest purge",
+        "Tanks config file for T-55 Enigma and M60A3E2 Bot",
+        "Version numbers to count added placeholders",
+        "Website changelog, statistics, and status: beta tag now shows version number",
         "Agent data files for BAT-4M and M60A3E2",
-        "Views API with new pixel image references",
-        "Updated Devs Only generator to support new beta tag",
-        "Simplified keywords in tank search",
-        "`nothing was` placeholder added to all required patch notes",
-        "dont even look at this commit (yes, we saw it)"
+        "Devs Only generator script to support new beta tag"
       ],
       "fixed": [
         "Incorrect tank IDs in 14 tank pages",
         "Incorrect tank IDs in T-55 Enigma and M60A3E2 Bot pages",
         "Pathing issue in new Agents page",
-        "Corrupted Easter Egg GIFs",
-        "Incorrect image path in M60A3E2 Bot agent data",
-        "Incorrect slugs in T-55 Enigma agent data",
-        "Formatting issue caused by long build name"
+        "Corrupted easter egg GIFs",
+        "Incorrect image path in agent data file for M60A3E2 Bot",
+        "Incorrect slugs in T-55 Enigma agent data file",
+        "Formatting issues by shortening build name"
       ],
       "removed": [
         "Nothing was removed in this update"
       ]
     },
     {
-      "version": "0.0.1047",
+      "version": "0.0.1058",
       "date": "2025-06-10",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #47",
-      "description": "Full patch notes for Update v0.0.1047 (#47), detailing all changes made on 10 June, 2025.",
+      "description": "Full patch notes for Update v0.0.1058 (#47), detailing all changes made on 10 June, 2025.",
       "added": [
         "Nothing was added in this update"
       ],
@@ -114,77 +138,88 @@
         "Updated changelog",
         "Updated daily commit log"
       ],
-      "fixed": [
-        "Nothing was fixed in this update"
-      ],
       "removed": [
         "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
       ]
     },
     {
-      "version": "0.0.1042",
+      "version": "0.0.1053",
       "date": "2025-06-09",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #46",
-      "description": "Full patch notes for Update v0.0.1042 (#46), detailing all changes made on 09 June, 2025.",
+      "description": "Full patch notes for Update v0.0.1053 (#46), detailing all changes made on 09 June, 2025.",
       "added": [
         "Image protection module",
-        "Additional styles to global hero for mobile touch scrolling"
+        "Additional styles to global hero to ensure touch scrolling works on mobile",
+        "Image protection script into all main pages",
+        "Image protection script into standalone changelog page",
+        "Image protection script into standalone statistics page",
+        "Image protection script into standalone status page"
       ],
       "changed": [
-        "Integrated image protection script into all pages",
-        "Updated site-map with all missing pages and new paths",
-        "Updated main site-map with correct paths for technical pages",
-        "Updated humans.txt file",
+        "Updated Devs Only generator to include image protection",
+        "Updated site-map files for all standalone pages (Changelog, Statistics, Status)",
+        "Updated humans.txt files across standalone websites",
         "Updated tracking pixel data with new paths",
         "Updated search index with new paths",
         "Updated changelog",
         "Updated daily commit log",
-        "Updated all optimized images with required metadata",
-        "Updated Devs Only page generator to include image protection",
+        "Updated optimized images with required metadata",
         "Updated OAT2.json with match data"
       ],
       "removed": [
-        "Leftover tournament-cards.js path in main tournaments page",
-        "Unnecessary comments from Alpha 2 tournament page"
+        "Unnecessary comments from Alpha 2 Tournament page",
+        "Leftover tournament-cards.js path in tournaments page"
       ],
       "fixed": [
-        "Image protection script pathing issue in Alpha 1 Tournament page",
-        "Image protection script pathing issue in Alpha Tournament 2 page",
-        "Image protection script pathing issue in tank pages",
-        "Waves pattern bug preventing scroll on mobile",
-        "Match IDs in OAT2.json",
-        "Name inconsistencies in 4 matches in OAT2 tournament data file",
-        "Logical inconsistency in 1 match in OAT2 tournament data file",
-        "Non-unique match IDs in 2 matches in OAT2 tournament data file",
-        "Syntax errors in OAT2 tournament data file"
+        "Pathing issue in image protection script for Alpha 1 Tournament page",
+        "Pathing issue in image protection script for Alpha 2 Tournament page",
+        "Pathing issue causing image protection to not work on tank pages",
+        "Issue with wave pattern blocking scroll on mobile",
+        "Match ID conflicts in OAT2.json",
+        "Name inconsistencies in OAT2 tournament file",
+        "Non-unique IDs in OAT2 tournament data",
+        "Logical inconsistency in 1 OAT2 match",
+        "Syntax errors in OAT2 tournament data"
       ]
     },
     {
-      "version": "0.0.1018",
+      "version": "0.0.1027",
       "date": "2025-06-08",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #45",
-      "description": "Full patch notes for Update v0.0.1018 (#45), detailing all changes made on 08 June, 2025.",
+      "description": "Full patch notes for Update v0.0.1027 (#45), detailing all changes made on 08 June, 2025.",
       "added": [
-        "New incident report to Website Status page",
         "Pirate cat image",
-        "Project statistics counter tool"
+        "Project statistics counter tool",
+        "Dedicated changelog button to header (Changelog, Statistics, Status pages)",
+        "All required files for website changelog page",
+        "All required files for website statistics page",
+        "All required files for website status page",
+        "Copy of 404 page in Statistics and Status pages",
+        "Missing styles for incidents section in Website Status page",
+        "New incident report to website status page"
       ],
       "changed": [
-        "Devs Only page pathing",
-        "Header buttons on all pages with new paths",
-        "Changelog",
-        "Daily commit log",
-        "Devs Only generator script (with new paths)"
+        "Updated Devs Only generator script with new paths",
+        "Updated header buttons on all pages with new paths",
+        "Updated changelog",
+        "Updated daily commit log",
+        "Updated status page logic for incidents"
       ],
       "removed": [
-        "Redundant Website Status, Changelog, and Statistics pages from main repository"
+        "Redundant Website Status, Changelog, and Statistics pages from main repo"
       ],
       "fixed": [
-        "Lines of code counter issue after exceeding 1 million",
+        "Pathing issue in Devs Only page",
+        "Issue with lines of code counter after passing 1 million",
+        "Path to changelog",
         "Incorrect file types in two news posts",
-        "Incorrect path to changelog"
+        "Pathing issues in standalone Website Statistics and Website Status pages",
+        "Pathing issues to changelog page from Statistics and Status pages"
       ]
     },
     {
