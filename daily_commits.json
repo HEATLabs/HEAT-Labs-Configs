@@ -1,4 +1,24 @@
 {
+  "2025-06-13": [
+    "[pcwstats.github.io] added position: sticky; to compare sidemenu footer",
+    "[pcwstats.github.io] tweaked compare sidemenu styles more to fix some spacing issues on mobile",
+    "[pcwstats.github.io] improved mobile specific styles for compare sidemenu",
+    "[pcwstats.github.io] removed redundant check and compare imports from main tanks file",
+    "[pcwstats.github.io] moved compare sidemenu styles to tanks.css file",
+    "[pcwstats.github.io] tweaked behaviour for compare sidemenu to close if user clicks outside of it",
+    "[pcwstats.github.io] added outdated content warning modal to all map pages",
+    "[pcwstats.github.io] added outdated content warning modal to all tank pages",
+    "[pcwstats.github.io] added CSS and JS logic for new outdated content warning modal",
+    "[pcwstats.github.io] changed reduced motion setting from toggle to dropdown selection",
+    "[pcwstats.github.io] tweaked all styles for settings modal",
+    "[pcwstats.github.io] added Data Management section to settings modal",
+    "[pcwstats.github.io] removed word trigger for settings modal",
+    "[pcwstats.github.io] added missing styles for settings modal",
+    "[Website-Configs] updated GSC index data",
+    "[Website-Configs] updated changelog",
+    "[Website-Configs] updated daily commit log",
+    "[Database-Files] Updated match scores in OAT1.json"
+  ],
   "2025-06-12": [
     "[pcwstats.github.io] added required CSS and JS imports for new settings menu to all main website pages",
     "[pcwstats.github.io] changed theme toggle button to settings menu button in all main website pages",
@@ -26,7 +46,13 @@
     "[Website-Images] updated placeholder image for T-55 Enigma",
     "[Database-Files] Corrected typo in Enigma Pear sound effect",
     "[Database-Files] Added Enigma Pear sound effect",
-    "[Database-Files] Updated OAT1.json with Tournament match data"
+    "[Database-Files] Updated OAT1.json with Tournament match data",
+    "[Website-Changelog] changed theme toggle button to settings menu button in website changelog page",
+    "[Website-Changelog] added settings logic and styles to website changelog page",
+    "[Website-Statistics] changed theme toggle button to settings menu button in website statistics page",
+    "[Website-Statistics] added settings logic and styles to website statistics page",
+    "[Website-Status] changed theme toggle button to settings menu button in website status page",
+    "[Website-Status] added settings logic and styles to website status page"
   ],
   "2025-06-11": [
     "[pcwstats.github.io] added tracking pixel in new meet the team blog post",
@@ -84,6 +110,9 @@
     "[Database-Files] added data files for T-55 Enigma",
     "[Database-Files] added data files for M60A3E2 Bot",
     "[Database-Files] shortened name of one build to fix formatting issues",
+    "[Website-Changelog] updated beta tag to show version number instead of BETA text in website changelog",
+    "[Website-Statistics] updated beta tag to show version number instead of BETA text in website statistics",
+    "[Website-Status] updated beta tag to show version number instead of BETA text in website status",
     "[ThatSINEWAVE/PCWStats-Views-API] added tracking pixel image for new meet the team blog post",
     "[ThatSINEWAVE/PCWStats-Views-API] added tracking pixel image for new agents page",
     "[ThatSINEWAVE/PCWStats-Views-API] added tracking pixel images for T-55 Enigma and M60A3E2 Bot pages"
@@ -119,7 +148,16 @@
     "[Database-Files] fixed name inconsistency in 3 matches in OAT2 tournament data file",
     "[Database-Files] fixed non unique IDs for 2 matches in OAT2 tournament data file",
     "[Database-Files] fixed syntax errors in OAT2 tournament data file",
-    "[Database-Files] Updated OAT2 json with match data"
+    "[Database-Files] Updated OAT2 json with match data",
+    "[Website-Changelog] added image protection script into standalone website changelog page",
+    "[Website-Changelog] updated site-map file for website changelog",
+    "[Website-Changelog] updated humans.txt file",
+    "[Website-Statistics] added image protection script into standalone website statistics page",
+    "[Website-Statistics] updated site-map file for website statistics",
+    "[Website-Statistics] updated humans.txt file",
+    "[Website-Status] added image protection script into standalone website stats page",
+    "[Website-Status] updated site-map file for website status",
+    "[Website-Status] updated humans.txt file"
   ],
   "2025-06-08": [
     "[pcwstats.github.io] Updated pathing issue in Devs Only page",
@@ -133,7 +171,29 @@
     "[Website-Configs] updated daily commit log",
     "[Website-Images] added pirate cat image",
     "[Database-Tools] Updated Devs only generator script with new paths",
-    "[Database-Tools] added project statistics counter tool"
+    "[Database-Tools] added project statistics counter tool",
+    "[Website-Changelog] added dedicated changelog button to header",
+    "[Website-Changelog] added all required files for website changelog page",
+    "[Website-Changelog] Update .gitignore",
+    "[Website-Changelog] Initial commit",
+    "[Website-Statistics] added dedicated changelog button to header",
+    "[Website-Statistics] fixed pathing issue to changelog page",
+    "[Website-Statistics] fixed pathing issues in standalone website statistics page",
+    "[Website-Statistics] added all required files for website statistics page",
+    "[Website-Statistics] added copy of 404 page",
+    "[Website-Statistics] moved required site-data for website statistics",
+    "[Website-Statistics] Update .gitignore",
+    "[Website-Statistics] Initial commit",
+    "[Website-Status] added missing styles for incidents section in website status page",
+    "[Website-Status] updated status page with new logic for incidents",
+    "[Website-Status] added dedicated changelog button to header",
+    "[Website-Status] fixed pathing issue to changelog page",
+    "[Website-Status] fixed pathing issues in standalone website status page",
+    "[Website-Status] added all required files for website status page",
+    "[Website-Status] added copy of 404 page",
+    "[Website-Status] moved required site-data for website-status",
+    "[Website-Status] Update .gitignore",
+    "[Website-Status] Initial commit"
   ],
   "2025-06-07": [
     "[pcwstats.github.io] updated radio easter egg to be persistent so it doesnt stop on page change or refresh",
