@@ -1,6 +1,36 @@
 {
   "updates": [
     {
+      "version": "0.0.1155",
+      "date": "2025-06-14",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #51",
+      "description": "Full patch notes for Update v0.0.1155 (#51), detailing all changes made on 14 June, 2025.",
+      "added": [
+        "Feature showcase template",
+        "PrimaryAttack key to abilities.json for tanks",
+        "Template tank data folder",
+        "Second test for cross-repository navigation paths",
+        "Test for cross-repository navigation paths"
+      ],
+      "changed": [
+        "Lines of code counter on home page",
+        "changelog",
+        "Daily commit log",
+        "Daily commit fetcher tool to include new repositories",
+        "Ability names for all agents to lowercase (instead of ALL CAPS)",
+        "Ability names and descriptions for Blitz, Anansi, Hound, Chopper, Raketa, Reaper, Kent, and Ember based on OAT2 file data"
+      ],
+      "removed": [
+        "Redundant sections from Tournament feature showcase blog post",
+        "One ability slot from abilities.json"
+      ],
+      "fixed": [
+        "Pathing issue in bug hunting post",
+        "Overview image path on Nord Oko map page (image was not loading)"
+      ]
+    },
+    {
       "version": "0.0.1140",
       "date": "2025-06-13",
       "author": "PCWStats Team",
