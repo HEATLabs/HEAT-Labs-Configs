@@ -1,6 +1,32 @@
 {
   "updates": [
     {
+      "version": "0.0.1166",
+      "date": "2025-06-15",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #52",
+      "description": "Full patch notes for Update v0.0.1166 (#52), detailing all changes made on 15 June, 2025.",
+      "added": [
+        "Missing abilities for M3A1-Bradley in abilities.json"
+      ],
+      "changed": [
+        "abilities.json updated for all tanks used by: Anansi, Ember, Chopper, Raketa, Reaper, Kent, Blitz",
+        "Template tank abilities.json updated with real placeholder paths for icons and videos",
+        "Development progress",
+        "Daily commit log",
+        "Changelog"
+      ],
+      "fixed": [
+        "Content dates in all maps and tanks aligned with OAT2 data",
+        "Inconsistent spacing of header buttons on Website Changelog page",
+        "Inconsistent spacing of header buttons on Website Statistics page",
+        "Inconsistent spacing of header buttons on Website Status page"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ]
+    },
+    {
       "version": "0.0.1155",
       "date": "2025-06-14",
       "author": "PCWStats Team",
