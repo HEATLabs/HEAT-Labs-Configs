@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-12T02:28:08.840893",
+  "generated_at": "2025-06-17T01:05:31.429020",
   "base_cdn_url": "https://pcwstats-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -1617,6 +1617,22 @@
       "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-shockwave.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-meet-the-team-shockwave.png",
       "html_title": "Meet The Team: Template - PCWStats"
+    },
+    {
+      "page_name": "Feature Showcase: Name",
+      "page_identifier": "feature-showcase-template",
+      "html_file": "blog/feature-showcase-template.html",
+      "pixel_filename": "pcwstats-tracker-pixel-feature-showcase-template.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-feature-showcase-template.png",
+      "html_title": "Feature Showcase: Name - PCWStats"
+    },
+    {
+      "page_name": "Website Plans & Mission",
+      "page_identifier": "website-plans-and-mission",
+      "html_file": "blog/website-plans-and-mission.html",
+      "pixel_filename": "pcwstats-tracker-pixel-website-plans-and-mission.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-website-plans-and-mission.png",
+      "html_title": "Website Plans & Mission - PCWStats"
     }
   ]
 }
