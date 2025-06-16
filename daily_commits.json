@@ -1,4 +1,22 @@
 {
+  "2025-06-15": [
+    "[pcwstats.github.io] Fixed Content dates in all maps and tanks to OAT2 data",
+    "[Website-Configs] updated development progress",
+    "[Website-Configs] updated daily commit log",
+    "[Website-Configs] updated changelog",
+    "[Database-Files] updated abilities.json for all tanks used by Anansi",
+    "[Database-Files] updated abilities.json for all tanks used by Ember",
+    "[Database-Files] updated abilities.json for all tanks used by Chopper",
+    "[Database-Files] updated abilities.json for all tanks used by Raketa",
+    "[Database-Files] updated abilities.json for all tanks used by Reaper",
+    "[Database-Files] added missing abilities for m3a1-bradley",
+    "[Database-Files] updated abilities.json for all tanks used by Kent",
+    "[Database-Files] updated abilities.json for all tanks used by Blitz",
+    "[Database-Files] updated template-tank abilities.json file with real placeholder paths for icon and video",
+    "[Website-Changelog] fixed inconsistent spacing of header buttons on website changelog page",
+    "[Website-Statistics] fixed inconsistent spacing of header buttons on website statistics page",
+    "[Website-Status] fixed inconsistent spacing of header buttons on website status page"
+  ],
   "2025-06-14": [
     "[pcwstats.github.io] Fixed pathing issue in bug hunting post",
     "[pcwstats.github.io] fixed issue with overview image path on nord oko map page causing it to not load",
