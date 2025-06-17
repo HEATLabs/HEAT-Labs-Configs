@@ -74,8 +74,14 @@
   {
     "name": "Tank Roulette",
     "description": "Random tank selector for fun gameplay",
-    "path": "https://pcwstats.github.io/easter-eggs/roulette.html",
+    "path": "https://pcwstats.github.io/playground/roulette.html",
     "keywords": ["roulette", "random", "selector", "fun", "game", "chooser"]
+  },
+  {
+    "name": "Tier List Creator",
+    "description": "Create your own ranking for tanks, maps and agents",
+    "path": "https://pcwstats.github.io/playground/tierlist.html",
+    "keywords": ["tierlist", "ranking", "tier", "list"]
   },
   {
     "name": "Changelog",
@@ -918,6 +924,12 @@
     "keywords": ["team", "profile", "ven0m", "developer", "staff", "blog"]
   },
   {
+    "name": "Meet the Team: Shockwave",
+    "description": "Profile of PCWStats team member _VEN0M",
+    "path": "https://pcwstats.github.io/blog/meet-the-team-sinewave.html",
+    "keywords": ["team", "profile", "shockwave", "developer", "staff", "blog"]
+  },
+  {
     "name": "Tournament Feature Blog",
     "description": "Blog post about tournament features",
     "path": "https://pcwstats.github.io/blog/tournament-feature-blog.html",
@@ -950,7 +962,7 @@
   {
     "name": "Alpha 3 Playtest",
     "description": "Information about the Alpha 3 playtesting phase",
-    "path": "https://pcwstats.github.io/easter-eggs/alpha-3-playtest.html",
+    "path": "https://pcwstats.github.io/playground/alpha-3-playtest.html",
     "keywords": ["alpha 3", "playtest", "testing", "phase", "early access"]
   },
   {
