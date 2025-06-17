@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-17T01:05:31.429020",
+  "generated_at": "2025-06-17T06:04:46.095541",
   "base_cdn_url": "https://pcwstats-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -1633,6 +1633,22 @@
       "pixel_filename": "pcwstats-tracker-pixel-website-plans-and-mission.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-website-plans-and-mission.png",
       "html_title": "Website Plans & Mission - PCWStats"
+    },
+    {
+      "page_name": "Playground",
+      "page_identifier": "playground",
+      "html_file": "playground.html",
+      "pixel_filename": "pcwstats-tracker-pixel-playground.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-playground.png",
+      "html_title": "Playground - PCWStats"
+    },
+    {
+      "page_name": "Tier List Creator",
+      "page_identifier": "tierlist",
+      "html_file": "playground/tierlist.html",
+      "pixel_filename": "pcwstats-tracker-pixel-tierlist.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tierlist.png",
+      "html_title": "Tier List Creator - PCWStats"
     }
   ]
 }
