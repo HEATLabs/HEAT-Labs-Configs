@@ -1,6 +1,53 @@
 {
   "updates": [
     {
+      "version": "0.0.1198",
+      "date": "2025-06-16",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #53",
+      "description": "Full patch notes for Update v0.0.1198 (#53), detailing all changes made on 16 June, 2025.",
+      "added": [
+        "Playground page",
+        "Tracking pixel in 'Website Plans and Mission' blog post",
+        "Website Plans and Mission blog post",
+        "Ability Overview section to all tank pages",
+        "New tank-chart module",
+        "New maps index file",
+        "Ability Overview Section in development progress",
+        "Video placeholder image",
+        "Icons for all tanks used by Blitz, Kent, Chopper, Raketa, Ember, and Hound",
+        "Icons for Leopard 2FK, M60E2, Leopard 2K14, T-72AU, Object 287, T-62AV, Leopard 1A6A1, AGDS",
+        "Primary attack images for all tanks",
+        "Icons in abilities.json for all listed tanks",
+        "Missing abilities for Leopard 2K14",
+        "Placeholder abilities.json files for all unreleased tanks",
+        "Placeholder agent ability descriptions and names for 4 tanks",
+        "Tracking pixel image for new blog post (PCWStats-Views-API)"
+      ],
+      "changed": [
+        "All pages updated with new asset gallery name and path (formerly tankopedia)",
+        "Tankopedia renamed to Asset Gallery on all main pages, statistics, changelog, and status",
+        "Lines of code counter on home page",
+        "Chart logic moved from tank.js to dedicated module",
+        "Tracking pixel index",
+        "JsDelivr index data after cache purge",
+        "GSC index data",
+        "Changelog and daily commit log",
+        "abilities.json file for all updated tanks"
+      ],
+      "removed": [
+        "WIP modal from Common Builds section on main website, changelog, statistics, and status pages",
+        "Old discord verification tag"
+      ],
+      "fixed": [
+        "Incorrect description in latest blog post",
+        "Issue with loading and processing of tank builds",
+        "Typo in Ability Overview section on all tank pages",
+        "Typo in build name for XM1-V",
+        "Incorrect icon path for Leopard 2K14 in abilities.json"
+      ]
+    },
+    {
       "version": "0.0.1166",
       "date": "2025-06-15",
       "author": "PCWStats Team",
