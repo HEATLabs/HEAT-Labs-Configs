@@ -1,6 +1,7 @@
 {
   "agents": [
     {
+      "id": 1,
       "name": "Blitz",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Blitz.webp",
       "specialty": "EMP Rakete",
@@ -25,6 +26,7 @@
       ]
     },
     {
+      "id": 2,
       "name": "Anansi",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Anansi.webp",
       "specialty": "Spectre Gunship",
@@ -39,6 +41,7 @@
       ]
     },
     {
+      "id": 3,
       "name": "Ember",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Ember.webp",
       "specialty": "Trophy Time",
@@ -63,6 +66,7 @@
       ]
     },
     {
+      "id": 4,
       "name": "Kent",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Kent.webp",
       "specialty": "Contracts",
@@ -87,6 +91,7 @@
       ]
     },
     {
+      "id": 5,
       "name": "Hound",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Hound.webp",
       "specialty": "Hunter's Mark",
@@ -106,6 +111,7 @@
       ]
     },
     {
+      "id": 6,
       "name": "Reaper",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Reaper.webp",
       "specialty": "Execute",
@@ -125,6 +131,7 @@
       ]
     },
     {
+      "id": 7,
       "name": "Ray",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp",
       "specialty": "Unknown Ability",
@@ -144,6 +151,7 @@
       ]
     },
     {
+      "id": 8,
       "name": "Udarnik",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp",
       "specialty": "Unknown Ability",
@@ -163,6 +171,7 @@
       ]
     },
     {
+      "id": 9,
       "name": "Raketa",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Raketa.webp",
       "specialty": "Scavenge",
@@ -187,6 +196,7 @@
       ]
     },
     {
+      "id": 10,
       "name": "Chopper",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Chopper.webp",
       "specialty": "Shock and Awe",
