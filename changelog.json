@@ -1,6 +1,41 @@
 {
   "updates": [
     {
+      "version": "0.0.1218",
+      "date": "2025-06-17",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #54",
+      "description": "Full patch notes for Update v0.0.1218 (#54), detailing all changes made on 17 June, 2025.",
+      "added": [
+        "Tier List Creator page",
+        "Touchscreen support and styles for Tier List Creator",
+        "Sharing feature for Tier List Creator",
+        "Placeholder CSS file for Apple-specific styles",
+        "Tracking pixels to two additional pages",
+        "IDs for maps in maps.json",
+        "IDs for agents in agents.json",
+        "Missing tracking pixel images to two pages (in Views API)"
+      ],
+      "changed": [
+        "Tier List page to fetch data from direct GitHub URLs instead of CDN",
+        "Feature name and paths in main Playground page",
+        "Sidebar menu on all main pages to include Playground link",
+        "Sidebar menu on Website Changelog, Statistics, and Status pages with Playground link",
+        "Inconsistent styles and logic on Website Changelog, Statistics, and Status pages",
+        "Development progress data with new pages",
+        "Search index with new paths and pages",
+        "Changelog",
+        "Daily commit log"
+      ],
+      "removed": [
+        "Tank Roulette and Alpha 3 Playtest buttons from home page"
+      ],
+      "fixed": [
+        "Incorrect active tag in sidebar menu of Website Changelog, Statistics, and Status pages",
+        "Typo in one map name inside maps.json"
+      ]
+    },
+    {
       "version": "0.0.1198",
       "date": "2025-06-16",
       "author": "PCWStats Team",
