@@ -3,6 +3,8 @@
     {
       "id": 1,
       "name": "Blitz",
+      "slug": "blitz",
+      "status": "Available Now",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Blitz.webp",
       "specialty": "EMP Rakete",
       "description": "Launches a slow-moving rocket system that can be controlled like any other guided missile. When the missile confronts any object, it will slow down and jam nearby opponents. The rocket deals electrical damage as it moves and after coming into contact with an obstacle will detonate with a short delay, or it can be manually triggered.",
@@ -28,6 +30,8 @@
     {
       "id": 2,
       "name": "Anansi",
+      "slug": "anansi",
+      "status": "Available Now",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Anansi.webp",
       "specialty": "Spectre Gunship",
       "description": "Call in the assistance of an AC-130H Spectre gunship with a 40mm autocannon and a limited amount of ammunition for its precision 105mm gun",
@@ -43,6 +47,8 @@
     {
       "id": 3,
       "name": "Ember",
+      "slug": "ember",
+      "status": "Available Now",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Ember.webp",
       "specialty": "Trophy Time",
       "description": " Call in protection, requesting the drop of a turret that intercepts incoming projectiles, and she rushes towards allies with a speed boost",
@@ -68,6 +74,8 @@
     {
       "id": 4,
       "name": "Kent",
+      "slug": "kent",
+      "status": "Available Now",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Kent.webp",
       "specialty": "Contracts",
       "description": "Lock as many opponents as possible in the cone view, activate the ability, and watch as enemies get blasted by aerial strikes",
@@ -93,6 +101,8 @@
     {
       "id": 5,
       "name": "Hound",
+      "slug": "hound",
+      "status": "Available Now",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Hound.webp",
       "specialty": "Hunter's Mark",
       "description": "After activation, looking at any enemy tank will reveal the location of its critical modules to both Hound and his team. Aiming at any revealed critical zone and penetrating the tank is enough for hitting it while the Hunters Mark is on the opponent. Critical damage on a marked tank will extend the duration",
@@ -113,6 +123,8 @@
     {
       "id": 6,
       "name": "Reaper",
+      "slug": "reaper",
+      "status": "Available Now",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Reaper.webp",
       "specialty": "Execute",
       "description": "Reaper can always sense weakness in his opponents and strike hard against it. Any opponent that has less than 420 HP left is killed immediately when Reaper manages to deal damage to the target vehicle. When you activate the ability, Reaper loads a clip of shells that can deal increased critical damage and execute opponents more easily. The clip is automatically reloaded when Reaper executes an opponent.",
@@ -133,6 +145,8 @@
     {
       "id": 7,
       "name": "Ray",
+      "slug": "ray",
+      "status": "To Be Released",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp",
       "specialty": "Unknown Ability",
       "description": "Unknown Ability Description",
@@ -153,6 +167,8 @@
     {
       "id": 8,
       "name": "Udarnik",
+      "slug": "udarnik",
+      "status": "To Be Released",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/placeholder/imagecomingsoon.webp",
       "specialty": "Unknown Ability",
       "description": "Unknown Ability Description",
@@ -173,6 +189,8 @@
     {
       "id": 9,
       "name": "Raketa",
+      "slug": "raketa",
+      "status": "Available Now",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Raketa.webp",
       "specialty": "Scavenge",
       "description": "When you destroy the enemy, you gain a token out of them and recover some health, this works as a passive ability. When the ability is available, you can activate it, and Raketa will load collected scrap, using a rapid-fire shotgun to destroy enemies even faster.",
@@ -198,6 +216,8 @@
     {
       "id": 10,
       "name": "Chopper",
+      "slug": "chopper",
+      "status": "Available Now",
       "image": "https://cdn.jsdelivr.net/gh/PCWStats/Website-Images@main/agents/Chopper.webp",
       "specialty": "Shock and Awe",
       "description": "Call in the support of Chopper's friend in the Air Force, the bomber will fly to the targeted position deal a lot of damage, and become dazed.",
