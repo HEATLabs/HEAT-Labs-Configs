@@ -1,6 +1,47 @@
 {
   "updates": [
     {
+      "version": "0.0.1244",
+      "date": "2025-06-18",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #55",
+      "description": "Full patch notes for Update v0.0.1244 (#55), detailing all changes made on 18 June, 2025.",
+      "added": [
+        "Additional M3A1 video to M3A1 tank page",
+        "Two new videos to M60A3E2 tank page",
+        "One new video to M1E1 tank page",
+        "Tank texts for T-62AV",
+        "Tank texts for M3A1 Bradley",
+        "Tank texts for BAT-4M",
+        "Missing Paint 28 icon"
+      ],
+      "changed": [
+        "Asset gallery to use renamed asset-gallery.json",
+        "Credits page with two new content creators",
+        "M3A1 tank description to match ability details",
+        "Several paint names",
+        "Several camouflage names and descriptions",
+        "Descriptions for several charms",
+        "Descriptions of Batmaus and Plush Bear charms",
+        "Names and descriptions for several camouflages",
+        "Three M1E1 tank skin names",
+        "Camo name for camouflage #34",
+        "Leopard 1A6A1 tank skin names",
+        "Tank skin names for XM1-90",
+        "Tank camouflage name and description corrections",
+        "Status for three tanks",
+        "Changelog log entry",
+        "Daily commit log"
+      ],
+      "removed": [
+        "Redundant margin-top spacing on all tank pages"
+      ],
+      "fixed": [
+        "Typo in M3A1 tank description",
+        "Typo in camouflage name"
+      ]
+    },
+    {
       "version": "0.0.1218",
       "date": "2025-06-17",
       "author": "PCWStats Team",
