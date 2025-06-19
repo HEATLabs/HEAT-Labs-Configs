@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-17T06:04:46.095541",
+  "generated_at": "2025-06-19T09:52:44.349595",
   "base_cdn_url": "https://pcwstats-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -1649,6 +1649,94 @@
       "pixel_filename": "pcwstats-tracker-pixel-tierlist.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tierlist.png",
       "html_title": "Tier List Creator - PCWStats"
+    },
+    {
+      "page_name": "agent",
+      "page_identifier": "anansi",
+      "html_file": "agents/anansi.html",
+      "pixel_filename": "pcwstats-tracker-pixel-anansi.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-anansi.png",
+      "html_title": "agent - PCWStats"
+    },
+    {
+      "page_name": "agent",
+      "page_identifier": "blitz",
+      "html_file": "agents/blitz.html",
+      "pixel_filename": "pcwstats-tracker-pixel-blitz.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-blitz.png",
+      "html_title": "agent - PCWStats"
+    },
+    {
+      "page_name": "agent",
+      "page_identifier": "chopper",
+      "html_file": "agents/chopper.html",
+      "pixel_filename": "pcwstats-tracker-pixel-chopper.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-chopper.png",
+      "html_title": "agent - PCWStats"
+    },
+    {
+      "page_name": "agent",
+      "page_identifier": "ember",
+      "html_file": "agents/ember.html",
+      "pixel_filename": "pcwstats-tracker-pixel-ember.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-ember.png",
+      "html_title": "agent - PCWStats"
+    },
+    {
+      "page_name": "agent",
+      "page_identifier": "hound",
+      "html_file": "agents/hound.html",
+      "pixel_filename": "pcwstats-tracker-pixel-hound.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hound.png",
+      "html_title": "agent - PCWStats"
+    },
+    {
+      "page_name": "agent",
+      "page_identifier": "kent",
+      "html_file": "agents/kent.html",
+      "pixel_filename": "pcwstats-tracker-pixel-kent.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-kent.png",
+      "html_title": "agent - PCWStats"
+    },
+    {
+      "page_name": "agent",
+      "page_identifier": "placeholder-agent",
+      "html_file": "agents/placeholder-agent.html",
+      "pixel_filename": "pcwstats-tracker-pixel-placeholder-agent.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-agent.png",
+      "html_title": "agent - PCWStats"
+    },
+    {
+      "page_name": "agent",
+      "page_identifier": "raketa",
+      "html_file": "agents/raketa.html",
+      "pixel_filename": "pcwstats-tracker-pixel-raketa.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-raketa.png",
+      "html_title": "agent - PCWStats"
+    },
+    {
+      "page_name": "agent",
+      "page_identifier": "ray",
+      "html_file": "agents/ray.html",
+      "pixel_filename": "pcwstats-tracker-pixel-ray.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-ray.png",
+      "html_title": "agent - PCWStats"
+    },
+    {
+      "page_name": "agent",
+      "page_identifier": "reaper",
+      "html_file": "agents/reaper.html",
+      "pixel_filename": "pcwstats-tracker-pixel-reaper.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-reaper.png",
+      "html_title": "agent - PCWStats"
+    },
+    {
+      "page_name": "agent",
+      "page_identifier": "udarnik",
+      "html_file": "agents/udarnik.html",
+      "pixel_filename": "pcwstats-tracker-pixel-udarnik.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-udarnik.png",
+      "html_title": "agent - PCWStats"
     }
   ]
 }
