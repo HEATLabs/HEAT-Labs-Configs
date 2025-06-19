@@ -1,10 +1,20 @@
 {
   "servers": [
     {
-      "name": "Project CW Main Public Gateway",
+      "name": "Project CW Main Public Gateway #1",
       "full_address": "gate.projectcw.dev:27100",
       "address": "gate.projectcw.dev",
       "port": 27100,
+      "country": "Germany",
+      "countryCode": "DE",
+      "city": "Frankfurt am Main",
+      "timezone": "Europe/Berlin"
+    },
+    {
+      "name": "Project CW Main Public Gateway #2",
+      "full_address": "gate.projectcw.dev:30000",
+      "address": "gate.projectcw.dev",
+      "port": 30000,
       "country": "Germany",
       "countryCode": "DE",
       "city": "Frankfurt am Main",
@@ -71,10 +81,20 @@
       "timezone": "Europe/Berlin"
     },
     {
-      "name": "Project CW Main Lodestar Gateway",
+      "name": "Project CW Main Lodestar Gateway #1",
       "full_address": "gatelodestar.projectcw.dev:27100",
       "address": "gatelodestar.projectcw.dev",
       "port": 27100,
+      "country": "Germany",
+      "countryCode": "DE",
+      "city": "Frankfurt am Main",
+      "timezone": "Europe/Berlin"
+    },
+    {
+      "name": "Project CW Main Lodestar Gateway #2",
+      "full_address": "gatelodestar.projectcw.dev:30000",
+      "address": "gatelodestar.projectcw.dev",
+      "port": 30000,
       "country": "Germany",
       "countryCode": "DE",
       "city": "Frankfurt am Main",
