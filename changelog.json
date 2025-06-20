@@ -1,6 +1,56 @@
 {
   "updates": [
     {
+      "version": "0.0.1279",
+      "date": "2025-06-19",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #56",
+      "description": "Full patch notes for Update v0.0.1279 (#56), detailing all changes made on 19 June, 2025.",
+      "added": [
+        "Anti's special radio station easter egg",
+        "Pro tips and video layout for M1E1 page",
+        "Pro tips from Esmatty and Venom to Leopard 2FK page",
+        "Esmatty's XM1-90 text",
+        "Interesting Facts section to tournament page sidebars",
+        "New pro tips and updated strengths/weaknesses for M60A3E2",
+        "New agent-specific pages",
+        "Antitank99 to team member list",
+        "Video placeholders and new video placeholder images",
+        "Meet the team image and profile image for antitank99",
+        "Missing M1E1 Biker tank skin names",
+        "Tracking pixel images for new agent-specific pages"
+      ],
+      "changed": [
+        "Spacing on Video Tutorial and Tips from Top Players sections across 6 tank pages",
+        "Layout of pro tip cards in XM1-90 page",
+        "Guide description for Ed's BAT-4M (updated and typo fixed)",
+        "Logic for tier list page to improve dragging and touchscreen behavior",
+        "Wording in Agent Quick Facts across all agent pages",
+        "Team member counter and lines of code stat counter on home page",
+        "Behavior of filters in Agents page",
+        "Agents page reworked to match main Tanks page layout",
+        "Behavior of status filter in Maps page",
+        "Sorting of team members on the About page based on role",
+        "Availability status of XM1-90 in configs",
+        "M1E1 tank skin names and skin IDs",
+        "Search index, tracking pixel index, and servers.json with new entries",
+        "Agents data file with additional keys",
+        "Changelog and daily commits log in Website-Configs",
+        "Team logos for OAT1 and IAT2 to use placeholder links"
+      ],
+      "removed": [
+        "Development Progress section from Devs Only page",
+        "Required JSON for Development Progress in Website-Configs",
+        "Development Progress from Devs Only page generator script"
+      ],
+      "fixed": [
+        "Pathing issue in asset gallery loading optimization",
+        "Typo in Ed's BAT-4M guide description",
+        "Typo in imagenotavaible placeholder image",
+        "Typo in agents file for XM551"
+      ]
+    },
+    {
       "version": "0.0.1244",
       "date": "2025-06-18",
       "author": "PCWStats Team",
