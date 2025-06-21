@@ -1,6 +1,40 @@
 {
   "updates": [
     {
+      "version": "0.0.1298",
+      "date": "2025-06-20",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #57",
+      "description": "Full patch notes for Update v0.0.1298 (#57), detailing all changes made on 20 June, 2025.",
+      "added": [
+        "HSTV-L tank page with details, strengths, and tips",
+        "AGDS tank page with details, strengths, weaknesses, and tips",
+        "Leopard 1A6A1 tank page with details, strengths, and tips",
+        "Leopard 2K14 tank page with details, strengths, and tips",
+        "Community tip submission prompt on M60A3E2 page"
+      ],
+      "changed": [
+        "M60A3E2 tank page with revised details",
+        "M3A1 Bradley description and tips",
+        "BAT-4M description and tips for clarity",
+        "XM1-90 tank content with updated strengths, weaknesses, and pro tip",
+        "Leopard 1A1B page with revised content and added pro tips",
+        "Leopard 2FK page with revised strengths, weaknesses, and summary",
+        "XM1-V page with updated text",
+        "Tank class set to 'Available Now' for select tanks in configuration files",
+        "Changelog file",
+        "Daily commit log"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Typos and grammar in Leopard 1A6A1 page",
+        "Typos and clarity issues in T-62AV page",
+        "Typos and improved wording in Leopard 2FK page"
+      ]
+    },
+    {
       "version": "0.0.1279",
       "date": "2025-06-19",
       "author": "PCWStats Team",
