@@ -1,6 +1,34 @@
 {
   "updates": [
     {
+      "version": "0.0.1311",
+      "date": "2025-06-21",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #58",
+      "description": "Full patch notes for Update v0.0.1311 (#58), detailing all changes made on 21 June, 2025.",
+      "added": [
+        "Maintenance mode overlay and logic",
+        "Maintenance configuration file"
+      ],
+      "changed": [
+        "M60E2 page grammar and added pro tips",
+        "Pro tips grid layout for improved responsiveness",
+        "XM1-V references and description text",
+        "M1E1 tank description for clarity",
+        "Maintenance mode settings in configuration",
+        "Start time for maintenance window",
+        "Cache buster method",
+        "Changelog with entry for update v0.0.1298",
+        "daily_commits.json updated for 2025-06-20"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.0.1298",
       "date": "2025-06-20",
       "author": "PCWStats Team",
