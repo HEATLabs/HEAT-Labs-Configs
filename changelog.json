@@ -1,6 +1,28 @@
 {
   "updates": [
     {
+      "version": "0.0.1318",
+      "date": "2025-06-22",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #59",
+      "description": "Full patch notes for Update v0.0.1318 (#59), detailing all changes made on 22 June, 2025.",
+      "added": [
+        "Dedicated maintenance page and refactored handling logic",
+        "Missing 'Upcoming Tournament' tag"
+      ],
+      "changed": [
+        "gsc-index.json with latest site statistics",
+        "Changelog with entry for update v0.0.1311",
+        "daily_commits.json updated for 2025-06-21"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.0.1311",
       "date": "2025-06-21",
       "author": "PCWStats Team",
