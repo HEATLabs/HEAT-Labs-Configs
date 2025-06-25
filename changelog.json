@@ -1,6 +1,32 @@
 {
   "updates": [
     {
+      "version": "0.0.1329",
+      "date": "2025-06-23",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #60",
+      "description": "Full patch notes for Update v0.0.1329 (#60), detailing all changes made on 23 June, 2025.",
+      "added": [
+        "Pro tip for T-62AV page",
+        "Pro tip for M3A1 page",
+        "Shockwave's and Venom's pro tips to Leo 1A1B page"
+      ],
+      "changed": [
+        "Bat-4M page with revised strengths and weaknesses",
+        "Leo 1A1B tank summary",
+        "Tournaments page logic to handle automatic tag changes and unset types",
+        "tournaments.json with end times",
+        "Changelog with entry for update v0.0.1318",
+        "daily_commits.json for 2025-06-22"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.0.1318",
       "date": "2025-06-22",
       "author": "PCWStats Team",
