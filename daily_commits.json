@@ -1,4 +1,18 @@
 {
+  "2025-06-23": [
+    "[pcwstats.github.io] Added T-62av pro tip",
+    "[pcwstats.github.io] Added pro tip to M3A1 page",
+    "[pcwstats.github.io] Updated Bat-4m page with revised strengths and weaknesses",
+    "[pcwstats.github.io] Updated Leo 1A1B tank summary",
+    "[pcwstats.github.io] Added Shockwave's and Venom's pro tip to Leo 1A1B page",
+    "[pcwstats.github.io] Removed downtime and start time from tournament maintenance page",
+    "[pcwstats.github.io] Updated tournaments page logic to automatically change tournament tags and handle unset type",
+    "[pcwstats.github.io] Updated tournaments page logic",
+    "[Website-Configs] Merge branch 'main' of https://github.com/PCWStats/Website-Configs",
+    "[Website-Configs] Add changelog entry for update v0.0.1318",
+    "[Website-Configs] Update daily_commits.json for 2025-06-22",
+    "[Website-Configs] Updated tournaments.json with end times"
+  ],
   "2025-06-22": [
     "[pcwstats.github.io] Add dedicated maintenance page and refactor handling",
     "[pcwstats.github.io] Added missing Upcoming tournament tag",
