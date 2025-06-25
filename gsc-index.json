@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-06-22T05:05:02.585402",
+  "generated_at": "2025-06-25T04:42:09.770026",
   "site_url": "https://pcwstats.github.io/",
   "data_type": "all_time",
   "data": {
     "site_url": "https://pcwstats.github.io/",
-    "last_checked": "2025-06-22T05:05:02.307890",
+    "last_checked": "2025-06-25T04:42:09.450602",
     "date_range": {
       "start_date": "2025-05-16",
-      "end_date": "2025-06-22"
+      "end_date": "2025-06-25"
     },
     "pages": [
       {
@@ -21,9 +21,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 18,
-        "impressions": 79,
-        "ctr": 0.22784810126582278,
-        "position": 6.518987341772152
+        "impressions": 81,
+        "ctr": 0.2222222222222222,
+        "position": 6.382716049382716
       },
       {
         "url": "https://pcwstats.github.io/tanks/leopard-2fk.html",
@@ -36,9 +36,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 4,
-        "impressions": 76,
-        "ctr": 0.05263157894736842,
-        "position": 7.171052631578948
+        "impressions": 89,
+        "ctr": 0.0449438202247191,
+        "position": 7.157303370786517
       },
       {
         "url": "https://pcwstats.github.io/bug-hunting/discovery-of-corex.html",
@@ -51,9 +51,24 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 3,
-        "impressions": 42,
-        "ctr": 0.07142857142857142,
-        "position": 27.166666666666668
+        "impressions": 50,
+        "ctr": 0.06,
+        "position": 27
+      },
+      {
+        "url": "https://pcwstats.github.io/easter-eggs/alpha-3-playtest.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 2,
+        "impressions": 5,
+        "ctr": 0.4,
+        "position": 10.2
       },
       {
         "url": "https://pcwstats.github.io/tanks/m60e2.html",
@@ -66,24 +81,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 2,
-        "impressions": 139,
-        "ctr": 0.014388489208633094,
-        "position": 7.9352517985611515
-      },
-      {
-        "url": "https://pcwstats.github.io/easter-eggs/alpha-3-playtest.html",
-        "status": "indexed_and_served",
-        "last_crawled": null,
-        "indexing_state": "INDEXED",
-        "coverage_state": "VALID",
-        "discovery_date": null,
-        "crawl_time": null,
-        "robots_txt_state": "ALLOWED",
-        "user_agent": "DESKTOP",
-        "clicks": 1,
-        "impressions": 3,
-        "ctr": 0.3333333333333333,
-        "position": 3.3333333333333335
+        "impressions": 159,
+        "ctr": 0.012578616352201259,
+        "position": 7.918238993710692
       },
       {
         "url": "https://pcwstats.github.io/guides/tank-guides/xm1-v-build-guide.html",
@@ -141,9 +141,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 1,
-        "impressions": 96,
-        "ctr": 0.010416666666666666,
-        "position": 23.71875
+        "impressions": 105,
+        "ctr": 0.009523809523809525,
+        "position": 23.104761904761904
       },
       {
         "url": "https://pcwstats.github.io/tanks/alvt.html",
@@ -156,9 +156,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 1,
-        "impressions": 30,
-        "ctr": 0.03333333333333333,
-        "position": 4.8
+        "impressions": 36,
+        "ctr": 0.027777777777777776,
+        "position": 4.555555555555555
       },
       {
         "url": "https://pcwstats.github.io/Website-Changelog/",
@@ -171,9 +171,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 5,
         "ctr": 0,
-        "position": 28
+        "position": 10
       },
       {
         "url": "https://pcwstats.github.io/Website-Statistics/",
@@ -216,9 +216,24 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 11,
+        "impressions": 12,
         "ctr": 0,
-        "position": 7.181818181818182
+        "position": 6.666666666666667
+      },
+      {
+        "url": "https://pcwstats.github.io/agents/kent.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 53
       },
       {
         "url": "https://pcwstats.github.io/blog.html",
@@ -381,9 +396,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 16,
+        "impressions": 18,
         "ctr": 0,
-        "position": 7.1875
+        "position": 7.444444444444445
       },
       {
         "url": "https://pcwstats.github.io/bug-hunting/info-from-developers.html",
@@ -426,9 +441,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 4,
+        "impressions": 5,
         "ctr": 0,
-        "position": 12.75
+        "position": 10.4
       },
       {
         "url": "https://pcwstats.github.io/builds.html",
@@ -516,9 +531,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 5,
+        "impressions": 6,
         "ctr": 0,
-        "position": 11.2
+        "position": 11.666666666666666
       },
       {
         "url": "https://pcwstats.github.io/easter-eggs/devsonly.html",
@@ -666,9 +681,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 5,
+        "impressions": 7,
         "ctr": 0,
-        "position": 60.4
+        "position": 45.857142857142854
       },
       {
         "url": "https://pcwstats.github.io/maps/baikonur.html",
@@ -681,9 +696,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 4,
         "ctr": 0,
-        "position": 31.666666666666668
+        "position": 35.5
       },
       {
         "url": "https://pcwstats.github.io/maps/ballistic-range.html",
@@ -696,9 +711,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 41,
+        "impressions": 42,
         "ctr": 0,
-        "position": 15.21951219512195
+        "position": 15.047619047619047
       },
       {
         "url": "https://pcwstats.github.io/maps/blossom-crash.html",
@@ -726,9 +741,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 7,
+        "impressions": 8,
         "ctr": 0,
-        "position": 14.714285714285714
+        "position": 21.125
       },
       {
         "url": "https://pcwstats.github.io/maps/moonshot.html",
@@ -756,9 +771,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 18,
+        "impressions": 21,
         "ctr": 0,
-        "position": 21.333333333333332
+        "position": 19.38095238095238
       },
       {
         "url": "https://pcwstats.github.io/maps/nord-oko.html",
@@ -831,9 +846,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 13,
+        "impressions": 15,
         "ctr": 0,
-        "position": 80
+        "position": 71.13333333333334
       },
       {
         "url": "https://pcwstats.github.io/news/gun-dispersion-changes.html",
@@ -846,9 +861,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 19,
+        "impressions": 22,
         "ctr": 0,
-        "position": 11.210526315789474
+        "position": 12.454545454545455
       },
       {
         "url": "https://pcwstats.github.io/news/new-agents-1.html",
@@ -936,9 +951,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 20,
+        "impressions": 22,
         "ctr": 0,
-        "position": 6.2
+        "position": 7.954545454545454
       },
       {
         "url": "https://pcwstats.github.io/resources/about-us.html",
@@ -981,9 +996,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 6,
         "ctr": 0,
-        "position": 18.333333333333332
+        "position": 13.5
       },
       {
         "url": "https://pcwstats.github.io/resources/system-status.html",
@@ -1071,9 +1086,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 33,
+        "impressions": 35,
         "ctr": 0,
-        "position": 8.696969696969697
+        "position": 8.514285714285714
       },
       {
         "url": "https://pcwstats.github.io/tanks/hstv-l.html",
@@ -1086,9 +1101,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 123,
+        "impressions": 135,
         "ctr": 0,
-        "position": 18.54471544715447
+        "position": 18.68148148148148
       },
       {
         "url": "https://pcwstats.github.io/tanks/leopard-1a1b.html",
@@ -1116,9 +1131,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 48,
+        "impressions": 50,
         "ctr": 0,
-        "position": 30.854166666666668
+        "position": 30.64
       },
       {
         "url": "https://pcwstats.github.io/tanks/leopard-2k14.html",
@@ -1161,9 +1176,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 51,
+        "impressions": 57,
         "ctr": 0,
-        "position": 10.411764705882353
+        "position": 10.631578947368421
       },
       {
         "url": "https://pcwstats.github.io/tanks/m3a1-bradley.html",
@@ -1206,9 +1221,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 30,
+        "impressions": 32,
         "ctr": 0,
-        "position": 15.333333333333334
+        "position": 14.875
       },
       {
         "url": "https://pcwstats.github.io/tanks/object-287.html",
@@ -1221,9 +1236,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 141,
+        "impressions": 146,
         "ctr": 0,
-        "position": 10.659574468085106
+        "position": 10.73972602739726
       },
       {
         "url": "https://pcwstats.github.io/tanks/ptz89c.html",
@@ -1236,9 +1251,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 17,
+        "impressions": 18,
         "ctr": 0,
-        "position": 18.705882352941178
+        "position": 17.88888888888889
       },
       {
         "url": "https://pcwstats.github.io/tanks/t-62av.html",
@@ -1251,9 +1266,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 49,
+        "impressions": 60,
         "ctr": 0,
-        "position": 4.816326530612245
+        "position": 4.733333333333333
       },
       {
         "url": "https://pcwstats.github.io/tanks/t-62ms.html",
@@ -1311,9 +1326,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 13,
+        "impressions": 15,
         "ctr": 0,
-        "position": 4.076923076923077
+        "position": 4.466666666666667
       },
       {
         "url": "https://pcwstats.github.io/tanks/xm1-90.html",
@@ -1371,9 +1386,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 107,
+        "impressions": 115,
         "ctr": 0,
-        "position": 9.570093457943925
+        "position": 9.530434782608696
       },
       {
         "url": "https://pcwstats.github.io/tournaments.html",
@@ -1401,9 +1416,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 14,
+        "impressions": 15,
         "ctr": 0,
-        "position": 16.142857142857142
+        "position": 15.4
       },
       {
         "url": "https://pcwstats.github.io/tournaments/open-alpha-2-tournament.html",
@@ -1416,9 +1431,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 14,
+        "impressions": 15,
         "ctr": 0,
-        "position": 8.071428571428571
+        "position": 7.733333333333333
       },
       {
         "url": "https://pcwstats.github.io/website-statistics.html",
@@ -1437,8 +1452,8 @@
       }
     ],
     "summary": {
-      "total_pages": 95,
-      "indexed_pages": 95,
+      "total_pages": 96,
+      "indexed_pages": 96,
       "not_indexed_pages": 0,
       "errors": 0
     },
@@ -1466,8 +1481,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 95,
-    "indexed_pages": 95,
+    "total_pages_found": 96,
+    "indexed_pages": 96,
     "errors": 0
   }
 }
