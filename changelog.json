@@ -1,6 +1,79 @@
 {
   "updates": [
     {
+      "version": "0.0.1362",
+      "date": "2025-06-28",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #64",
+      "description": "Full patch notes for Update v0.0.1362 (#64), detailing all changes made on 28 June, 2025.",
+      "added": [
+        "Player name extractor script",
+        "String extractor script for replay files",
+        "Map and mode extraction in replay processing",
+        "Player name extraction in replay processing",
+        "Build and branch extraction in replay processing",
+        "Bulk replay JSON segment checker script",
+        "Replay checker script and sample replay output",
+        "all_replays_output.json file",
+        "Replays from A2 larger than 10MB"
+      ],
+      "changed": [
+        "Test replay output to include player names, maps, and modes",
+        "Refactored output to JSON format in battle-result-bulk-checker",
+        "Refactored byte slicing and string handling for consistency",
+        "Refactored bulk-checker.py and added progress bar"
+      ],
+      "removed": [
+        "checker.py from replay-tools",
+        "Obsolete replay output file",
+        "Three replays with missing data"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1345",
+      "date": "2025-06-27",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #63",
+      "description": "Full patch notes for Update v0.0.1345 (#63), detailing all changes made on 27 June, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Date typo in Alpha 2 '1 day to go' news post"
+      ]
+    },
+    {
+      "version": "0.0.1341",
+      "date": "2025-06-25",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #62",
+      "description": "Full patch notes for Update v0.0.1341 (#62), detailing all changes made on 25 June, 2025.",
+      "added": [
+        "Changelog entry for update v0.0.1334",
+        "Changelog entry for update v0.0.1329"
+      ],
+      "changed": [
+        "GSC index data and statistics",
+        "daily_commits.json for 2025-06-23",
+        "daily_commits.json for 2025-06-24"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.0.1334",
       "date": "2025-06-24",
       "author": "PCWStats Team",
