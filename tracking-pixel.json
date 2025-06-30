@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-19T09:52:44.349595",
+  "generated_at": "2025-06-30T18:27:01.012407",
   "base_cdn_url": "https://pcwstats-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -1737,6 +1737,30 @@
       "pixel_filename": "pcwstats-tracker-pixel-udarnik.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-udarnik.png",
       "html_title": "agent - PCWStats"
+    },
+    {
+      "page_name": "Maintenance Mode",
+      "page_identifier": "maintenance",
+      "html_file": "maintenance.html",
+      "pixel_filename": "pcwstats-tracker-pixel-maintenance.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-maintenance.png",
+      "html_title": "Maintenance Mode - PCWStats"
+    },
+    {
+      "page_name": "Project CW Debrief #3",
+      "page_identifier": "project-cw-debrief-3",
+      "html_file": "news/project-cw-debrief-3.html",
+      "pixel_filename": "pcwstats-tracker-pixel-project-cw-debrief-3.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-project-cw-debrief-3.png",
+      "html_title": "Project CW Debrief #3 - PCWStats"
+    },
+    {
+      "page_name": "Tournament Maintenance",
+      "page_identifier": "tournament-maintenance",
+      "html_file": "tournaments/tournament-maintenance.html",
+      "pixel_filename": "pcwstats-tracker-pixel-tournament-maintenance.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tournament-maintenance.png",
+      "html_title": "Tournament Maintenance - PCWStats"
     }
   ]
 }
