@@ -2,6 +2,25 @@
   "updates": [
     {
       "version": "0.0.1362",
+      "date": "2025-06-29",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #1362",
+      "description": "Complete patch notes for update v0.0.1362, No. #1362, issued on 29 June, 2025.",
+      "added": [
+        "Changelog entries for versions 0.0.1341, 0.0.1345, and 0.0.1362"
+      ],
+      "changed": [
+        "daily_commits.json with recent commit logs"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1362",
       "date": "2025-06-28",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #64",
