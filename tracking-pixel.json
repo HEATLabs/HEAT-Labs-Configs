@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-06-30T18:27:01.012407",
+  "generated_at": "2025-07-08T19:02:30.336606",
   "base_cdn_url": "https://pcwstats-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -1761,6 +1761,222 @@
       "pixel_filename": "pcwstats-tracker-pixel-tournament-maintenance.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tournament-maintenance.png",
       "html_title": "Tournament Maintenance - PCWStats"
+    },
+    {
+      "page_name": "Afghanistan 2",
+      "page_identifier": "afghanistan-2",
+      "html_file": "maps/afghanistan-2.html",
+      "pixel_filename": "pcwstats-tracker-pixel-afghanistan-2.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-afghanistan-2.png",
+      "html_title": "Afghanistan 2 - PCWStats"
+    },
+    {
+      "page_name": "Afghanistan",
+      "page_identifier": "afghanistan",
+      "html_file": "maps/afghanistan.html",
+      "pixel_filename": "pcwstats-tracker-pixel-afghanistan.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-afghanistan.png",
+      "html_title": "Afghanistan - PCWStats"
+    },
+    {
+      "page_name": "Avalanche",
+      "page_identifier": "avalanche",
+      "html_file": "maps/avalanche.html",
+      "pixel_filename": "pcwstats-tracker-pixel-avalanche.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-avalanche.png",
+      "html_title": "Avalanche - PCWStats"
+    },
+    {
+      "page_name": "Citadel",
+      "page_identifier": "citadel",
+      "html_file": "maps/citadel.html",
+      "pixel_filename": "pcwstats-tracker-pixel-citadel.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-citadel.png",
+      "html_title": "Citadel - PCWStats"
+    },
+    {
+      "page_name": "Classified",
+      "page_identifier": "classified",
+      "html_file": "maps/classified.html",
+      "pixel_filename": "pcwstats-tracker-pixel-classified.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-classified.png",
+      "html_title": "Classified - PCWStats"
+    },
+    {
+      "page_name": "Comms",
+      "page_identifier": "comms",
+      "html_file": "maps/comms.html",
+      "pixel_filename": "pcwstats-tracker-pixel-comms.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-comms.png",
+      "html_title": "Comms - PCWStats"
+    },
+    {
+      "page_name": "Critical Harbor",
+      "page_identifier": "critical-harbor",
+      "html_file": "maps/critical-harbor.html",
+      "pixel_filename": "pcwstats-tracker-pixel-critical-harbor.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-critical-harbor.png",
+      "html_title": "Critical Harbor - PCWStats"
+    },
+    {
+      "page_name": "Crossroads",
+      "page_identifier": "crossroads",
+      "html_file": "maps/crossroads.html",
+      "pixel_filename": "pcwstats-tracker-pixel-crossroads.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-crossroads.png",
+      "html_title": "Crossroads - PCWStats"
+    },
+    {
+      "page_name": "Deadly Fields",
+      "page_identifier": "deadly-fields",
+      "html_file": "maps/deadly-fields.html",
+      "pixel_filename": "pcwstats-tracker-pixel-deadly-fields.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-deadly-fields.png",
+      "html_title": "Deadly Fields - PCWStats"
+    },
+    {
+      "page_name": "Desert City",
+      "page_identifier": "desert-city",
+      "html_file": "maps/desert-city.html",
+      "pixel_filename": "pcwstats-tracker-pixel-desert-city.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-desert-city.png",
+      "html_title": "Desert City - PCWStats"
+    },
+    {
+      "page_name": "Deserted",
+      "page_identifier": "deserted",
+      "html_file": "maps/deserted.html",
+      "pixel_filename": "pcwstats-tracker-pixel-deserted.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-deserted.png",
+      "html_title": "Deserted - PCWStats"
+    },
+    {
+      "page_name": "Dolcegusta",
+      "page_identifier": "dolcegusta",
+      "html_file": "maps/dolcegusta.html",
+      "pixel_filename": "pcwstats-tracker-pixel-dolcegusta.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-dolcegusta.png",
+      "html_title": "Dolcegusta - PCWStats"
+    },
+    {
+      "page_name": "Duga",
+      "page_identifier": "duga",
+      "html_file": "maps/duga.html",
+      "pixel_filename": "pcwstats-tracker-pixel-duga.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-duga.png",
+      "html_title": "Duga - PCWStats"
+    },
+    {
+      "page_name": "Evergreen",
+      "page_identifier": "evergreen",
+      "html_file": "maps/evergreen.html",
+      "pixel_filename": "pcwstats-tracker-pixel-evergreen.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-evergreen.png",
+      "html_title": "Evergreen - PCWStats"
+    },
+    {
+      "page_name": "Fatal Acres",
+      "page_identifier": "fatal-acres",
+      "html_file": "maps/fatal-acres.html",
+      "pixel_filename": "pcwstats-tracker-pixel-fatal-acres.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-fatal-acres.png",
+      "html_title": "Fatal Acres - PCWStats"
+    },
+    {
+      "page_name": "Harvest",
+      "page_identifier": "harvest",
+      "html_file": "maps/harvest.html",
+      "pixel_filename": "pcwstats-tracker-pixel-harvest.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-harvest.png",
+      "html_title": "Harvest - PCWStats"
+    },
+    {
+      "page_name": "Height 911RS",
+      "page_identifier": "height-911rs",
+      "html_file": "maps/height-911rs.html",
+      "pixel_filename": "pcwstats-tracker-pixel-height-911rs.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-height-911rs.png",
+      "html_title": "Height 911RS - PCWStats"
+    },
+    {
+      "page_name": "Height 911TB",
+      "page_identifier": "height-911tb",
+      "html_file": "maps/height-911tb.html",
+      "pixel_filename": "pcwstats-tracker-pixel-height-911tb.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-height-911tb.png",
+      "html_title": "Height 911TB - PCWStats"
+    },
+    {
+      "page_name": "Hydro",
+      "page_identifier": "hydro",
+      "html_file": "maps/hydro.html",
+      "pixel_filename": "pcwstats-tracker-pixel-hydro.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hydro.png",
+      "html_title": "Hydro - PCWStats"
+    },
+    {
+      "page_name": "Kerak",
+      "page_identifier": "kerak",
+      "html_file": "maps/kerak.html",
+      "pixel_filename": "pcwstats-tracker-pixel-kerak.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-kerak.png",
+      "html_title": "Kerak - PCWStats"
+    },
+    {
+      "page_name": "Port",
+      "page_identifier": "port",
+      "html_file": "maps/port.html",
+      "pixel_filename": "pcwstats-tracker-pixel-port.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-port.png",
+      "html_title": "Port - PCWStats"
+    },
+    {
+      "page_name": "Red-Alert",
+      "page_identifier": "red-alert",
+      "html_file": "maps/red-alert.html",
+      "pixel_filename": "pcwstats-tracker-pixel-red-alert.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-red-alert.png",
+      "html_title": "Red-Alert - PCWStats"
+    },
+    {
+      "page_name": "Spillway",
+      "page_identifier": "spillway",
+      "html_file": "maps/spillway.html",
+      "pixel_filename": "pcwstats-tracker-pixel-spillway.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-spillway.png",
+      "html_title": "Spillway - PCWStats"
+    },
+    {
+      "page_name": "Sundered City",
+      "page_identifier": "sundered-city",
+      "html_file": "maps/sundered-city.html",
+      "pixel_filename": "pcwstats-tracker-pixel-sundered-city.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-sundered-city.png",
+      "html_title": "Sundered City - PCWStats"
+    },
+    {
+      "page_name": "Surveillance",
+      "page_identifier": "surveillance",
+      "html_file": "maps/surveillance.html",
+      "pixel_filename": "pcwstats-tracker-pixel-surveillance.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-surveillance.png",
+      "html_title": "Surveillance - PCWStats"
+    },
+    {
+      "page_name": "Tajbeg",
+      "page_identifier": "tajbeg",
+      "html_file": "maps/tajbeg.html",
+      "pixel_filename": "pcwstats-tracker-pixel-tajbeg.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tajbeg.png",
+      "html_title": "Tajbeg - PCWStats"
+    },
+    {
+      "page_name": "Zenith",
+      "page_identifier": "zenith",
+      "html_file": "maps/zenith.html",
+      "pixel_filename": "pcwstats-tracker-pixel-zenith.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-zenith.png",
+      "html_title": "Zenith - PCWStats"
     }
   ]
 }
