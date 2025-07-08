@@ -1,11 +1,194 @@
 {
   "updates": [
     {
-      "version": "0.0.1362",
+      "version": "0.0.1414",
+      "date": "2025-07-07",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #74",
+      "description": "Full patch notes for Update v0.0.1414 (#74), detailing all changes made on 07 July, 2025.",
+      "added": [
+        "Hidden Alpha 2 maps",
+        "Default filter set to Available Now on maps view"
+      ],
+      "changed": [
+        "Paths for new maps"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1409",
+      "date": "2025-07-06",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #73",
+      "description": "Full patch notes for Update v0.0.1409 (#73), detailing all changes made on 06 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1405",
+      "date": "2025-07-05",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #72",
+      "description": "Full patch notes for Update v0.0.1405 (#72), detailing all changes made on 05 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1401",
+      "date": "2025-07-04",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #71",
+      "description": "Full patch notes for Update v0.0.1401 (#71), detailing all changes made on 04 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1397",
+      "date": "2025-07-03",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #70",
+      "description": "Full patch notes for Update v0.0.1397 (#70), detailing all changes made on 03 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1393",
+      "date": "2025-07-02",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #69",
+      "description": "Full patch notes for Update v0.0.1393 (#69), detailing all changes made on 02 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Tournaments page to support the Community tournament tag"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1389",
+      "date": "2025-07-01",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #68",
+      "description": "Full patch notes for Update v0.0.1389 (#68), detailing all changes made on 01 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Tournament page with missing card animation"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1385",
+      "date": "2025-07-01",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #67",
+      "description": "Full patch notes for Update v0.0.1385 (#67), detailing all changes made on 01 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Tournament page with missing card animation"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1381",
+      "date": "2025-06-30",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #66",
+      "description": "Full patch notes for Update v0.0.1381 (#66), detailing all changes made on 30 June, 2025.",
+      "added": [
+        "Project CW Debrief #3 news article",
+        "Privacy-focused tracking pixel to maintenance pages",
+        "Changelog entry for update v0.0.1362",
+        "New tracking pixels for maintenance and debrief pages",
+        "News announcement image news_63_1.webp",
+        "Brand logo container styles and link enhancements across multiple sites",
+        "New tracker pixel images to PCWStats Views API"
+      ],
+      "changed": [
+        "Version tag in page header to include new path to changelog page",
+        "Contractions for consistency in Debrief #3 post",
+        "daily_commits.json for 2025-06-29",
+        "gsc-index.json with updated site index data",
+        "Navbar to include BETA tag and changelog link in Website-Changelog, Website-Statistics, and Website-Status",
+        "Navbar brand logo and layout for Website-Statistics and Website-Status"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Pathing issue in preloading tournament card images"
+      ]
+    },
+    {
+      "version": "0.0.1366",
       "date": "2025-06-29",
       "author": "PCWStats Team",
-      "title": "PCWStats - Update Number #1362",
-      "description": "Complete patch notes for update v0.0.1362, No. #1362, issued on 29 June, 2025.",
+      "title": "PCWStats - Update Number #65",
+      "description": "Full patch notes for Update v0.0.1366 (#65), detailing all changes made on 29 June, 2025.",
       "added": [
         "Changelog entries for versions 0.0.1341, 0.0.1345, and 0.0.1362"
       ],
