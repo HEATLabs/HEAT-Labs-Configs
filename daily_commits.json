@@ -1,4 +1,34 @@
 {
+  "2025-07-07": [
+    "[pcwstats.github.io] Updated paths for new maps",
+    "[pcwstats.github.io] Added hidden Alpha 2 maps and made default filter to Available Now"
+  ],
+  "2025-07-02": [
+    "[pcwstats.github.io] Updated tournaments page to accommodate Community tournament tag"
+  ],
+  "2025-07-01": [
+    "[pcwstats.github.io] Updated tournament page with missing card animation"
+  ],
+  "2025-06-30": [
+    "[pcwstats.github.io] updated version tag on header with new path to changelog page",
+    "[pcwstats.github.io] Add brand logo container styles and link enhancements",
+    "[pcwstats.github.io] Update contractions for consistency in debrief post",
+    "[pcwstats.github.io] Add Project CW Debrief #3 news article",
+    "[pcwstats.github.io] Add privacy-focused tracking pixel to maintenance pages",
+    "[pcwstats.github.io] Fixed pathing issue in preloading tournament card images",
+    "[Website-Configs] Add changelog entry for update v0.0.1362",
+    "[Website-Configs] Update daily_commits.json for 2025-06-29",
+    "[Website-Configs] Update gsc-index.json with latest site index data",
+    "[Website-Configs] Add new tracking pixels for maintenance and debrief pages",
+    "[Website-Images] Add news announcement image news_63_1.webp",
+    "[Website-Changelog] Update navbar to add BETA tag with changelog link",
+    "[Website-Changelog] Add brand logo container styles and link enhancements",
+    "[Website-Statistics] Update navbar brand logo and beta tag layout",
+    "[Website-Statistics] Add brand logo container styles and link enhancements",
+    "[Website-Status] Update navbar brand logo and add beta tag link",
+    "[Website-Status] Add brand logo container styles and link enhancements",
+    "[ThatSINEWAVE/PCWStats-Views-API] Add new tracker pixel images"
+  ],
   "2025-06-29": [
     "[Website-Configs] Merge branch 'main' of https://github.com/PCWStats/Website-Configs",
     "[Website-Configs] Update changelog for versions 0.0.1362, 0.0.1345, 0.0.1341",
