@@ -1,4 +1,24 @@
 {
+  "2025-07-08": [
+    "[pcwstats.github.io] Added simple debug logic to tournaments.js",
+    "[pcwstats.github.io] Fix canonical and og:url meta tags for all map pages",
+    "[pcwstats.github.io] Update lines of code fun fact count",
+    "[pcwstats.github.io] Add privacy-focused tracking pixel to all map pages",
+    "[pcwstats.github.io] Removed incorrect tracking pixel from new map pages",
+    "[pcwstats.github.io] Merge branch 'main' of https://github.com/PCWStats/pcwstats.github.io",
+    "[pcwstats.github.io] fixed issue with Available Now filter not applying by default even if it was pre-selected",
+    "[pcwstats.github.io] Updated several map pages to use Unknown image instead of placeholder image",
+    "[pcwstats.github.io] Updated Crossroads map to use new Crossroads image",
+    "[pcwstats.github.io] Added missing Height 911 maps",
+    "[pcwstats.github.io] Fixed several pathing issues on main map page",
+    "[pcwstats.github.io] Added 25 new map pages",
+    "[Website-Configs] Update GSC index data and statistics",
+    "[Website-Configs] Update changelog with entries for versions 0.0.1366–0.0.1414",
+    "[Website-Configs] Update daily_commits.json with recent commit logs",
+    "[Website-Configs] Add new map tracking pixels to config",
+    "[Website-Images] Added Crossroads overview image",
+    "[ThatSINEWAVE/PCWStats-Views-API] Add tracker pixel images for multiple maps"
+  ],
   "2025-07-07": [
     "[pcwstats.github.io] Updated paths for new maps",
     "[pcwstats.github.io] Added hidden Alpha 2 maps and made default filter to Available Now"
