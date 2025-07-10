@@ -1,6 +1,57 @@
 {
   "updates": [
     {
+      "version": "0.0.1435",
+      "date": "2025-07-09",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #76",
+      "description": "Full patch notes for Update v0.0.1435 (#76), detailing all changes made on 09 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1431",
+      "date": "2025-07-08",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #75",
+      "description": "Full patch notes for Update v0.0.1431 (#75), detailing all changes made on 08 July, 2025.",
+      "added": [
+        "Simple debug logic to tournaments.js",
+        "Privacy-focused tracking pixel to all map pages",
+        "Missing Height 911 maps",
+        "25 new map pages",
+        "New map tracking pixels to Website-Configs",
+        "Tracker pixel images for multiple maps in Views API",
+        "Crossroads overview image"
+      ],
+      "changed": [
+        "Canonical and og:url meta tags on all map pages",
+        "Lines of code fun fact count",
+        "Several map pages to use Unknown image instead of placeholder",
+        "Crossroads map to use new image",
+        "GSC index data and statistics",
+        "Changelog with entries for versions 0.0.1366 and 0.0.1414",
+        "daily_commits.json with recent commit logs"
+      ],
+      "removed": [
+        "Incorrect tracking pixel from new map pages"
+      ],
+      "fixed": [
+        "Issue with Available Now filter not applying by default even if pre-selected",
+        "Pathing issues on main map page"
+      ]
+    },
+    {
       "version": "0.0.1414",
       "date": "2025-07-07",
       "author": "PCWStats Team",
