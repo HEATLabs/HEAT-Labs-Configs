@@ -1,27 +1,32 @@
 {
   "updates": [
     {
-      "version": "0.0.1521",
+      "version": "0.0.1526",
       "date": "2025-07-28",
       "author": "PCWStats Team",
       "title": "PCWStats - Update Number #95",
-      "description": "Full patch notes for Update v0.0.1521 (#95), detailing all changes made on 28 July, 2025.",
+      "description": "Full patch notes for Update v0.0.1526 (#95), detailing all changes made on 28 July, 2025.",
       "added": [
-        "Game Configurator option to the main playground page",
-        "Complete codebase for the new Game Configurator playground feature",
-        "Beta tag for the Game Configurator button in the playground",
-        "Placeholder files for the upcoming Configurator page",
-        "Four new images for the playground section"
+        "Tracking pixel to Game Configurator page",
+        "Beta tag to Game Configurator option on the main Playground page",
+        "Complete code for the new Game Configurator Playground feature",
+        "Game Configurator option in the main Playground page",
+        "Placeholder files for new Configurator page",
+        "Tracking pixel image for Game Configurator page"
       ],
       "changed": [
-        "Meta descriptions with corrected text",
-        "Main playground page layout and content to include new images and configurator"
+        "Meta descriptions across pages with correct texts",
+        "Main Playground page layout and visuals with new images",
+        "Updated Tracking pixel index data",
+        "Updated GSC index data",
+        "Updated Changelog",
+        "Updated Daily commit log"
       ],
       "removed": [
         "Nothing was removed in this update"
       ],
       "fixed": [
-        "Incorrect tab names in Game Configurator"
+        "Incorrect tab names in Game Configurator interface"
       ]
     },
     {
