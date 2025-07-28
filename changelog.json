@@ -1,6 +1,243 @@
 {
   "updates": [
     {
+      "version": "0.0.1521",
+      "date": "2025-07-28",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #95",
+      "description": "Full patch notes for Update v0.0.1521 (#95), detailing all changes made on 28 July, 2025.",
+      "added": [
+        "Game Configurator option to the main playground page",
+        "Complete codebase for the new Game Configurator playground feature",
+        "Beta tag for the Game Configurator button in the playground",
+        "Placeholder files for the upcoming Configurator page",
+        "Four new images for the playground section"
+      ],
+      "changed": [
+        "Meta descriptions with corrected text",
+        "Main playground page layout and content to include new images and configurator"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Incorrect tab names in Game Configurator"
+      ]
+    },
+    {
+      "version": "0.0.1512",
+      "date": "2025-07-27",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #94",
+      "description": "Full patch notes for Update v0.0.1512 (#94), detailing all changes made on 27 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1508",
+      "date": "2025-07-26",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #93",
+      "description": "Full patch notes for Update v0.0.1508 (#93), detailing all changes made on 26 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1504",
+      "date": "2025-07-25",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #92",
+      "description": "Full patch notes for Update v0.0.1504 (#92), detailing all changes made on 25 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1500",
+      "date": "2025-07-24",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #91",
+      "description": "Full patch notes for Update v0.0.1500 (#91), detailing all changes made on 24 July, 2025.",
+      "added": [],
+      "changed": [
+        "Discord invite URLs across all websites",
+        "Discord invite links in all relevant HTML files",
+        "README.md for PCWStats Views API"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1495",
+      "date": "2025-07-23",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #90",
+      "description": "Full patch notes for Update v0.0.1495 (#90), detailing all changes made on 23 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1491",
+      "date": "2025-07-22",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #89",
+      "description": "Full patch notes for Update v0.0.1491 (#89), detailing all changes made on 22 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1487",
+      "date": "2025-07-21",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #88",
+      "description": "Full patch notes for Update v0.0.1487 (#88), detailing all changes made on 21 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1483",
+      "date": "2025-07-20",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #87",
+      "description": "Full patch notes for Update v0.0.1483 (#87), detailing all changes made on 20 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1479",
+      "date": "2025-07-19",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #86",
+      "description": "Full patch notes for Update v0.0.1479 (#86), detailing all changes made on 19 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1475",
+      "date": "2025-07-18",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #85",
+      "description": "Full patch notes for Update v0.0.1475 (#85), detailing all changes made on 18 July, 2025.",
+      "added": [
+        "Missing 'Upcoming' filter to tournament page"
+      ],
+      "changed": [
+        "Outdated DevsOnly page with updated links and new content",
+        "DevsOnly page generator script to reflect current site structure"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1470",
+      "date": "2025-07-17",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #84",
+      "description": "Full patch notes for Update v0.0.1470 (#84), detailing all changes made on 17 July, 2025.",
+      "added": [
+        "Friendly scraper message to all HTML files across PCWStats sites"
+      ],
+      "changed": [
+        "Lines of code count in home page fun fact",
+        "gsc-index.json with latest search data",
+        "Changelog with entries for versions v0.0.1439\u00e2\u20ac\u201cv0.0.1463",
+        "daily_commits.json with 2025-07-10 entries"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.0.1463",
       "date": "2025-07-16",
       "author": "PCWStats Team",
