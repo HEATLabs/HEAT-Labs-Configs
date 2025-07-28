@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-07-08T19:02:30.336606",
+  "generated_at": "2025-07-29T01:32:23.089129",
   "base_cdn_url": "https://pcwstats-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -1977,6 +1977,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-zenith.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-zenith.png",
       "html_title": "Zenith - PCWStats"
+    },
+    {
+      "page_name": "Game Configurator",
+      "page_identifier": "configurator",
+      "html_file": "playground/configurator.html",
+      "pixel_filename": "pcwstats-tracker-pixel-configurator.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-configurator.png",
+      "html_title": "Game Configurator - PCWStats"
     }
   ]
 }
