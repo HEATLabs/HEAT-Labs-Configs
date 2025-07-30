@@ -1,11 +1,11 @@
 {
-    "id": "banner-2025-05-012",
+    "id": "banner-2025-07-001",
     "active": true,
-    "startDate": "2025-05-012T00:00:00Z",
-    "endDate": "2025-05-21T23:59:59Z",
-    "message": "<strong>PCWStats is Almost Here!</strong> We're getting closer to our first public release as we continue to finalize the details and features. Stay tuned for more updates!",
-    "ctaText": "View Changes",
-    "ctaUrl": "https://pcwstats.github.io/changelog.html",
+    "startDate": "2025-07-030T00:00:00Z",
+    "endDate": "2025-08-12T23:59:59Z",
+    "message": "<strong>The Configurator is Live!</strong> Our Project CW Configurator tool is now available! Customize your gameplay experience exactly how you want it, with just a few clicks.",
+    "ctaText": "Try it now!",
+    "ctaUrl": "https://pcwstats.github.io/playground/configurator.html",
     "backgroundColor": "--bg-dark",
     "textColor": "--text-dark",
     "buttonColor": "--accent-color"
