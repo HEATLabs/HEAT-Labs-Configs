@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "publish": true,
         "name": "Alpha #1 Tournament",
         "slug": "open-alpha-1-tournament",
         "description": "Open Alpha Tournament 1",
@@ -16,6 +17,7 @@
     },
     {
         "id": 2,
+        "publish": true,
         "name": "Alpha #2 Tournament",
         "slug": "open-alpha-2-tournament",
         "description": "Open Alpha Tournament 2",

@@ -1,0 +1,10 @@
+# Auto-detect text files and convert to LF on commit
+* text=auto
+
+# Explicitly normalize these files to LF
+*.json text eol=lf
+
+# Binary files that shouldn't be modified
+*.png binary
+*.jpg binary
+*.webp binary
