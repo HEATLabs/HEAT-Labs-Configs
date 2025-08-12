@@ -1,4 +1,40 @@
 {
+  "2025-08-12": [
+    "[pcwstats.github.io] Add 'Future & Vision' FAQ section and update content",
+    "[pcwstats.github.io] Fetch fun facts data dynamically from JSON",
+    "[pcwstats.github.io] Add notification popup for speculative countdown notice",
+    "[pcwstats.github.io] fixed issue causing some statistics not being correctly displayed on the tank pages",
+    "[Website-Configs] Add home-stats.json with initial statistics"
+  ],
+  "2025-08-03": [
+    "[pcwstats.github.io] Added missing easter egg import on configurator page",
+    "[pcwstats.github.io] Addition of configurator easter egg",
+    "[Website-Images] Added easter egg video for config page"
+  ],
+  "2025-08-01": [
+    "[pcwstats.github.io] fixed issue with banner covering up the sidebar when its open",
+    "[pcwstats.github.io] fixed hover issues close button on the new banner design",
+    "[pcwstats.github.io] redesigned banner styles",
+    "[pcwstats.github.io] Merge branch 'main' of https://github.com/PCWStats/pcwstats.github.io",
+    "[pcwstats.github.io] Fixed misaligned slider in configurator",
+    "[Website-Configs] Merge branch 'main' of https://github.com/PCWStats/Website-Configs",
+    "[Website-Changelog] fixed issue with banner covering up the sidebar when its open",
+    "[Website-Changelog] fixed hover issues close button on the new banner design",
+    "[Website-Changelog] redesigned banner styles",
+    "[Website-Statistics] fixed issue with banner covering up the sidebar when its open",
+    "[Website-Statistics] fixed hover issues close button on the new banner design",
+    "[Website-Statistics] redesigned banner styles",
+    "[Website-Status] fixed issue with banner covering up the sidebar when its open",
+    "[Website-Status] fixed hover issues close button on the new banner design",
+    "[Website-Status] redesigned banner styles"
+  ],
+  "2025-07-30": [
+    "[pcwstats.github.io] Updated config page with new CSS",
+    "[pcwstats.github.io] Updated logic in tournament loading",
+    "[pcwstats.github.io] updated banner module to not use JsDelivr CDN for data fetching",
+    "[Website-Configs] Updated tournament json with new loading logic",
+    "[Website-Configs] added configurator tool banner message"
+  ],
   "2025-07-28": [
     "[pcwstats.github.io] added tracking pixel to game configurator page",
     "[pcwstats.github.io] updated meta descriptions with correct texts",
@@ -8,6 +44,7 @@
     "[pcwstats.github.io] updated main playground page with new images",
     "[pcwstats.github.io] Added Game Configurator option in the main playground page",
     "[pcwstats.github.io] added placeholder files for new configurator page",
+    "[Website-Configs] updated daily commit log and changelog with missing entries",
     "[Website-Configs] updated tracking pixel index data",
     "[Website-Configs] updated changelog",
     "[Website-Configs] updated daily commit log",
