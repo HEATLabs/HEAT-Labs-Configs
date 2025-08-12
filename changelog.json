@@ -1,6 +1,305 @@
 {
   "updates": [
     {
+      "version": "0.0.1600",
+      "date": "2025-08-12",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #110",
+      "description": "Full patch notes for Update v0.0.1600 (#110), detailing all changes made on 12 August, 2025.",
+      "added": [
+        "\u00e2\u20ac\u02dcFuture & Vision\u00e2\u20ac\u2122 FAQ section with updated content",
+        "Notification popup for speculative countdown notice",
+        "Home-stats.json with initial statistics",
+        "MD files for Project CW Configurator",
+        "New repository support for daily commit fetcher tool"
+      ],
+      "changed": [
+        "Fun facts data fetching to be dynamic from JSON",
+        "Search engine data: added missing news and blog posts, updated playground pages and asset gallery data",
+        "GSC index data update",
+        "Daily commit log update",
+        "Fixed incorrect paths for \u00e2\u20ac\u02dcMeet the Team\u00e2\u20ac\u2122 blog post in search engine data"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Issue causing some statistics not to display correctly on tank pages"
+      ]
+    },
+    {
+      "version": "0.0.1588",
+      "date": "2025-08-11",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #109",
+      "description": "Full patch notes for Update v0.0.1588 (#109), detailing all changes made on 11 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1584",
+      "date": "2025-08-10",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #108",
+      "description": "Full patch notes for Update v0.0.1584 (#108), detailing all changes made on 10 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1580",
+      "date": "2025-08-09",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #107",
+      "description": "Full patch notes for Update v0.0.1580 (#107), detailing all changes made on 09 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1576",
+      "date": "2025-08-08",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #106",
+      "description": "Full patch notes for Update v0.0.1576 (#106), detailing all changes made on 08 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1572",
+      "date": "2025-08-07",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #105",
+      "description": "Full patch notes for Update v0.0.1572 (#105), detailing all changes made on 07 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1568",
+      "date": "2025-08-06",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #104",
+      "description": "Full patch notes for Update v0.0.1568 (#104), detailing all changes made on 06 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1564",
+      "date": "2025-08-05",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #103",
+      "description": "Full patch notes for Update v0.0.1564 (#103), detailing all changes made on 05 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1560",
+      "date": "2025-08-04",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #102",
+      "description": "Full patch notes for Update v0.0.1560 (#102), detailing all changes made on 04 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1556",
+      "date": "2025-08-03",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #101",
+      "description": "Full patch notes for Update v0.0.1556 (#101), detailing all changes made on 03 August, 2025.",
+      "added": [
+        "Configurator page easter egg",
+        "Easter egg video for configurator page"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Missing easter egg import on configurator page"
+      ]
+    },
+    {
+      "version": "0.0.1551",
+      "date": "2025-08-02",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #100",
+      "description": "Full patch notes for Update v0.0.1551 (#100), detailing all changes made on 02 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1547",
+      "date": "2025-08-01",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #99",
+      "description": "Full patch notes for Update v0.0.1547 (#99), detailing all changes made on 01 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Redesigned banner styles across pcwstats.github.io, Website-Changelog, Website-Statistics, and Website-Status"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Banner covering up the sidebar when open across pcwstats.github.io, Website-Changelog, Website-Statistics, and Website-Status",
+        "Hover issues on close button in the new banner design across pcwstats.github.io, Website-Changelog, Website-Statistics, and Website-Status",
+        "Misaligned slider in Configurator on pcwstats.github.io"
+      ]
+    },
+    {
+      "version": "0.0.1541",
+      "date": "2025-07-31",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #98",
+      "description": "Full patch notes for Update v0.0.1541 (#98), detailing all changes made on 31 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1537",
+      "date": "2025-07-30",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #97",
+      "description": "Full patch notes for Update v0.0.1537 (#97), detailing all changes made on 30 July, 2025.",
+      "added": [
+        "Configurator tool banner message in Website-Configs"
+      ],
+      "changed": [
+        "Config page with updated CSS",
+        "Logic in tournament loading",
+        "Banner module to avoid using JsDelivr CDN for data fetching",
+        "Tournament JSON with updated loading logic"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1530",
+      "date": "2025-07-29",
+      "author": "PCWStats Team",
+      "title": "PCWStats - Update Number #96",
+      "description": "Full patch notes for Update v0.0.1530 (#96), detailing all changes made on 29 July, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.0.1526",
       "date": "2025-07-28",
       "author": "PCWStats Team",
