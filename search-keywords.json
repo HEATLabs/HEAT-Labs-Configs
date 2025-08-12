@@ -72,6 +72,18 @@
     "keywords": ["legal", "policies", "terms", "privacy", "policy", "license"]
   },
   {
+    "name": "Playground",
+    "description": "Random tank selector for fun gameplay",
+    "path": "https://pcwstats.github.io/playground.html",
+    "keywords": ["roulette", "random", "selector", "fun", "game", "chooser"]
+  },
+  {
+    "name": "Alpha 3 Playtest",
+    "description": "Information about the Alpha 3 playtesting phase",
+    "path": "https://pcwstats.github.io/playground/alpha-3-playtest.html",
+    "keywords": ["tools", "playground", "testing"]
+  },
+  {
     "name": "Tank Roulette",
     "description": "Random tank selector for fun gameplay",
     "path": "https://pcwstats.github.io/playground/roulette.html",
@@ -82,6 +94,12 @@
     "description": "Create your own ranking for tanks, maps and agents",
     "path": "https://pcwstats.github.io/playground/tierlist.html",
     "keywords": ["tierlist", "ranking", "tier", "list"]
+  },
+  {
+    "name": "Game Configurator",
+    "description": "Customize your Project CW experience",
+    "path": "https://pcwstats.github.io/playground/configurator.html",
+    "keywords": ["config", "configurator", "gameplay"]
   },
   {
     "name": "Changelog",
@@ -1126,12 +1144,6 @@
     "description": "Tool for planning and sharing battle strategies",
     "path": "https://pcwstats.github.io/strategy-planner.html",
     "keywords": ["strategy", "planner", "tool", "plan", "tactics", "battle"]
-  },
-  {
-    "name": "Alpha 3 Playtest",
-    "description": "Information about the Alpha 3 playtesting phase",
-    "path": "https://pcwstats.github.io/playground/alpha-3-playtest.html",
-    "keywords": ["alpha 3", "playtest", "testing", "phase", "early access"]
   },
   {
     "name": "Damage Calculation Bug Hunting",
