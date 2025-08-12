@@ -4,7 +4,18 @@
     "[pcwstats.github.io] Fetch fun facts data dynamically from JSON",
     "[pcwstats.github.io] Add notification popup for speculative countdown notice",
     "[pcwstats.github.io] fixed issue causing some statistics not being correctly displayed on the tank pages",
-    "[Website-Configs] Add home-stats.json with initial statistics"
+    "[Website-Configs] added missing news post to search engine data",
+    "[Website-Configs] added missing blog post to search engine data",
+    "[Website-Configs] updated search engie data for playground pages",
+    "[Website-Configs] updated asset gallery search engine data",
+    "[Website-Configs] fixed incorrect paths for one meet the team blog post in search engine data",
+    "[Website-Configs] added missing maps in the search engine dataset",
+    "[Website-Configs] updated GSC index data",
+    "[Website-Configs] updated daily commit log",
+    "[Website-Configs] Add home-stats.json with initial statistics",
+    "[Database-Tools] updated daily commit fetcher tool with new repository",
+    "[Project-CW-Configurator] added MD files",
+    "[Project-CW-Configurator] Initial commit"
   ],
   "2025-08-03": [
     "[pcwstats.github.io] Added missing easter egg import on configurator page",
