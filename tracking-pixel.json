@@ -1985,6 +1985,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-configurator.png",
       "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-configurator.png",
       "html_title": "Game Configurator - PCWStats"
+    },
+    {
+      "page_name": "Game Configurator App",
+      "page_identifier": "configurator-app",
+      "html_file": "#",
+      "pixel_filename": "pcw-configurator-app.png",
+      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcw-configurator-app.png",
+      "html_title": "Game Configurator App"
     }
   ]
 }
