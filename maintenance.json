@@ -1,7 +1,7 @@
 {
-  "maintenance": false,
-  "message": "This is a test for the scheduled maintenance system. The site will be back online shortly.",
-  "estimated_downtime": "2 hours",
-  "start_time": "2025-06-21T14:00:00Z",
-  "end_time": "2025-06-21T16:00:00Z"
+  "maintenance": true,
+  "message": "We are working on rebranding as the game now has an official name. The site will be back online momentarily.",
+  "estimated_downtime": " 1 Week",
+  "start_time": "2025-08-19T21:00:00Z",
+  "end_time": "2025-08-26T21:00:00Z"
 }
