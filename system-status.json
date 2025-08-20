@@ -44,10 +44,16 @@
                     "status": "started",
                     "message": "Rebranding in progress. Website will be unavailable during this time.",
                     "time": "2025-08-19T21:05:18Z"
-                },{
+                },
+                {
                     "status": "maintenance",
                     "message": "Rebranding process is at approximately 80% as we approach the final checks and tests to all systems, all pages will remain unavailable.",
                     "time": "2025-08-20T05:08:45Z"
+                },
+                {
+                    "status": "maintenance",
+                    "message": "Rebranding process is now complete, all pages should be available now as we do our final checks.",
+                    "time": "2025-08-20T06:09:44Z"
                 }
             ]
         },
