@@ -2,36 +2,52 @@
     "systems": [
         {
             "name": "Website",
-            "status": "operational",
+            "status": "maintenance",
             "message": "The website is functioning normally with no reported issues."
         },
         {
             "name": "API Service",
-            "status": "operational",
+            "status": "maintenance",
             "message": "All API endpoints are responding normally."
         },
         {
             "name": "Database",
-            "status": "operational",
+            "status": "maintenance",
             "message": "Database queries are performing as expected."
         },
         {
             "name": "Data Processing",
-            "status": "operational",
+            "status": "maintenance",
             "message": "Data updates are processing normally."
         },
         {
             "name": "Authentication",
-            "status": "operational",
+            "status": "maintenance",
             "message": "Login and account services are working normally."
         },
         {
             "name": "CDN",
-            "status": "operational",
+            "status": "maintenance",
             "message": "Content delivery network is functioning optimally."
         }
     ],
     "incidents": [
+        {
+            "id": "inc-20250819-001",
+            "title": "World of Tanks: HEAT Rebranding",
+            "description": "We are in the process of rebranding as the game has received an official name. During this process the site and all pages will be unavailable. We thank you for your patience.",
+            "severity": "maintenance",
+            "start_time": "2025-08-19T21:00:00Z",
+            "end_time": "2025-08-21T21:00:00Z",
+            "status": "maintenance",
+            "updates": [
+                {
+                    "status": "started",
+                    "message": "Rebranding in progress. Website will be unavailable during this time.",
+                    "time": "2025-08-19T21:00:00Z"
+                }
+            ]
+        },
         {
             "id": "inc-20250609-001",
             "title": "Migration of Website Statistics, Changelog and Status Pages",
