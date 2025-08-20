@@ -1,1997 +1,1997 @@
 {
   "generated_at": "2025-07-29T01:32:23.089129",
-  "base_cdn_url": "https://pcwstats-pixel-api.vercel.app/api/track",
+  "base_cdn_url": "https://heatlabs-pixel-api.vercel.app/api/track",
   "pixels": [
     {
       "page_name": "Page Not Found",
       "page_identifier": "404",
       "html_file": "404.html",
-      "pixel_filename": "pcwstats-tracker-pixel-404.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-404.png",
-      "html_title": "Page Not Found - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-404.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-404.png",
+      "html_title": "Page Not Found - HEAT Labs"
     },
     {
       "page_name": "About the Project",
       "page_identifier": "about-us",
       "html_file": "resources/about-us.html",
-      "pixel_filename": "pcwstats-tracker-pixel-about-us.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-about-us.png",
-      "html_title": "About the Project - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-about-us.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-about-us.png",
+      "html_title": "About the Project - HEAT Labs"
     },
     {
       "page_name": "Official Blog",
       "page_identifier": "blog",
       "html_file": "blog.html",
-      "pixel_filename": "pcwstats-tracker-pixel-blog.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-blog.png",
-      "html_title": "Official Blog - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-blog.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-blog.png",
+      "html_title": "Official Blog - HEAT Labs"
     },
     {
       "page_name": "Bored Developers",
       "page_identifier": "bored-developers",
       "html_file": "easter-eggs/bored-developers.html",
-      "pixel_filename": "pcwstats-tracker-pixel-bored-developers.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-bored-developers.png",
-      "html_title": "Bored Developers - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-bored-developers.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-bored-developers.png",
+      "html_title": "Bored Developers - HEAT Labs"
     },
     {
       "page_name": "Bug Hunters",
       "page_identifier": "bug-hunting",
       "html_file": "bug-hunting.html",
-      "pixel_filename": "pcwstats-tracker-pixel-bug-hunting.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-bug-hunting.png",
-      "html_title": "Bug Hunters - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-bug-hunting.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-bug-hunting.png",
+      "html_title": "Bug Hunters - HEAT Labs"
     },
     {
       "page_name": "Common Builds",
       "page_identifier": "builds",
       "html_file": "builds.html",
-      "pixel_filename": "pcwstats-tracker-pixel-builds.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-builds.png",
-      "html_title": "Common Builds - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-builds.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-builds.png",
+      "html_title": "Common Builds - HEAT Labs"
     },
     {
       "page_name": "Changelog",
       "page_identifier": "changelog",
       "html_file": "Website-Changelog",
-      "pixel_filename": "pcwstats-tracker-pixel-changelog.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-changelog.png",
-      "html_title": "Changelog - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-changelog.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-changelog.png",
+      "html_title": "Changelog - HEAT Labs"
     },
     {
       "page_name": "Check & Compare",
       "page_identifier": "check-compare",
       "html_file": "check-compare.html",
-      "pixel_filename": "pcwstats-tracker-pixel-check-compare.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-check-compare.png",
-      "html_title": "Check & Compare - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-check-compare.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-check-compare.png",
+      "html_title": "Check & Compare - HEAT Labs"
     },
     {
       "page_name": "Contact Us",
       "page_identifier": "contact-us",
       "html_file": "resources/contact-us.html",
-      "pixel_filename": "pcwstats-tracker-pixel-contact-us.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-contact-us.png",
-      "html_title": "Contact Us - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-contact-us.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-contact-us.png",
+      "html_title": "Contact Us - HEAT Labs"
     },
     {
       "page_name": "Community Credits",
       "page_identifier": "credits",
       "html_file": "resources/credits.html",
-      "pixel_filename": "pcwstats-tracker-pixel-credits.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-credits.png",
-      "html_title": "Community Credits - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-credits.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-credits.png",
+      "html_title": "Community Credits - HEAT Labs"
     },
     {
       "page_name": "Devs Only",
       "page_identifier": "devsonly",
       "html_file": "easter-eggs/devsonly.html",
-      "pixel_filename": "pcwstats-tracker-pixel-devsonly.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-devsonly.png",
-      "html_title": "Devs Only - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-devsonly.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-devsonly.png",
+      "html_title": "Devs Only - HEAT Labs"
     },
     {
       "page_name": "Game Data",
       "page_identifier": "game-data",
       "html_file": "game-data.html",
-      "pixel_filename": "pcwstats-tracker-pixel-game-data.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-game-data.png",
-      "html_title": "Game Data - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-game-data.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-game-data.png",
+      "html_title": "Game Data - HEAT Labs"
     },
     {
       "page_name": "Get Involved",
       "page_identifier": "get-involved",
       "html_file": "resources/get-involved.html",
-      "pixel_filename": "pcwstats-tracker-pixel-get-involved.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-get-involved.png",
-      "html_title": "Get Involved - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-get-involved.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-get-involved.png",
+      "html_title": "Get Involved - HEAT Labs"
     },
     {
       "page_name": "Community Guides",
       "page_identifier": "guides",
       "html_file": "guides.html",
-      "pixel_filename": "pcwstats-tracker-pixel-guides.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-guides.png",
-      "html_title": "Community Guides - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-guides.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-guides.png",
+      "html_title": "Community Guides - HEAT Labs"
     },
     {
       "page_name": "Home",
       "page_identifier": "index",
       "html_file": "index.html",
-      "pixel_filename": "pcwstats-tracker-pixel-index.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-index.png",
-      "html_title": "Home - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-index.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-index.png",
+      "html_title": "Home - HEAT Labs"
     },
     {
       "page_name": "Project Policies",
       "page_identifier": "legal",
       "html_file": "legal.html",
-      "pixel_filename": "pcwstats-tracker-pixel-legal.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-legal.png",
-      "html_title": "Project Policies - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-legal.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-legal.png",
+      "html_title": "Project Policies - HEAT Labs"
     },
     {
       "page_name": "Map Knowledge",
       "page_identifier": "maps",
       "html_file": "maps.html",
-      "pixel_filename": "pcwstats-tracker-pixel-maps.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-maps.png",
-      "html_title": "Map Knowledge - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-maps.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-maps.png",
+      "html_title": "Map Knowledge - HEAT Labs"
     },
     {
       "page_name": "Game News",
       "page_identifier": "news",
       "html_file": "news.html",
-      "pixel_filename": "pcwstats-tracker-pixel-news.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-news.png",
-      "html_title": "Game News - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-news.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-news.png",
+      "html_title": "Game News - HEAT Labs"
     },
     {
       "page_name": "Tank Roulette",
       "page_identifier": "roulette",
       "html_file": "easter-eggs/roulette.html",
-      "pixel_filename": "pcwstats-tracker-pixel-roulette.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-roulette.png",
-      "html_title": "Tank Roulette - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-roulette.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-roulette.png",
+      "html_title": "Tank Roulette - HEAT Labs"
     },
     {
       "page_name": "Strategy Planner",
       "page_identifier": "strategy-planner",
       "html_file": "strategy-planner.html",
-      "pixel_filename": "pcwstats-tracker-pixel-strategy-planner.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-strategy-planner.png",
-      "html_title": "Strategy Planner - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-strategy-planner.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-strategy-planner.png",
+      "html_title": "Strategy Planner - HEAT Labs"
     },
     {
       "page_name": "Support Us",
       "page_identifier": "support-us",
       "html_file": "resources/support-us.html",
-      "pixel_filename": "pcwstats-tracker-pixel-support-us.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-support-us.png",
-      "html_title": "Support Us - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-support-us.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-support-us.png",
+      "html_title": "Support Us - HEAT Labs"
     },
     {
       "page_name": "Tankopedia",
       "page_identifier": "tankopedia",
       "html_file": "tankopedia.html",
-      "pixel_filename": "pcwstats-tracker-pixel-tankopedia.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tankopedia.png",
-      "html_title": "Tankopedia - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-tankopedia.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-tankopedia.png",
+      "html_title": "Tankopedia - HEAT Labs"
     },
     {
       "page_name": "Tank Statistics",
       "page_identifier": "tanks",
       "html_file": "tanks.html",
-      "pixel_filename": "pcwstats-tracker-pixel-tanks.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tanks.png",
-      "html_title": "Tank Statistics - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-tanks.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-tanks.png",
+      "html_title": "Tank Statistics - HEAT Labs"
     },
     {
       "page_name": "Tournaments",
       "page_identifier": "tournaments",
       "html_file": "tournaments.html",
-      "pixel_filename": "pcwstats-tracker-pixel-tournaments.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tournaments.png",
-      "html_title": "Tournaments - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-tournaments.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-tournaments.png",
+      "html_title": "Tournaments - HEAT Labs"
     },
     {
       "page_name": "Alpha 1 Announcement #1",
       "page_identifier": "alpha-1-announcement-1",
       "html_file": "announcements/alpha-1-announcement-1.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-announcement-1.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-announcement-1.png",
-      "html_title": "Alpha 1 Announcement #1 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-1-announcement-1.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-1-announcement-1.png",
+      "html_title": "Alpha 1 Announcement #1 - HEAT Labs"
     },
     {
       "page_name": "Alpha 1 Announcement #2",
       "page_identifier": "alpha-1-announcement-2",
       "html_file": "announcements/alpha-1-announcement-2.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-announcement-2.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-announcement-2.png",
-      "html_title": "Alpha 1 Announcement #2 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-1-announcement-2.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-1-announcement-2.png",
+      "html_title": "Alpha 1 Announcement #2 - HEAT Labs"
     },
     {
       "page_name": "Alpha 2 Facts & Figures",
       "page_identifier": "alpha-2-facts-figures",
       "html_file": "announcements/alpha-2-facts-figures.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-facts-figures.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-facts-figures.png",
-      "html_title": "Alpha 2 Facts & Figures - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-facts-figures.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-facts-figures.png",
+      "html_title": "Alpha 2 Facts & Figures - HEAT Labs"
     },
     {
       "page_name": "Alpha 2 Has Ended",
       "page_identifier": "alpha-2-has-ended",
       "html_file": "announcements/alpha-2-has-ended.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-has-ended.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-has-ended.png",
-      "html_title": "Alpha 2 Has Ended - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-has-ended.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-has-ended.png",
+      "html_title": "Alpha 2 Has Ended - HEAT Labs"
     },
     {
       "page_name": "Alpha 2 Live Stream",
       "page_identifier": "alpha-2-livestream",
       "html_file": "announcements/alpha-2-livestream.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-livestream.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-livestream.png",
-      "html_title": "Alpha 2 Live Stream - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-livestream.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-livestream.png",
+      "html_title": "Alpha 2 Live Stream - HEAT Labs"
     },
     {
       "page_name": "Alpha 2 Tournament",
       "page_identifier": "alpha-2-tournament",
       "html_file": "announcements/alpha-2-tournament.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-tournament.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-tournament.png",
-      "html_title": "Alpha 2 Tournament - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-tournament.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-tournament.png",
+      "html_title": "Alpha 2 Tournament - HEAT Labs"
     },
     {
       "page_name": "New Community Manger #2",
       "page_identifier": "jamess-introduction",
       "html_file": "announcements/jamess-introduction.html",
-      "pixel_filename": "pcwstats-tracker-pixel-jamess-introduction.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-jamess-introduction.png",
-      "html_title": "New Community Manger #2 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-jamess-introduction.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-jamess-introduction.png",
+      "html_title": "New Community Manger #2 - HEAT Labs"
     },
     {
       "page_name": "Last Day of Alpha 2",
       "page_identifier": "last-day-of-alpha-2",
       "html_file": "announcements/last-day-of-alpha-2.html",
-      "pixel_filename": "pcwstats-tracker-pixel-last-day-of-alpha-2.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-last-day-of-alpha-2.png",
-      "html_title": "Last Day of Alpha 2 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-last-day-of-alpha-2.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-last-day-of-alpha-2.png",
+      "html_title": "Last Day of Alpha 2 - HEAT Labs"
     },
     {
       "page_name": "Announcement Title",
       "page_identifier": "placeholder-announcement",
       "html_file": "announcements/placeholder-announcement.html",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-announcement.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-announcement.png",
-      "html_title": "Announcement Title - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-placeholder-announcement.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-placeholder-announcement.png",
+      "html_title": "Announcement Title - HEAT Labs"
     },
     {
       "page_name": "New Community Manger #1",
       "page_identifier": "voreksis-introduction",
       "html_file": "announcements/voreksis-introduction.html",
-      "pixel_filename": "pcwstats-tracker-pixel-voreksis-introduction.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-voreksis-introduction.png",
-      "html_title": "New Community Manger #1 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-voreksis-introduction.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-voreksis-introduction.png",
+      "html_title": "New Community Manger #1 - HEAT Labs"
     },
     {
       "page_name": "Winter Wargames Tournament #1",
       "page_identifier": "winter-wargames-tournament-1",
       "html_file": "announcements/winter-wargames-tournament-1.html",
-      "pixel_filename": "pcwstats-tracker-pixel-winter-wargames-tournament-1.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-winter-wargames-tournament-1.png",
-      "html_title": "Winter Wargames Tournament #1 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-winter-wargames-tournament-1.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-winter-wargames-tournament-1.png",
+      "html_title": "Winter Wargames Tournament #1 - HEAT Labs"
     },
     {
       "page_name": "Meet The Team: esmatty",
       "page_identifier": "meet-the-team-esmatty",
       "html_file": "blog/meet-the-team-esmatty.html",
-      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-esmatty.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-meet-the-team-esmatty.png",
-      "html_title": "Meet The Team: esmatty - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-meet-the-team-esmatty.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-meet-the-team-esmatty.png",
+      "html_title": "Meet The Team: esmatty - HEAT Labs"
     },
     {
       "page_name": "Meet The Team: SINEWAVE",
       "page_identifier": "meet-the-team-sinewave",
       "html_file": "blog/meet-the-team-sinewave.html",
-      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-sinewave.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-meet-the-team-sinewave.png",
-      "html_title": "Meet The Team: SINEWAVE - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-meet-the-team-sinewave.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-meet-the-team-sinewave.png",
+      "html_title": "Meet The Team: SINEWAVE - HEAT Labs"
     },
     {
       "page_name": "Meet The Team: Template",
       "page_identifier": "meet-the-team-template",
       "html_file": "blog/meet-the-team-template.html",
-      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-template.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-meet-the-team-template.png",
-      "html_title": "Meet The Team: Template - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-meet-the-team-template.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-meet-the-team-template.png",
+      "html_title": "Meet The Team: Template - HEAT Labs"
     },
     {
       "page_name": "Meet The Team: _VEN0M",
       "page_identifier": "meet-the-team-ven0m",
       "html_file": "blog/meet-the-team-ven0m.html",
-      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-ven0m.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-meet-the-team-ven0m.png",
-      "html_title": "Meet The Team: _VEN0M - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-meet-the-team-ven0m.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-meet-the-team-ven0m.png",
+      "html_title": "Meet The Team: _VEN0M - HEAT Labs"
     },
     {
       "page_name": "Blog Title",
       "page_identifier": "placeholder-blog-post",
       "html_file": "blog/placeholder-blog-post.html",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-blog-post.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-blog-post.png",
-      "html_title": "Blog Title - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-placeholder-blog-post.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-placeholder-blog-post.png",
+      "html_title": "Blog Title - HEAT Labs"
     },
     {
       "page_name": "New Feature: Tournaments",
       "page_identifier": "tournament-feature-blog",
       "html_file": "blog/tournament-feature-blog.html",
-      "pixel_filename": "pcwstats-tracker-pixel-tournament-feature-blog.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tournament-feature-blog.png",
-      "html_title": "New Feature: Tournaments - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-tournament-feature-blog.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-tournament-feature-blog.png",
+      "html_title": "New Feature: Tournaments - HEAT Labs"
     },
     {
       "page_name": "Bug Hunt Post",
       "page_identifier": "placeholder-bug-hunt",
       "html_file": "bug-hunting/placeholder-bug-hunt.html",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-bug-hunt.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-bug-hunt.png",
-      "html_title": "Bug Hunt Post - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-placeholder-bug-hunt.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-placeholder-bug-hunt.png",
+      "html_title": "Bug Hunt Post - HEAT Labs"
     },
     {
       "page_name": "General Guides",
       "page_identifier": "general-guides",
       "html_file": "guides/general-guides.html",
-      "pixel_filename": "pcwstats-tracker-pixel-general-guides.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-general-guides.png",
-      "html_title": "General Guides - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-general-guides.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-general-guides.png",
+      "html_title": "General Guides - HEAT Labs"
     },
     {
       "page_name": "Map Guides",
       "page_identifier": "map-guides",
       "html_file": "guides/map-guides.html",
-      "pixel_filename": "pcwstats-tracker-pixel-map-guides.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-map-guides.png",
-      "html_title": "Map Guides - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-map-guides.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-map-guides.png",
+      "html_title": "Map Guides - HEAT Labs"
     },
     {
       "page_name": "Tank Guides",
       "page_identifier": "tank-guides",
       "html_file": "guides/tank-guides.html",
-      "pixel_filename": "pcwstats-tracker-pixel-tank-guides.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tank-guides.png",
-      "html_title": "Tank Guides - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-tank-guides.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-tank-guides.png",
+      "html_title": "Tank Guides - HEAT Labs"
     },
     {
       "page_name": "Guide Title",
       "page_identifier": "placeholder-general-guide",
       "html_file": "guides/general-guides/placeholder-general-guide.html",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-general-guide.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-general-guide.png",
-      "html_title": "Guide Title - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-placeholder-general-guide.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-placeholder-general-guide.png",
+      "html_title": "Guide Title - HEAT Labs"
     },
     {
       "page_name": "Guide Title",
       "page_identifier": "placeholder-map-guide",
       "html_file": "guides/map-guides/placeholder-map-guide.html",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-map-guide.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-map-guide.png",
-      "html_title": "Guide Title - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-placeholder-map-guide.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-placeholder-map-guide.png",
+      "html_title": "Guide Title - HEAT Labs"
     },
     {
       "page_name": "BAT-4M Basic Guide",
       "page_identifier": "bat-4m-basic-guide",
       "html_file": "guides/tank-guides/bat-4m-basic-guide.html",
-      "pixel_filename": "pcwstats-tracker-pixel-bat-4m-basic-guide.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-bat-4m-basic-guide.png",
-      "html_title": "BAT-4M Basic Guide - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-bat-4m-basic-guide.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-bat-4m-basic-guide.png",
+      "html_title": "BAT-4M Basic Guide - HEAT Labs"
     },
     {
       "page_name": "Guide Title",
       "page_identifier": "placeholder-tank-guide",
       "html_file": "guides/tank-guides/placeholder-tank-guide.html",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-tank-guide.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-tank-guide.png",
-      "html_title": "Guide Title - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-placeholder-tank-guide.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-placeholder-tank-guide.png",
+      "html_title": "Guide Title - HEAT Labs"
     },
     {
       "page_name": "XM1-V Build Guide",
       "page_identifier": "xm1-v-build-guide",
       "html_file": "guides/tank-guides/xm1-v-build-guide.html",
-      "pixel_filename": "pcwstats-tracker-pixel-xm1-v-build-guide.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-xm1-v-build-guide.png",
-      "html_title": "XM1-V Build Guide - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-xm1-v-build-guide.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-xm1-v-build-guide.png",
+      "html_title": "XM1-V Build Guide - HEAT Labs"
     },
     {
       "page_name": "Code of Conduct",
       "page_identifier": "code-of-conduct",
       "html_file": "legal/code-of-conduct.html",
-      "pixel_filename": "pcwstats-tracker-pixel-code-of-conduct.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-code-of-conduct.png",
-      "html_title": "Code of Conduct - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-code-of-conduct.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-code-of-conduct.png",
+      "html_title": "Code of Conduct - HEAT Labs"
     },
     {
       "page_name": "Privacy Policy",
       "page_identifier": "privacy-policy",
       "html_file": "legal/privacy-policy.html",
-      "pixel_filename": "pcwstats-tracker-pixel-privacy-policy.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-privacy-policy.png",
-      "html_title": "Privacy Policy - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-privacy-policy.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-privacy-policy.png",
+      "html_title": "Privacy Policy - HEAT Labs"
     },
     {
       "page_name": "Project Contributions",
       "page_identifier": "project-contributions",
       "html_file": "legal/project-contributions.html",
-      "pixel_filename": "pcwstats-tracker-pixel-project-contributions.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-project-contributions.png",
-      "html_title": "Project Contributions - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-project-contributions.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-project-contributions.png",
+      "html_title": "Project Contributions - HEAT Labs"
     },
     {
       "page_name": "Project License",
       "page_identifier": "project-license",
       "html_file": "legal/project-license.html",
-      "pixel_filename": "pcwstats-tracker-pixel-project-license.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-project-license.png",
-      "html_title": "Project License - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-project-license.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-project-license.png",
+      "html_title": "Project License - HEAT Labs"
     },
     {
       "page_name": "Project Security",
       "page_identifier": "project-security",
       "html_file": "legal/project-security.html",
-      "pixel_filename": "pcwstats-tracker-pixel-project-security.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-project-security.png",
-      "html_title": "Project Security - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-project-security.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-project-security.png",
+      "html_title": "Project Security - HEAT Labs"
     },
     {
       "page_name": "Terms of Service",
       "page_identifier": "terms-of-service",
       "html_file": "legal/terms-of-service.html",
-      "pixel_filename": "pcwstats-tracker-pixel-terms-of-service.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-terms-of-service.png",
-      "html_title": "Terms of Service - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-terms-of-service.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-terms-of-service.png",
+      "html_title": "Terms of Service - HEAT Labs"
     },
     {
       "page_name": "Aircraft Carrier",
       "page_identifier": "aircraft-carrier",
       "html_file": "maps/aircraft-carrier.html",
-      "pixel_filename": "pcwstats-tracker-pixel-aircraft-carrier.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-aircraft-carrier.png",
-      "html_title": "Aircraft Carrier - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-aircraft-carrier.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-aircraft-carrier.png",
+      "html_title": "Aircraft Carrier - HEAT Labs"
     },
     {
       "page_name": "Baikonur",
       "page_identifier": "baikonur",
       "html_file": "maps/baikonur.html",
-      "pixel_filename": "pcwstats-tracker-pixel-baikonur.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-baikonur.png",
-      "html_title": "Baikonur - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-baikonur.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-baikonur.png",
+      "html_title": "Baikonur - HEAT Labs"
     },
     {
       "page_name": "Ballistic Range",
       "page_identifier": "ballistic-range",
       "html_file": "maps/ballistic-range.html",
-      "pixel_filename": "pcwstats-tracker-pixel-ballistic-range.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-ballistic-range.png",
-      "html_title": "Ballistic Range - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-ballistic-range.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-ballistic-range.png",
+      "html_title": "Ballistic Range - HEAT Labs"
     },
     {
       "page_name": "Blossom Crash",
       "page_identifier": "blossom-crash",
       "html_file": "maps/blossom-crash.html",
-      "pixel_filename": "pcwstats-tracker-pixel-blossom-crash.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-blossom-crash.png",
-      "html_title": "Blossom Crash - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-blossom-crash.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-blossom-crash.png",
+      "html_title": "Blossom Crash - HEAT Labs"
     },
     {
       "page_name": "Inferno",
       "page_identifier": "inferno",
       "html_file": "maps/inferno.html",
-      "pixel_filename": "pcwstats-tracker-pixel-inferno.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-inferno.png",
-      "html_title": "Inferno - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-inferno.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-inferno.png",
+      "html_title": "Inferno - HEAT Labs"
     },
     {
       "page_name": "Military Training",
       "page_identifier": "military-training",
       "html_file": "maps/military-training.html",
-      "pixel_filename": "pcwstats-tracker-pixel-military-training.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-military-training.png",
-      "html_title": "Military Training - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-military-training.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-military-training.png",
+      "html_title": "Military Training - HEAT Labs"
     },
     {
       "page_name": "Moonshot",
       "page_identifier": "moonshot",
       "html_file": "maps/moonshot.html",
-      "pixel_filename": "pcwstats-tracker-pixel-moonshot.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-moonshot.png",
-      "html_title": "Moonshot - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-moonshot.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-moonshot.png",
+      "html_title": "Moonshot - HEAT Labs"
     },
     {
       "page_name": "Nexus Dam",
       "page_identifier": "nexus-dam",
       "html_file": "maps/nexus-dam.html",
-      "pixel_filename": "pcwstats-tracker-pixel-nexus-dam.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-nexus-dam.png",
-      "html_title": "Nexus Dam - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-nexus-dam.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-nexus-dam.png",
+      "html_title": "Nexus Dam - HEAT Labs"
     },
     {
       "page_name": "Nord Oko",
       "page_identifier": "nord-oko",
       "html_file": "maps/nord-oko.html",
-      "pixel_filename": "pcwstats-tracker-pixel-nord-oko.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-nord-oko.png",
-      "html_title": "Nord Oko - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-nord-oko.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-nord-oko.png",
+      "html_title": "Nord Oko - HEAT Labs"
     },
     {
       "page_name": "Placeholder Map",
       "page_identifier": "placeholder-map",
       "html_file": "maps/placeholder-map.html",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-map.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-map.png",
-      "html_title": "Placeholder Map - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-placeholder-map.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-placeholder-map.png",
+      "html_title": "Placeholder Map - HEAT Labs"
     },
     {
       "page_name": "Project Phoenix",
       "page_identifier": "project-phoenix",
       "html_file": "maps/project-phoenix.html",
-      "pixel_filename": "pcwstats-tracker-pixel-project-phoenix.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-project-phoenix.png",
-      "html_title": "Project Phoenix - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-project-phoenix.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-project-phoenix.png",
+      "html_title": "Project Phoenix - HEAT Labs"
     },
     {
       "page_name": "Scarred City",
       "page_identifier": "scarred-city",
       "html_file": "maps/scarred-city.html",
-      "pixel_filename": "pcwstats-tracker-pixel-scarred-city.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-scarred-city.png",
-      "html_title": "Scarred City - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-scarred-city.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-scarred-city.png",
+      "html_title": "Scarred City - HEAT Labs"
     },
     {
       "page_name": "Sunstroke",
       "page_identifier": "sunstroke",
       "html_file": "maps/sunstroke.html",
-      "pixel_filename": "pcwstats-tracker-pixel-sunstroke.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-sunstroke.png",
-      "html_title": "Sunstroke - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-sunstroke.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-sunstroke.png",
+      "html_title": "Sunstroke - HEAT Labs"
     },
     {
       "page_name": "Akira Agent Spotlight",
       "page_identifier": "agent-spotlight-akira",
       "html_file": "news/agent-spotlight-akira.html",
-      "pixel_filename": "pcwstats-tracker-pixel-agent-spotlight-akira.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-agent-spotlight-akira.png",
-      "html_title": "Akira Agent Spotlight - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-agent-spotlight-akira.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-agent-spotlight-akira.png",
+      "html_title": "Akira Agent Spotlight - HEAT Labs"
     },
     {
       "page_name": "Fantome Agent Spotlight",
       "page_identifier": "agent-spotlight-fantome",
       "html_file": "news/agent-spotlight-fantome.html",
-      "pixel_filename": "pcwstats-tracker-pixel-agent-spotlight-fantome.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-agent-spotlight-fantome.png",
-      "html_title": "Fantome Agent Spotlight - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-agent-spotlight-fantome.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-agent-spotlight-fantome.png",
+      "html_title": "Fantome Agent Spotlight - HEAT Labs"
     },
     {
       "page_name": "Kent Agent Spotlight",
       "page_identifier": "agent-spotlight-kent",
       "html_file": "news/agent-spotlight-kent.html",
-      "pixel_filename": "pcwstats-tracker-pixel-agent-spotlight-kent.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-agent-spotlight-kent.png",
-      "html_title": "Kent Agent Spotlight - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-agent-spotlight-kent.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-agent-spotlight-kent.png",
+      "html_title": "Kent Agent Spotlight - HEAT Labs"
     },
     {
       "page_name": "1 Day to Go (Alpha 1)",
       "page_identifier": "alpha-1-1-day-to-go",
       "html_file": "news/alpha-1-1-day-to-go.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-1-day-to-go.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-1-day-to-go.png",
-      "html_title": "1 Day to Go (Alpha 1) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-1-1-day-to-go.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-1-1-day-to-go.png",
+      "html_title": "1 Day to Go (Alpha 1) - HEAT Labs"
     },
     {
       "page_name": "2 Days to Go (Alpha 1)",
       "page_identifier": "alpha-1-2-days-to-go",
       "html_file": "news/alpha-1-2-days-to-go.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-2-days-to-go.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-2-days-to-go.png",
-      "html_title": "2 Days to Go (Alpha 1) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-1-2-days-to-go.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-1-2-days-to-go.png",
+      "html_title": "2 Days to Go (Alpha 1) - HEAT Labs"
     },
     {
       "page_name": "3 Days to Go (Alpha 1)",
       "page_identifier": "alpha-1-3-days-to-go",
       "html_file": "news/alpha-1-3-days-to-go.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-3-days-to-go.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-3-days-to-go.png",
-      "html_title": "3 Days to Go (Alpha 1) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-1-3-days-to-go.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-1-3-days-to-go.png",
+      "html_title": "3 Days to Go (Alpha 1) - HEAT Labs"
     },
     {
       "page_name": "Alpha 1 Facts & Figures",
       "page_identifier": "alpha-1-facts-figures",
       "html_file": "news/alpha-1-facts-figures.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-facts-figures.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-facts-figures.png",
-      "html_title": "Alpha 1 Facts & Figures - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-1-facts-figures.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-1-facts-figures.png",
+      "html_title": "Alpha 1 Facts & Figures - HEAT Labs"
     },
     {
       "page_name": "Patch #10 Tournament Preparation & Improvements (Alpha 1)",
       "page_identifier": "alpha-1-patch-10-tournament-preparation-improvements",
       "html_file": "news/alpha-1-patch-10-tournament-preparation-improvements.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-10-tournament-preparation-improvements.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-10-tournament-preparation-improvements.png",
-      "html_title": "Patch #10 Tournament Preparation & Improvements (Alpha 1) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-1-patch-10-tournament-preparation-improvements.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-1-patch-10-tournament-preparation-improvements.png",
+      "html_title": "Patch #10 Tournament Preparation & Improvements (Alpha 1) - HEAT Labs"
     },
     {
       "page_name": "Patch #11 Post Tournament QoL Improvements (Alpha 1)",
       "page_identifier": "alpha-1-patch-11-post-tournament-qol-improvements",
       "html_file": "news/alpha-1-patch-11-post-tournament-qol-improvements.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-11-post-tournament-qol-improvements.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-11-post-tournament-qol-improvements.png",
-      "html_title": "Patch #11 Post Tournament QoL Improvements (Alpha 1) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-1-patch-11-post-tournament-qol-improvements.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-1-patch-11-post-tournament-qol-improvements.png",
+      "html_title": "Patch #11 Post Tournament QoL Improvements (Alpha 1) - HEAT Labs"
     },
     {
       "page_name": "Patch #3 Quick Match Updates (Alpha 1)",
       "page_identifier": "alpha-1-patch-3-quick-match-updates",
       "html_file": "news/alpha-1-patch-3-quick-match-updates.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-3-quick-match-updates.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-3-quick-match-updates.png",
-      "html_title": "Patch #3 Quick Match Updates (Alpha 1) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-1-patch-3-quick-match-updates.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-1-patch-3-quick-match-updates.png",
+      "html_title": "Patch #3 Quick Match Updates (Alpha 1) - HEAT Labs"
     },
     {
       "page_name": "Patch #4 Quality of Life (Alpha 1)",
       "page_identifier": "alpha-1-patch-4-quality-of-life",
       "html_file": "news/alpha-1-patch-4-quality-of-life.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-4-quality-of-life.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-4-quality-of-life.png",
-      "html_title": "Patch #4 Quality of Life (Alpha 1) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-1-patch-4-quality-of-life.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-1-patch-4-quality-of-life.png",
+      "html_title": "Patch #4 Quality of Life (Alpha 1) - HEAT Labs"
     },
     {
       "page_name": "Patch #5 Fantôme Updates (Alpha 1)",
       "page_identifier": "alpha-1-patch-5-fantome-updates",
       "html_file": "news/alpha-1-patch-5-fantome-updates.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-5-fantome-updates.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-5-fantome-updates.png",
-      "html_title": "Patch #5 Fantôme Updates (Alpha 1) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-1-patch-5-fantome-updates.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-1-patch-5-fantome-updates.png",
+      "html_title": "Patch #5 Fantôme Updates (Alpha 1) - HEAT Labs"
     },
     {
       "page_name": "Patch #6 Ray Updates (Alpha 1)",
       "page_identifier": "alpha-1-patch-6-ray-updates",
       "html_file": "news/alpha-1-patch-6-ray-updates.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-6-ray-updates.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-6-ray-updates.png",
-      "html_title": "Patch #6 Ray Updates (Alpha 1) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-1-patch-6-ray-updates.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-1-patch-6-ray-updates.png",
+      "html_title": "Patch #6 Ray Updates (Alpha 1) - HEAT Labs"
     },
     {
       "page_name": "Patch #7 Raketa Updates (Alpha 1)",
       "page_identifier": "alpha-1-patch-7-raketa-updates",
       "html_file": "news/alpha-1-patch-7-raketa-updates.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-7-raketa-updates.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-7-raketa-updates.png",
-      "html_title": "Patch #7 Raketa Updates (Alpha 1) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-1-patch-7-raketa-updates.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-1-patch-7-raketa-updates.png",
+      "html_title": "Patch #7 Raketa Updates (Alpha 1) - HEAT Labs"
     },
     {
       "page_name": "Patch #8 Akira Updates (Alpha 1)",
       "page_identifier": "alpha-1-patch-8-akira-updates",
       "html_file": "news/alpha-1-patch-8-akira-updates.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-8-akira-updates.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-8-akira-updates.png",
-      "html_title": "Patch #8 Akira Updates (Alpha 1) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-1-patch-8-akira-updates.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-1-patch-8-akira-updates.png",
+      "html_title": "Patch #8 Akira Updates (Alpha 1) - HEAT Labs"
     },
     {
       "page_name": "Patch #8 Delayed (Alpha 1)",
       "page_identifier": "alpha-1-patch-8-delayed",
       "html_file": "news/alpha-1-patch-8-delayed.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-8-delayed.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-8-delayed.png",
-      "html_title": "Patch #8 Delayed (Alpha 1) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-1-patch-8-delayed.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-1-patch-8-delayed.png",
+      "html_title": "Patch #8 Delayed (Alpha 1) - HEAT Labs"
     },
     {
       "page_name": "Patch #9 HSTV-L Updates (Alpha 1)",
       "page_identifier": "alpha-1-patch-9-hstvl-updates",
       "html_file": "news/alpha-1-patch-9-hstvl-updates.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-patch-9-hstvl-updates.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-patch-9-hstvl-updates.png",
-      "html_title": "Patch #9 HSTV-L Updates (Alpha 1) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-1-patch-9-hstvl-updates.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-1-patch-9-hstvl-updates.png",
+      "html_title": "Patch #9 HSTV-L Updates (Alpha 1) - HEAT Labs"
     },
     {
       "page_name": "Valentine's Day (Alpha 1)",
       "page_identifier": "alpha-1-valentines-day",
       "html_file": "news/alpha-1-valentines-day.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-1-valentines-day.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-1-valentines-day.png",
-      "html_title": "Valentine's Day (Alpha 1) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-1-valentines-day.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-1-valentines-day.png",
+      "html_title": "Valentine's Day (Alpha 1) - HEAT Labs"
     },
     {
       "page_name": "1 Day to Go (Alpha 2)",
       "page_identifier": "alpha-2-1-day-to-go",
       "html_file": "news/alpha-2-1-day-to-go.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-1-day-to-go.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-1-day-to-go.png",
-      "html_title": "1 Day to Go (Alpha 2) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-1-day-to-go.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-1-day-to-go.png",
+      "html_title": "1 Day to Go (Alpha 2) - HEAT Labs"
     },
     {
       "page_name": "2 Days to Go (Alpha 2)",
       "page_identifier": "alpha-2-2-days-to-go",
       "html_file": "news/alpha-2-2-days-to-go.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-2-days-to-go.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-2-days-to-go.png",
-      "html_title": "2 Days to Go (Alpha 2) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-2-days-to-go.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-2-days-to-go.png",
+      "html_title": "2 Days to Go (Alpha 2) - HEAT Labs"
     },
     {
       "page_name": "3 Days to Go (Alpha 2)",
       "page_identifier": "alpha-2-3-days-to-go",
       "html_file": "news/alpha-2-3-days-to-go.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-3-days-to-go.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-3-days-to-go.png",
-      "html_title": "3 Days to Go (Alpha 2) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-3-days-to-go.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-3-days-to-go.png",
+      "html_title": "3 Days to Go (Alpha 2) - HEAT Labs"
     },
     {
       "page_name": "Patch #1 The First Patch (Alpha 2)",
       "page_identifier": "alpha-2-patch-1-first-patch",
       "html_file": "news/alpha-2-patch-1-first-patch.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-1-first-patch.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-1-first-patch.png",
-      "html_title": "Patch #1 The First Patch (Alpha 2) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-patch-1-first-patch.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-patch-1-first-patch.png",
+      "html_title": "Patch #1 The First Patch (Alpha 2) - HEAT Labs"
     },
     {
       "page_name": "Patch #2 Client Server Update (Alpha 2)",
       "page_identifier": "alpha-2-patch-2-client-server-update",
       "html_file": "news/alpha-2-patch-2-client-server-update.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-2-client-server-update.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-2-client-server-update.png",
-      "html_title": "Patch #2 Client Server Update (Alpha 2) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-patch-2-client-server-update.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-patch-2-client-server-update.png",
+      "html_title": "Patch #2 Client Server Update (Alpha 2) - HEAT Labs"
     },
     {
       "page_name": "Patch #3 Hounds Become the Hunted (Alpha 2)",
       "page_identifier": "alpha-2-patch-3-hounds-become-the-hunted",
       "html_file": "news/alpha-2-patch-3-hounds-become-the-hunted.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-3-hounds-become-the-hunted.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-3-hounds-become-the-hunted.png",
-      "html_title": "Patch #3 Hounds Become the Hunted (Alpha 2) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-patch-3-hounds-become-the-hunted.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-patch-3-hounds-become-the-hunted.png",
+      "html_title": "Patch #3 Hounds Become the Hunted (Alpha 2) - HEAT Labs"
     },
     {
       "page_name": "Patch #4 Balance Improvements (Alpha 2)",
       "page_identifier": "alpha-2-patch-4-balance-improvements",
       "html_file": "news/alpha-2-patch-4-balance-improvements.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-4-balance-improvements.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-4-balance-improvements.png",
-      "html_title": "Patch #4 Balance Improvements (Alpha 2) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-patch-4-balance-improvements.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-patch-4-balance-improvements.png",
+      "html_title": "Patch #4 Balance Improvements (Alpha 2) - HEAT Labs"
     },
     {
       "page_name": "Patch #5 Small Improvements (Alpha 2)",
       "page_identifier": "alpha-2-patch-5-small-improvements",
       "html_file": "news/alpha-2-patch-5-small-improvements.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-5-small-improvements.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-5-small-improvements.png",
-      "html_title": "Patch #5 Small Improvements (Alpha 2) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-patch-5-small-improvements.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-patch-5-small-improvements.png",
+      "html_title": "Patch #5 Small Improvements (Alpha 2) - HEAT Labs"
     },
     {
       "page_name": "Patch #6 Important Changes (Alpha 2)",
       "page_identifier": "alpha-2-patch-6-important-changes",
       "html_file": "news/alpha-2-patch-6-important-changes.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-6-important-changes.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-6-important-changes.png",
-      "html_title": "Patch #6 Important Changes (Alpha 2) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-patch-6-important-changes.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-patch-6-important-changes.png",
+      "html_title": "Patch #6 Important Changes (Alpha 2) - HEAT Labs"
     },
     {
       "page_name": "Patch #7 M3A1 Bradley is Here (Alpha 2)",
       "page_identifier": "alpha-2-patch-7-bradley-is-here",
       "html_file": "news/alpha-2-patch-7-bradley-is-here.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-7-bradley-is-here.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-7-bradley-is-here.png",
-      "html_title": "Patch #7 M3A1 Bradley is Here (Alpha 2) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-patch-7-bradley-is-here.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-patch-7-bradley-is-here.png",
+      "html_title": "Patch #7 M3A1 Bradley is Here (Alpha 2) - HEAT Labs"
     },
     {
       "page_name": "Patch #8 Balancing Changes (Alpha 2)",
       "page_identifier": "alpha-2-patch-8-balancing-changes",
       "html_file": "news/alpha-2-patch-8-balancing-changes.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-8-balancing-changes.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-8-balancing-changes.png",
-      "html_title": "Patch #8 Balancing Changes (Alpha 2) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-patch-8-balancing-changes.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-patch-8-balancing-changes.png",
+      "html_title": "Patch #8 Balancing Changes (Alpha 2) - HEAT Labs"
     },
     {
       "page_name": "Patch #9 Balancing Tweaks (Alpha 2)",
       "page_identifier": "alpha-2-patch-9-balancing-tweaks",
       "html_file": "news/alpha-2-patch-9-balancing-tweaks.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-patch-9-balancing-tweaks.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-patch-9-balancing-tweaks.png",
-      "html_title": "Patch #9 Balancing Tweaks (Alpha 2) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-patch-9-balancing-tweaks.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-patch-9-balancing-tweaks.png",
+      "html_title": "Patch #9 Balancing Tweaks (Alpha 2) - HEAT Labs"
     },
     {
       "page_name": "Valentine's Day (Alpha 2)",
       "page_identifier": "alpha-2-valentines-day",
       "html_file": "news/alpha-2-valentines-day.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-valentines-day.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-valentines-day.png",
-      "html_title": "Valentine's Day (Alpha 2) - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-valentines-day.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-valentines-day.png",
+      "html_title": "Valentine's Day (Alpha 2) - HEAT Labs"
     },
     {
       "page_name": "Balanced and Reworked Maps",
       "page_identifier": "balanced-and-reworked-maps",
       "html_file": "news/balanced-and-reworked-maps.html",
-      "pixel_filename": "pcwstats-tracker-pixel-balanced-and-reworked-maps.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-balanced-and-reworked-maps.png",
-      "html_title": "Balanced and Reworked Maps - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-balanced-and-reworked-maps.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-balanced-and-reworked-maps.png",
+      "html_title": "Balanced and Reworked Maps - HEAT Labs"
     },
     {
       "page_name": "Beirut Concept Art",
       "page_identifier": "beirut-concept-art",
       "html_file": "news/beirut-concept-art.html",
-      "pixel_filename": "pcwstats-tracker-pixel-beirut-concept-art.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-beirut-concept-art.png",
-      "html_title": "Beirut Concept Art - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-beirut-concept-art.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-beirut-concept-art.png",
+      "html_title": "Beirut Concept Art - HEAT Labs"
     },
     {
       "page_name": "Blossom Crash Concept Art #1",
       "page_identifier": "blossom-crash-concept-art-1",
       "html_file": "news/blossom-crash-concept-art-1.html",
-      "pixel_filename": "pcwstats-tracker-pixel-blossom-crash-concept-art-1.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-blossom-crash-concept-art-1.png",
-      "html_title": "Blossom Crash Concept Art #1 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-blossom-crash-concept-art-1.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-blossom-crash-concept-art-1.png",
+      "html_title": "Blossom Crash Concept Art #1 - HEAT Labs"
     },
     {
       "page_name": "Blossom Crash Concept Art #2",
       "page_identifier": "blossom-crash-concept-art-2",
       "html_file": "news/blossom-crash-concept-art-2.html",
-      "pixel_filename": "pcwstats-tracker-pixel-blossom-crash-concept-art-2.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-blossom-crash-concept-art-2.png",
-      "html_title": "Blossom Crash Concept Art #2 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-blossom-crash-concept-art-2.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-blossom-crash-concept-art-2.png",
+      "html_title": "Blossom Crash Concept Art #2 - HEAT Labs"
     },
     {
       "page_name": "Community Managers Reintroduction",
       "page_identifier": "community-managers-reintroduction",
       "html_file": "news/community-managers-reintroduction.html",
-      "pixel_filename": "pcwstats-tracker-pixel-community-managers-reintroduction.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-community-managers-reintroduction.png",
-      "html_title": "Community Managers Reintroduction - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-community-managers-reintroduction.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-community-managers-reintroduction.png",
+      "html_title": "Community Managers Reintroduction - HEAT Labs"
     },
     {
       "page_name": "Concept Art #1",
       "page_identifier": "concept-art-1",
       "html_file": "news/concept-art-1.html",
-      "pixel_filename": "pcwstats-tracker-pixel-concept-art-1.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-concept-art-1.png",
-      "html_title": "Concept Art #1 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-concept-art-1.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-concept-art-1.png",
+      "html_title": "Concept Art #1 - HEAT Labs"
     },
     {
       "page_name": "Concept Art #2",
       "page_identifier": "concept-art-2",
       "html_file": "news/concept-art-2.html",
-      "pixel_filename": "pcwstats-tracker-pixel-concept-art-2.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-concept-art-2.png",
-      "html_title": "Concept Art #2 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-concept-art-2.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-concept-art-2.png",
+      "html_title": "Concept Art #2 - HEAT Labs"
     },
     {
       "page_name": "Content Creator Impressions",
       "page_identifier": "content-creator-impressions",
       "html_file": "news/content-creator-impressions.html",
-      "pixel_filename": "pcwstats-tracker-pixel-content-creator-impressions.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-content-creator-impressions.png",
-      "html_title": "Content Creator Impressions - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-content-creator-impressions.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-content-creator-impressions.png",
+      "html_title": "Content Creator Impressions - HEAT Labs"
     },
     {
       "page_name": "Desktop & Mobile Backgrounds",
       "page_identifier": "desktop-mobile-backgrounds",
       "html_file": "news/desktop-mobile-backgrounds.html",
-      "pixel_filename": "pcwstats-tracker-pixel-desktop-mobile-backgrounds.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-desktop-mobile-backgrounds.png",
-      "html_title": "Desktop & Mobile Backgrounds - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-desktop-mobile-backgrounds.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-desktop-mobile-backgrounds.png",
+      "html_title": "Desktop & Mobile Backgrounds - HEAT Labs"
     },
     {
       "page_name": "Design Developer Q&A",
       "page_identifier": "dev-questions-answers-design",
       "html_file": "news/dev-questions-answers-design.html",
-      "pixel_filename": "pcwstats-tracker-pixel-dev-questions-answers-design.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-dev-questions-answers-design.png",
-      "html_title": "Design Developer Q&A - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-dev-questions-answers-design.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-dev-questions-answers-design.png",
+      "html_title": "Design Developer Q&A - HEAT Labs"
     },
     {
       "page_name": "Narrative Design Developer Q&A",
       "page_identifier": "dev-questions-answers-narrative",
       "html_file": "news/dev-questions-answers-narrative.html",
-      "pixel_filename": "pcwstats-tracker-pixel-dev-questions-answers-narrative.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-dev-questions-answers-narrative.png",
-      "html_title": "Narrative Design Developer Q&A - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-dev-questions-answers-narrative.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-dev-questions-answers-narrative.png",
+      "html_title": "Narrative Design Developer Q&A - HEAT Labs"
     },
     {
       "page_name": "Friendship Dam Concept Art #1",
       "page_identifier": "friendship-dam-concept-art-1",
       "html_file": "news/friendship-dam-concept-art-1.html",
-      "pixel_filename": "pcwstats-tracker-pixel-friendship-dam-concept-art-1.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-friendship-dam-concept-art-1.png",
-      "html_title": "Friendship Dam Concept Art #1 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-friendship-dam-concept-art-1.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-friendship-dam-concept-art-1.png",
+      "html_title": "Friendship Dam Concept Art #1 - HEAT Labs"
     },
     {
       "page_name": "Friendship Dam Sneak Peek #1",
       "page_identifier": "friendship-dam-sneak-peek-1",
       "html_file": "news/friendship-dam-sneak-peek-1.html",
-      "pixel_filename": "pcwstats-tracker-pixel-friendship-dam-sneak-peek-1.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-friendship-dam-sneak-peek-1.png",
-      "html_title": "Friendship Dam Sneak Peek #1 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-friendship-dam-sneak-peek-1.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-friendship-dam-sneak-peek-1.png",
+      "html_title": "Friendship Dam Sneak Peek #1 - HEAT Labs"
     },
     {
       "page_name": "Friendship Dam Sneak Peek #2",
       "page_identifier": "friendship-dam-sneak-peek-2",
       "html_file": "news/friendship-dam-sneak-peek-2.html",
-      "pixel_filename": "pcwstats-tracker-pixel-friendship-dam-sneak-peek-2.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-friendship-dam-sneak-peek-2.png",
-      "html_title": "Friendship Dam Sneak Peek #2 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-friendship-dam-sneak-peek-2.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-friendship-dam-sneak-peek-2.png",
+      "html_title": "Friendship Dam Sneak Peek #2 - HEAT Labs"
     },
     {
       "page_name": "Gun Dispersion Changes",
       "page_identifier": "gun-dispersion-changes",
       "html_file": "news/gun-dispersion-changes.html",
-      "pixel_filename": "pcwstats-tracker-pixel-gun-dispersion-changes.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-gun-dispersion-changes.png",
-      "html_title": "Gun Dispersion Changes - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-gun-dispersion-changes.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-gun-dispersion-changes.png",
+      "html_title": "Gun Dispersion Changes - HEAT Labs"
     },
     {
       "page_name": "Happy Tanksgiving",
       "page_identifier": "happy-tanksgiving",
       "html_file": "news/happy-tanksgiving.html",
-      "pixel_filename": "pcwstats-tracker-pixel-happy-tanksgiving.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-happy-tanksgiving.png",
-      "html_title": "Happy Tanksgiving - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-happy-tanksgiving.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-happy-tanksgiving.png",
+      "html_title": "Happy Tanksgiving - HEAT Labs"
     },
     {
       "page_name": "Hit-box Monday #1",
       "page_identifier": "hitbox-monday-1",
       "html_file": "news/hitbox-monday-1.html",
-      "pixel_filename": "pcwstats-tracker-pixel-hitbox-monday-1.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hitbox-monday-1.png",
-      "html_title": "Hit-box Monday #1 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-hitbox-monday-1.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-hitbox-monday-1.png",
+      "html_title": "Hit-box Monday #1 - HEAT Labs"
     },
     {
       "page_name": "Hit-box Monday #2",
       "page_identifier": "hitbox-monday-2",
       "html_file": "news/hitbox-monday-2.html",
-      "pixel_filename": "pcwstats-tracker-pixel-hitbox-monday-2.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hitbox-monday-2.png",
-      "html_title": "Hit-box Monday #2 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-hitbox-monday-2.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-hitbox-monday-2.png",
+      "html_title": "Hit-box Monday #2 - HEAT Labs"
     },
     {
       "page_name": "Hit-box Monday #3",
       "page_identifier": "hitbox-monday-3",
       "html_file": "news/hitbox-monday-3.html",
-      "pixel_filename": "pcwstats-tracker-pixel-hitbox-monday-3.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hitbox-monday-3.png",
-      "html_title": "Hit-box Monday #3 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-hitbox-monday-3.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-hitbox-monday-3.png",
+      "html_title": "Hit-box Monday #3 - HEAT Labs"
     },
     {
       "page_name": "Hit-box Monday #4",
       "page_identifier": "hitbox-monday-4",
       "html_file": "news/hitbox-monday-4.html",
-      "pixel_filename": "pcwstats-tracker-pixel-hitbox-monday-4.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hitbox-monday-4.png",
-      "html_title": "Hit-box Monday #4 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-hitbox-monday-4.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-hitbox-monday-4.png",
+      "html_title": "Hit-box Monday #4 - HEAT Labs"
     },
     {
       "page_name": "Hit-box Monday #5",
       "page_identifier": "hitbox-monday-5",
       "html_file": "news/hitbox-monday-5.html",
-      "pixel_filename": "pcwstats-tracker-pixel-hitbox-monday-5.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hitbox-monday-5.png",
-      "html_title": "Hit-box Monday #5 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-hitbox-monday-5.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-hitbox-monday-5.png",
+      "html_title": "Hit-box Monday #5 - HEAT Labs"
     },
     {
       "page_name": "Jäger's Wall Bug",
       "page_identifier": "jager-wall-bug",
       "html_file": "news/jager-wall-bug.html",
-      "pixel_filename": "pcwstats-tracker-pixel-jager-wall-bug.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-jager-wall-bug.png",
-      "html_title": "Jäger's Wall Bug - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-jager-wall-bug.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-jager-wall-bug.png",
+      "html_title": "Jäger's Wall Bug - HEAT Labs"
     },
     {
       "page_name": "Map Monday #1",
       "page_identifier": "map-monday-1",
       "html_file": "news/map-monday-1.html",
-      "pixel_filename": "pcwstats-tracker-pixel-map-monday-1.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-map-monday-1.png",
-      "html_title": "Map Monday #1 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-map-monday-1.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-map-monday-1.png",
+      "html_title": "Map Monday #1 - HEAT Labs"
     },
     {
       "page_name": "Map Monday #2",
       "page_identifier": "map-monday-2",
       "html_file": "news/map-monday-2.html",
-      "pixel_filename": "pcwstats-tracker-pixel-map-monday-2.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-map-monday-2.png",
-      "html_title": "Map Monday #2 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-map-monday-2.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-map-monday-2.png",
+      "html_title": "Map Monday #2 - HEAT Labs"
     },
     {
       "page_name": "Map Monday #3",
       "page_identifier": "map-monday-3",
       "html_file": "news/map-monday-3.html",
-      "pixel_filename": "pcwstats-tracker-pixel-map-monday-3.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-map-monday-3.png",
-      "html_title": "Map Monday #3 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-map-monday-3.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-map-monday-3.png",
+      "html_title": "Map Monday #3 - HEAT Labs"
     },
     {
       "page_name": "Map Monday #4",
       "page_identifier": "map-monday-4",
       "html_file": "news/map-monday-4.html",
-      "pixel_filename": "pcwstats-tracker-pixel-map-monday-4.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-map-monday-4.png",
-      "html_title": "Map Monday #4 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-map-monday-4.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-map-monday-4.png",
+      "html_title": "Map Monday #4 - HEAT Labs"
     },
     {
       "page_name": "Map Monday #5",
       "page_identifier": "map-monday-5",
       "html_file": "news/map-monday-5.html",
-      "pixel_filename": "pcwstats-tracker-pixel-map-monday-5.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-map-monday-5.png",
-      "html_title": "Map Monday #5 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-map-monday-5.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-map-monday-5.png",
+      "html_title": "Map Monday #5 - HEAT Labs"
     },
     {
       "page_name": "Medals Explained",
       "page_identifier": "medals-explained",
       "html_file": "news/medals-explained.html",
-      "pixel_filename": "pcwstats-tracker-pixel-medals-explained.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-medals-explained.png",
-      "html_title": "Medals Explained - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-medals-explained.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-medals-explained.png",
+      "html_title": "Medals Explained - HEAT Labs"
     },
     {
       "page_name": "New Agents #1",
       "page_identifier": "new-agents-1",
       "html_file": "news/new-agents-1.html",
-      "pixel_filename": "pcwstats-tracker-pixel-new-agents-1.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-new-agents-1.png",
-      "html_title": "New Agents #1 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-new-agents-1.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-new-agents-1.png",
+      "html_title": "New Agents #1 - HEAT Labs"
     },
     {
       "page_name": "New Agents #2",
       "page_identifier": "new-agents-2",
       "html_file": "news/new-agents-2.html",
-      "pixel_filename": "pcwstats-tracker-pixel-new-agents-2.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-new-agents-2.png",
-      "html_title": "New Agents #2 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-new-agents-2.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-new-agents-2.png",
+      "html_title": "New Agents #2 - HEAT Labs"
     },
     {
       "page_name": "New Agents #3",
       "page_identifier": "new-agents-3",
       "html_file": "news/new-agents-3.html",
-      "pixel_filename": "pcwstats-tracker-pixel-new-agents-3.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-new-agents-3.png",
-      "html_title": "New Agents #3 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-new-agents-3.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-new-agents-3.png",
+      "html_title": "New Agents #3 - HEAT Labs"
     },
     {
       "page_name": "Nord Oko Concept Art #1",
       "page_identifier": "nord-oko-concept-art-1",
       "html_file": "news/nord-oko-concept-art-1.html",
-      "pixel_filename": "pcwstats-tracker-pixel-nord-oko-concept-art-1.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-nord-oko-concept-art-1.png",
-      "html_title": "Nord Oko Concept Art #1 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-nord-oko-concept-art-1.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-nord-oko-concept-art-1.png",
+      "html_title": "Nord Oko Concept Art #1 - HEAT Labs"
     },
     {
       "page_name": "Nord Oko Concept Art #2",
       "page_identifier": "nord-oko-concept-art-2",
       "html_file": "news/nord-oko-concept-art-2.html",
-      "pixel_filename": "pcwstats-tracker-pixel-nord-oko-concept-art-2.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-nord-oko-concept-art-2.png",
-      "html_title": "Nord Oko Concept Art #2 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-nord-oko-concept-art-2.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-nord-oko-concept-art-2.png",
+      "html_title": "Nord Oko Concept Art #2 - HEAT Labs"
     },
     {
       "page_name": "Nord Oko Concept Art #3",
       "page_identifier": "nord-oko-concept-art-3",
       "html_file": "news/nord-oko-concept-art-3.html",
-      "pixel_filename": "pcwstats-tracker-pixel-nord-oko-concept-art-3.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-nord-oko-concept-art-3.png",
-      "html_title": "Nord Oko Concept Art #3 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-nord-oko-concept-art-3.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-nord-oko-concept-art-3.png",
+      "html_title": "Nord Oko Concept Art #3 - HEAT Labs"
     },
     {
       "page_name": "News Title",
       "page_identifier": "placeholder-news",
       "html_file": "news/placeholder-news.html",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-news.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-news.png",
-      "html_title": "News Title - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-placeholder-news.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-placeholder-news.png",
+      "html_title": "News Title - HEAT Labs"
     },
     {
       "page_name": "Plant/Defuse Game Mode",
       "page_identifier": "plant-defuse-mode",
       "html_file": "news/plant-defuse-mode.html",
-      "pixel_filename": "pcwstats-tracker-pixel-plant-defuse-mode.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-plant-defuse-mode.png",
-      "html_title": "Plant/Defuse Game Mode - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-plant-defuse-mode.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-plant-defuse-mode.png",
+      "html_title": "Plant/Defuse Game Mode - HEAT Labs"
     },
     {
       "page_name": "Progression and Social Changes",
       "page_identifier": "progression-and-social-changes",
       "html_file": "news/progression-and-social-changes.html",
-      "pixel_filename": "pcwstats-tracker-pixel-progression-and-social-changes.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-progression-and-social-changes.png",
-      "html_title": "Progression and Social Changes - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-progression-and-social-changes.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-progression-and-social-changes.png",
+      "html_title": "Progression and Social Changes - HEAT Labs"
     },
     {
       "page_name": "Project CW Debrief #1",
       "page_identifier": "project-cw-debrief-1",
       "html_file": "news/project-cw-debrief-1.html",
-      "pixel_filename": "pcwstats-tracker-pixel-project-cw-debrief-1.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-project-cw-debrief-1.png",
-      "html_title": "Project CW Debrief #1 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-project-cw-debrief-1.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-project-cw-debrief-1.png",
+      "html_title": "Project CW Debrief #1 - HEAT Labs"
     },
     {
       "page_name": "Project CW Debrief #2",
       "page_identifier": "project-cw-debrief-2",
       "html_file": "news/project-cw-debrief-2.html",
-      "pixel_filename": "pcwstats-tracker-pixel-project-cw-debrief-2.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-project-cw-debrief-2.png",
-      "html_title": "Project CW Debrief #2 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-project-cw-debrief-2.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-project-cw-debrief-2.png",
+      "html_title": "Project CW Debrief #2 - HEAT Labs"
     },
     {
       "page_name": "Project CW at Gamescom 2025",
       "page_identifier": "project-cw-gamescom-2025",
       "html_file": "news/project-cw-gamescom-2025.html",
-      "pixel_filename": "pcwstats-tracker-pixel-project-cw-gamescom-2025.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-project-cw-gamescom-2025.png",
-      "html_title": "Project CW at Gamescom 2025 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-project-cw-gamescom-2025.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-project-cw-gamescom-2025.png",
+      "html_title": "Project CW at Gamescom 2025 - HEAT Labs"
     },
     {
       "page_name": "Update on Quest Progress",
       "page_identifier": "quest-progress",
       "html_file": "news/quest-progress.html",
-      "pixel_filename": "pcwstats-tracker-pixel-quest-progress.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-quest-progress.png",
-      "html_title": "Update on Quest Progress - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-quest-progress.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-quest-progress.png",
+      "html_title": "Update on Quest Progress - HEAT Labs"
     },
     {
       "page_name": "Update Recap",
       "page_identifier": "update-recap",
       "html_file": "news/update-recap.html",
-      "pixel_filename": "pcwstats-tracker-pixel-update-recap.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-update-recap.png",
-      "html_title": "Update Recap - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-update-recap.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-update-recap.png",
+      "html_title": "Update Recap - HEAT Labs"
     },
     {
       "page_name": "Who Are They #1",
       "page_identifier": "who-are-they-1",
       "html_file": "news/who-are-they-1.html",
-      "pixel_filename": "pcwstats-tracker-pixel-who-are-they-1.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-who-are-they-1.png",
-      "html_title": "Who Are They #1 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-who-are-they-1.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-who-are-they-1.png",
+      "html_title": "Who Are They #1 - HEAT Labs"
     },
     {
       "page_name": "Who Are They #2",
       "page_identifier": "who-are-they-2",
       "html_file": "news/who-are-they-2.html",
-      "pixel_filename": "pcwstats-tracker-pixel-who-are-they-2.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-who-are-they-2.png",
-      "html_title": "Who Are They #2 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-who-are-they-2.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-who-are-they-2.png",
+      "html_title": "Who Are They #2 - HEAT Labs"
     },
     {
       "page_name": "Community Guides",
       "page_identifier": "all-guides-placeholder",
       "html_file": "placeholder-tables/all-guides-placeholder.html",
-      "pixel_filename": "pcwstats-tracker-pixel-all-guides-placeholder.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-all-guides-placeholder.png",
-      "html_title": "Community Guides - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-all-guides-placeholder.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-all-guides-placeholder.png",
+      "html_title": "Community Guides - HEAT Labs"
     },
     {
       "page_name": "Placeholder",
       "page_identifier": "guide-category-placeholder",
       "html_file": "placeholder-tables/guide-category-placeholder.html",
-      "pixel_filename": "pcwstats-tracker-pixel-guide-category-placeholder.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-guide-category-placeholder.png",
-      "html_title": "Placeholder - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-guide-category-placeholder.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-guide-category-placeholder.png",
+      "html_title": "Placeholder - HEAT Labs"
     },
     {
       "page_name": "AGDS",
       "page_identifier": "agds",
       "html_file": "tanks/agds.html",
-      "pixel_filename": "pcwstats-tracker-pixel-agds.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-agds.png",
-      "html_title": "AGDS - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-agds.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-agds.png",
+      "html_title": "AGDS - HEAT Labs"
     },
     {
       "page_name": "ALVT",
       "page_identifier": "alvt",
       "html_file": "tanks/alvt.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alvt.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alvt.png",
-      "html_title": "ALVT - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alvt.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alvt.png",
+      "html_title": "ALVT - HEAT Labs"
     },
     {
       "page_name": "BAT-4M",
       "page_identifier": "bat-4m",
       "html_file": "tanks/bat-4m.html",
-      "pixel_filename": "pcwstats-tracker-pixel-bat-4m.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-bat-4m.png",
-      "html_title": "BAT-4M - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-bat-4m.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-bat-4m.png",
+      "html_title": "BAT-4M - HEAT Labs"
     },
     {
       "page_name": "FV 4030/X",
       "page_identifier": "fv4030x",
       "html_file": "tanks/fv4030x.html",
-      "pixel_filename": "pcwstats-tracker-pixel-fv4030x.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-fv4030x.png",
-      "html_title": "FV 4030/X - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-fv4030x.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-fv4030x.png",
+      "html_title": "FV 4030/X - HEAT Labs"
     },
     {
       "page_name": "HSTV-L",
       "page_identifier": "hstv-l",
       "html_file": "tanks/hstv-l.html",
-      "pixel_filename": "pcwstats-tracker-pixel-hstv-l.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hstv-l.png",
-      "html_title": "HSTV-L - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-hstv-l.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-hstv-l.png",
+      "html_title": "HSTV-L - HEAT Labs"
     },
     {
       "page_name": "Leopard 1A1B",
       "page_identifier": "leopard-1a1b",
       "html_file": "tanks/leopard-1a1b.html",
-      "pixel_filename": "pcwstats-tracker-pixel-leopard-1a1b.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-leopard-1a1b.png",
-      "html_title": "Leopard 1A1B - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-leopard-1a1b.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-leopard-1a1b.png",
+      "html_title": "Leopard 1A1B - HEAT Labs"
     },
     {
       "page_name": "Leopard 1A6A1",
       "page_identifier": "leopard-1a6a1",
       "html_file": "tanks/leopard-1a6a1.html",
-      "pixel_filename": "pcwstats-tracker-pixel-leopard-1a6a1.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-leopard-1a6a1.png",
-      "html_title": "Leopard 1A6A1 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-leopard-1a6a1.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-leopard-1a6a1.png",
+      "html_title": "Leopard 1A6A1 - HEAT Labs"
     },
     {
       "page_name": "Leopard 2FK",
       "page_identifier": "leopard-2fk",
       "html_file": "tanks/leopard-2fk.html",
-      "pixel_filename": "pcwstats-tracker-pixel-leopard-2fk.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-leopard-2fk.png",
-      "html_title": "Leopard 2FK - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-leopard-2fk.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-leopard-2fk.png",
+      "html_title": "Leopard 2FK - HEAT Labs"
     },
     {
       "page_name": "Leopard 2K14",
       "page_identifier": "leopard-2k14",
       "html_file": "tanks/leopard-2k14.html",
-      "pixel_filename": "pcwstats-tracker-pixel-leopard-2k14.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-leopard-2k14.png",
-      "html_title": "Leopard 2K14 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-leopard-2k14.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-leopard-2k14.png",
+      "html_title": "Leopard 2K14 - HEAT Labs"
     },
     {
       "page_name": "M1 Railgun",
       "page_identifier": "m1-railgun",
       "html_file": "tanks/m1-railgun.html",
-      "pixel_filename": "pcwstats-tracker-pixel-m1-railgun.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-m1-railgun.png",
-      "html_title": "M1 Railgun - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-m1-railgun.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-m1-railgun.png",
+      "html_title": "M1 Railgun - HEAT Labs"
     },
     {
       "page_name": "M1E1",
       "page_identifier": "m1e1",
       "html_file": "tanks/m1e1.html",
-      "pixel_filename": "pcwstats-tracker-pixel-m1e1.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-m1e1.png",
-      "html_title": "M1E1 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-m1e1.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-m1e1.png",
+      "html_title": "M1E1 - HEAT Labs"
     },
     {
       "page_name": "M3A1 Bradley",
       "page_identifier": "m3a1-bradley",
       "html_file": "tanks/m3a1-bradley.html",
-      "pixel_filename": "pcwstats-tracker-pixel-m3a1-bradley.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-m3a1-bradley.png",
-      "html_title": "M3A1 Bradley - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-m3a1-bradley.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-m3a1-bradley.png",
+      "html_title": "M3A1 Bradley - HEAT Labs"
     },
     {
       "page_name": "M60A3E2",
       "page_identifier": "m60a3e2",
       "html_file": "tanks/m60a3e2.html",
-      "pixel_filename": "pcwstats-tracker-pixel-m60a3e2.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-m60a3e2.png",
-      "html_title": "M60A3E2 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-m60a3e2.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-m60a3e2.png",
+      "html_title": "M60A3E2 - HEAT Labs"
     },
     {
       "page_name": "M60E2",
       "page_identifier": "m60e2",
       "html_file": "tanks/m60e2.html",
-      "pixel_filename": "pcwstats-tracker-pixel-m60e2.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-m60e2.png",
-      "html_title": "M60E2 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-m60e2.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-m60e2.png",
+      "html_title": "M60E2 - HEAT Labs"
     },
     {
       "page_name": "Object 279",
       "page_identifier": "object-279",
       "html_file": "tanks/object-279.html",
-      "pixel_filename": "pcwstats-tracker-pixel-object-279.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-object-279.png",
-      "html_title": "Object 279 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-object-279.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-object-279.png",
+      "html_title": "Object 279 - HEAT Labs"
     },
     {
       "page_name": "Object 287",
       "page_identifier": "object-287",
       "html_file": "tanks/object-287.html",
-      "pixel_filename": "pcwstats-tracker-pixel-object-287.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-object-287.png",
-      "html_title": "Object 287 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-object-287.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-object-287.png",
+      "html_title": "Object 287 - HEAT Labs"
     },
     {
       "page_name": "Tank",
       "page_identifier": "placeholder-tank",
       "html_file": "tanks/placeholder-tank.html",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-tank.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-tank.png",
-      "html_title": "Tank - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-placeholder-tank.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-placeholder-tank.png",
+      "html_title": "Tank - HEAT Labs"
     },
     {
       "page_name": "PTZ-89C",
       "page_identifier": "ptz89c",
       "html_file": "tanks/ptz89c.html",
-      "pixel_filename": "pcwstats-tracker-pixel-ptz89c.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-ptz89c.png",
-      "html_title": "PTZ-89C - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-ptz89c.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-ptz89c.png",
+      "html_title": "PTZ-89C - HEAT Labs"
     },
     {
       "page_name": "T-62AV",
       "page_identifier": "t-62av",
       "html_file": "tanks/t-62av.html",
-      "pixel_filename": "pcwstats-tracker-pixel-t-62av.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-t-62av.png",
-      "html_title": "T-62AV - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-t-62av.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-t-62av.png",
+      "html_title": "T-62AV - HEAT Labs"
     },
     {
       "page_name": "T-62MS",
       "page_identifier": "t-62ms",
       "html_file": "tanks/t-62ms.html",
-      "pixel_filename": "pcwstats-tracker-pixel-t-62ms.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-t-62ms.png",
-      "html_title": "T-62MS - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-t-62ms.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-t-62ms.png",
+      "html_title": "T-62MS - HEAT Labs"
     },
     {
       "page_name": "T-64A",
       "page_identifier": "t-64a",
       "html_file": "tanks/t-64a.html",
-      "pixel_filename": "pcwstats-tracker-pixel-t-64a.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-t-64a.png",
-      "html_title": "T-64A - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-t-64a.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-t-64a.png",
+      "html_title": "T-64A - HEAT Labs"
     },
     {
       "page_name": "T-72AU",
       "page_identifier": "t-72au",
       "html_file": "tanks/t-72au.html",
-      "pixel_filename": "pcwstats-tracker-pixel-t-72au.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-t-72au.png",
-      "html_title": "T-72AU - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-t-72au.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-t-72au.png",
+      "html_title": "T-72AU - HEAT Labs"
     },
     {
       "page_name": "T-72B",
       "page_identifier": "t-72b",
       "html_file": "tanks/t-72b.html",
-      "pixel_filename": "pcwstats-tracker-pixel-t-72b.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-t-72b.png",
-      "html_title": "T-72B - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-t-72b.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-t-72b.png",
+      "html_title": "T-72B - HEAT Labs"
     },
     {
       "page_name": "XM1-90",
       "page_identifier": "xm1-90",
       "html_file": "tanks/xm1-90.html",
-      "pixel_filename": "pcwstats-tracker-pixel-xm1-90.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-xm1-90.png",
-      "html_title": "XM1-90 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-xm1-90.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-xm1-90.png",
+      "html_title": "XM1-90 - HEAT Labs"
     },
     {
       "page_name": "XM1-V",
       "page_identifier": "xm1-v",
       "html_file": "tanks/xm1-v.html",
-      "pixel_filename": "pcwstats-tracker-pixel-xm1-v.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-xm1-v.png",
-      "html_title": "XM1-V - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-xm1-v.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-xm1-v.png",
+      "html_title": "XM1-V - HEAT Labs"
     },
     {
       "page_name": "XM551",
       "page_identifier": "xm551",
       "html_file": "tanks/xm551.html",
-      "pixel_filename": "pcwstats-tracker-pixel-xm551.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-xm551.png",
-      "html_title": "XM551 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-xm551.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-xm551.png",
+      "html_title": "XM551 - HEAT Labs"
     },
     {
       "page_name": "XM808 Twister",
       "page_identifier": "xm808-twister",
       "html_file": "tanks/xm808-twister.html",
-      "pixel_filename": "pcwstats-tracker-pixel-xm808-twister.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-xm808-twister.png",
-      "html_title": "XM808 Twister - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-xm808-twister.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-xm808-twister.png",
+      "html_title": "XM808 Twister - HEAT Labs"
     },
     {
       "page_name": "Alpha #1 Tournament",
       "page_identifier": "open-alpha-1-tournament",
       "html_file": "tournaments/open-alpha-1-tournament.html",
-      "pixel_filename": "pcwstats-tracker-pixel-open-alpha-1-tournament.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-open-alpha-1-tournament.png",
-      "html_title": "Alpha #1 Tournament - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-open-alpha-1-tournament.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-open-alpha-1-tournament.png",
+      "html_title": "Alpha #1 Tournament - HEAT Labs"
     },
     {
       "page_name": "Alpha #2 Tournament",
       "page_identifier": "open-alpha-2-tournament",
       "html_file": "tournaments/open-alpha-2-tournament.html",
-      "pixel_filename": "pcwstats-tracker-pixel-open-alpha-2-tournament.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-open-alpha-2-tournament.png",
-      "html_title": "Alpha #2 Tournament - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-open-alpha-2-tournament.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-open-alpha-2-tournament.png",
+      "html_title": "Alpha #2 Tournament - HEAT Labs"
     },
     {
       "page_name": "Website Statistics",
       "page_identifier": "website-statistics",
       "html_file": "Website-Statistics",
-      "pixel_filename": "pcwstats-tracker-pixel-website-statistics.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-website-statistics.png",
-      "html_title": "Website Statistics - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-website-statistics.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-website-statistics.png",
+      "html_title": "Website Statistics - HEAT Labs"
     },
     {
       "page_name": "Damage Calculation",
       "page_identifier": "damage-calculation",
       "html_file": "bug-hunting/damage-calculation.html",
-      "pixel_filename": "pcwstats-tracker-pixel-damage-calculation.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-damage-calculation.png",
-      "html_title": "Damage Calculation - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-damage-calculation.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-damage-calculation.png",
+      "html_title": "Damage Calculation - HEAT Labs"
     },
     {
       "page_name": "Developer Guide Images",
       "page_identifier": "developer-guide-images",
       "html_file": "bug-hunting/developer-guide-images.html",
-      "pixel_filename": "pcwstats-tracker-pixel-developer-guide-images.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-developer-guide-images.png",
-      "html_title": "Developer Guide Images - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-developer-guide-images.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-developer-guide-images.png",
+      "html_title": "Developer Guide Images - HEAT Labs"
     },
     {
       "page_name": "Discovery of CoreX in Project CW",
       "page_identifier": "discovery-of-corex",
       "html_file": "bug-hunting/discovery-of-corex.html",
-      "pixel_filename": "pcwstats-tracker-pixel-discovery-of-corex.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-discovery-of-corex.png",
-      "html_title": "Discovery of CoreX in Project CW - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-discovery-of-corex.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-discovery-of-corex.png",
+      "html_title": "Discovery of CoreX in Project CW - HEAT Labs"
     },
     {
       "page_name": "Exploring Animation and Movement Desync",
       "page_identifier": "exploring-animation-and-movement-desync",
       "html_file": "bug-hunting/exploring-animation-and-movement-desync.html",
-      "pixel_filename": "pcwstats-tracker-pixel-exploring-animation-and-movement-desync.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-exploring-animation-and-movement-desync.png",
-      "html_title": "Exploring Animation and Movement Desync - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-exploring-animation-and-movement-desync.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-exploring-animation-and-movement-desync.png",
+      "html_title": "Exploring Animation and Movement Desync - HEAT Labs"
     },
     {
       "page_name": "Exploring the Main Menu Garage",
       "page_identifier": "exploring-the-main-menu-garage",
       "html_file": "bug-hunting/exploring-the-main-menu-garage.html",
-      "pixel_filename": "pcwstats-tracker-pixel-exploring-the-main-menu-garage.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-exploring-the-main-menu-garage.png",
-      "html_title": "Exploring the Main Menu Garage - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-exploring-the-main-menu-garage.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-exploring-the-main-menu-garage.png",
+      "html_title": "Exploring the Main Menu Garage - HEAT Labs"
     },
     {
       "page_name": "Hunting For Potential Hidden Servers",
       "page_identifier": "hunting-for-potential-hidden-servers",
       "html_file": "bug-hunting/hunting-for-potential-hidden-servers.html",
-      "pixel_filename": "pcwstats-tracker-pixel-hunting-for-potential-hidden-servers.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hunting-for-potential-hidden-servers.png",
-      "html_title": "Hunting For Potential Hidden Servers - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-hunting-for-potential-hidden-servers.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-hunting-for-potential-hidden-servers.png",
+      "html_title": "Hunting For Potential Hidden Servers - HEAT Labs"
     },
     {
       "page_name": "Info From Developers",
       "page_identifier": "info-from-developers",
       "html_file": "bug-hunting/info-from-developers.html",
-      "pixel_filename": "pcwstats-tracker-pixel-info-from-developers.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-info-from-developers.png",
-      "html_title": "Info From Developers - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-info-from-developers.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-info-from-developers.png",
+      "html_title": "Info From Developers - HEAT Labs"
     },
     {
       "page_name": "Mysterious Engine Picture",
       "page_identifier": "mysterious-engine-picture",
       "html_file": "bug-hunting/mysterious-engine-picture.html",
-      "pixel_filename": "pcwstats-tracker-pixel-mysterious-engine-picture.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-mysterious-engine-picture.png",
-      "html_title": "Mysterious Engine Picture - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-mysterious-engine-picture.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-mysterious-engine-picture.png",
+      "html_title": "Mysterious Engine Picture - HEAT Labs"
     },
     {
       "page_name": "Bug Hunt Post",
       "page_identifier": "palceholder",
       "html_file": "bug-hunting/palceholder.html",
-      "pixel_filename": "pcwstats-tracker-pixel-palceholder.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-palceholder.png",
-      "html_title": "Bug Hunt Post - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-palceholder.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-palceholder.png",
+      "html_title": "Bug Hunt Post - HEAT Labs"
     },
     {
       "page_name": "Potential Campaign Mode",
       "page_identifier": "potential-campaign-mode",
       "html_file": "bug-hunting/potential-campaign-mode.html",
-      "pixel_filename": "pcwstats-tracker-pixel-potential-campaign-mode.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-potential-campaign-mode.png",
-      "html_title": "Potential Campaign Mode - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-potential-campaign-mode.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-potential-campaign-mode.png",
+      "html_title": "Potential Campaign Mode - HEAT Labs"
     },
     {
       "page_name": "Tank Module Locations",
       "page_identifier": "tank-module-locations",
       "html_file": "bug-hunting/tank-module-locations.html",
-      "pixel_filename": "pcwstats-tracker-pixel-tank-module-locations.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tank-module-locations.png",
-      "html_title": "Tank Module Locations - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-tank-module-locations.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-tank-module-locations.png",
+      "html_title": "Tank Module Locations - HEAT Labs"
     },
     {
       "page_name": "The Three Badges",
       "page_identifier": "the-three-badges",
       "html_file": "bug-hunting/the-three-badges.html",
-      "pixel_filename": "pcwstats-tracker-pixel-the-three-badges.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-the-three-badges.png",
-      "html_title": "The Three Badges - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-the-three-badges.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-the-three-badges.png",
+      "html_title": "The Three Badges - HEAT Labs"
     },
     {
       "page_name": "Titan Dummies Respawn Glitch",
       "page_identifier": "titan-dummies-respawn-glitch",
       "html_file": "bug-hunting/titan-dummies-respawn-glitch.html",
-      "pixel_filename": "pcwstats-tracker-pixel-titan-dummies-respawn-glitch.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-titan-dummies-respawn-glitch.png",
-      "html_title": "Titan Dummies Respawn Glitch - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-titan-dummies-respawn-glitch.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-titan-dummies-respawn-glitch.png",
+      "html_title": "Titan Dummies Respawn Glitch - HEAT Labs"
     },
     {
       "page_name": "Unlocking the Camera on the End Game Screen",
       "page_identifier": "unlocking-the-camera",
       "html_file": "bug-hunting/unlocking_the_camera.html",
-      "pixel_filename": "pcwstats-tracker-pixel-unlocking-the-camera.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-unlocking-the-camera.png",
-      "html_title": "Unlocking the Camera on the End Game Screen - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-unlocking-the-camera.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-unlocking-the-camera.png",
+      "html_title": "Unlocking the Camera on the End Game Screen - HEAT Labs"
     },
     {
       "page_name": "Who is PCW Bug Hunters?",
       "page_identifier": "who-is-pcw-bug-hunters",
       "html_file": "bug-hunting/who-is-pcw-bug-hunters.html",
-      "pixel_filename": "pcwstats-tracker-pixel-who-is-pcw-bug-hunters.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-who-is-pcw-bug-hunters.png",
-      "html_title": "Who is PCW Bug Hunters? - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-who-is-pcw-bug-hunters.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-who-is-pcw-bug-hunters.png",
+      "html_title": "Who is PCW Bug Hunters? - HEAT Labs"
     },
     {
       "page_name": "Wierd Pattern Images",
       "page_identifier": "wierd-pattern-images",
       "html_file": "bug-hunting/wierd-pattern-images.html",
-      "pixel_filename": "pcwstats-tracker-pixel-wierd-pattern-images.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-wierd-pattern-images.png",
-      "html_title": "Wierd Pattern Images - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-wierd-pattern-images.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-wierd-pattern-images.png",
+      "html_title": "Wierd Pattern Images - HEAT Labs"
     },
     {
       "page_name": "Alpha 3 Playtest",
       "page_identifier": "alpha-3-playtest",
       "html_file": "easter-eggs/alpha-3-playtest.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-3-playtest.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-3-playtest.png",
-      "html_title": "Alpha 3 Playtest - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-3-playtest.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-3-playtest.png",
+      "html_title": "Alpha 3 Playtest - HEAT Labs"
     },
     {
       "page_name": "Maxwell",
       "page_identifier": "maxwell",
       "html_file": "easter-eggs/maxwell.html",
-      "pixel_filename": "pcwstats-tracker-pixel-maxwell.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-maxwell.png",
-      "html_title": "Maxwell - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-maxwell.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-maxwell.png",
+      "html_title": "Maxwell - HEAT Labs"
     },
     {
       "page_name": "Frequently Asked Questions",
       "page_identifier": "frequent-questions",
       "html_file": "resources/frequent-questions.html",
-      "pixel_filename": "pcwstats-tracker-pixel-frequent-questions.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-frequent-questions.png",
-      "html_title": "Frequently Asked Questions - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-frequent-questions.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-frequent-questions.png",
+      "html_title": "Frequently Asked Questions - HEAT Labs"
     },
     {
       "page_name": "System Status",
       "page_identifier": "system-status",
       "html_file": "Website-Status",
-      "pixel_filename": "pcwstats-tracker-pixel-system-status.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-system-status.png",
-      "html_title": "System Status - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-system-status.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-system-status.png",
+      "html_title": "System Status - HEAT Labs"
     },
     {
       "page_name": "Ring of Fury",
       "page_identifier": "ring-of-fury",
       "html_file": "maps/ring-of-fury.html",
-      "pixel_filename": "pcwstats-tracker-pixel-ring-of-fury.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-ring-of-fury.png",
-      "html_title": "Ring of Fury - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-ring-of-fury.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-ring-of-fury.png",
+      "html_title": "Ring of Fury - HEAT Labs"
     },
     {
       "page_name": "Alpha 2 Fuel Crit Multiplier Incident",
       "page_identifier": "alpha-2-fuel-crit-multiplier",
       "html_file": "bug-hunting/alpha-2-fuel-crit-multiplier.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-fuel-crit-multiplier.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-2-fuel-crit-multiplier.png",
-      "html_title": "Alpha 2 Fuel Crit Multiplier Incident - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-alpha-2-fuel-crit-multiplier.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-alpha-2-fuel-crit-multiplier.png",
+      "html_title": "Alpha 2 Fuel Crit Multiplier Incident - HEAT Labs"
     },
     {
       "page_name": "M60A3E2 Bot",
       "page_identifier": "m60a3e2-bot",
       "html_file": "tanks/m60a3e2-bot.html",
-      "pixel_filename": "pcwstats-tracker-pixel-m60a3e2-bot.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-m60a3e2-bot.png",
-      "html_title": "M60A3E2 Bot - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-m60a3e2-bot.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-m60a3e2-bot.png",
+      "html_title": "M60A3E2 Bot - HEAT Labs"
     },
     {
       "page_name": "T-55 Enigma",
       "page_identifier": "t-55-enigma",
       "html_file": "tanks/t-55-enigma.html",
-      "pixel_filename": "pcwstats-tracker-pixel-t-55-enigma.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-t-55-enigma.png",
-      "html_title": "T-55 Enigma - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-t-55-enigma.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-t-55-enigma.png",
+      "html_title": "T-55 Enigma - HEAT Labs"
     },
     {
       "page_name": "Agents",
       "page_identifier": "agents",
       "html_file": "agents.html",
-      "pixel_filename": "pcwstats-tracker-pixel-agents.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-agents.png",
-      "html_title": "Agents - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-agents.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-agents.png",
+      "html_title": "Agents - HEAT Labs"
     },
     {
       "page_name": "Meet The Team: Template",
       "page_identifier": "meet-the-team-shockwave",
       "html_file": "blog/meet-the-team-shockwave.html",
-      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-shockwave.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-meet-the-team-shockwave.png",
-      "html_title": "Meet The Team: Template - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-meet-the-team-shockwave.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-meet-the-team-shockwave.png",
+      "html_title": "Meet The Team: Template - HEAT Labs"
     },
     {
       "page_name": "Feature Showcase: Name",
       "page_identifier": "feature-showcase-template",
       "html_file": "blog/feature-showcase-template.html",
-      "pixel_filename": "pcwstats-tracker-pixel-feature-showcase-template.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-feature-showcase-template.png",
-      "html_title": "Feature Showcase: Name - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-feature-showcase-template.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-feature-showcase-template.png",
+      "html_title": "Feature Showcase: Name - HEAT Labs"
     },
     {
       "page_name": "Website Plans & Mission",
       "page_identifier": "website-plans-and-mission",
       "html_file": "blog/website-plans-and-mission.html",
-      "pixel_filename": "pcwstats-tracker-pixel-website-plans-and-mission.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-website-plans-and-mission.png",
-      "html_title": "Website Plans & Mission - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-website-plans-and-mission.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-website-plans-and-mission.png",
+      "html_title": "Website Plans & Mission - HEAT Labs"
     },
     {
       "page_name": "Playground",
       "page_identifier": "playground",
       "html_file": "playground.html",
-      "pixel_filename": "pcwstats-tracker-pixel-playground.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-playground.png",
-      "html_title": "Playground - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-playground.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-playground.png",
+      "html_title": "Playground - HEAT Labs"
     },
     {
       "page_name": "Tier List Creator",
       "page_identifier": "tierlist",
       "html_file": "playground/tierlist.html",
-      "pixel_filename": "pcwstats-tracker-pixel-tierlist.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tierlist.png",
-      "html_title": "Tier List Creator - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-tierlist.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-tierlist.png",
+      "html_title": "Tier List Creator - HEAT Labs"
     },
     {
       "page_name": "agent",
       "page_identifier": "anansi",
       "html_file": "agents/anansi.html",
-      "pixel_filename": "pcwstats-tracker-pixel-anansi.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-anansi.png",
-      "html_title": "agent - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-anansi.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-anansi.png",
+      "html_title": "agent - HEAT Labs"
     },
     {
       "page_name": "agent",
       "page_identifier": "blitz",
       "html_file": "agents/blitz.html",
-      "pixel_filename": "pcwstats-tracker-pixel-blitz.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-blitz.png",
-      "html_title": "agent - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-blitz.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-blitz.png",
+      "html_title": "agent - HEAT Labs"
     },
     {
       "page_name": "agent",
       "page_identifier": "chopper",
       "html_file": "agents/chopper.html",
-      "pixel_filename": "pcwstats-tracker-pixel-chopper.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-chopper.png",
-      "html_title": "agent - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-chopper.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-chopper.png",
+      "html_title": "agent - HEAT Labs"
     },
     {
       "page_name": "agent",
       "page_identifier": "ember",
       "html_file": "agents/ember.html",
-      "pixel_filename": "pcwstats-tracker-pixel-ember.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-ember.png",
-      "html_title": "agent - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-ember.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-ember.png",
+      "html_title": "agent - HEAT Labs"
     },
     {
       "page_name": "agent",
       "page_identifier": "hound",
       "html_file": "agents/hound.html",
-      "pixel_filename": "pcwstats-tracker-pixel-hound.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hound.png",
-      "html_title": "agent - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-hound.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-hound.png",
+      "html_title": "agent - HEAT Labs"
     },
     {
       "page_name": "agent",
       "page_identifier": "kent",
       "html_file": "agents/kent.html",
-      "pixel_filename": "pcwstats-tracker-pixel-kent.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-kent.png",
-      "html_title": "agent - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-kent.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-kent.png",
+      "html_title": "agent - HEAT Labs"
     },
     {
       "page_name": "agent",
       "page_identifier": "placeholder-agent",
       "html_file": "agents/placeholder-agent.html",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-agent.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-agent.png",
-      "html_title": "agent - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-placeholder-agent.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-placeholder-agent.png",
+      "html_title": "agent - HEAT Labs"
     },
     {
       "page_name": "agent",
       "page_identifier": "raketa",
       "html_file": "agents/raketa.html",
-      "pixel_filename": "pcwstats-tracker-pixel-raketa.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-raketa.png",
-      "html_title": "agent - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-raketa.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-raketa.png",
+      "html_title": "agent - HEAT Labs"
     },
     {
       "page_name": "agent",
       "page_identifier": "ray",
       "html_file": "agents/ray.html",
-      "pixel_filename": "pcwstats-tracker-pixel-ray.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-ray.png",
-      "html_title": "agent - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-ray.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-ray.png",
+      "html_title": "agent - HEAT Labs"
     },
     {
       "page_name": "agent",
       "page_identifier": "reaper",
       "html_file": "agents/reaper.html",
-      "pixel_filename": "pcwstats-tracker-pixel-reaper.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-reaper.png",
-      "html_title": "agent - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-reaper.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-reaper.png",
+      "html_title": "agent - HEAT Labs"
     },
     {
       "page_name": "agent",
       "page_identifier": "udarnik",
       "html_file": "agents/udarnik.html",
-      "pixel_filename": "pcwstats-tracker-pixel-udarnik.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-udarnik.png",
-      "html_title": "agent - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-udarnik.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-udarnik.png",
+      "html_title": "agent - HEAT Labs"
     },
     {
       "page_name": "Maintenance Mode",
       "page_identifier": "maintenance",
       "html_file": "maintenance.html",
-      "pixel_filename": "pcwstats-tracker-pixel-maintenance.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-maintenance.png",
-      "html_title": "Maintenance Mode - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-maintenance.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-maintenance.png",
+      "html_title": "Maintenance Mode - HEAT Labs"
     },
     {
       "page_name": "Project CW Debrief #3",
       "page_identifier": "project-cw-debrief-3",
       "html_file": "news/project-cw-debrief-3.html",
-      "pixel_filename": "pcwstats-tracker-pixel-project-cw-debrief-3.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-project-cw-debrief-3.png",
-      "html_title": "Project CW Debrief #3 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-project-cw-debrief-3.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-project-cw-debrief-3.png",
+      "html_title": "Project CW Debrief #3 - HEAT Labs"
     },
     {
       "page_name": "Tournament Maintenance",
       "page_identifier": "tournament-maintenance",
       "html_file": "tournaments/tournament-maintenance.html",
-      "pixel_filename": "pcwstats-tracker-pixel-tournament-maintenance.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tournament-maintenance.png",
-      "html_title": "Tournament Maintenance - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-tournament-maintenance.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-tournament-maintenance.png",
+      "html_title": "Tournament Maintenance - HEAT Labs"
     },
     {
       "page_name": "Afghanistan 2",
       "page_identifier": "afghanistan-2",
       "html_file": "maps/afghanistan-2.html",
-      "pixel_filename": "pcwstats-tracker-pixel-afghanistan-2.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-afghanistan-2.png",
-      "html_title": "Afghanistan 2 - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-afghanistan-2.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-afghanistan-2.png",
+      "html_title": "Afghanistan 2 - HEAT Labs"
     },
     {
       "page_name": "Afghanistan",
       "page_identifier": "afghanistan",
       "html_file": "maps/afghanistan.html",
-      "pixel_filename": "pcwstats-tracker-pixel-afghanistan.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-afghanistan.png",
-      "html_title": "Afghanistan - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-afghanistan.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-afghanistan.png",
+      "html_title": "Afghanistan - HEAT Labs"
     },
     {
       "page_name": "Avalanche",
       "page_identifier": "avalanche",
       "html_file": "maps/avalanche.html",
-      "pixel_filename": "pcwstats-tracker-pixel-avalanche.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-avalanche.png",
-      "html_title": "Avalanche - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-avalanche.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-avalanche.png",
+      "html_title": "Avalanche - HEAT Labs"
     },
     {
       "page_name": "Citadel",
       "page_identifier": "citadel",
       "html_file": "maps/citadel.html",
-      "pixel_filename": "pcwstats-tracker-pixel-citadel.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-citadel.png",
-      "html_title": "Citadel - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-citadel.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-citadel.png",
+      "html_title": "Citadel - HEAT Labs"
     },
     {
       "page_name": "Classified",
       "page_identifier": "classified",
       "html_file": "maps/classified.html",
-      "pixel_filename": "pcwstats-tracker-pixel-classified.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-classified.png",
-      "html_title": "Classified - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-classified.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-classified.png",
+      "html_title": "Classified - HEAT Labs"
     },
     {
       "page_name": "Comms",
       "page_identifier": "comms",
       "html_file": "maps/comms.html",
-      "pixel_filename": "pcwstats-tracker-pixel-comms.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-comms.png",
-      "html_title": "Comms - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-comms.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-comms.png",
+      "html_title": "Comms - HEAT Labs"
     },
     {
       "page_name": "Critical Harbor",
       "page_identifier": "critical-harbor",
       "html_file": "maps/critical-harbor.html",
-      "pixel_filename": "pcwstats-tracker-pixel-critical-harbor.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-critical-harbor.png",
-      "html_title": "Critical Harbor - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-critical-harbor.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-critical-harbor.png",
+      "html_title": "Critical Harbor - HEAT Labs"
     },
     {
       "page_name": "Crossroads",
       "page_identifier": "crossroads",
       "html_file": "maps/crossroads.html",
-      "pixel_filename": "pcwstats-tracker-pixel-crossroads.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-crossroads.png",
-      "html_title": "Crossroads - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-crossroads.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-crossroads.png",
+      "html_title": "Crossroads - HEAT Labs"
     },
     {
       "page_name": "Deadly Fields",
       "page_identifier": "deadly-fields",
       "html_file": "maps/deadly-fields.html",
-      "pixel_filename": "pcwstats-tracker-pixel-deadly-fields.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-deadly-fields.png",
-      "html_title": "Deadly Fields - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-deadly-fields.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-deadly-fields.png",
+      "html_title": "Deadly Fields - HEAT Labs"
     },
     {
       "page_name": "Desert City",
       "page_identifier": "desert-city",
       "html_file": "maps/desert-city.html",
-      "pixel_filename": "pcwstats-tracker-pixel-desert-city.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-desert-city.png",
-      "html_title": "Desert City - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-desert-city.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-desert-city.png",
+      "html_title": "Desert City - HEAT Labs"
     },
     {
       "page_name": "Deserted",
       "page_identifier": "deserted",
       "html_file": "maps/deserted.html",
-      "pixel_filename": "pcwstats-tracker-pixel-deserted.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-deserted.png",
-      "html_title": "Deserted - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-deserted.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-deserted.png",
+      "html_title": "Deserted - HEAT Labs"
     },
     {
       "page_name": "Dolcegusta",
       "page_identifier": "dolcegusta",
       "html_file": "maps/dolcegusta.html",
-      "pixel_filename": "pcwstats-tracker-pixel-dolcegusta.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-dolcegusta.png",
-      "html_title": "Dolcegusta - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-dolcegusta.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-dolcegusta.png",
+      "html_title": "Dolcegusta - HEAT Labs"
     },
     {
       "page_name": "Duga",
       "page_identifier": "duga",
       "html_file": "maps/duga.html",
-      "pixel_filename": "pcwstats-tracker-pixel-duga.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-duga.png",
-      "html_title": "Duga - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-duga.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-duga.png",
+      "html_title": "Duga - HEAT Labs"
     },
     {
       "page_name": "Evergreen",
       "page_identifier": "evergreen",
       "html_file": "maps/evergreen.html",
-      "pixel_filename": "pcwstats-tracker-pixel-evergreen.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-evergreen.png",
-      "html_title": "Evergreen - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-evergreen.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-evergreen.png",
+      "html_title": "Evergreen - HEAT Labs"
     },
     {
       "page_name": "Fatal Acres",
       "page_identifier": "fatal-acres",
       "html_file": "maps/fatal-acres.html",
-      "pixel_filename": "pcwstats-tracker-pixel-fatal-acres.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-fatal-acres.png",
-      "html_title": "Fatal Acres - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-fatal-acres.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-fatal-acres.png",
+      "html_title": "Fatal Acres - HEAT Labs"
     },
     {
       "page_name": "Harvest",
       "page_identifier": "harvest",
       "html_file": "maps/harvest.html",
-      "pixel_filename": "pcwstats-tracker-pixel-harvest.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-harvest.png",
-      "html_title": "Harvest - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-harvest.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-harvest.png",
+      "html_title": "Harvest - HEAT Labs"
     },
     {
       "page_name": "Height 911RS",
       "page_identifier": "height-911rs",
       "html_file": "maps/height-911rs.html",
-      "pixel_filename": "pcwstats-tracker-pixel-height-911rs.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-height-911rs.png",
-      "html_title": "Height 911RS - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-height-911rs.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-height-911rs.png",
+      "html_title": "Height 911RS - HEAT Labs"
     },
     {
       "page_name": "Height 911TB",
       "page_identifier": "height-911tb",
       "html_file": "maps/height-911tb.html",
-      "pixel_filename": "pcwstats-tracker-pixel-height-911tb.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-height-911tb.png",
-      "html_title": "Height 911TB - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-height-911tb.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-height-911tb.png",
+      "html_title": "Height 911TB - HEAT Labs"
     },
     {
       "page_name": "Hydro",
       "page_identifier": "hydro",
       "html_file": "maps/hydro.html",
-      "pixel_filename": "pcwstats-tracker-pixel-hydro.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hydro.png",
-      "html_title": "Hydro - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-hydro.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-hydro.png",
+      "html_title": "Hydro - HEAT Labs"
     },
     {
       "page_name": "Kerak",
       "page_identifier": "kerak",
       "html_file": "maps/kerak.html",
-      "pixel_filename": "pcwstats-tracker-pixel-kerak.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-kerak.png",
-      "html_title": "Kerak - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-kerak.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-kerak.png",
+      "html_title": "Kerak - HEAT Labs"
     },
     {
       "page_name": "Port",
       "page_identifier": "port",
       "html_file": "maps/port.html",
-      "pixel_filename": "pcwstats-tracker-pixel-port.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-port.png",
-      "html_title": "Port - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-port.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-port.png",
+      "html_title": "Port - HEAT Labs"
     },
     {
       "page_name": "Red-Alert",
       "page_identifier": "red-alert",
       "html_file": "maps/red-alert.html",
-      "pixel_filename": "pcwstats-tracker-pixel-red-alert.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-red-alert.png",
-      "html_title": "Red-Alert - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-red-alert.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-red-alert.png",
+      "html_title": "Red-Alert - HEAT Labs"
     },
     {
       "page_name": "Spillway",
       "page_identifier": "spillway",
       "html_file": "maps/spillway.html",
-      "pixel_filename": "pcwstats-tracker-pixel-spillway.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-spillway.png",
-      "html_title": "Spillway - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-spillway.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-spillway.png",
+      "html_title": "Spillway - HEAT Labs"
     },
     {
       "page_name": "Sundered City",
       "page_identifier": "sundered-city",
       "html_file": "maps/sundered-city.html",
-      "pixel_filename": "pcwstats-tracker-pixel-sundered-city.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-sundered-city.png",
-      "html_title": "Sundered City - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-sundered-city.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-sundered-city.png",
+      "html_title": "Sundered City - HEAT Labs"
     },
     {
       "page_name": "Surveillance",
       "page_identifier": "surveillance",
       "html_file": "maps/surveillance.html",
-      "pixel_filename": "pcwstats-tracker-pixel-surveillance.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-surveillance.png",
-      "html_title": "Surveillance - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-surveillance.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-surveillance.png",
+      "html_title": "Surveillance - HEAT Labs"
     },
     {
       "page_name": "Tajbeg",
       "page_identifier": "tajbeg",
       "html_file": "maps/tajbeg.html",
-      "pixel_filename": "pcwstats-tracker-pixel-tajbeg.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-tajbeg.png",
-      "html_title": "Tajbeg - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-tajbeg.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-tajbeg.png",
+      "html_title": "Tajbeg - HEAT Labs"
     },
     {
       "page_name": "Zenith",
       "page_identifier": "zenith",
       "html_file": "maps/zenith.html",
-      "pixel_filename": "pcwstats-tracker-pixel-zenith.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-zenith.png",
-      "html_title": "Zenith - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-zenith.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-zenith.png",
+      "html_title": "Zenith - HEAT Labs"
     },
     {
       "page_name": "Game Configurator",
       "page_identifier": "configurator",
       "html_file": "playground/configurator.html",
-      "pixel_filename": "pcwstats-tracker-pixel-configurator.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-configurator.png",
-      "html_title": "Game Configurator - PCWStats"
+      "pixel_filename": "heatlabs-tracker-pixel-configurator.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/heatlabs-tracker-pixel-configurator.png",
+      "html_title": "Game Configurator - HEAT Labs"
     },
     {
       "page_name": "Game Configurator App",
       "page_identifier": "configurator-app",
       "html_file": "#",
       "pixel_filename": "pcw-configurator-app.png",
-      "pixel_url": "https://pcwstats-pixel-api.vercel.app/api/track/pcw-configurator-app.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcw-configurator-app.png",
       "html_title": "Game Configurator App"
     }
   ]
