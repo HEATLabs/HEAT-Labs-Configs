@@ -1,16 +1,21 @@
 {
   "updates": [
     {
-      "version": "0.0.1677",
+      "version": "0.0.1682",
       "date": "2025-08-20",
       "author": "HEAT Labs Team",
       "title": "HEAT Labs - Update Number #118",
-      "description": "Full patch notes for Update v0.0.1677 (#118), detailing all changes made on 20 August, 2025.",
+      "description": "Full patch notes for Update v0.0.1682 (#118), detailing all changes made on 20 August, 2025.",
       "added": [
         "HEAT-related hero image in Website-Images"
       ],
       "changed": [
         "All cases of PCWStats updated to HEAT Labs across the site",
+        "updated GSC index tool to work with the new domain",
+        "updated tracking pixel remover with correct image name after reverting previous changes",
+        "fixed incorrect severity level in latest incident report",
+        "purged all JsDelivr caches",
+        "Updated tournament descriptions",
         "Legal pages updated with the date of rebranding changes",
         "All JS files renamed with updated references",
         "All CSS files renamed with updated references",
