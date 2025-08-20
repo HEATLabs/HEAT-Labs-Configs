@@ -1,6 +1,202 @@
 {
   "updates": [
     {
+      "version": "0.0.1677",
+      "date": "2025-08-20",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #118",
+      "description": "Full patch notes for Update v0.0.1677 (#118), detailing all changes made on 20 August, 2025.",
+      "added": [
+        "HEAT-related hero image in Website-Images"
+      ],
+      "changed": [
+        "All cases of PCWStats updated to HEAT Labs across the site",
+        "Legal pages updated with the date of rebranding changes",
+        "All JS files renamed with updated references",
+        "All CSS files renamed with updated references",
+        "Global hero image updated",
+        "Head tags updated with new name",
+        "All URLs updated with new name",
+        "README updated with correct game name",
+        "Site-data updated with new names",
+        "Maintenance script force updated",
+        "Base GSC data URLs updated",
+        "Maintenance status and estimated downtime updated",
+        "Status page updated to maintenance during HEAT Labs rebrand",
+        "All config files updated to new names",
+        "Changelog file corrected",
+        "Main logo updated to placeholder HEAT Labs logo",
+        "Social share image updated with new name and logo",
+        "All icons updated to HEAT Labs branding",
+        "README files updated with new name across multiple repositories",
+        "Main social share image renamed",
+        "All tools in Database-Tools updated to new names",
+        "Database files updated to new naming convention",
+        "Website Changelog page updated with new names",
+        "Website Statistics page updated with new names",
+        "Website Status page updated with new names",
+        "Website Status README updated with new names",
+        "Configurator app updated with new names and format",
+        "Configurator package and builder updated with new names",
+        "Configurator README updated with new names",
+        "Configurator CONTRIBUTING.md and CODE_OF_CONDUCT.md updated with new names",
+        "Configurator version bumped from 1.1.0 to 1.1.4",
+        "HEAT Labs Views API CONTRIBUTING.md and CODE_OF_CONDUCT.md updated with new names",
+        "HEAT Labs Views API tracking pixel images renamed to HEAT Labs names",
+        "HEAT Labs Views API README updated with new names"
+      ],
+      "removed": [
+        "Redundant MD files from HEATLabs-Configurator"
+      ],
+      "fixed": [
+        "Incorrect pixel names after revert",
+        "Reverted tracker IDs to original for tournament cards and statistics",
+        "Incorrect data labeling in tracking IDs",
+        "Button paths in maintenance page",
+        "Tracking pixel generator tool",
+        "Typo in Website Changelog content path",
+        "Typo in Website Changelog subtitle",
+        "Global hero URL path in Website Status page",
+        "Image path in 404 page of Website Status",
+        "Footer URLs in Website Status"
+      ]
+    },
+    {
+      "version": "0.0.1631",
+      "date": "2025-08-19",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #117",
+      "description": "Full patch notes for Update v0.0.1631 (#117), detailing all changes made on 19 August, 2025.",
+      "added": [
+        "Configurator page integrated into DevsOnly page on HeatLabs site"
+      ],
+      "changed": [
+        "DevsOnly page generator script updated with new Discord invite"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1627",
+      "date": "2025-08-18",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #116",
+      "description": "Full patch notes for Update v0.0.1627 (#116), detailing all changes made on 18 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1623",
+      "date": "2025-08-17",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #115",
+      "description": "Full patch notes for Update v0.0.1623 (#115), detailing all changes made on 17 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1619",
+      "date": "2025-08-16",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #114",
+      "description": "Full patch notes for Update v0.0.1619 (#114), detailing all changes made on 16 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1615",
+      "date": "2025-08-15",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #113",
+      "description": "Full patch notes for Update v0.0.1615 (#113), detailing all changes made on 15 August, 2025.",
+      "added": [
+        "Support for saving and loading local settings",
+        "Options menu with one experimental setting"
+      ],
+      "changed": [
+        "Application version bumped"
+      ],
+      "removed": [],
+      "fixed": [
+        "Issue causing auto-loading of config files to result in an infinite loop"
+      ]
+    },
+    {
+      "version": "0.0.1611",
+      "date": "2025-08-14",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #112",
+      "description": "Full patch notes for Update v0.0.1611 (#112), detailing all changes made on 14 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Renamed new Home tab to Import Config",
+        "Improved styles for the custom title bar",
+        "Improved app workflow by moving the load file step to a dedicated tab",
+        "Adjusted formatting inside package.json and build file"
+      ],
+      "removed": [
+        "Redundant PCWStats tag from custom title bar"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1604",
+      "date": "2025-08-13",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #111",
+      "description": "Full patch notes for Update v0.0.1604 (#111), detailing all changes made on 13 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.0.1600",
       "date": "2025-08-12",
       "author": "HEAT Labs Team",
