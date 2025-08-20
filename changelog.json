@@ -7,7 +7,7 @@
       "title": "PCWStats - Update Number #110",
       "description": "Full patch notes for Update v0.0.1600 (#110), detailing all changes made on 12 August, 2025.",
       "added": [
-        "\u00e2\u20ac\u02dcFuture & Vision\u00e2\u20ac\u2122 FAQ section with updated content",
+        "Future & Vision FAQ section with updated content",
         "Notification popup for speculative countdown notice",
         "Home-stats.json with initial statistics",
         "MD files for Project CW Configurator",
@@ -18,7 +18,7 @@
         "Search engine data: added missing news and blog posts, updated playground pages and asset gallery data",
         "GSC index data update",
         "Daily commit log update",
-        "Fixed incorrect paths for \u00e2\u20ac\u02dcMeet the Team\u00e2\u20ac\u2122 blog post in search engine data"
+        "Fixed incorrect paths for Meet the Team blog post in search engine data"
       ],
       "removed": [
         "Nothing was removed in this update"
@@ -531,7 +531,7 @@
       "changed": [
         "Lines of code count in home page fun fact",
         "gsc-index.json with latest search data",
-        "Changelog with entries for versions v0.0.1439\u00e2\u20ac\u201cv0.0.1463",
+        "Changelog with entries for versions v0.0.1439 and v0.0.1463",
         "daily_commits.json with 2025-07-10 entries"
       ],
       "removed": [
