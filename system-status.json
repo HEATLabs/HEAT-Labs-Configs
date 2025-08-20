@@ -2,32 +2,32 @@
     "systems": [
         {
             "name": "Website",
-            "status": "maintenance",
+            "status": "operational",
             "message": "The website is functioning normally with no reported issues."
         },
         {
             "name": "API Service",
-            "status": "maintenance",
+            "status": "operational",
             "message": "All API endpoints are responding normally."
         },
         {
             "name": "Database",
-            "status": "maintenance",
+            "status": "operational",
             "message": "Database queries are performing as expected."
         },
         {
             "name": "Data Processing",
-            "status": "maintenance",
+            "status": "operational",
             "message": "Data updates are processing normally."
         },
         {
             "name": "Authentication",
-            "status": "maintenance",
+            "status": "operational",
             "message": "Login and account services are working normally."
         },
         {
             "name": "CDN",
-            "status": "maintenance",
+            "status": "operational",
             "message": "Content delivery network is functioning optimally."
         }
     ],
@@ -35,10 +35,11 @@
         {
             "id": "inc-20250819-001",
             "title": "World of Tanks: HEAT Rebranding",
-            "description": "We are in the process of rebranding as the game has received an official name. During this process the site and all pages will be unavailable. We thank you for your patience.",
+            "description": "The rebranding process has been successfully completed! The game now has its official name, and our site along with all pages are back online. We appreciate your patience and support during this transition.",
             "severity": "maintenance",
             "start_time": "2025-08-19T21:05:18Z",
-            "status": "maintenance",
+            "end_time": "2025-08-20T08:01:11Z",
+            "status": "ended",
             "updates": [
                 {
                     "status": "started",
@@ -54,6 +55,11 @@
                     "status": "maintenance",
                     "message": "Rebranding process is now complete, all pages should be available now as we do our final checks.",
                     "time": "2025-08-20T06:09:44Z"
+                },
+                {
+                    "status": "ended",
+                    "message": "All final checks have been completed and the rebranding process is now finished.",
+                    "time": "2025-08-20T08:01:11Z"
                 }
             ]
         },
