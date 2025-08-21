@@ -470,5 +470,21 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm808-twister/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm808-twister/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm808-twister/builds.json"
+    },
+    {
+        "id": 29,
+        "name": "AMX-10 RC",
+        "slug": "amx-10-rc",
+        "nation": "France",
+        "type": "Unknown",
+        "class": "Hinted in Trailer",
+        "image": "https://cdn.jsdelivr.net/gh/HEATLabs/Website-Images@main/tanks/amx-10-rc/upscaled_amx-10-rc.webp",
+        "stock": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/amx-10-rc/stock.json",
+        "upgrades": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/amx-10-rc/upgrades.json",
+        "consumables": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/amx-10-rc/consumables.json",
+        "perks": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/amx-10-rc/perks.json",
+        "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/amx-10-rc/agents.json",
+        "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/amx-10-rc/details.json",
+        "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/amx-10-rc/builds.json"
     }
 ]
