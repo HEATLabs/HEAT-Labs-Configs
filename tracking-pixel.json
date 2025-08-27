@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-07-29T01:32:23.089129",
+  "generated_at": "2025-08-28T00:44:44.770104",
   "base_cdn_url": "https://heatlabs-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -1993,6 +1993,22 @@
       "pixel_filename": "pcw-configurator-app.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcw-configurator-app.png",
       "html_title": "Game Configurator App"
+    },
+    {
+      "page_name": "Say hello to World of Tanks: HEAT",
+      "page_identifier": "game-name-released",
+      "html_file": "news/game-name-released.html",
+      "pixel_filename": "pcwstats-tracker-pixel-game-name-released.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-game-name-released.png",
+      "html_title": "Say hello to World of Tanks: HEAT - HEAT Labs"
+    },
+    {
+      "page_name": "AMX-10 RC",
+      "page_identifier": "amx-10-rc",
+      "html_file": "tanks/amx-10-rc.html",
+      "pixel_filename": "pcwstats-tracker-pixel-amx-10-rc.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-amx-10-rc.png",
+      "html_title": "AMX-10 RC - HEAT Labs"
     }
   ]
 }
