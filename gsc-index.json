@@ -1,25 +1,131 @@
 {
-  "generated_at": "2025-08-20T10:57:09.437224",
+  "generated_at": "2025-08-28T00:16:22.411230",
   "site_url": "https://heatlabs.github.io/",
   "data_type": "all_time",
   "data": {
     "site_url": "https://heatlabs.github.io/",
-    "last_checked": "2025-08-20T10:57:09.071424",
+    "last_checked": "2025-08-28T00:16:22.167981",
     "date_range": {
       "start_date": "2025-05-16",
-      "end_date": "2025-08-20"
+      "end_date": "2025-08-28"
     },
-    "pages": [],
+    "pages": [
+      {
+        "url": "https://heatlabs.github.io/",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 5,
+        "impressions": 12,
+        "ctr": 0.4166666666666667,
+        "position": 2.416666666666667
+      },
+      {
+        "url": "https://heatlabs.github.io/news.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 1,
+        "impressions": 7,
+        "ctr": 0.14285714285714285,
+        "position": 25.571428571428573
+      },
+      {
+        "url": "https://heatlabs.github.io/asset-gallery.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 50
+      },
+      {
+        "url": "https://heatlabs.github.io/builds.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 7.25
+      },
+      {
+        "url": "https://heatlabs.github.io/maps.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 17.5
+      },
+      {
+        "url": "https://heatlabs.github.io/playground.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 6,
+        "ctr": 0,
+        "position": 6.666666666666667
+      },
+      {
+        "url": "https://heatlabs.github.io/tanks.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 5
+      }
+    ],
     "summary": {
-      "total_pages": 0,
-      "indexed_pages": 0,
+      "total_pages": 7,
+      "indexed_pages": 7,
       "not_indexed_pages": 0,
       "errors": 0
     },
     "sitemaps": [
       {
         "path": "https://heatlabs.github.io/sitemap.xml",
-        "last_submitted": "2025-08-20T07:47:06.338Z",
+        "last_submitted": "2025-08-27T21:06:14.942Z",
         "is_pending": true,
         "is_sitemaps_index": false,
         "type": "",
@@ -30,8 +136,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 0,
-    "indexed_pages": 0,
+    "total_pages_found": 7,
+    "indexed_pages": 7,
     "errors": 0
   }
 }
