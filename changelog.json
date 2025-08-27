@@ -22,7 +22,9 @@
         "Nothing was removed in this update"
       ],
       "fixed": [
-        "Meta tags using incorrect news post title and URL on heatlabs.github.io"
+        "Meta tags using incorrect news post title and URL",
+        "Twitter meta tags to point to the correct account",
+        "Agent meta tags using incorrect names and URLs"
       ]
     },
     {
