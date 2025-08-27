@@ -1,6 +1,152 @@
 {
   "updates": [
     {
+      "version": "0.0.1723",
+      "date": "2025-08-27",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #125",
+      "description": "Full patch notes for Update v0.0.1723 (#125), detailing all changes made on 27 August, 2025.",
+      "added": [
+        "New announcement page on heatlabs.github.io",
+        "New announcement image",
+        "Missing AMX-10 RC database files"
+      ],
+      "changed": [
+        "Search index data with newly added pages",
+        "Tracking pixel index with new pages",
+        "Daily commit log",
+        "Changelog",
+        "GSC index data"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Meta tags using incorrect news post title and URL on heatlabs.github.io"
+      ]
+    },
+    {
+      "version": "0.0.1713",
+      "date": "2025-08-26",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #124",
+      "description": "Full patch notes for Update v0.0.1713 (#124), detailing all changes made on 26 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1709",
+      "date": "2025-08-25",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #123",
+      "description": "Full patch notes for Update v0.0.1709 (#123), detailing all changes made on 25 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1705",
+      "date": "2025-08-24",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #122",
+      "description": "Full patch notes for Update v0.0.1705 (#122), detailing all changes made on 24 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1701",
+      "date": "2025-08-23",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #121",
+      "description": "Full patch notes for Update v0.0.1701 (#121), detailing all changes made on 23 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1697",
+      "date": "2025-08-22",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #120",
+      "description": "Full patch notes for Update v0.0.1697 (#120), detailing all changes made on 22 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1693",
+      "date": "2025-08-21",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #119",
+      "description": "Full patch notes for Update v0.0.1693 (#119), detailing all changes made on 21 August, 2025.",
+      "added": [
+        "AMX-10 RC tank page",
+        "France nation filter",
+        "Trailer status filter",
+        "AMX-10 tank entry in Website-Configs",
+        "AMX-10 image placeholder"
+      ],
+      "changed": [
+        "Look of filters on Tank page",
+        "Meet the Team post to resolve issues caused by rebranding",
+        "Several URLs in AMX-10 page",
+        "AMX-10 tank-id and content date"
+      ],
+      "removed": [
+        "T-55 easter egg from AMX-10 page"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.0.1682",
       "date": "2025-08-20",
       "author": "HEAT Labs Team",
