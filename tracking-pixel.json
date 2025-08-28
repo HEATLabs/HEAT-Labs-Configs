@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-28T00:44:44.770104",
+  "generated_at": "2025-08-28T06:53:59.063113",
   "base_cdn_url": "https://heatlabs-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -145,14 +145,6 @@
       "pixel_filename": "pcwstats-tracker-pixel-news.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-news.png",
       "html_title": "Game News - HEAT Labs"
-    },
-    {
-      "page_name": "Tank Roulette",
-      "page_identifier": "roulette",
-      "html_file": "easter-eggs/roulette.html",
-      "pixel_filename": "pcwstats-tracker-pixel-roulette.png",
-      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-roulette.png",
-      "html_title": "Tank Roulette - HEAT Labs"
     },
     {
       "page_name": "Strategy Planner",
@@ -1515,14 +1507,6 @@
       "html_title": "Titan Dummies Respawn Glitch - HEAT Labs"
     },
     {
-      "page_name": "Unlocking the Camera on the End Game Screen",
-      "page_identifier": "unlocking-the-camera",
-      "html_file": "bug-hunting/unlocking_the_camera.html",
-      "pixel_filename": "pcwstats-tracker-pixel-unlocking-the-camera.png",
-      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-unlocking-the-camera.png",
-      "html_title": "Unlocking the Camera on the End Game Screen - HEAT Labs"
-    },
-    {
       "page_name": "Who is PCW Bug Hunters?",
       "page_identifier": "who-is-pcw-bug-hunters",
       "html_file": "bug-hunting/who-is-pcw-bug-hunters.html",
@@ -1537,14 +1521,6 @@
       "pixel_filename": "pcwstats-tracker-pixel-wierd-pattern-images.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-wierd-pattern-images.png",
       "html_title": "Wierd Pattern Images - HEAT Labs"
-    },
-    {
-      "page_name": "Alpha 3 Playtest",
-      "page_identifier": "alpha-3-playtest",
-      "html_file": "easter-eggs/alpha-3-playtest.html",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-3-playtest.png",
-      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-3-playtest.png",
-      "html_title": "Alpha 3 Playtest - HEAT Labs"
     },
     {
       "page_name": "Maxwell",
@@ -2009,6 +1985,54 @@
       "pixel_filename": "pcwstats-tracker-pixel-amx-10-rc.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-amx-10-rc.png",
       "html_title": "AMX-10 RC - HEAT Labs"
+    },
+    {
+      "page_name": "Asset Gallery",
+      "page_identifier": "asset-gallery",
+      "html_file": "asset-gallery.html",
+      "pixel_filename": "pcwstats-tracker-pixel-asset-gallery.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-asset-gallery.png",
+      "html_title": "Asset Gallery - HEAT Labs"
+    },
+    {
+      "page_name": "Say hello to World of Tanks: HEAT",
+      "page_identifier": "game-name-released",
+      "html_file": "announcements/game-name-released.html",
+      "pixel_filename": "pcwstats-tracker-pixel-game-name-released.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-game-name-released.png",
+      "html_title": "Say hello to World of Tanks: HEAT - HEAT Labs"
+    },
+    {
+      "page_name": "Unlocking the Camera on the End Game Screen",
+      "page_identifier": "unlocking-the-camera",
+      "html_file": "bug-hunting/unlocking-the-camera.html",
+      "pixel_filename": "pcwstats-tracker-pixel-unlocking-the-camera.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-unlocking-the-camera.png",
+      "html_title": "Unlocking the Camera on the End Game Screen - HEAT Labs"
+    },
+    {
+      "page_name": "Alpha 3 Playtest",
+      "page_identifier": "alpha-3-playtest",
+      "html_file": "playground/alpha-3-playtest.html",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-3-playtest.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-alpha-3-playtest.png",
+      "html_title": "Alpha 3 Playtest - HEAT Labs"
+    },
+    {
+      "page_name": "Game Servers",
+      "page_identifier": "game-servers",
+      "html_file": "playground/game-servers.html",
+      "pixel_filename": "pcwstats-tracker-pixel-game-servers.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-game-servers.png",
+      "html_title": "Game Servers - HEAT Labs"
+    },
+    {
+      "page_name": "Tank Roulette",
+      "page_identifier": "roulette",
+      "html_file": "playground/roulette.html",
+      "pixel_filename": "pcwstats-tracker-pixel-roulette.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-roulette.png",
+      "html_title": "Tank Roulette - HEAT Labs"
     }
   ]
 }
