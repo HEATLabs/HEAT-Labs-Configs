@@ -102,6 +102,12 @@
     "keywords": ["config", "configurator", "gameplay"]
   },
   {
+    "name": "Game Servers",
+    "description": "Live tracking for all World of Tanks: HEAT game servers",
+    "path": "https://heatlabs.github.io/playground/game-servers.html",
+    "keywords": ["servers", "uptime", "ping"]
+  },
+  {
     "name": "Changelog",
     "description": "Full history of changes, fixes, and feature additions",
     "path": "https://heatlabs.github.io/Website-Changelog",
