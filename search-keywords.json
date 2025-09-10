@@ -108,6 +108,12 @@
     "keywords": ["servers", "uptime", "ping"]
   },
   {
+    "name": "HEAT Labs App",
+    "description": "Download our application on your Phone or Desktop",
+    "path": "https://heatlabs.github.io/playground/game-servers.html",
+    "keywords": ["app", "application", "pwa"]
+  },
+  {
     "name": "Changelog",
     "description": "Full history of changes, fixes, and feature additions",
     "path": "https://heatlabs.github.io/Website-Changelog",
@@ -1042,6 +1048,24 @@
     "description": "Article: Who Are They 2",
     "path": "https://heatlabs.github.io/news/who-are-they-2.html",
     "keywords": ["news", "article", "who are they 2"]
+  },
+  {
+    "name": "Announcing World of Tanks: HEAT",
+    "description": "Announcing World of Tanks: HEAT",
+    "path": "https://heatlabs.github.io/steam-news/announcing-world-of-tanks-heat.html",
+    "keywords": ["announcing", "world of tanks: heat"]
+  },
+  {
+    "name": "Turning Up the HEAT: Fair Play, Clear Value",
+    "description": "Turning Up the HEAT: Fair Play, Clear Value",
+    "path": "https://heatlabs.github.io/steam-news/fair-play-and-clear-value.html",
+    "keywords": ["fair", "play", "clear", "value"]
+  },
+  {
+    "name": "Join the Lodestar Program",
+    "description": "Join the Lodestar Program",
+    "path": "https://heatlabs.github.io/steam-news/join-the-lodestar-program.html",
+    "keywords": ["lodestar", "program", "register"]
   },
   {
     "name": "Alpha 1 Announcement 1",
