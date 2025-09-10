@@ -1,30 +1,296 @@
 {
   "updates": [
     {
-      "version": "0.0.1725",
+      "version": "0.0.1796",
+      "date": "2025-09-09",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #138",
+      "description": "Full patch notes for Update v0.0.1796 (#138), detailing all changes made on 09 September, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1792",
+      "date": "2025-09-08",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #137",
+      "description": "Full patch notes for Update v0.0.1792 (#137), detailing all changes made on 08 September, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1788",
+      "date": "2025-09-07",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #136",
+      "description": "Full patch notes for Update v0.0.1788 (#136), detailing all changes made on 07 September, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1784",
+      "date": "2025-09-06",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #135",
+      "description": "Full patch notes for Update v0.0.1784 (#135), detailing all changes made on 06 September, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1780",
+      "date": "2025-09-05",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #134",
+      "description": "Full patch notes for Update v0.0.1780 (#134), detailing all changes made on 05 September, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1776",
+      "date": "2025-09-04",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #133",
+      "description": "Full patch notes for Update v0.0.1776 (#133), detailing all changes made on 04 September, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Electron version bumped in npm_and_yarn dependency group across one directory"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1772",
+      "date": "2025-09-03",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #132",
+      "description": "Full patch notes for Update v0.0.1772 (#132), detailing all changes made on 03 September, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1768",
+      "date": "2025-09-02",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #131",
+      "description": "Full patch notes for Update v0.0.1768 (#131), detailing all changes made on 02 September, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1764",
+      "date": "2025-09-01",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #130",
+      "description": "Full patch notes for Update v0.0.1764 (#130), detailing all changes made on 01 September, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1760",
+      "date": "2025-08-31",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #129",
+      "description": "Full patch notes for Update v0.0.1760 (#129), detailing all changes made on 31 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1756",
+      "date": "2025-08-30",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #128",
+      "description": "Full patch notes for Update v0.0.1756 (#128), detailing all changes made on 30 August, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1752",
+      "date": "2025-08-29",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #127",
+      "description": "Full patch notes for Update v0.0.1752 (#127), detailing all changes made on 29 August, 2025.",
+      "added": [
+        "Image for Game Servers page"
+      ],
+      "changed": [
+        "Main Playground page to use new image for Game Servers feature"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1748",
+      "date": "2025-08-28",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #126",
+      "description": "Full patch notes for Update v0.0.1748 (#126), detailing all changes made on 28 August, 2025.",
+      "added": [
+        "Missing tracking pixel to Game Servers page",
+        "Disclaimer section to Game Servers page",
+        "Full chart implementation for Game Servers page",
+        "Chart.js import in Game Servers page",
+        "New Monitoring Since field for all servers",
+        "Initial version of the Game Servers playground page",
+        "Banner promo for the new Game Servers feature",
+        "Game Servers page to search index list",
+        "Game Servers page to tracking pixel index",
+        "Additional WOT:H hero background image"
+      ],
+      "changed": [
+        "Disclaimer in Game Servers page",
+        "Response Time field to display latest ping instead of average",
+        "Layout of server cards in Game Servers page",
+        "Home page stats",
+        "Hero background script in Website-Status to include new image"
+      ],
+      "removed": [
+        "Bottom legend under all charts in Game Servers page",
+        "Server card hover styles from Game Servers page"
+      ],
+      "fixed": [
+        "Footer paths on Game Servers page",
+        "Site manifest path on Game Servers page",
+        "Several sidebar URL paths on Game Servers page",
+        "Last Check field in all servers",
+        "Missing and incorrect entries in tracking pixel index"
+      ]
+    },
+    {
+      "version": "0.0.1726",
       "date": "2025-08-27",
       "author": "HEAT Labs Team",
       "title": "HEAT Labs - Update Number #125",
-      "description": "Full patch notes for Update v0.0.1725 (#125), detailing all changes made on 27 August, 2025.",
+      "description": "Full patch notes for Update v0.0.1726 (#125), detailing all changes made on 27 August, 2025.",
       "added": [
-        "New announcement page on heatlabs.github.io",
+        "New announcement page on HeatLabs site",
         "New announcement image",
-        "Missing AMX-10 RC database files"
+        "Missing database files for AMX-10 RC"
       ],
       "changed": [
-        "Search index data with newly added pages",
+        "Changelog entries in Website-Configs",
+        "Changelog post version number",
+        "Search index data with new pages",
         "Tracking pixel index with new pages",
         "Daily commit log",
-        "Changelog",
         "GSC index data"
       ],
       "removed": [
         "Nothing was removed in this update"
       ],
       "fixed": [
-        "Meta tags using incorrect news post title and URL",
-        "Twitter meta tags to point to the correct account",
-        "Agent meta tags using incorrect names and URLs"
+        "Meta tags for all agent pages",
+        "Twitter meta tags across multiple sites (HeatLabs, Website-Changelog, Website-Statistics, Website-Status)",
+        "Incorrect news post title and URL in meta tags"
       ]
     },
     {
