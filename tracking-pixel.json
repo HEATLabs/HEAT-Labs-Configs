@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-28T06:53:59.063113",
+  "generated_at": "2025-09-10T22:54:49.151973",
   "base_cdn_url": "https://heatlabs-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -2033,6 +2033,38 @@
       "pixel_filename": "pcwstats-tracker-pixel-roulette.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-roulette.png",
       "html_title": "Tank Roulette - HEAT Labs"
+    },
+    {
+      "page_name": "Announcing World of Tanks: HEAT",
+      "page_identifier": "announcing-world-of-tanks-heat",
+      "html_file": "steam-news/announcing-world-of-tanks-heat.html",
+      "pixel_filename": "pcwstats-tracker-pixel-announcing-world-of-tanks-heat.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-announcing-world-of-tanks-heat.png",
+      "html_title": "Announcing World of Tanks: HEAT - HEAT Labs"
+    },
+    {
+      "page_name": "Turning Up the HEAT: Fair Play, Clear Value",
+      "page_identifier": "fair-play-and-clear-value",
+      "html_file": "steam-news/fair-play-and-clear-value.html",
+      "pixel_filename": "pcwstats-tracker-pixel-fair-play-and-clear-value.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-fair-play-and-clear-value.png",
+      "html_title": "Turning Up the HEAT: Fair Play, Clear Value - HEAT Labs"
+    },
+    {
+      "page_name": "Join the Lodestar Program",
+      "page_identifier": "join-the-lodestar-program",
+      "html_file": "steam-news/join-the-lodestar-program.html",
+      "pixel_filename": "pcwstats-tracker-pixel-join-the-lodestar-program.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-join-the-lodestar-program.png",
+      "html_title": "Join the Lodestar Program - HEAT Labs"
+    },
+    {
+      "page_name": "Steam Title",
+      "page_identifier": "placeholder-post",
+      "html_file": "steam-news/placeholder-post.html",
+      "pixel_filename": "pcwstats-tracker-pixel-placeholder-post.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-post.png",
+      "html_title": "Steam Title - HEAT Labs"
     }
   ]
 }
