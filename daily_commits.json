@@ -1,12 +1,51 @@
 {
+  "2025-09-04": [
+    "[HEATLabs-Configurator] Merge pull request #1 from HEATLabs/dependabot/npm_and_yarn/npm_and_yarn-ebff5c34c5",
+    "[HEATLabs-Configurator] Bump electron in the npm_and_yarn group across 1 directory"
+  ],
+  "2025-08-29": [
+    "[heatlabs.github.io] updated main playground page to use the new image for the game servers feature",
+    "[Website-Images] added image for game servers page"
+  ],
+  "2025-08-28": [
+    "[heatlabs.github.io] removed bottom legend under all charts in game servers page",
+    "[heatlabs.github.io] updated disclaimer in game servers page",
+    "[heatlabs.github.io] tweaked response time field to show the latest ping value instead of the average of the last 10 pings",
+    "[heatlabs.github.io] added missing tracking pixel to game servers page",
+    "[heatlabs.github.io] Fixed footer paths on Game Servers page",
+    "[heatlabs.github.io] Fixed site manifest path on Game Servers page",
+    "[heatlabs.github.io] Fixed several sidebar url paths on Game Servers page",
+    "[heatlabs.github.io] added disclaimer to game servers page",
+    "[heatlabs.github.io] added full chart implementation for game server page",
+    "[heatlabs.github.io] changed the layout in the game servers page server cards",
+    "[heatlabs.github.io] added chart.js import in game servers page",
+    "[heatlabs.github.io] fixed Last Check field in all servers and added new Monitoring Since field to all servers",
+    "[heatlabs.github.io] removed server card hover styles from game servers page",
+    "[heatlabs.github.io] added initial version of the new game-servers playground page",
+    "[Website-Configs] added banner promo for the new game servers feature",
+    "[Website-Configs] added game servers page to search index list",
+    "[Website-Configs] added game servers page to tracking pixel index and fixed missing and incorrect entries in the tracking pixel index",
+    "[Website-Configs] updated home page stats",
+    "[Website-Images] Added additional WOT:H hero background",
+    "[Website-Status] Updated hero background script to include new background image"
+  ],
   "2025-08-27": [
+    "[heatlabs.github.io] fixed meta tags for all agent pages",
+    "[heatlabs.github.io] fixed twitter meta tags",
     "[heatlabs.github.io] added new announcement page",
     "[heatlabs.github.io] fixed issue in meta tags using incorrect news post title and URL",
+    "[Website-Configs] fixed version number in latest changelog post",
+    "[Website-Configs] fixed changelog entries",
+    "[Website-Configs] updated changelog",
     "[Website-Configs] updated search index data with new pages",
     "[Website-Configs] updated tracking pixel index with new pages",
     "[Website-Configs] updated daily commit log",
     "[Website-Configs] updated GSC index data",
-    "[Website-Images] added new announcement image"
+    "[Website-Images] added new announcement image",
+    "[Database-Files] added missing database files for AMX-10 RC",
+    "[Website-Changelog] fixed twitter meta tags",
+    "[Website-Statistics] fixed twitter meta tags",
+    "[Website-Status] fixed twitter meta tags"
   ],
   "2025-08-21": [
     "[heatlabs.github.io] Revised the look of filters on Tank page",
