@@ -16,16 +16,6 @@
             "message": "Database queries are performing as expected."
         },
         {
-            "name": "Data Processing",
-            "status": "operational",
-            "message": "Data updates are processing normally."
-        },
-        {
-            "name": "Authentication",
-            "status": "operational",
-            "message": "Login and account services are working normally."
-        },
-        {
             "name": "CDN",
             "status": "operational",
             "message": "Content delivery network is functioning optimally."
