@@ -1,4 +1,40 @@
 {
+  "2025-09-11": [
+    "[Website-Configs] removed 2 cards from the system status page",
+    "[Website-Status] removed uptime chart from system status cards",
+    "[Website-Status] added monitoring system to system status page",
+    "[Website-Status] added local copy of chart.js"
+  ],
+  "2025-09-10": [
+    "[heatlabs.github.io] added dark mode styles for iOS instructions modal",
+    "[heatlabs.github.io] updated path for service worker in heat labs app page",
+    "[heatlabs.github.io] added service worker for PWA app",
+    "[heatlabs.github.io] added tracking pixel to the heat labs app page",
+    "[heatlabs.github.io] updated playground page with the 6th playground feature (heat labs app))",
+    "[heatlabs.github.io] added heat labs app page",
+    "[heatlabs.github.io] fixed canonical URL in home page",
+    "[heatlabs.github.io] added tracking pixel to all steam news posts",
+    "[heatlabs.github.io] added all 3 steam news posts to main news page",
+    "[heatlabs.github.io] added all 3 steam news post for the new category",
+    "[heatlabs.github.io] updated paths to author image in placeholder post",
+    "[heatlabs.github.io] Update news types and tags to Discord News",
+    "[heatlabs.github.io] added placeholder post for steam news category",
+    "[heatlabs.github.io] Added 3 new counters to home page and updated the layout of the counters",
+    "[Website-Configs] updated search engine index with 4 new pages",
+    "[Website-Configs] updated tracking pixel index with the new heat labs app page",
+    "[Website-Configs] updated home page stats",
+    "[Website-Configs] updated GSC index data",
+    "[Website-Configs] updated tracking pixel index",
+    "[Website-Configs] Update home-stats with new project metrics",
+    "[Website-Configs] updated changelog",
+    "[Website-Configs] updated daily commit log",
+    "[Website-Images] added app preview image",
+    "[Website-Images] updated PWA screenshots",
+    "[Website-Images] added new images required for the steam news section",
+    "[Database-Tools] Add TXT output directory option and menu enhancements",
+    "[Database-Tools] Add folder count and total size to statistics",
+    "[ThatSINEWAVE/HEATLabs-Views-API] added tracking pixels for all new pages"
+  ],
   "2025-09-04": [
     "[HEATLabs-Configurator] Merge pull request #1 from HEATLabs/dependabot/npm_and_yarn/npm_and_yarn-ebff5c34c5",
     "[HEATLabs-Configurator] Bump electron in the npm_and_yarn group across 1 directory"
