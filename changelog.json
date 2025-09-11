@@ -1,22 +1,47 @@
 {
   "updates": [
     {
-      "version": "0.0.1796",
-      "date": "2025-09-09",
+      "version": "0.0.1821",
+      "date": "2025-09-10",
       "author": "HEAT Labs Team",
       "title": "HEAT Labs - Update Number #138",
-      "description": "Full patch notes for Update v0.0.1796 (#138), detailing all changes made on 09 September, 2025.",
+      "description": "Full patch notes for Update v0.0.1821 (#138), detailing all changes made on 10 September, 2025.",
       "added": [
-        "Nothing was added in this update"
+        "Dark mode styles for iOS instructions modal",
+        "Service worker for PWA app",
+        "Tracking pixel to the Heat Labs app page",
+        "Heat Labs app page",
+        "Tracking pixel to all Steam news posts",
+        "All three Steam news posts to the main news page",
+        "All three Steam news posts to the new Steam News category",
+        "Placeholder post for Steam News category",
+        "Three new counters to the home page with updated counter layout",
+        "App preview image in Website-Images",
+        "New images for Steam News section",
+        "TXT output directory option and menu enhancements in Database-Tools",
+        "Folder count and total size statistics in Database-Tools",
+        "Tracking pixels for all new pages in HEATLabs Views API"
       ],
       "changed": [
-        "Nothing was changed in this update"
+        "Path for service worker in Heat Labs app page",
+        "Playground page with sixth playground feature (Heat Labs app)",
+        "Paths to author image in placeholder post",
+        "News types and tags updated to Discord News",
+        "Search engine index with four new pages",
+        "Tracking pixel index with new Heat Labs app page",
+        "Home page statistics",
+        "GSC index data",
+        "Tracking pixel index data",
+        "Home-stats file with new project metrics",
+        "Changelog entries",
+        "Daily commit log",
+        "PWA screenshots in Website-Images"
       ],
       "removed": [
         "Nothing was removed in this update"
       ],
       "fixed": [
-        "Nothing was fixed in this update"
+        "Canonical URL in home page"
       ]
     },
     {
