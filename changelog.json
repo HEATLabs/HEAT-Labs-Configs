@@ -1,6 +1,49 @@
 {
   "updates": [
     {
+      "version": "0.0.1834",
+      "date": "2025-09-12",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #140",
+      "description": "Full patch notes for Update v0.0.1834 (#140), detailing all changes made on 12 September, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1830",
+      "date": "2025-09-11",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #139",
+      "description": "Full patch notes for Update v0.0.1830 (#139), detailing all changes made on 11 September, 2025.",
+      "added": [
+        "Note to PWA app install steps",
+        "Monitoring system to system status page",
+        "Local copy of Chart.js for system status monitoring"
+      ],
+      "changed": [
+        "Image size in HEAT Labs app install steps",
+        "Changelog data",
+        "Daily commit log"
+      ],
+      "removed": [
+        "Two cards from the system status page in Website-Configs",
+        "Uptime chart from system status cards in Website-Status"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.0.1821",
       "date": "2025-09-10",
       "author": "HEAT Labs Team",
