@@ -1,0 +1,18 @@
+{
+  "Sounds": [
+    {
+      "name": "Voice Lines HQ",
+      "description": "Placeholder Description",
+      "items": [
+        {
+          "id": "voice-line-0001",
+          "soundType": "Voice Lines",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/tankopedia/sounds/OAT1/voice-lines-camp/1.waw",
+          "name": "Sound Name Placeholder",
+          "description": "Sound Description Placeholder"
+        }
+      ]
+    }
+  ]
+}
