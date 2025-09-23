@@ -1,7 +1,7 @@
 {
   "soundsCategories": [
     {
-      "categoryName": "Voice Lines HQ",
+      "categoryName": "Battle Voice Lines",
       "categoryDescription": "Placeholder Description",
       "categoryItems": [
         {
@@ -21123,7 +21123,11 @@
           "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/voice-lines-battle/999.wav",
           "soundName": "voice-lines-battle - Sound 999",
           "soundDescription": "Sound file from voice-lines-battle directory"
-        },
+        }
+	  ],
+      "categoryName": "Campaign Voice Lines",
+      "categoryDescription": "Placeholder Description",
+      "categoryItems": [
         {
           "soundID": "voice-lines-camp-1",
           "soundType": "voice-lines",
@@ -22747,7 +22751,11 @@
           "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/voice-lines-camp/99.wav",
           "soundName": "voice-lines-camp - Sound 99",
           "soundDescription": "Sound file from voice-lines-camp directory"
-        },
+        }
+	  ],
+      "categoryName": "Gameplay Voice Lines",
+      "categoryDescription": "Placeholder Description",
+      "categoryItems": [
         {
           "soundID": "voice-lines-gameplay-1",
           "soundType": "voice-lines",
@@ -23643,7 +23651,11 @@
           "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/voice-lines-gameplay/99.wav",
           "soundName": "voice-lines-gameplay - Sound 99",
           "soundDescription": "Sound file from voice-lines-gameplay directory"
-        },
+        }
+	  ],
+      "categoryName": "HQ Voice Lines",
+      "categoryDescription": "Placeholder Description",
+      "categoryItems": [
         {
           "soundID": "voice-lines-hq-1",
           "soundType": "voice-lines",
