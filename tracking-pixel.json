@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-11T02:16:09.622428",
+  "generated_at": "2025-09-23T22:39:23.596857",
   "base_cdn_url": "https://heatlabs-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -2073,6 +2073,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-heat-labs-app.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-heat-labs-app.png",
       "html_title": "PWA App - HEAT Labs"
+    },
+    {
+      "page_name": "Wordle",
+      "page_identifier": "wordle",
+      "html_file": "playground/wordle.html",
+      "pixel_filename": "pcwstats-tracker-pixel-wordle.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-wordle.png",
+      "html_title": "Wordle - HEAT Labs"
     }
   ]
 }
