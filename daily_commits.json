@@ -1,6 +1,24 @@
 {
+  "2025-09-18": [
+    "[HEATLabs-Configurator] Update README.md"
+  ],
+  "2025-09-17": [
+    "[heatlabs.github.io] Corrected playground tab not being active on game-servers page",
+    "[Website-Configs] shortened CTA button text in banner",
+    "[Website-Configs] updated banner message for Views API outage"
+  ],
   "2025-09-13": [
+    "[heatlabs.github.io] fixed issue with spacing between each content creator name in credits page",
+    "[heatlabs.github.io] updated credits page for the new video in the AGDS page",
+    "[heatlabs.github.io] added new video to the AGDS page",
+    "[heatlabs.github.io] added placeholder bracket styles and js files in tournament pages",
+    "[heatlabs.github.io] added imports for the bracket in both tournament pages",
+    "[heatlabs.github.io] added placeholder in OAT1 tournament page",
     "[heatlabs.github.io] updated playground page to use the new image",
+    "[Website-Configs] fixed an issue in search engine dataset",
+    "[Website-Configs] updated changelog",
+    "[Website-Configs] updated daily commit log",
+    "[Website-Configs] updated GSC index",
     "[Website-Images] added PWA image for playground page",
     "[Database-Files] updated structure for final match in OAT2 tournament data"
   ],
