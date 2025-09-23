@@ -114,6 +114,12 @@
     "keywords": ["app", "application", "pwa"]
   },
   {
+    "name": "Wordle Game",
+    "description": "Wordle game based on World of Tanks: HEAT",
+    "path": "https://heatlabs.github.io/playground/wordle.html",
+    "keywords": ["wordle", "game", "guess"]
+  },
+  {
     "name": "Changelog",
     "description": "Full history of changes, fixes, and feature additions",
     "path": "https://heatlabs.github.io/Website-Changelog",
