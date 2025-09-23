@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-23T22:39:23.596857",
+  "generated_at": "2025-09-24T00:13:28.342685",
   "base_cdn_url": "https://heatlabs-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -2081,6 +2081,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-wordle.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-wordle.png",
       "html_title": "Wordle - HEAT Labs"
+    },
+    {
+      "page_name": "Soundboard",
+      "page_identifier": "soundboard",
+      "html_file": "playground/soundboard.html",
+      "pixel_filename": "pcwstats-tracker-pixel-soundboard.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-soundboard.png",
+      "html_title": "Soundboard - HEAT Labs"
     }
   ]
 }
