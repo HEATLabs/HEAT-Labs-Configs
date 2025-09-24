@@ -1,22 +1,52 @@
 {
   "updates": [
     {
-      "version": "0.0.1889",
+      "version": "0.0.1919",
       "date": "2025-09-23",
       "author": "HEAT Labs Team",
       "title": "HEAT Labs - Update Number #151",
-      "description": "Full patch notes for Update v0.0.1889 (#151), detailing all changes made on 23 September, 2025.",
+      "description": "Full patch notes for Update v0.0.1919 (#151), detailing all changes made on 23 September, 2025.",
       "added": [
-        "Nothing was added in this update"
+        "Complete code for the new Soundboard page",
+        "New Soundboard page to the main Playground page",
+        "Placeholder files for upcoming Soundboard page",
+        "Nexus Mods link and titles to social icons across main site pages",
+        "Wordle game to the Playground page",
+        "Games won/lost stats in Wordle UI",
+        "Experimental Wordle game",
+        "Sounds.json index file",
+        "Wordle page to search keyword index",
+        "Experimental word list",
+        "More words added to experimental word list",
+        "Tracking pixels for new Soundboard and Wordle Playground pages in HEATLabs Views API"
       ],
       "changed": [
-        "Nothing was changed in this update"
+        "Wordle game title and subtitle",
+        "Wordle UI (refactored, removed guess distribution stats, added dynamic word length and modal UI)",
+        "Wordle game logic to use random word selection",
+        "Formatting in CSS and JS files for Wordle page",
+        "Sound index file with updated sounds and categories",
+        "JSON structure for sound index file",
+        "Voice-lines-battle sound entries",
+        "Sounds.json schema refactored for clarity",
+        "Search keyword index with new Soundboard page",
+        "Tracking pixel index with new Soundboard and Wordle pages",
+        "Wordle word list and format",
+        "Changelog file in Website-Configs",
+        "Daily commit log in Website-Configs",
+        "GSC index data in Website-Configs",
+        "Daily commit fetcher with new repo name in Database-Tools"
       ],
       "removed": [
-        "Nothing was removed in this update"
+        "Word validity check from Wordle guess handler",
+        "Guess distribution stats from Wordle UI"
       ],
       "fixed": [
-        "Nothing was fixed in this update"
+        "Pathing issue causing statistics button in Tank Roulette page to not open correct URL",
+        "Issues in README file in Website-Configs repo",
+        "Issues in README file in Website-Images repo",
+        "Issues in README file in Database-Tools repo",
+        "Incorrect site names leftover from rebranding in Website-Status page"
       ]
     },
     {
