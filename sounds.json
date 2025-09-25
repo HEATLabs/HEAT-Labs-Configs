@@ -897,7 +897,7 @@
           "soundType": "Raketa",
           "soundSource": "Open Alpha Playtest #1",
           "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/voice-lines-battle/1099.wav",
-          "soundName": "You can't stop La Révolution.",
+          "soundName": "You can't stop La Revolution.",
           "soundDescription": "Sound file from voice-lines-battle directory"
         },
         {
@@ -1473,7 +1473,7 @@
           "soundType": "Raketa",
           "soundSource": "Open Alpha Playtest #1",
           "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/voice-lines-battle/1163.wav",
-          "soundName": "You can't stop La Révolution",
+          "soundName": "You can't stop La Revolution",
           "soundDescription": "Sound file from voice-lines-battle directory"
         },
         {
@@ -28041,6 +28041,250 @@
           "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/voice-lines-hq/99.wav",
           "soundName": "All units this is Sabe, the enemy is on their heels, crush their resistance",
           "soundDescription": "Sound file from voice-lines-hq directory"
+        }
+      ]
+    },
+    {
+      "categoryName": "Music",
+      "categoryDescription": "Sound files from music directory",
+      "categoryItems": [
+        {
+          "soundID": "music-1",
+          "soundType": "Music",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/music/1.wav",
+          "soundName": "Soundtrack #1",
+          "soundDescription": "Sound file from music directory"
+        }
+      ]
+    },
+    {
+      "categoryName": "Utility",
+      "categoryDescription": "Sound files from utility directory",
+      "categoryItems": [
+        {
+          "soundID": "utility-1",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/utility/1.wav",
+          "soundName": "Utility Sound #1",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-10",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/10.wav",
+          "soundName": "Utility Sound #10",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-11",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/11.wav",
+          "soundName": "Utility Sound #11",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-12",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/12.wav",
+          "soundName": "Utility Sound #12",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-13",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/13.wav",
+          "soundName": "Utility Sound #13",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-14",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/14.wav",
+          "soundName": "Utility Sound #14",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-15",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/15.wav",
+          "soundName": "Utility Sound #15",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-16",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/16.wav",
+          "soundName": "Utility Sound #16",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-17",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/17.wav",
+          "soundName": "Utility Sound #17",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-18",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/18.wav",
+          "soundName": "Utility Sound #18",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-19",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/19.wav",
+          "soundName": "Utility Sound #19",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-2",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/utility/2.wav",
+          "soundName": "Utility Sound #2",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-20",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/20.wav",
+          "soundName": "Utility Sound #20",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-21",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/21.wav",
+          "soundName": "Utility Sound #21",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-22",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/22.wav",
+          "soundName": "Utility Sound #22",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-23",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/23.wav",
+          "soundName": "Utility Sound #23",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-24",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/24.wav",
+          "soundName": "Utility Sound #24",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-25",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/25.wav",
+          "soundName": "Utility Sound #25",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-26",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/26.wav",
+          "soundName": "Utility Sound #26",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-27",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/27.wav",
+          "soundName": "Utility Sound #27",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-28",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/28.wav",
+          "soundName": "Utility Sound #28",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-3",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/utility/3.wav",
+          "soundName": "Utility Sound #3",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-4",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/utility/4.wav",
+          "soundName": "Utility Sound #4",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-5",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/utility/5.wav",
+          "soundName": "Utility Sound #5",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-6",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/6.wav",
+          "soundName": "Utility Sound #6",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-7",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/7.wav",
+          "soundName": "Utility Sound #7",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-8",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/8.wav",
+          "soundName": "Utility Sound #8",
+          "soundDescription": "Sound file from utility directory"
+        },
+        {
+          "soundID": "utility-9",
+          "soundType": "Utility",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/utility/9.wav",
+          "soundName": "Utility Sound #9",
+          "soundDescription": "Sound file from utility directory"
         }
       ]
     }
