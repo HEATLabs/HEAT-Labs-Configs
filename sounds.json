@@ -33409,6 +33409,1188 @@
       ]
     },
     {
+      "categoryName": "Hangar",
+      "categoryDescription": "Sound files from hangar directory",
+      "categoryItems": [
+        {
+          "soundID": "hangar-1",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/1.wav",
+          "soundName": "Hangar Sound Effect #1",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-10",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/10.wav",
+          "soundName": "Hangar Sound Effect #10",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-100",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/100.wav",
+          "soundName": "Hangar Sound Effect #100",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-101",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/101.wav",
+          "soundName": "Hangar Sound Effect #101",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-102",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/102.wav",
+          "soundName": "Hangar Sound Effect #102",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-103",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/103.wav",
+          "soundName": "Hangar Sound Effect #103",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-104",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/104.wav",
+          "soundName": "Hangar Sound Effect #104",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-105",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/105.wav",
+          "soundName": "Hangar Sound Effect #105",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-106",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/106.wav",
+          "soundName": "Hangar Sound Effect #106",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-107",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/107.wav",
+          "soundName": "Hangar Sound Effect #107",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-108",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/108.wav",
+          "soundName": "Hangar Sound Effect #108",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-109",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/109.wav",
+          "soundName": "Hangar Sound Effect #109",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-11",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/11.wav",
+          "soundName": "Hangar Sound Effect #11",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-110",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/110.wav",
+          "soundName": "Hangar Sound Effect #110",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-111",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/111.wav",
+          "soundName": "Hangar Sound Effect #111",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-112",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/112.wav",
+          "soundName": "Hangar Sound Effect #112",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-113",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/113.wav",
+          "soundName": "Hangar Sound Effect #113",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-114",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/114.wav",
+          "soundName": "Hangar Sound Effect #114",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-115",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/115.wav",
+          "soundName": "Hangar Sound Effect #115",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-116",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/116.wav",
+          "soundName": "Hangar Sound Effect #116",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-117",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/117.wav",
+          "soundName": "Hangar Sound Effect #117",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-118",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/118.wav",
+          "soundName": "Hangar Sound Effect #118",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-119",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/119.wav",
+          "soundName": "Hangar Sound Effect #119",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-12",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/12.wav",
+          "soundName": "Hangar Sound Effect #12",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-120",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/120.wav",
+          "soundName": "Hangar Sound Effect #120",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-121",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/121.wav",
+          "soundName": "Hangar Sound Effect #121",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-122",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/122.wav",
+          "soundName": "Hangar Sound Effect #122",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-123",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/123.wav",
+          "soundName": "Hangar Sound Effect #123",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-124",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/124.wav",
+          "soundName": "Hangar Sound Effect #124",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-125",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/125.wav",
+          "soundName": "Hangar Sound Effect #125",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-126",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/126.wav",
+          "soundName": "Hangar Sound Effect #126",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-127",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/127.wav",
+          "soundName": "Hangar Sound Effect #127",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-128",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/128.wav",
+          "soundName": "Hangar Sound Effect #128",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-129",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/129.wav",
+          "soundName": "Hangar Sound Effect #129",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-13",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/13.wav",
+          "soundName": "Hangar Sound Effect #13",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-130",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/130.wav",
+          "soundName": "Hangar Sound Effect #130",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-131",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/131.wav",
+          "soundName": "Hangar Sound Effect #131",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-132",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/132.wav",
+          "soundName": "Hangar Sound Effect #132",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-133",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/133.wav",
+          "soundName": "Hangar Sound Effect #133",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-134",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/134.wav",
+          "soundName": "Hangar Sound Effect #134",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-135",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/135.wav",
+          "soundName": "Hangar Sound Effect #135",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-136",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/136.wav",
+          "soundName": "Hangar Sound Effect #136",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-137",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/137.wav",
+          "soundName": "Hangar Sound Effect #137",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-138",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/138.wav",
+          "soundName": "Hangar Sound Effect #138",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-139",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/139.wav",
+          "soundName": "Hangar Sound Effect #139",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-14",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/14.wav",
+          "soundName": "Hangar Sound Effect #14",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-140",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/140.wav",
+          "soundName": "Hangar Sound Effect #140",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-141",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/141.wav",
+          "soundName": "Hangar Sound Effect #141",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-142",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/142.wav",
+          "soundName": "Hangar Sound Effect #142",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-143",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/143.wav",
+          "soundName": "Hangar Sound Effect #143",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-144",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/144.wav",
+          "soundName": "Hangar Sound Effect #144",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-145",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/145.wav",
+          "soundName": "Hangar Sound Effect #145",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-146",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/146.wav",
+          "soundName": "Hangar Sound Effect #146",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-147",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/147.wav",
+          "soundName": "Hangar Sound Effect #147",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-15",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/15.wav",
+          "soundName": "Hangar Sound Effect #15",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-16",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/16.wav",
+          "soundName": "Hangar Sound Effect #16",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-17",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/17.wav",
+          "soundName": "Hangar Sound Effect #17",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-18",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/18.wav",
+          "soundName": "Hangar Sound Effect #18",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-19",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/19.wav",
+          "soundName": "Hangar Sound Effect #19",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-2",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/2.wav",
+          "soundName": "Hangar Sound Effect #2",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-20",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/20.wav",
+          "soundName": "Hangar Sound Effect #20",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-21",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/21.wav",
+          "soundName": "Hangar Sound Effect #21",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-22",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/22.wav",
+          "soundName": "Hangar Sound Effect #22",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-23",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/23.wav",
+          "soundName": "Hangar Sound Effect #23",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-24",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/24.wav",
+          "soundName": "Hangar Sound Effect #24",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-25",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/25.wav",
+          "soundName": "Hangar Sound Effect #25",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-26",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/26.wav",
+          "soundName": "Hangar Sound Effect #26",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-27",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/27.wav",
+          "soundName": "Hangar Sound Effect #27",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-28",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/28.wav",
+          "soundName": "Hangar Sound Effect #28",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-29",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/29.wav",
+          "soundName": "Hangar Sound Effect #29",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-3",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/3.wav",
+          "soundName": "Hangar Sound Effect #3",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-30",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/30.wav",
+          "soundName": "Hangar Sound Effect #30",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-31",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/31.wav",
+          "soundName": "Hangar Sound Effect #31",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-32",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/32.wav",
+          "soundName": "Hangar Sound Effect #32",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-33",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/33.wav",
+          "soundName": "Hangar Sound Effect #33",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-34",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/34.wav",
+          "soundName": "Hangar Sound Effect #34",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-35",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/35.wav",
+          "soundName": "Hangar Sound Effect #35",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-36",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/36.wav",
+          "soundName": "Hangar Sound Effect #36",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-37",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/37.wav",
+          "soundName": "Hangar Sound Effect #37",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-38",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/38.wav",
+          "soundName": "Hangar Sound Effect #38",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-39",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/39.wav",
+          "soundName": "Hangar Sound Effect #39",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-4",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/4.wav",
+          "soundName": "Hangar Sound Effect #4",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-40",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/40.wav",
+          "soundName": "Hangar Sound Effect #40",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-41",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/41.wav",
+          "soundName": "Hangar Sound Effect #41",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-42",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/42.wav",
+          "soundName": "Hangar Sound Effect #42",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-43",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/43.wav",
+          "soundName": "Hangar Sound Effect #43",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-44",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/44.wav",
+          "soundName": "Hangar Sound Effect #44",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-45",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/45.wav",
+          "soundName": "Hangar Sound Effect #45",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-46",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/46.wav",
+          "soundName": "Hangar Sound Effect #46",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-47",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/47.wav",
+          "soundName": "Hangar Sound Effect #47",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-48",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/48.wav",
+          "soundName": "Hangar Sound Effect #48",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-49",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/49.wav",
+          "soundName": "Hangar Sound Effect #49",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-5",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/5.wav",
+          "soundName": "Hangar Sound Effect #5",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-50",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/50.wav",
+          "soundName": "Hangar Sound Effect #50",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-51",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/51.wav",
+          "soundName": "Hangar Sound Effect #51",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-52",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/52.wav",
+          "soundName": "Hangar Sound Effect #52",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-53",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/53.wav",
+          "soundName": "Hangar Sound Effect #53",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-54",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/54.wav",
+          "soundName": "Hangar Sound Effect #54",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-55",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/55.wav",
+          "soundName": "Hangar Sound Effect #55",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-56",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/56.wav",
+          "soundName": "Hangar Sound Effect #56",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-57",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/57.wav",
+          "soundName": "Hangar Sound Effect #57",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-58",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/58.wav",
+          "soundName": "Hangar Sound Effect #58",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-59",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/59.wav",
+          "soundName": "Hangar Sound Effect #59",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-6",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/6.wav",
+          "soundName": "Hangar Sound Effect #6",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-60",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/60.wav",
+          "soundName": "Hangar Sound Effect #60",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-61",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/61.wav",
+          "soundName": "Hangar Sound Effect #61",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-62",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/62.wav",
+          "soundName": "Hangar Sound Effect #62",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-63",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/63.wav",
+          "soundName": "Hangar Sound Effect #63",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-64",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/64.wav",
+          "soundName": "Hangar Sound Effect #64",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-65",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/65.wav",
+          "soundName": "Hangar Sound Effect #65",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-66",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/66.wav",
+          "soundName": "Hangar Sound Effect #66",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-67",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/67.wav",
+          "soundName": "Hangar Sound Effect #67",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-68",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/68.wav",
+          "soundName": "Hangar Sound Effect #68",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-69",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/69.wav",
+          "soundName": "Hangar Sound Effect #69",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-7",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/7.wav",
+          "soundName": "Hangar Sound Effect #7",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-70",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/70.wav",
+          "soundName": "Hangar Sound Effect #70",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-71",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/71.wav",
+          "soundName": "Hangar Sound Effect #71",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-72",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/72.wav",
+          "soundName": "Hangar Sound Effect #72",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-73",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/73.wav",
+          "soundName": "Hangar Sound Effect #73",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-74",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/74.wav",
+          "soundName": "Hangar Sound Effect #74",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-75",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/75.wav",
+          "soundName": "Hangar Sound Effect #75",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-76",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/76.wav",
+          "soundName": "Hangar Sound Effect #76",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-77",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/77.wav",
+          "soundName": "Hangar Sound Effect #77",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-78",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/78.wav",
+          "soundName": "Hangar Sound Effect #78",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-79",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/79.wav",
+          "soundName": "Hangar Sound Effect #79",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-8",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/8.wav",
+          "soundName": "Hangar Sound Effect #8",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-80",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/80.wav",
+          "soundName": "Hangar Sound Effect #80",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-81",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/81.wav",
+          "soundName": "Hangar Sound Effect #81",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-82",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/82.wav",
+          "soundName": "Hangar Sound Effect #82",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-83",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/83.wav",
+          "soundName": "Hangar Sound Effect #83",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-84",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/84.wav",
+          "soundName": "Hangar Sound Effect #84",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-85",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/85.wav",
+          "soundName": "Hangar Sound Effect #85",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-86",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/86.wav",
+          "soundName": "Hangar Sound Effect #86",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-87",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/87.wav",
+          "soundName": "Hangar Sound Effect #87",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-88",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/88.wav",
+          "soundName": "Hangar Sound Effect #88",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-89",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/89.wav",
+          "soundName": "Hangar Sound Effect #89",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-9",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/9.wav",
+          "soundName": "Hangar Sound Effect #9",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-90",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/90.wav",
+          "soundName": "Hangar Sound Effect #90",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-91",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/91.wav",
+          "soundName": "Hangar Sound Effect #91",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-92",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/92.wav",
+          "soundName": "Hangar Sound Effect #92",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-93",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/93.wav",
+          "soundName": "Hangar Sound Effect #93",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-94",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/94.wav",
+          "soundName": "Hangar Sound Effect #94",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-95",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/95.wav",
+          "soundName": "Hangar Sound Effect #95",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-96",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/96.wav",
+          "soundName": "Hangar Sound Effect #96",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-97",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/97.wav",
+          "soundName": "Hangar Sound Effect #97",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-98",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/98.wav",
+          "soundName": "Hangar Sound Effect #98",
+          "soundDescription": "Sound file from hangar directory"
+        },
+        {
+          "soundID": "hangar-99",
+          "soundType": "Hangar",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/hangar/99.wav",
+          "soundName": "Hangar Sound Effect #99",
+          "soundDescription": "Sound file from hangar directory"
+        }
+      ]
+    },
+    {
       "categoryName": "Impacts",
       "categoryDescription": "Sound files from impacts directory",
       "categoryItems": [
