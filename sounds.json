@@ -36309,6 +36309,28 @@
       ]
     },
     {
+      "categoryName": "Turret",
+      "categoryDescription": "Sound files from turret directory",
+      "categoryItems": [
+        {
+          "soundID": "turret-1",
+          "soundType": "Turret",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/turret/1.wav",
+          "soundName": "turret Sound Effect #1",
+          "soundDescription": "Sound file from turret directory"
+        },
+        {
+          "soundID": "turret-2",
+          "soundType": "Turret",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/turret/2.wav",
+          "soundName": "turret Sound Effect #2",
+          "soundDescription": "Sound file from turret directory"
+        }
+      ]
+    },
+    {
       "categoryName": "Utility",
       "categoryDescription": "Sound files from utility directory",
       "categoryItems": [
