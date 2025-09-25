@@ -1,6 +1,4148 @@
 {
   "categories": [
     {
+      "categoryName": "Abilities",
+      "categoryDescription": "Sound files from abilities directory",
+      "categoryItems": [
+        {
+          "soundID": "abilities-1",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/1.wav",
+          "soundName": "Ability Sound Effect #1",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-10",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/10.wav",
+          "soundName": "Ability Sound Effect #10",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-100",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/100.wav",
+          "soundName": "Ability Sound Effect #100",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-101",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/101.wav",
+          "soundName": "Ability Sound Effect #101",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-102",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/102.wav",
+          "soundName": "Ability Sound Effect #102",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-103",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/103.wav",
+          "soundName": "Ability Sound Effect #103",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-104",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/104.wav",
+          "soundName": "Ability Sound Effect #104",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-105",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/105.wav",
+          "soundName": "Ability Sound Effect #105",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-106",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/106.wav",
+          "soundName": "Ability Sound Effect #106",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-107",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/107.wav",
+          "soundName": "Ability Sound Effect #107",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-108",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/108.wav",
+          "soundName": "Ability Sound Effect #108",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-109",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/109.wav",
+          "soundName": "Ability Sound Effect #109",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-11",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/11.wav",
+          "soundName": "Ability Sound Effect #11",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-110",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/110.wav",
+          "soundName": "Ability Sound Effect #110",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-111",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/111.wav",
+          "soundName": "Ability Sound Effect #111",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-112",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/112.wav",
+          "soundName": "Ability Sound Effect #112",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-113",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/113.wav",
+          "soundName": "Ability Sound Effect #113",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-114",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/114.wav",
+          "soundName": "Ability Sound Effect #114",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-115",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/115.wav",
+          "soundName": "Ability Sound Effect #115",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-116",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/116.wav",
+          "soundName": "Ability Sound Effect #116",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-117",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/117.wav",
+          "soundName": "Ability Sound Effect #117",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-118",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/118.wav",
+          "soundName": "Ability Sound Effect #118",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-119",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/119.wav",
+          "soundName": "Ability Sound Effect #119",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-12",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/12.wav",
+          "soundName": "Ability Sound Effect #12",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-120",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/120.wav",
+          "soundName": "Ability Sound Effect #120",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-121",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/121.wav",
+          "soundName": "Ability Sound Effect #121",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-122",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/122.wav",
+          "soundName": "Ability Sound Effect #122",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-123",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/123.wav",
+          "soundName": "Ability Sound Effect #123",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-124",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/124.wav",
+          "soundName": "Ability Sound Effect #124",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-125",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/125.wav",
+          "soundName": "Ability Sound Effect #125",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-126",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/126.wav",
+          "soundName": "Ability Sound Effect #126",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-127",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/127.wav",
+          "soundName": "Ability Sound Effect #127",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-128",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/128.wav",
+          "soundName": "Ability Sound Effect #128",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-129",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/129.wav",
+          "soundName": "Ability Sound Effect #129",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-13",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/13.wav",
+          "soundName": "Ability Sound Effect #13",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-130",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/130.wav",
+          "soundName": "Ability Sound Effect #130",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-131",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/131.wav",
+          "soundName": "Ability Sound Effect #131",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-132",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/132.wav",
+          "soundName": "Ability Sound Effect #132",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-133",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/133.wav",
+          "soundName": "Ability Sound Effect #133",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-134",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/134.wav",
+          "soundName": "Ability Sound Effect #134",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-135",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/135.wav",
+          "soundName": "Ability Sound Effect #135",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-136",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/136.wav",
+          "soundName": "Ability Sound Effect #136",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-137",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/137.wav",
+          "soundName": "Ability Sound Effect #137",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-138",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/138.wav",
+          "soundName": "Ability Sound Effect #138",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-139",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/139.wav",
+          "soundName": "Ability Sound Effect #139",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-14",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/14.wav",
+          "soundName": "Ability Sound Effect #14",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-140",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/140.wav",
+          "soundName": "Ability Sound Effect #140",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-141",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/141.wav",
+          "soundName": "Ability Sound Effect #141",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-142",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/142.wav",
+          "soundName": "Ability Sound Effect #142",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-143",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/143.wav",
+          "soundName": "Ability Sound Effect #143",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-144",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/144.wav",
+          "soundName": "Ability Sound Effect #144",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-145",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/145.wav",
+          "soundName": "Ability Sound Effect #145",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-146",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/146.wav",
+          "soundName": "Ability Sound Effect #146",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-147",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/147.wav",
+          "soundName": "Ability Sound Effect #147",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-148",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/148.wav",
+          "soundName": "Ability Sound Effect #148",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-149",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/149.wav",
+          "soundName": "Ability Sound Effect #149",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-15",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/15.wav",
+          "soundName": "Ability Sound Effect #15",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-150",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/150.wav",
+          "soundName": "Ability Sound Effect #150",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-151",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/151.wav",
+          "soundName": "Ability Sound Effect #151",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-152",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/152.wav",
+          "soundName": "Ability Sound Effect #152",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-153",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/153.wav",
+          "soundName": "Ability Sound Effect #153",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-154",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/154.wav",
+          "soundName": "Ability Sound Effect #154",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-155",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/155.wav",
+          "soundName": "Ability Sound Effect #155",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-156",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/156.wav",
+          "soundName": "Ability Sound Effect #156",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-157",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/157.wav",
+          "soundName": "Ability Sound Effect #157",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-158",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/158.wav",
+          "soundName": "Ability Sound Effect #158",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-159",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/159.wav",
+          "soundName": "Ability Sound Effect #159",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-16",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/16.wav",
+          "soundName": "Ability Sound Effect #16",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-160",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/160.wav",
+          "soundName": "Ability Sound Effect #160",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-161",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/161.wav",
+          "soundName": "Ability Sound Effect #161",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-162",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/162.wav",
+          "soundName": "Ability Sound Effect #162",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-163",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/163.wav",
+          "soundName": "Ability Sound Effect #163",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-164",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/164.wav",
+          "soundName": "Ability Sound Effect #164",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-165",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/165.wav",
+          "soundName": "Ability Sound Effect #165",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-166",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/166.wav",
+          "soundName": "Ability Sound Effect #166",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-167",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/167.wav",
+          "soundName": "Ability Sound Effect #167",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-168",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/168.wav",
+          "soundName": "Ability Sound Effect #168",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-169",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/169.wav",
+          "soundName": "Ability Sound Effect #169",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-17",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/17.wav",
+          "soundName": "Ability Sound Effect #17",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-170",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/170.wav",
+          "soundName": "Ability Sound Effect #170",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-171",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/171.wav",
+          "soundName": "Ability Sound Effect #171",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-172",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/172.wav",
+          "soundName": "Ability Sound Effect #172",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-173",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/173.wav",
+          "soundName": "Ability Sound Effect #173",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-174",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/174.wav",
+          "soundName": "Ability Sound Effect #174",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-175",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/175.wav",
+          "soundName": "Ability Sound Effect #175",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-176",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/176.wav",
+          "soundName": "Ability Sound Effect #176",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-177",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/177.wav",
+          "soundName": "Ability Sound Effect #177",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-178",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/178.wav",
+          "soundName": "Ability Sound Effect #178",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-179",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/179.wav",
+          "soundName": "Ability Sound Effect #179",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-18",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/18.wav",
+          "soundName": "Ability Sound Effect #18",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-180",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/180.wav",
+          "soundName": "Ability Sound Effect #180",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-181",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/181.wav",
+          "soundName": "Ability Sound Effect #181",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-182",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/182.wav",
+          "soundName": "Ability Sound Effect #182",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-183",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/183.wav",
+          "soundName": "Ability Sound Effect #183",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-184",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/184.wav",
+          "soundName": "Ability Sound Effect #184",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-185",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/185.wav",
+          "soundName": "Ability Sound Effect #185",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-186",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/186.wav",
+          "soundName": "Ability Sound Effect #186",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-187",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/187.wav",
+          "soundName": "Ability Sound Effect #187",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-188",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/188.wav",
+          "soundName": "Ability Sound Effect #188",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-189",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/189.wav",
+          "soundName": "Ability Sound Effect #189",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-19",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/19.wav",
+          "soundName": "Ability Sound Effect #19",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-190",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/190.wav",
+          "soundName": "Ability Sound Effect #190",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-191",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/191.wav",
+          "soundName": "Ability Sound Effect #191",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-192",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/192.wav",
+          "soundName": "Ability Sound Effect #192",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-193",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/193.wav",
+          "soundName": "Ability Sound Effect #193",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-194",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/194.wav",
+          "soundName": "Ability Sound Effect #194",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-195",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/195.wav",
+          "soundName": "Ability Sound Effect #195",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-196",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/196.wav",
+          "soundName": "Ability Sound Effect #196",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-197",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/197.wav",
+          "soundName": "Ability Sound Effect #197",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-198",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/198.wav",
+          "soundName": "Ability Sound Effect #198",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-199",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/199.wav",
+          "soundName": "Ability Sound Effect #199",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-2",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/2.wav",
+          "soundName": "Ability Sound Effect #2",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-20",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/20.wav",
+          "soundName": "Ability Sound Effect #20",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-200",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/200.wav",
+          "soundName": "Ability Sound Effect #200",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-201",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/201.wav",
+          "soundName": "Ability Sound Effect #201",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-202",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/202.wav",
+          "soundName": "Ability Sound Effect #202",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-203",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/203.wav",
+          "soundName": "Ability Sound Effect #203",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-204",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/204.wav",
+          "soundName": "Ability Sound Effect #204",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-205",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/205.wav",
+          "soundName": "Ability Sound Effect #205",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-206",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/206.wav",
+          "soundName": "Ability Sound Effect #206",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-207",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/207.wav",
+          "soundName": "Ability Sound Effect #207",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-208",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/208.wav",
+          "soundName": "Ability Sound Effect #208",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-209",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/209.wav",
+          "soundName": "Ability Sound Effect #209",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-21",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/21.wav",
+          "soundName": "Ability Sound Effect #21",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-210",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/210.wav",
+          "soundName": "Ability Sound Effect #210",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-211",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/211.wav",
+          "soundName": "Ability Sound Effect #211",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-212",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/212.wav",
+          "soundName": "Ability Sound Effect #212",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-213",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/213.wav",
+          "soundName": "Ability Sound Effect #213",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-214",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/214.wav",
+          "soundName": "Ability Sound Effect #214",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-215",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/215.wav",
+          "soundName": "Ability Sound Effect #215",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-216",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/216.wav",
+          "soundName": "Ability Sound Effect #216",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-217",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/217.wav",
+          "soundName": "Ability Sound Effect #217",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-218",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/218.wav",
+          "soundName": "Ability Sound Effect #218",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-219",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/219.wav",
+          "soundName": "Ability Sound Effect #219",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-22",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/22.wav",
+          "soundName": "Ability Sound Effect #22",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-220",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/220.wav",
+          "soundName": "Ability Sound Effect #220",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-221",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/221.wav",
+          "soundName": "Ability Sound Effect #221",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-222",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/222.wav",
+          "soundName": "Ability Sound Effect #222",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-223",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/223.wav",
+          "soundName": "Ability Sound Effect #223",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-224",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/224.wav",
+          "soundName": "Ability Sound Effect #224",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-225",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/225.wav",
+          "soundName": "Ability Sound Effect #225",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-226",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/226.wav",
+          "soundName": "Ability Sound Effect #226",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-227",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/227.wav",
+          "soundName": "Ability Sound Effect #227",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-228",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/228.wav",
+          "soundName": "Ability Sound Effect #228",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-229",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/229.wav",
+          "soundName": "Ability Sound Effect #229",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-23",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/23.wav",
+          "soundName": "Ability Sound Effect #23",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-230",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/230.wav",
+          "soundName": "Ability Sound Effect #230",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-231",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/231.wav",
+          "soundName": "Ability Sound Effect #231",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-232",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/232.wav",
+          "soundName": "Ability Sound Effect #232",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-233",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/233.wav",
+          "soundName": "Ability Sound Effect #233",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-234",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/234.wav",
+          "soundName": "Ability Sound Effect #234",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-235",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/235.wav",
+          "soundName": "Ability Sound Effect #235",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-236",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/236.wav",
+          "soundName": "Ability Sound Effect #236",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-237",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/237.wav",
+          "soundName": "Ability Sound Effect #237",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-238",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/238.wav",
+          "soundName": "Ability Sound Effect #238",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-239",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/239.wav",
+          "soundName": "Ability Sound Effect #239",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-24",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/24.wav",
+          "soundName": "Ability Sound Effect #24",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-240",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/240.wav",
+          "soundName": "Ability Sound Effect #240",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-241",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/241.wav",
+          "soundName": "Ability Sound Effect #241",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-242",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/242.wav",
+          "soundName": "Ability Sound Effect #242",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-243",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/243.wav",
+          "soundName": "Ability Sound Effect #243",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-244",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/244.wav",
+          "soundName": "Ability Sound Effect #244",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-245",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/245.wav",
+          "soundName": "Ability Sound Effect #245",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-246",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/246.wav",
+          "soundName": "Ability Sound Effect #246",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-247",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/247.wav",
+          "soundName": "Ability Sound Effect #247",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-248",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/248.wav",
+          "soundName": "Ability Sound Effect #248",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-249",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/249.wav",
+          "soundName": "Ability Sound Effect #249",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-25",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/25.wav",
+          "soundName": "Ability Sound Effect #25",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-250",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/250.wav",
+          "soundName": "Ability Sound Effect #250",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-251",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/251.wav",
+          "soundName": "Ability Sound Effect #251",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-252",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/252.wav",
+          "soundName": "Ability Sound Effect #252",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-253",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/253.wav",
+          "soundName": "Ability Sound Effect #253",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-254",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/254.wav",
+          "soundName": "Ability Sound Effect #254",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-255",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/255.wav",
+          "soundName": "Ability Sound Effect #255",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-256",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/256.wav",
+          "soundName": "Ability Sound Effect #256",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-257",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/257.wav",
+          "soundName": "Ability Sound Effect #257",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-258",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/258.wav",
+          "soundName": "Ability Sound Effect #258",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-259",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/259.wav",
+          "soundName": "Ability Sound Effect #259",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-26",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/26.wav",
+          "soundName": "Ability Sound Effect #26",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-260",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/260.wav",
+          "soundName": "Ability Sound Effect #260",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-261",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/261.wav",
+          "soundName": "Ability Sound Effect #261",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-262",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/262.wav",
+          "soundName": "Ability Sound Effect #262",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-263",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/263.wav",
+          "soundName": "Ability Sound Effect #263",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-264",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/264.wav",
+          "soundName": "Ability Sound Effect #264",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-265",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/265.wav",
+          "soundName": "Ability Sound Effect #265",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-266",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/266.wav",
+          "soundName": "Ability Sound Effect #266",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-267",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/267.wav",
+          "soundName": "Ability Sound Effect #267",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-268",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/268.wav",
+          "soundName": "Ability Sound Effect #268",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-269",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/269.wav",
+          "soundName": "Ability Sound Effect #269",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-27",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/27.wav",
+          "soundName": "Ability Sound Effect #27",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-270",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/270.wav",
+          "soundName": "Ability Sound Effect #270",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-271",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/271.wav",
+          "soundName": "Ability Sound Effect #271",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-272",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/272.wav",
+          "soundName": "Ability Sound Effect #272",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-273",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/273.wav",
+          "soundName": "Ability Sound Effect #273",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-274",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/274.wav",
+          "soundName": "Ability Sound Effect #274",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-275",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/275.wav",
+          "soundName": "Ability Sound Effect #275",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-276",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/276.wav",
+          "soundName": "Ability Sound Effect #276",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-277",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/277.wav",
+          "soundName": "Ability Sound Effect #277",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-278",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/278.wav",
+          "soundName": "Ability Sound Effect #278",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-279",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/279.wav",
+          "soundName": "Ability Sound Effect #279",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-28",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/28.wav",
+          "soundName": "Ability Sound Effect #28",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-280",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/280.wav",
+          "soundName": "Ability Sound Effect #280",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-281",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/281.wav",
+          "soundName": "Ability Sound Effect #281",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-282",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/282.wav",
+          "soundName": "Ability Sound Effect #282",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-283",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/283.wav",
+          "soundName": "Ability Sound Effect #283",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-284",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/284.wav",
+          "soundName": "Ability Sound Effect #284",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-285",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/285.wav",
+          "soundName": "Ability Sound Effect #285",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-286",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/286.wav",
+          "soundName": "Ability Sound Effect #286",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-287",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/287.wav",
+          "soundName": "Ability Sound Effect #287",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-288",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/288.wav",
+          "soundName": "Ability Sound Effect #288",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-289",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/289.wav",
+          "soundName": "Ability Sound Effect #289",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-29",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/29.wav",
+          "soundName": "Ability Sound Effect #29",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-290",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/290.wav",
+          "soundName": "Ability Sound Effect #290",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-291",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/291.wav",
+          "soundName": "Ability Sound Effect #291",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-292",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/292.wav",
+          "soundName": "Ability Sound Effect #292",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-293",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/293.wav",
+          "soundName": "Ability Sound Effect #293",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-294",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/294.wav",
+          "soundName": "Ability Sound Effect #294",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-295",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/295.wav",
+          "soundName": "Ability Sound Effect #295",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-296",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/296.wav",
+          "soundName": "Ability Sound Effect #296",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-297",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/297.wav",
+          "soundName": "Ability Sound Effect #297",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-298",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/298.wav",
+          "soundName": "Ability Sound Effect #298",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-299",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/299.wav",
+          "soundName": "Ability Sound Effect #299",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-3",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/3.wav",
+          "soundName": "Ability Sound Effect #3",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-30",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/30.wav",
+          "soundName": "Ability Sound Effect #30",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-300",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/300.wav",
+          "soundName": "Ability Sound Effect #300",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-301",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/301.wav",
+          "soundName": "Ability Sound Effect #301",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-302",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/302.wav",
+          "soundName": "Ability Sound Effect #302",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-303",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/303.wav",
+          "soundName": "Ability Sound Effect #303",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-304",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/304.wav",
+          "soundName": "Ability Sound Effect #304",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-305",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/305.wav",
+          "soundName": "Ability Sound Effect #305",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-306",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/306.wav",
+          "soundName": "Ability Sound Effect #306",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-307",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/307.wav",
+          "soundName": "Ability Sound Effect #307",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-308",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/308.wav",
+          "soundName": "Ability Sound Effect #308",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-309",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/309.wav",
+          "soundName": "Ability Sound Effect #309",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-31",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/31.wav",
+          "soundName": "Ability Sound Effect #31",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-310",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/310.wav",
+          "soundName": "Ability Sound Effect #310",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-311",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/311.wav",
+          "soundName": "Ability Sound Effect #311",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-312",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/312.wav",
+          "soundName": "Ability Sound Effect #312",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-313",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/313.wav",
+          "soundName": "Ability Sound Effect #313",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-314",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/314.wav",
+          "soundName": "Ability Sound Effect #314",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-315",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/315.wav",
+          "soundName": "Ability Sound Effect #315",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-316",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/316.wav",
+          "soundName": "Ability Sound Effect #316",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-317",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/317.wav",
+          "soundName": "Ability Sound Effect #317",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-318",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/318.wav",
+          "soundName": "Ability Sound Effect #318",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-319",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/319.wav",
+          "soundName": "Ability Sound Effect #319",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-32",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/32.wav",
+          "soundName": "Ability Sound Effect #32",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-320",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/320.wav",
+          "soundName": "Ability Sound Effect #320",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-321",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/321.wav",
+          "soundName": "Ability Sound Effect #321",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-322",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/322.wav",
+          "soundName": "Ability Sound Effect #322",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-323",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/323.wav",
+          "soundName": "Ability Sound Effect #323",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-324",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/324.wav",
+          "soundName": "Ability Sound Effect #324",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-325",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/325.wav",
+          "soundName": "Ability Sound Effect #325",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-326",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/326.wav",
+          "soundName": "Ability Sound Effect #326",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-327",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/327.wav",
+          "soundName": "Ability Sound Effect #327",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-328",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/328.wav",
+          "soundName": "Ability Sound Effect #328",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-329",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/329.wav",
+          "soundName": "Ability Sound Effect #329",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-33",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/33.wav",
+          "soundName": "Ability Sound Effect #33",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-330",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/330.wav",
+          "soundName": "Ability Sound Effect #330",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-331",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/331.wav",
+          "soundName": "Ability Sound Effect #331",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-332",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/332.wav",
+          "soundName": "Ability Sound Effect #332",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-333",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/333.wav",
+          "soundName": "Ability Sound Effect #333",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-334",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/334.wav",
+          "soundName": "Ability Sound Effect #334",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-335",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/335.wav",
+          "soundName": "Ability Sound Effect #335",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-336",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/336.wav",
+          "soundName": "Ability Sound Effect #336",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-337",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/337.wav",
+          "soundName": "Ability Sound Effect #337",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-338",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/338.wav",
+          "soundName": "Ability Sound Effect #338",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-339",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/339.wav",
+          "soundName": "Ability Sound Effect #339",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-34",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/34.wav",
+          "soundName": "Ability Sound Effect #34",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-340",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/340.wav",
+          "soundName": "Ability Sound Effect #340",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-341",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/341.wav",
+          "soundName": "Ability Sound Effect #341",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-342",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/342.wav",
+          "soundName": "Ability Sound Effect #342",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-343",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/343.wav",
+          "soundName": "Ability Sound Effect #343",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-344",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/344.wav",
+          "soundName": "Ability Sound Effect #344",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-345",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/345.wav",
+          "soundName": "Ability Sound Effect #345",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-346",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/346.wav",
+          "soundName": "Ability Sound Effect #346",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-347",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/347.wav",
+          "soundName": "Ability Sound Effect #347",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-348",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/348.wav",
+          "soundName": "Ability Sound Effect #348",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-349",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/349.wav",
+          "soundName": "Ability Sound Effect #349",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-35",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/35.wav",
+          "soundName": "Ability Sound Effect #35",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-350",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/350.wav",
+          "soundName": "Ability Sound Effect #350",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-351",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/351.wav",
+          "soundName": "Ability Sound Effect #351",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-352",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/352.wav",
+          "soundName": "Ability Sound Effect #352",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-353",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/353.wav",
+          "soundName": "Ability Sound Effect #353",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-354",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/354.wav",
+          "soundName": "Ability Sound Effect #354",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-355",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/355.wav",
+          "soundName": "Ability Sound Effect #355",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-356",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/356.wav",
+          "soundName": "Ability Sound Effect #356",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-357",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/357.wav",
+          "soundName": "Ability Sound Effect #357",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-358",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/358.wav",
+          "soundName": "Ability Sound Effect #358",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-359",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/359.wav",
+          "soundName": "Ability Sound Effect #359",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-36",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/36.wav",
+          "soundName": "Ability Sound Effect #36",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-360",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/360.wav",
+          "soundName": "Ability Sound Effect #360",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-361",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/361.wav",
+          "soundName": "Ability Sound Effect #361",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-362",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/362.wav",
+          "soundName": "Ability Sound Effect #362",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-363",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/363.wav",
+          "soundName": "Ability Sound Effect #363",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-364",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/364.wav",
+          "soundName": "Ability Sound Effect #364",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-365",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/365.wav",
+          "soundName": "Ability Sound Effect #365",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-366",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/366.wav",
+          "soundName": "Ability Sound Effect #366",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-367",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/367.wav",
+          "soundName": "Ability Sound Effect #367",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-368",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/368.wav",
+          "soundName": "Ability Sound Effect #368",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-369",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/369.wav",
+          "soundName": "Ability Sound Effect #369",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-37",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/37.wav",
+          "soundName": "Ability Sound Effect #37",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-370",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/370.wav",
+          "soundName": "Ability Sound Effect #370",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-371",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/371.wav",
+          "soundName": "Ability Sound Effect #371",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-372",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/372.wav",
+          "soundName": "Ability Sound Effect #372",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-373",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/373.wav",
+          "soundName": "Ability Sound Effect #373",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-374",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/374.wav",
+          "soundName": "Ability Sound Effect #374",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-375",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/375.wav",
+          "soundName": "Ability Sound Effect #375",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-376",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/376.wav",
+          "soundName": "Ability Sound Effect #376",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-377",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/377.wav",
+          "soundName": "Ability Sound Effect #377",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-378",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/378.wav",
+          "soundName": "Ability Sound Effect #378",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-379",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/379.wav",
+          "soundName": "Ability Sound Effect #379",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-38",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/38.wav",
+          "soundName": "Ability Sound Effect #38",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-380",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/380.wav",
+          "soundName": "Ability Sound Effect #380",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-381",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/381.wav",
+          "soundName": "Ability Sound Effect #381",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-382",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/382.wav",
+          "soundName": "Ability Sound Effect #382",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-383",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/383.wav",
+          "soundName": "Ability Sound Effect #383",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-384",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/384.wav",
+          "soundName": "Ability Sound Effect #384",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-385",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/385.wav",
+          "soundName": "Ability Sound Effect #385",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-386",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/386.wav",
+          "soundName": "Ability Sound Effect #386",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-387",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/387.wav",
+          "soundName": "Ability Sound Effect #387",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-388",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/388.wav",
+          "soundName": "Ability Sound Effect #388",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-389",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/389.wav",
+          "soundName": "Ability Sound Effect #389",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-39",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/39.wav",
+          "soundName": "Ability Sound Effect #39",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-390",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/390.wav",
+          "soundName": "Ability Sound Effect #390",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-391",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/391.wav",
+          "soundName": "Ability Sound Effect #391",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-392",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/392.wav",
+          "soundName": "Ability Sound Effect #392",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-393",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/393.wav",
+          "soundName": "Ability Sound Effect #393",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-394",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/394.wav",
+          "soundName": "Ability Sound Effect #394",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-395",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/395.wav",
+          "soundName": "Ability Sound Effect #395",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-396",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/396.wav",
+          "soundName": "Ability Sound Effect #396",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-397",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/397.wav",
+          "soundName": "Ability Sound Effect #397",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-398",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/398.wav",
+          "soundName": "Ability Sound Effect #398",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-399",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/399.wav",
+          "soundName": "Ability Sound Effect #399",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-4",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/4.wav",
+          "soundName": "Ability Sound Effect #4",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-40",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/40.wav",
+          "soundName": "Ability Sound Effect #40",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-400",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/400.wav",
+          "soundName": "Ability Sound Effect #400",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-401",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/401.wav",
+          "soundName": "Ability Sound Effect #401",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-402",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/402.wav",
+          "soundName": "Ability Sound Effect #402",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-403",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/403.wav",
+          "soundName": "Ability Sound Effect #403",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-404",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/404.wav",
+          "soundName": "Ability Sound Effect #404",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-405",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/405.wav",
+          "soundName": "Ability Sound Effect #405",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-406",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/406.wav",
+          "soundName": "Ability Sound Effect #406",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-407",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/407.wav",
+          "soundName": "Ability Sound Effect #407",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-408",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/408.wav",
+          "soundName": "Ability Sound Effect #408",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-409",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/409.wav",
+          "soundName": "Ability Sound Effect #409",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-41",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/41.wav",
+          "soundName": "Ability Sound Effect #41",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-410",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/410.wav",
+          "soundName": "Ability Sound Effect #410",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-411",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/411.wav",
+          "soundName": "Ability Sound Effect #411",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-412",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/412.wav",
+          "soundName": "Ability Sound Effect #412",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-413",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/413.wav",
+          "soundName": "Ability Sound Effect #413",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-414",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/414.wav",
+          "soundName": "Ability Sound Effect #414",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-415",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/415.wav",
+          "soundName": "Ability Sound Effect #415",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-416",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/416.wav",
+          "soundName": "Ability Sound Effect #416",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-417",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/417.wav",
+          "soundName": "Ability Sound Effect #417",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-418",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/418.wav",
+          "soundName": "Ability Sound Effect #418",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-419",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/419.wav",
+          "soundName": "Ability Sound Effect #419",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-42",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/42.wav",
+          "soundName": "Ability Sound Effect #42",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-420",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/420.wav",
+          "soundName": "Ability Sound Effect #420",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-421",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/421.wav",
+          "soundName": "Ability Sound Effect #421",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-422",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/422.wav",
+          "soundName": "Ability Sound Effect #422",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-423",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/423.wav",
+          "soundName": "Ability Sound Effect #423",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-424",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/424.wav",
+          "soundName": "Ability Sound Effect #424",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-425",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/425.wav",
+          "soundName": "Ability Sound Effect #425",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-426",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/426.wav",
+          "soundName": "Ability Sound Effect #426",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-427",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/427.wav",
+          "soundName": "Ability Sound Effect #427",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-428",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/428.wav",
+          "soundName": "Ability Sound Effect #428",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-429",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/429.wav",
+          "soundName": "Ability Sound Effect #429",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-43",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/43.wav",
+          "soundName": "Ability Sound Effect #43",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-430",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/430.wav",
+          "soundName": "Ability Sound Effect #430",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-431",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/431.wav",
+          "soundName": "Ability Sound Effect #431",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-432",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/432.wav",
+          "soundName": "Ability Sound Effect #432",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-433",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/433.wav",
+          "soundName": "Ability Sound Effect #433",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-434",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/434.wav",
+          "soundName": "Ability Sound Effect #434",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-435",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/435.wav",
+          "soundName": "Ability Sound Effect #435",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-436",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/436.wav",
+          "soundName": "Ability Sound Effect #436",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-437",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/437.wav",
+          "soundName": "Ability Sound Effect #437",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-438",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/438.wav",
+          "soundName": "Ability Sound Effect #438",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-439",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/439.wav",
+          "soundName": "Ability Sound Effect #439",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-44",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/44.wav",
+          "soundName": "Ability Sound Effect #44",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-440",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/440.wav",
+          "soundName": "Ability Sound Effect #440",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-441",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/441.wav",
+          "soundName": "Ability Sound Effect #441",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-442",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/442.wav",
+          "soundName": "Ability Sound Effect #442",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-443",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/443.wav",
+          "soundName": "Ability Sound Effect #443",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-444",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/444.wav",
+          "soundName": "Ability Sound Effect #444",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-445",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/445.wav",
+          "soundName": "Ability Sound Effect #445",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-446",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/446.wav",
+          "soundName": "Ability Sound Effect #446",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-447",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/447.wav",
+          "soundName": "Ability Sound Effect #447",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-448",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/448.wav",
+          "soundName": "Ability Sound Effect #448",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-449",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/449.wav",
+          "soundName": "Ability Sound Effect #449",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-45",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/45.wav",
+          "soundName": "Ability Sound Effect #45",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-450",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/450.wav",
+          "soundName": "Ability Sound Effect #450",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-451",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/451.wav",
+          "soundName": "Ability Sound Effect #451",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-452",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/452.wav",
+          "soundName": "Ability Sound Effect #452",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-453",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/453.wav",
+          "soundName": "Ability Sound Effect #453",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-454",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/454.wav",
+          "soundName": "Ability Sound Effect #454",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-455",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/455.wav",
+          "soundName": "Ability Sound Effect #455",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-456",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/456.wav",
+          "soundName": "Ability Sound Effect #456",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-457",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/457.wav",
+          "soundName": "Ability Sound Effect #457",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-458",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/458.wav",
+          "soundName": "Ability Sound Effect #458",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-459",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/459.wav",
+          "soundName": "Ability Sound Effect #459",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-46",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/46.wav",
+          "soundName": "Ability Sound Effect #46",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-460",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/460.wav",
+          "soundName": "Ability Sound Effect #460",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-461",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/461.wav",
+          "soundName": "Ability Sound Effect #461",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-462",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/462.wav",
+          "soundName": "Ability Sound Effect #462",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-463",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/463.wav",
+          "soundName": "Ability Sound Effect #463",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-464",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/464.wav",
+          "soundName": "Ability Sound Effect #464",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-465",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/465.wav",
+          "soundName": "Ability Sound Effect #465",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-466",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/466.wav",
+          "soundName": "Ability Sound Effect #466",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-467",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/467.wav",
+          "soundName": "Ability Sound Effect #467",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-468",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/468.wav",
+          "soundName": "Ability Sound Effect #468",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-469",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/469.wav",
+          "soundName": "Ability Sound Effect #469",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-47",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/47.wav",
+          "soundName": "Ability Sound Effect #47",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-470",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/470.wav",
+          "soundName": "Ability Sound Effect #470",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-471",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/471.wav",
+          "soundName": "Ability Sound Effect #471",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-472",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/472.wav",
+          "soundName": "Ability Sound Effect #472",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-473",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/473.wav",
+          "soundName": "Ability Sound Effect #473",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-474",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/474.wav",
+          "soundName": "Ability Sound Effect #474",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-475",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/475.wav",
+          "soundName": "Ability Sound Effect #475",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-476",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/476.wav",
+          "soundName": "Ability Sound Effect #476",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-477",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/477.wav",
+          "soundName": "Ability Sound Effect #477",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-478",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/478.wav",
+          "soundName": "Ability Sound Effect #478",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-479",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/479.wav",
+          "soundName": "Ability Sound Effect #479",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-48",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/48.wav",
+          "soundName": "Ability Sound Effect #48",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-480",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/480.wav",
+          "soundName": "Ability Sound Effect #480",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-481",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/481.wav",
+          "soundName": "Ability Sound Effect #481",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-482",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/482.wav",
+          "soundName": "Ability Sound Effect #482",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-483",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/483.wav",
+          "soundName": "Ability Sound Effect #483",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-484",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/484.wav",
+          "soundName": "Ability Sound Effect #484",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-485",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/485.wav",
+          "soundName": "Ability Sound Effect #485",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-486",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/486.wav",
+          "soundName": "Ability Sound Effect #486",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-487",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/487.wav",
+          "soundName": "Ability Sound Effect #487",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-488",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/488.wav",
+          "soundName": "Ability Sound Effect #488",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-489",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/489.wav",
+          "soundName": "Ability Sound Effect #489",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-49",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/49.wav",
+          "soundName": "Ability Sound Effect #49",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-490",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/490.wav",
+          "soundName": "Ability Sound Effect #490",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-491",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/491.wav",
+          "soundName": "Ability Sound Effect #491",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-492",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/492.wav",
+          "soundName": "Ability Sound Effect #492",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-493",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/493.wav",
+          "soundName": "Ability Sound Effect #493",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-494",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/494.wav",
+          "soundName": "Ability Sound Effect #494",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-495",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/495.wav",
+          "soundName": "Ability Sound Effect #495",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-496",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/496.wav",
+          "soundName": "Ability Sound Effect #496",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-497",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/497.wav",
+          "soundName": "Ability Sound Effect #497",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-498",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/498.wav",
+          "soundName": "Ability Sound Effect #498",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-499",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/499.wav",
+          "soundName": "Ability Sound Effect #499",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-5",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/5.wav",
+          "soundName": "Ability Sound Effect #5",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-50",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/50.wav",
+          "soundName": "Ability Sound Effect #50",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-500",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/500.wav",
+          "soundName": "Ability Sound Effect #500",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-501",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/501.wav",
+          "soundName": "Ability Sound Effect #501",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-502",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/502.wav",
+          "soundName": "Ability Sound Effect #502",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-503",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/503.wav",
+          "soundName": "Ability Sound Effect #503",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-504",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/504.wav",
+          "soundName": "Ability Sound Effect #504",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-505",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/505.wav",
+          "soundName": "Ability Sound Effect #505",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-506",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/506.wav",
+          "soundName": "Ability Sound Effect #506",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-507",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/507.wav",
+          "soundName": "Ability Sound Effect #507",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-508",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/508.wav",
+          "soundName": "Ability Sound Effect #508",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-509",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/509.wav",
+          "soundName": "Ability Sound Effect #509",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-51",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/51.wav",
+          "soundName": "Ability Sound Effect #51",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-510",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/510.wav",
+          "soundName": "Ability Sound Effect #510",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-511",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/511.wav",
+          "soundName": "Ability Sound Effect #511",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-512",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/512.wav",
+          "soundName": "Ability Sound Effect #512",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-513",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/513.wav",
+          "soundName": "Ability Sound Effect #513",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-514",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/514.wav",
+          "soundName": "Ability Sound Effect #514",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-515",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/515.wav",
+          "soundName": "Ability Sound Effect #515",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-516",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/516.wav",
+          "soundName": "Ability Sound Effect #516",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-517",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/517.wav",
+          "soundName": "Ability Sound Effect #517",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-52",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/52.wav",
+          "soundName": "Ability Sound Effect #52",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-53",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/53.wav",
+          "soundName": "Ability Sound Effect #53",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-54",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/54.wav",
+          "soundName": "Ability Sound Effect #54",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-55",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/55.wav",
+          "soundName": "Ability Sound Effect #55",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-56",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/56.wav",
+          "soundName": "Ability Sound Effect #56",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-57",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/57.wav",
+          "soundName": "Ability Sound Effect #57",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-58",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/58.wav",
+          "soundName": "Ability Sound Effect #58",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-59",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/59.wav",
+          "soundName": "Ability Sound Effect #59",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-6",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/6.wav",
+          "soundName": "Ability Sound Effect #6",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-60",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/60.wav",
+          "soundName": "Ability Sound Effect #60",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-61",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/61.wav",
+          "soundName": "Ability Sound Effect #61",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-62",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/62.wav",
+          "soundName": "Ability Sound Effect #62",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-63",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/63.wav",
+          "soundName": "Ability Sound Effect #63",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-64",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/64.wav",
+          "soundName": "Ability Sound Effect #64",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-65",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/65.wav",
+          "soundName": "Ability Sound Effect #65",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-66",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/66.wav",
+          "soundName": "Ability Sound Effect #66",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-67",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/67.wav",
+          "soundName": "Ability Sound Effect #67",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-68",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/68.wav",
+          "soundName": "Ability Sound Effect #68",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-69",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/69.wav",
+          "soundName": "Ability Sound Effect #69",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-7",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/7.wav",
+          "soundName": "Ability Sound Effect #7",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-70",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/70.wav",
+          "soundName": "Ability Sound Effect #70",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-71",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/71.wav",
+          "soundName": "Ability Sound Effect #71",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-72",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/72.wav",
+          "soundName": "Ability Sound Effect #72",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-73",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/73.wav",
+          "soundName": "Ability Sound Effect #73",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-74",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/74.wav",
+          "soundName": "Ability Sound Effect #74",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-75",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/75.wav",
+          "soundName": "Ability Sound Effect #75",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-76",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/76.wav",
+          "soundName": "Ability Sound Effect #76",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-77",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/77.wav",
+          "soundName": "Ability Sound Effect #77",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-78",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/78.wav",
+          "soundName": "Ability Sound Effect #78",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-79",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/79.wav",
+          "soundName": "Ability Sound Effect #79",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-8",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/8.wav",
+          "soundName": "Ability Sound Effect #8",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-80",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/80.wav",
+          "soundName": "Ability Sound Effect #80",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-81",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/81.wav",
+          "soundName": "Ability Sound Effect #81",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-82",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/82.wav",
+          "soundName": "Ability Sound Effect #82",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-83",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/83.wav",
+          "soundName": "Ability Sound Effect #83",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-84",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/84.wav",
+          "soundName": "Ability Sound Effect #84",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-85",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/85.wav",
+          "soundName": "Ability Sound Effect #85",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-86",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/86.wav",
+          "soundName": "Ability Sound Effect #86",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-87",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/87.wav",
+          "soundName": "Ability Sound Effect #87",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-88",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/88.wav",
+          "soundName": "Ability Sound Effect #88",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-89",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/89.wav",
+          "soundName": "Ability Sound Effect #89",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-9",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/9.wav",
+          "soundName": "Ability Sound Effect #9",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-90",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/90.wav",
+          "soundName": "Ability Sound Effect #90",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-91",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/91.wav",
+          "soundName": "Ability Sound Effect #91",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-92",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/92.wav",
+          "soundName": "Ability Sound Effect #92",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-93",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/93.wav",
+          "soundName": "Ability Sound Effect #93",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-94",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/94.wav",
+          "soundName": "Ability Sound Effect #94",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-95",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/95.wav",
+          "soundName": "Ability Sound Effect #95",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-96",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/96.wav",
+          "soundName": "Ability Sound Effect #96",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-97",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/97.wav",
+          "soundName": "Ability Sound Effect #97",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-98",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/98.wav",
+          "soundName": "Ability Sound Effect #98",
+          "soundDescription": "Sound file from abilities directory"
+        },
+        {
+          "soundID": "abilities-99",
+          "soundType": "Abilities",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT1/abilities/99.wav",
+          "soundName": "Ability Sound Effect #99",
+          "soundDescription": "Sound file from abilities directory"
+        }
+      ]
+    },
+    {
       "categoryName": "Battle Voice Lines",
       "categoryDescription": "Placeholder Description",
       "categoryItems": [
