@@ -26985,6 +26985,44 @@
       ]
     },
     {
+      "categoryName": "Common Effects",
+      "categoryDescription": "Sound files from effects directory",
+      "categoryItems": [
+        {
+          "soundID": "effects-1",
+          "soundType": "Effects",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/effects/1.wav",
+          "soundName": "Common Effects Sound #1",
+          "soundDescription": "Sound file from effects directory"
+        },
+        {
+          "soundID": "effects-2",
+          "soundType": "Effects",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/effects/2.wav",
+          "soundName": "Common Effects Sound #2",
+          "soundDescription": "Sound file from effects directory"
+        },
+        {
+          "soundID": "effects-3",
+          "soundType": "Effects",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/effects/3.wav",
+          "soundName": "Common Effects Sound #3",
+          "soundDescription": "Sound file from effects directory"
+        },
+        {
+          "soundID": "effects-4",
+          "soundType": "Effects",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn.jsdelivr.net/gh/HEATLabs/Sound-Bank@main/sounds/OAT2/effects/4.wav",
+          "soundName": "Common Effects Sound #4",
+          "soundDescription": "Sound file from effects directory"
+        }
+      ]
+    },
+    {
       "categoryName": "Explosions",
       "categoryDescription": "Sound files from explosions directory",
       "categoryItems": [
