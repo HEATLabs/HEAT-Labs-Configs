@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-26T22:30:20.868029",
+  "generated_at": "2025-09-26T23:11:35.368465",
   "base_cdn_url": "https://heatlabs-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -2121,6 +2121,22 @@
       "pixel_filename": "pcwstats-tracker-pixel-soundboard.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-soundboard.png",
       "html_title": "Soundboard - HEAT Labs"
+    },
+    {
+      "page_name": "Akira",
+      "page_identifier": "akira",
+      "html_file": "agents/akira.html",
+      "pixel_filename": "pcwstats-tracker-pixel-akira.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-akira.png",
+      "html_title": "Akira - HEAT Labs"
+    },
+    {
+      "page_name": "Jager",
+      "page_identifier": "jager",
+      "html_file": "agents/jager.html",
+      "pixel_filename": "pcwstats-tracker-pixel-jager.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-jager.png",
+      "html_title": "Jager - HEAT Labs"
     }
   ]
 }
