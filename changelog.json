@@ -1,6 +1,80 @@
 {
   "updates": [
     {
+      "version": "0.0.1963",
+      "date": "2025-09-25",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #153",
+      "description": "Full patch notes for Update v0.0.1963 (#153), detailing all changes made on 25 September, 2025.",
+      "added": [
+        "Map object sounds to soundboard index file",
+        "Tank track sounds to soundboard index file",
+        "Engine sound files to soundboard index file",
+        "GUI Battle and GUI Simple sounds to soundboard index file",
+        "Common effects to soundboard index file",
+        "Collision sounds to soundboard index file",
+        "Hangar sound effects to soundboard index file",
+        "Turret sound effects to soundboard index file",
+        "Impact sounds to soundboard index file",
+        "Ability sound effects to soundboard index file",
+        "Explosion sounds to soundboard index file",
+        "Utility sounds and music to soundboard index file",
+        "Temporary tool to fix sound sources",
+        "Placeholder HEAT Labs logo for playground pages",
+        "Playground images for Wordle and Soundboard pages"
+      ],
+      "changed": [
+        "Max guesses in Wordle game increased to 5",
+        "Filter order in Soundboard page",
+        "Styles for filter section in Soundboard page",
+        "Playground page updated with new images for Soundboard, Wordle, and Application pages",
+        "Soundboard index updated with reload and gun fire sounds",
+        "Soundboard index updated with additional texts",
+        "Various typos and labels corrected in soundboard index file",
+        "Playground image for PWA app updated"
+      ],
+      "removed": [
+        "Temporary source fixer tool in Website-Configs"
+      ],
+      "fixed": [
+        "Issue in play/stop logic of Soundboard sounds",
+        "Trailing space in soundType value",
+        "Additional trailing space in soundType value",
+        "Typo in soundType for voice-lines-gameplay-37",
+        "Renamed playground image for PWA app to correct format"
+      ]
+    },
+    {
+      "version": "0.0.1934",
+      "date": "2025-09-24",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #152",
+      "description": "Full patch notes for Update v0.0.1934 (#152), detailing all changes made on 24 September, 2025.",
+      "added": [
+        "Sound names for part of the Battle Voice Lines category",
+        "Character names and voice texts for gameplay lines",
+        "All voice texts for HQ voice lines",
+        "All voice texts for Control category in HQ voice lines",
+        "All announcer male voice texts",
+        "Character names added to all HQ voice lines"
+      ],
+      "changed": [
+        "Reordered and expanded word list in words.json",
+        "Home page statistics",
+        "Daily commit log",
+        "Changelog",
+        "All campaign voice lines"
+      ],
+      "removed": [
+        "Numbers from some voice lines"
+      ],
+      "fixed": [
+        "Typo in soundType value in sounds.json",
+        "Missing agent name in two voice lines",
+        "Typos in some voice lines"
+      ]
+    },
+    {
       "version": "0.0.1919",
       "date": "2025-09-23",
       "author": "HEAT Labs Team",
