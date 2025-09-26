@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-24T00:13:28.342685",
+  "generated_at": "2025-09-26T22:30:20.868029",
   "base_cdn_url": "https://heatlabs-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -1627,92 +1627,124 @@
       "html_title": "Tier List Creator - HEAT Labs"
     },
     {
-      "page_name": "agent",
+      "page_name": "Anansi",
       "page_identifier": "anansi",
       "html_file": "agents/anansi.html",
       "pixel_filename": "pcwstats-tracker-pixel-anansi.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-anansi.png",
-      "html_title": "agent - HEAT Labs"
+      "html_title": "Anansi - HEAT Labs"
     },
     {
-      "page_name": "agent",
+      "page_name": "Blitz",
       "page_identifier": "blitz",
       "html_file": "agents/blitz.html",
       "pixel_filename": "pcwstats-tracker-pixel-blitz.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-blitz.png",
-      "html_title": "agent - HEAT Labs"
+      "html_title": "Blitz - HEAT Labs"
     },
     {
-      "page_name": "agent",
+      "page_name": "Chopper",
       "page_identifier": "chopper",
       "html_file": "agents/chopper.html",
       "pixel_filename": "pcwstats-tracker-pixel-chopper.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-chopper.png",
-      "html_title": "agent - HEAT Labs"
+      "html_title": "Chopper - HEAT Labs"
     },
     {
-      "page_name": "agent",
+      "page_name": "Ember",
       "page_identifier": "ember",
       "html_file": "agents/ember.html",
       "pixel_filename": "pcwstats-tracker-pixel-ember.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-ember.png",
-      "html_title": "agent - HEAT Labs"
+      "html_title": "Ember - HEAT Labs"
     },
     {
-      "page_name": "agent",
+      "page_name": "Hound",
       "page_identifier": "hound",
       "html_file": "agents/hound.html",
       "pixel_filename": "pcwstats-tracker-pixel-hound.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hound.png",
-      "html_title": "agent - HEAT Labs"
+      "html_title": "Hound - HEAT Labs"
     },
     {
-      "page_name": "agent",
+      "page_name": "Kent",
       "page_identifier": "kent",
       "html_file": "agents/kent.html",
       "pixel_filename": "pcwstats-tracker-pixel-kent.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-kent.png",
-      "html_title": "agent - HEAT Labs"
+      "html_title": "Kent - HEAT Labs"
     },
     {
-      "page_name": "agent",
+      "page_name": "Placeholder Agent",
       "page_identifier": "placeholder-agent",
       "html_file": "agents/placeholder-agent.html",
       "pixel_filename": "pcwstats-tracker-pixel-placeholder-agent.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-placeholder-agent.png",
-      "html_title": "agent - HEAT Labs"
+      "html_title": "Placeholder Agent - HEAT Labs"
     },
     {
-      "page_name": "agent",
+      "page_name": "Raketa",
       "page_identifier": "raketa",
       "html_file": "agents/raketa.html",
       "pixel_filename": "pcwstats-tracker-pixel-raketa.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-raketa.png",
-      "html_title": "agent - HEAT Labs"
+      "html_title": "Raketa - HEAT Labs"
     },
     {
-      "page_name": "agent",
+      "page_name": "Ray",
       "page_identifier": "ray",
       "html_file": "agents/ray.html",
       "pixel_filename": "pcwstats-tracker-pixel-ray.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-ray.png",
-      "html_title": "agent - HEAT Labs"
+      "html_title": "Ray - HEAT Labs"
     },
     {
-      "page_name": "agent",
+      "page_name": "Reaper",
       "page_identifier": "reaper",
       "html_file": "agents/reaper.html",
       "pixel_filename": "pcwstats-tracker-pixel-reaper.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-reaper.png",
-      "html_title": "agent - HEAT Labs"
+      "html_title": "Reaper - HEAT Labs"
     },
     {
-      "page_name": "agent",
+      "page_name": "Udarnik",
       "page_identifier": "udarnik",
       "html_file": "agents/udarnik.html",
       "pixel_filename": "pcwstats-tracker-pixel-udarnik.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-udarnik.png",
-      "html_title": "agent - HEAT Labs"
+      "html_title": "Udarnik - HEAT Labs"
+    },
+    {
+      "page_name": "Punch",
+      "page_identifier": "punch",
+      "html_file": "agents/punch.html",
+      "pixel_filename": "pcwstats-tracker-pixel-punch.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-punch.png",
+      "html_title": "Punch - HEAT Labs"
+    },
+    {
+      "page_name": "Fantome",
+      "page_identifier": "fantome",
+      "html_file": "agents/fantome.html",
+      "pixel_filename": "pcwstats-tracker-pixel-fantome.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-fantome.png",
+      "html_title": "Fantome - HEAT Labs"
+    },
+    {
+      "page_name": "Arblast",
+      "page_identifier": "arblast",
+      "html_file": "agents/arblast.html",
+      "pixel_filename": "pcwstats-tracker-pixel-arblast.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-arblast.png",
+      "html_title": "Arblast - HEAT Labs"
+    },
+    {
+      "page_name": "Atom",
+      "page_identifier": "atom",
+      "html_file": "agents/atom.html",
+      "pixel_filename": "pcwstats-tracker-pixel-atom.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-atom.png",
+      "html_title": "Atom - HEAT Labs"
     },
     {
       "page_name": "Maintenance Mode",
