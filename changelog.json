@@ -1,6 +1,75 @@
 {
   "updates": [
     {
+      "version": "0.0.2002",
+      "date": "2025-09-27",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #155",
+      "description": "Full patch notes for Update v0.0.2002 (#155), detailing all changes made on 27 September, 2025.",
+      "added": [
+        "Added cat on fire GIF"
+      ],
+      "changed": [
+        "OAT1 Quick Facts updated"
+      ],
+      "fixed": [
+        "Image URLs fixed in OAT1.json"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ]
+    },
+    {
+      "version": "0.0.1998",
+      "date": "2025-09-26",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #154",
+      "description": "Full patch notes for Update v0.0.1998 (#154), detailing all changes made on 26 September, 2025.",
+      "added": [
+        "New agent page for Akira",
+        "Five new agent pages",
+        "Video thumbnail support in asset gallery",
+        "More voice line texts in soundboard",
+        "New page for Akira agent in search index",
+        "New page for Akira agent in tracking pixel index",
+        "New agents added to tracking pixels",
+        "Five new agent pages in search keyword index",
+        "Five new agents in agent index file",
+        "New global hero images",
+        "Thumbnails for all video files in asset gallery",
+        "WAV to MP3 batch converter script",
+        "New repo mappings in JsDelivr-Purger",
+        "New tool for creating video thumbnails",
+        "Tracking pixel for Akira agent page in HEATLabs Views API",
+        "Tracking pixels for all five new agent pages in HEATLabs Views API"
+      ],
+      "changed": [
+        "Agent-specific titles for agent HTML pages",
+        "Brand logo image in Maxwell easter egg page",
+        "Header branding updated to Maxwell Labs in Maxwell easter egg page",
+        "Description for total files stat counter on home page",
+        "Global hero module updated with 10 new images across multiple sites",
+        "Sound file format in soundboard index (WAV \u00e2\u2020\u2019 MP3)",
+        "GSC index data with latest stats and pages",
+        "JsDelivr CDN index file reformatted with latest URLs",
+        "Home page statistics",
+        "Home page fun stats",
+        "JsDelivr data index",
+        "Changelog content",
+        "Daily commit log",
+        "GSC index data (revised again)",
+        "Input handling and formatting in WAV to MP3 converter",
+        ".gitignore file"
+      ],
+      "removed": [
+        "Beta tag from game configurator page",
+        "Beta tag from soundboard page"
+      ],
+      "fixed": [
+        "Two typos in the soundboard index file"
+      ]
+    },
+    {
       "version": "0.0.1963",
       "date": "2025-09-25",
       "author": "HEAT Labs Team",
