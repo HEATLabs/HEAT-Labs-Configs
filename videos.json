@@ -1,12 +1,272 @@
 [
     {
         "id": "1",
-        "title": "How To TITAN - Project CW",
-        "description": "DESCRIPTION",
-        "thumbnail": "https://img.youtube.com/vi/1SH6gCqe4m0/maxresdefault.jpg",
-        "url": "https://youtube.com/watch?v=1SH6gCqe4m0",
-        "creator": "Fishmanisnice",
-        "date": "2024-01-22",
+        "title": "Project CW Comes To CONSOLE In Latest Alpha",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/xS_zkNxyJ8g/maxresdefault.jpg",
+        "url": "https://youtube.com/watch?v=xS_zkNxyJ8g",
+        "creator": "TOMMYBOY601",
+        "date": "2025-02-07",
+        "type": "Gameplay"
+    },
+    {
+        "id": "2",
+        "title": "IS Wargaming's Newest Tank Game on Console Any Good?",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/x3Njaxnd6aY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=x3Njaxnd6aY",
+        "creator": "TOMMYBOY601",
+        "date": "2025-02-09",
+        "type": "Gameplay"
+    },
+    {
+        "id": "3",
+        "title": "Unleash the Ultimate SHORT RANGE Brawler in Project CW!",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/B7jMh-3NpA0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=B7jMh-3NpA0",
+        "creator": "TOMMYBOY601",
+        "date": "2025-02-11",
+        "type": "Gameplay"
+    },
+    {
+        "id": "4",
+        "title": "Domination Gameplay With Ray in Project Cold War",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/o2ZBQtAaqrU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=o2ZBQtAaqrU",
+        "creator": "TOMMYBOY601",
+        "date": "2024-01-18",
+        "type": "Gameplay"
+    },
+    {
+        "id": "5",
+        "title": "Blitz Guide: Support Tank To The Extreme Project Cold War",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/o2Vd3LH6Uqo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=o2Vd3LH6Uqo",
+        "creator": "TOMMYBOY601",
+        "date": "2024-01-30",
         "type": "Guide"
+    },
+    {
+        "id": "6",
+        "title": "Project Cold War: Next Generation Tank Game From Wargaming",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/h6vl5JfM16A/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=h6vl5JfM16A",
+        "creator": "TOMMYBOY601",
+        "date": "2024-01-18",
+        "type": "Gameplay"
+    },
+    {
+        "id": "7",
+        "title": "Conquest Gameplay With Chopper in Project Cold War",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/REFotWjSWyU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=REFotWjSWyU",
+        "creator": "TOMMYBOY601",
+        "date": "2024-01-18",
+        "type": "Gameplay"
+    },
+    {
+        "id": "8",
+        "title": "Plant/Defuse Gameplay With Titan in Project Cold War",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/2AO0DZ2hBe4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2AO0DZ2hBe4",
+        "creator": "TOMMYBOY601",
+        "date": "2024-01-18",
+        "type": "Gameplay"
+    },
+    {
+        "id": "9",
+        "title": "UNSTOPPABLE TANK: Atom in Project Cold War",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/hIIqVdZVt4k/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hIIqVdZVt4k",
+        "creator": "TOMMYBOY601",
+        "date": "2024-01-23",
+        "type": "Gameplay"
+    },
+    {
+        "id": "10",
+        "title": "[Project CW Alpha Test #1] Fantôme Gameplay",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/fvByARCka-8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fvByARCka-8",
+        "creator": "TechTanker",
+        "date": "2024-01-20",
+        "type": "Gameplay"
+    },
+    {
+        "id": "11",
+        "title": "[Project CW Alpha Test #1] Kent Gameplay",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/s87IFP4TdUE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=s87IFP4TdUE",
+        "creator": "TechTanker",
+        "date": "2024-01-23",
+        "type": "Gameplay"
+    },
+    {
+        "id": "12",
+        "title": "[Project CW Alpha Test #1] Chopper Gameplay",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/8bzsJU5haAg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8bzsJU5haAg",
+        "creator": "TechTanker",
+        "date": "2024-01-25",
+        "type": "Gameplay"
+    },
+    {
+        "id": "13",
+        "title": "[Project CW Alpha Test #1] Jäger Gameplay",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/HQQ1JFJPzgI/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HQQ1JFJPzgI",
+        "creator": "TechTanker",
+        "date": "2024-01-26",
+        "type": "Gameplay"
+    },
+    {
+        "id": "14",
+        "title": "[Project CW Alpha Test #1] Udarnik Gameplay",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/xN0qvXGQJzA/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xN0qvXGQJzA",
+        "creator": "TechTanker",
+        "date": "2024-01-29",
+        "type": "Gameplay"
+    },
+    {
+        "id": "15",
+        "title": "[Project CW Alpha Test #1] Akira Gameplay",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/gz7J_ylwTTc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gz7J_ylwTTc",
+        "creator": "TechTanker",
+        "date": "2024-02-01",
+        "type": "Gameplay"
+    },
+    {
+        "id": "16",
+        "title": "[Project CW Alpha Test #1] Agents in Progress Part 1",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/J8FOxv7FJLk/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=J8FOxv7FJLk",
+        "creator": "TechTanker",
+        "date": "2024-02-09",
+        "type": "General"
+    },
+    {
+        "id": "17",
+        "title": "[Project CW Alpha Test #1] Agents in Progress Part 2",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/Qv_1LhbU6dA/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Qv_1LhbU6dA",
+        "creator": "TechTanker",
+        "date": "2024-02-16",
+        "type": "General"
+    },
+    {
+        "id": "18",
+        "title": "[Project CW Alpha Test #2] M60E2 Gameplay",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/TVkoseqLTuc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TVkoseqLTuc",
+        "creator": "TechTanker",
+        "date": "2025-02-18",
+        "type": "Gameplay"
+    },
+    {
+        "id": "19",
+        "title": "[Project CW Alpha Test #2] BAT-4M Gameplay",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/roGmf985JpY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=roGmf985JpY",
+        "creator": "TechTanker",
+        "date": "2025-02-24",
+        "type": "Gameplay"
+    },
+    {
+        "id": "20",
+        "title": "[Project CW Alpha Test #2] AGDS Gameplay",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/FhGLA-rBnro/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FhGLA-rBnro",
+        "creator": "TechTanker",
+        "date": "2025-02-27",
+        "type": "Gameplay"
+    },
+    {
+        "id": "21",
+        "title": "[Project CW Alpha Test #2] M3E1 Gameplay",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/Lt1o3ONYirg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Lt1o3ONYirg",
+        "creator": "TechTanker",
+        "date": "2025-02-28",
+        "type": "Gameplay"
+    },
+    {
+        "id": "22",
+        "title": "[Project CW Alpha Test #2] T-62AV Gameplay",
+        "description": "[Project CW Alpha Test #2] T-62AV Gameplay",
+        "thumbnail": "https://img.youtube.com/vi/kpoqssgK8iw/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kpoqssgK8iw",
+        "creator": "TechTanker",
+        "date": "2025-03-03",
+        "type": "Gameplay"
+    },
+    {
+        "id": "23",
+        "title": "[Project CW Alpha Test #2] XM1V Gameplay",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/sQENajy1rj0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sQENajy1rj0",
+        "creator": "TechTanker",
+        "date": "2025-03-07",
+        "type": "Gameplay"
+    },
+    {
+        "id": "24",
+        "title": "[Project CW Alpha Test #2] Leopard 1A1B Gameplay",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/vQRCRNPwbDs/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vQRCRNPwbDs",
+        "creator": "TechTanker",
+        "date": "2025-03-15",
+        "type": "Gameplay"
+    },
+    {
+        "id": "25",
+        "title": "[Project CW Alpha Test #2] M60A3E2 Gameplay",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/t9zJGfJ1dIM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=t9zJGfJ1dIM",
+        "creator": "TechTanker",
+        "date": "2025-04-07",
+        "type": "Gameplay"
+    },
+    {
+        "id": "26",
+        "title": "[Project CW] Map Archives",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/J2nSh8bmahs/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=J2nSh8bmahs",
+        "creator": "TechTanker",
+        "date": "2025-07-27",
+        "type": "General"
+    },
+    {
+        "id": "27",
+        "title": "[Project CW] Agent Archives",
+        "description": "Description Coming Soon",
+        "thumbnail": "https://img.youtube.com/vi/V623zAzm0nY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=V623zAzm0nY",
+        "creator": "TechTanker",
+        "date": "2025-09-02",
+        "type": "General"
     }
 ]
