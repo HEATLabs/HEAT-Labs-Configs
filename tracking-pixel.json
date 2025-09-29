@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T06:37:56.056729",
+  "generated_at": "2025-09-29T07:45:19.473173",
   "base_cdn_url": "https://heatlabs-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -2145,6 +2145,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-video-showcase.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-video-showcase.png",
       "html_title": "Video Showcase - HEAT Labs"
+    },
+    {
+      "page_name": "Hungry Devs",
+      "page_identifier": "hungry-devs",
+      "html_file": "easter-eggs/hungry-devs.html",
+      "pixel_filename": "pcwstats-tracker-pixel-hungry-devs.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hungry-devs.png",
+      "html_title": "Hungry Devs - HEAT Labs"
     }
   ]
 }
