@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-09-26T22:51:30.274258",
+  "generated_at": "2025-09-30T20:14:09.575817",
   "site_url": "https://heatlabs.github.io/",
   "data_type": "all_time",
   "data": {
     "site_url": "https://heatlabs.github.io/",
-    "last_checked": "2025-09-26T22:51:29.660505",
+    "last_checked": "2025-09-30T20:14:09.289343",
     "date_range": {
       "start_date": "2025-05-16",
-      "end_date": "2025-09-26"
+      "end_date": "2025-09-30"
     },
     "pages": [
       {
@@ -21,9 +21,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 24,
-        "impressions": 63,
-        "ctr": 0.38095238095238093,
-        "position": 2.5238095238095237
+        "impressions": 65,
+        "ctr": 0.36923076923076925,
+        "position": 2.4923076923076923
       },
       {
         "url": "https://heatlabs.github.io/",
@@ -35,10 +35,10 @@
         "crawl_time": null,
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
-        "clicks": 10,
-        "impressions": 69,
-        "ctr": 0.14492753623188406,
-        "position": 3.753623188405797
+        "clicks": 12,
+        "impressions": 75,
+        "ctr": 0.16,
+        "position": 3.5866666666666664
       },
       {
         "url": "https://heatlabs.github.io/playground/game-servers.html",
@@ -66,9 +66,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 2,
-        "impressions": 17,
-        "ctr": 0.11764705882352941,
-        "position": 6.882352941176471
+        "impressions": 21,
+        "ctr": 0.09523809523809523,
+        "position": 6.571428571428571
       },
       {
         "url": "https://heatlabs.github.io/tanks/alvt.html",
@@ -81,9 +81,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 2,
-        "impressions": 25,
-        "ctr": 0.08,
-        "position": 3.64
+        "impressions": 26,
+        "ctr": 0.07692307692307693,
+        "position": 3.576923076923077
       },
       {
         "url": "https://heatlabs.github.io/tanks/m60e2.html",
@@ -96,9 +96,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 2,
-        "impressions": 59,
-        "ctr": 0.03389830508474576,
-        "position": 6.88135593220339
+        "impressions": 68,
+        "ctr": 0.029411764705882353,
+        "position": 6.794117647058823
       },
       {
         "url": "https://heatlabs.github.io/tanks/xm1-90.html",
@@ -111,9 +111,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 2,
-        "impressions": 6,
-        "ctr": 0.3333333333333333,
-        "position": 2.5
+        "impressions": 7,
+        "ctr": 0.2857142857142857,
+        "position": 6.714285714285714
       },
       {
         "url": "https://heatlabs.github.io/agents.html",
@@ -186,9 +186,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 1,
-        "impressions": 75,
-        "ctr": 0.013333333333333334,
-        "position": 11.32
+        "impressions": 79,
+        "ctr": 0.012658227848101266,
+        "position": 11.253164556962025
       },
       {
         "url": "https://heatlabs.github.io/tanks/m60a3e2.html",
@@ -206,6 +206,36 @@
         "position": 1
       },
       {
+        "url": "https://heatlabs.github.io/tanks/object-287.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 1,
+        "impressions": 8,
+        "ctr": 0.125,
+        "position": 3.75
+      },
+      {
+        "url": "https://heatlabs.github.io/tanks/t-72b.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 1,
+        "impressions": 11,
+        "ctr": 0.09090909090909091,
+        "position": 16.454545454545453
+      },
+      {
         "url": "https://heatlabs.github.io/tanks/xm1-v.html",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -216,9 +246,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 1,
-        "impressions": 3,
-        "ctr": 0.3333333333333333,
-        "position": 3.6666666666666665
+        "impressions": 5,
+        "ctr": 0.2,
+        "position": 12.8
       },
       {
         "url": "https://heatlabs.github.io/asset-gallery.html",
@@ -276,9 +306,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 3,
         "ctr": 0,
-        "position": 2
+        "position": 4.666666666666666
       },
       {
         "url": "https://heatlabs.github.io/guides/tank-guides.html",
@@ -381,9 +411,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 5,
+        "impressions": 6,
         "ctr": 0,
-        "position": 8.8
+        "position": 8.166666666666668
       },
       {
         "url": "https://heatlabs.github.io/maps.html",
@@ -399,6 +429,21 @@
         "impressions": 7,
         "ctr": 0,
         "position": 10.285714285714286
+      },
+      {
+        "url": "https://heatlabs.github.io/maps/moonshot.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
       },
       {
         "url": "https://heatlabs.github.io/news/medals-explained.html",
@@ -426,9 +471,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 8,
         "ctr": 0,
-        "position": 5.5
+        "position": 5.875
       },
       {
         "url": "https://heatlabs.github.io/playground.html",
@@ -456,9 +501,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 13,
+        "impressions": 15,
         "ctr": 0,
-        "position": 15.076923076923077
+        "position": 13.666666666666666
       },
       {
         "url": "https://heatlabs.github.io/playground/heat-labs-app.html",
@@ -471,9 +516,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 4,
+        "impressions": 8,
         "ctr": 0,
-        "position": 3.5
+        "position": 6
       },
       {
         "url": "https://heatlabs.github.io/playground/tierlist.html",
@@ -489,6 +534,21 @@
         "impressions": 5,
         "ctr": 0,
         "position": 12.4
+      },
+      {
+        "url": "https://heatlabs.github.io/playground/wordle.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 6.5
       },
       {
         "url": "https://heatlabs.github.io/resources/about-us.html",
@@ -521,6 +581,21 @@
         "position": 5
       },
       {
+        "url": "https://heatlabs.github.io/resources/frequent-questions.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 3
+      },
+      {
         "url": "https://heatlabs.github.io/steam-news/announcing-world-of-tanks-heat.html",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -531,9 +606,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 18,
+        "impressions": 20,
         "ctr": 0,
-        "position": 7.833333333333333
+        "position": 7.65
       },
       {
         "url": "https://heatlabs.github.io/tanks/agds.html",
@@ -561,9 +636,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 7,
+        "impressions": 12,
         "ctr": 0,
-        "position": 2.142857142857143
+        "position": 42.083333333333336
       },
       {
         "url": "https://heatlabs.github.io/tanks/fv4030x.html",
@@ -606,9 +681,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 42,
+        "impressions": 47,
         "ctr": 0,
-        "position": 7.642857142857143
+        "position": 7.638297872340425
       },
       {
         "url": "https://heatlabs.github.io/tanks/leopard-2k14.html",
@@ -621,9 +696,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 3,
         "ctr": 0,
-        "position": 6
+        "position": 8
       },
       {
         "url": "https://heatlabs.github.io/tanks/m1-railgun.html",
@@ -636,9 +711,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 4,
         "ctr": 0,
-        "position": 48
+        "position": 36.75
       },
       {
         "url": "https://heatlabs.github.io/tanks/m1e1.html",
@@ -651,9 +726,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 16,
+        "impressions": 19,
         "ctr": 0,
-        "position": 8.8125
+        "position": 8.052631578947368
       },
       {
         "url": "https://heatlabs.github.io/tanks/m3a1-bradley.html",
@@ -671,7 +746,7 @@
         "position": 8.666666666666668
       },
       {
-        "url": "https://heatlabs.github.io/tanks/object-287.html",
+        "url": "https://heatlabs.github.io/tanks/object-279.html",
         "status": "indexed_and_served",
         "last_crawled": null,
         "indexing_state": "INDEXED",
@@ -681,9 +756,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 3,
         "ctr": 0,
-        "position": 2
+        "position": 12.666666666666666
       },
       {
         "url": "https://heatlabs.github.io/tanks/t-55-enigma.html",
@@ -696,9 +771,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 5
+        "position": 7
       },
       {
         "url": "https://heatlabs.github.io/tanks/t-62av.html",
@@ -711,9 +786,24 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 12,
+        "impressions": 17,
         "ctr": 0,
-        "position": 4.833333333333334
+        "position": 4
+      },
+      {
+        "url": "https://heatlabs.github.io/tanks/t-62ms.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 5
       },
       {
         "url": "https://heatlabs.github.io/tanks/t-64a.html",
@@ -731,21 +821,6 @@
         "position": 7
       },
       {
-        "url": "https://heatlabs.github.io/tanks/t-72b.html",
-        "status": "indexed_and_served",
-        "last_crawled": null,
-        "indexing_state": "INDEXED",
-        "coverage_state": "VALID",
-        "discovery_date": null,
-        "crawl_time": null,
-        "robots_txt_state": "ALLOWED",
-        "user_agent": "DESKTOP",
-        "clicks": 0,
-        "impressions": 9,
-        "ctr": 0,
-        "position": 19.11111111111111
-      },
-      {
         "url": "https://heatlabs.github.io/tanks/xm551.html",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -756,9 +831,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 4
+        "position": 4.5
       },
       {
         "url": "https://heatlabs.github.io/tanks/xm808-twister.html",
@@ -771,14 +846,44 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 14,
+        "impressions": 20,
         "ctr": 0,
-        "position": 8.928571428571429
+        "position": 9.5
+      },
+      {
+        "url": "https://heatlabs.github.io/tournaments/open-alpha-1-tournament.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 3
+      },
+      {
+        "url": "https://heatlabs.github.io/tournaments/open-alpha-2-tournament.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
       }
     ],
     "summary": {
-      "total_pages": 51,
-      "indexed_pages": 51,
+      "total_pages": 58,
+      "indexed_pages": 58,
       "not_indexed_pages": 0,
       "errors": 0
     },
@@ -796,8 +901,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 51,
-    "indexed_pages": 51,
+    "total_pages_found": 58,
+    "indexed_pages": 58,
     "errors": 0
   }
 }
