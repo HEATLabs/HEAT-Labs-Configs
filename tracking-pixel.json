@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-30T20:06:41.286498",
+  "generated_at": "2025-09-30T21:00:37.691835",
   "base_cdn_url": "https://heatlabs-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -2185,6 +2185,30 @@
       "pixel_filename": "pcwstats-tracker-pixel-heat-labs-application.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-heat-labs-application.png",
       "html_title": "HEAT Labs Application - HEAT Labs"
+    },
+    {
+      "page_name": "Meet The Team: Antitank99",
+      "page_identifier": "meet-the-team-antitank99",
+      "html_file": "blog/meet-the-team-antitank99.html",
+      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-antitank99.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-meet-the-team-antitank99.png",
+      "html_title": "Meet The Team: Antitank99 - HEAT Labs"
+    },
+    {
+      "page_name": "Meet The Team: Anuraen",
+      "page_identifier": "meet-the-team-anuraen",
+      "html_file": "blog/meet-the-team-anuraen.html",
+      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-anuraen.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-meet-the-team-anuraen.png",
+      "html_title": "Meet The Team: Anuraen - HEAT Labs"
+    },
+    {
+      "page_name": "Meet The Team: IAmEdWards",
+      "page_identifier": "meet-the-team-iamedwards",
+      "html_file": "blog/meet-the-team-iamedwards.html",
+      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-iamedwards.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-meet-the-team-iamedwards.png",
+      "html_title": "Meet The Team: IAmEdWards - HEAT Labs"
     }
   ]
 }
