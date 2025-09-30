@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-29T07:45:19.473173",
+  "generated_at": "2025-09-30T20:06:41.286498",
   "base_cdn_url": "https://heatlabs-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -2153,6 +2153,38 @@
       "pixel_filename": "pcwstats-tracker-pixel-hungry-devs.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-hungry-devs.png",
       "html_title": "Hungry Devs - HEAT Labs"
+    },
+    {
+      "page_name": "From PCWStats to HEAT Labs",
+      "page_identifier": "from-pcwstats-to-heat-labs",
+      "html_file": "blog/from-pcwstats-to-heat-labs.html",
+      "pixel_filename": "pcwstats-tracker-pixel-from-pcwstats-to-heat-labs.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-from-pcwstats-to-heat-labs.png",
+      "html_title": "From PCWStats to HEAT Labs - HEAT Labs"
+    },
+    {
+      "page_name": "New Playground Features",
+      "page_identifier": "new-playground-features",
+      "html_file": "blog/new-playground-features.html",
+      "pixel_filename": "pcwstats-tracker-pixel-new-playground-features.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-new-playground-features.png",
+      "html_title": "New Playground Features - HEAT Labs"
+    },
+    {
+      "page_name": "Views API Outage",
+      "page_identifier": "views-api-outage",
+      "html_file": "blog/views-api-outage.html",
+      "pixel_filename": "pcwstats-tracker-pixel-views-api-outage.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-views-api-outage.png",
+      "html_title": "Views API Outage - HEAT Labs"
+    },
+    {
+      "page_name": "HEAT Labs Application",
+      "page_identifier": "heat-labs-application",
+      "html_file": "blog/heat-labs-application.html",
+      "pixel_filename": "pcwstats-tracker-pixel-heat-labs-application.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-heat-labs-application.png",
+      "html_title": "HEAT Labs Application - HEAT Labs"
     }
   ]
 }
