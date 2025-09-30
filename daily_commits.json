@@ -1,8 +1,20 @@
 {
   "2025-09-29": [
+    "[heatlabs.github.io] Addition of Hungry Devs easter egg",
+    "[heatlabs.github.io] added tracking pixel to video showcase page",
+    "[heatlabs.github.io] added button for video showcase to all tank pages",
+    "[heatlabs.github.io] added new video showcase page",
+    "[heatlabs.github.io] updated filters in soundboard page to dynamically enable and disable based on selected filters",
     "[heatlabs.github.io] Fixed sidebar redirect on alpha 2 tournament page",
     "[heatlabs.github.io] Added dynamic localhost url fix to remaining pages",
     "[heatlabs.github.io] Added dynamic localhost url fix to all pages",
+    "[Website-Configs] updated tracking pixel index with new easter egg page",
+    "[Website-Configs] added videos from LudoShii to video showcase page",
+    "[Website-Configs] added videos from TOMMYBOY601 and TechTanker to video showcase page",
+    "[Website-Configs] updated search keyword index with new video showcase page",
+    "[Website-Configs] updated tracking pixel index with new video showcase page",
+    "[Website-Configs] updated changelog",
+    "[Website-Configs] updated daily commit log",
     "[Website-Configs] added initial video index file for the video showcase page",
     "[Database-Tools] fixed missing comma in daily commit fetcher tool",
     "[Website-Changelog] Added dynamic localhost url fix to website statistics pages",
@@ -14,7 +26,9 @@
     "[Website-Status] removed all redirects and trailing .html from website status pages",
     "[Website-Status] testing dynamic fix for local host urls",
     "[Website-Status] removed trailing .html from website status pages",
-    "[Website-Status] testing removal of trailing .html from URLs"
+    "[Website-Status] testing removal of trailing .html from URLs",
+    "[ThatSINEWAVE/HEATLabs-Views-API] added tracking pixel for new easter egg page",
+    "[ThatSINEWAVE/HEATLabs-Views-API] added tracking pixel for video showcase page"
   ],
   "2025-09-28": [
     "[Website-Configs] updated changelog",
