@@ -1,6 +1,43 @@
 {
   "updates": [
     {
+      "version": "0.0.2060",
+      "date": "2025-09-29",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #157",
+      "description": "Full patch notes for Update v0.0.2060 (#157), detailing all changes made on 29 September, 2025.",
+      "added": [
+        "Hungry Devs easter egg",
+        "Tracking pixel to Video Showcase page",
+        "Button for Video Showcase on all tank pages",
+        "New Video Showcase page",
+        "Videos from LudoShii in Video Showcase",
+        "Videos from TOMMYBOY601 and TechTanker in Video Showcase",
+        "Initial video index file for Video Showcase page",
+        "Tracking pixel for new easter egg page in HEATLabs Views API",
+        "Tracking pixel for Video Showcase page in HEATLabs Views API"
+      ],
+      "changed": [
+        "Filters in Soundboard page to dynamically enable/disable based on selection",
+        "Search keyword index with new Video Showcase page",
+        "Tracking pixel index with new Video Showcase and easter egg pages",
+        "Changelog in Website-Configs",
+        "Daily commit log in Website-Configs",
+        "Dynamic localhost URL fixes applied to all remaining pages",
+        "Dynamic localhost URL fixes applied to Website Statistics and Website Status pages"
+      ],
+      "removed": [
+        "Trailing .html from Website Changelog pages",
+        "Trailing .html from Website Statistics pages",
+        "Redirects and trailing .html from Website Status pages"
+      ],
+      "fixed": [
+        "Sidebar redirect issue on Alpha 2 tournament page",
+        "Missing comma in daily commit fetcher tool",
+        "Typo in bottom disclaimer of Website Changelog page"
+      ]
+    },
+    {
       "version": "0.0.2038",
       "date": "2025-09-28",
       "author": "HEAT Labs Team",
