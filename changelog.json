@@ -1,6 +1,58 @@
 {
   "updates": [
     {
+      "version": "0.0.2097",
+      "date": "2025-09-30",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #158",
+      "description": "Full patch notes for Update v0.0.2097 (#158), detailing all changes made on 30 September, 2025.",
+      "added": [
+        "Tracking pixels to the 3 new Meet the Team placeholder posts",
+        "Placeholder Meet the Team posts for 3 additional members",
+        "Banner images to Meet the Team blog posts",
+        "Banner images to all new blog posts",
+        "4 new blog posts added to main blogs page",
+        "Updated placeholder blog post",
+        "2 new words added to the Wordle list",
+        "Videos from KnightFilms, AwesomeAverageDude, Fishmanisnice, and WorldSp0wn added to Video Showcase page",
+        "Feature showcase blog images",
+        "Easter Egg Friday blog images",
+        "Developer Insights blog images",
+        "Placeholder sections for new CDN statistics in Website Statistics page",
+        "Missing page categories and main page label added to Website Statistics",
+        "Logic for CDN statistics added to Website Statistics",
+        "Tracking pixels for new tracking blog pages in HEATLabs Views API"
+      ],
+      "changed": [
+        "Related articles section in Meet the Team placeholder posts",
+        "Images and names in 3 new Meet the Team placeholder posts",
+        "Meet the Team template updated with placeholder image",
+        "Feature Showcase template updated with image placeholder",
+        "Blog cards on main blog page updated with new banner images",
+        "Tags updated in two blog posts",
+        "Website plans and mission blog post updated",
+        "Home page stats updated",
+        "Search keyword index updated with 3 new Meet the Team placeholders and 4 new blog posts",
+        "Tracking pixel index updated with new blog and placeholder posts",
+        "GSC index data updated",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Error states for Views API counters handled gracefully in Website Statistics",
+        "Chart titles renamed for CDN statistics",
+        "Unused error state CSS removed from Website Statistics",
+        "Main page label fixed in Website Statistics"
+      ],
+      "removed": [
+        "All redirects removed from Website Changelog and Website Statistics pages",
+        "Incorrect image in one news article"
+      ],
+      "fixed": [
+        "Missing Related Article descriptions in one Meet the Team blog post",
+        "Incorrect numbering on Developer Insights blog posts",
+        "Duplicate page name issue"
+      ]
+    },
+    {
       "version": "0.0.2060",
       "date": "2025-09-29",
       "author": "HEAT Labs Team",
