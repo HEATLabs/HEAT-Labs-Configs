@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-30T21:00:37.691835",
+  "generated_at": "2025-10-02T05:07:35.793900",
   "base_cdn_url": "https://heatlabs-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -2209,6 +2209,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-iamedwards.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-meet-the-team-iamedwards.png",
       "html_title": "Meet The Team: IAmEdWards - HEAT Labs"
+    },
+    {
+      "page_name": "Model Viewer Test Page",
+      "page_identifier": "test-model-viewer",
+      "html_file": "tanks/test-model-viewer.html",
+      "pixel_filename": "pcwstats-tracker-pixel-test-model-viewer.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-test-model-viewer.png",
+      "html_title": "Model Viewer Test Page - HEAT Labs"
     }
   ]
 }
