@@ -1,6 +1,43 @@
 {
   "updates": [
     {
+      "version": "0.0.2119",
+      "date": "2025-10-01",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #159",
+      "description": "Full patch notes for Update v0.0.2119 (#159), detailing all changes made on 01 October, 2025.",
+      "added": [
+        "Test page for tank model viewer",
+        "Missing library import to all tank pages",
+        "Missing library to JS libraries for upcoming model viewer",
+        "Placeholder file for upcoming module loader",
+        "Required imports for upcoming 3D model viewer on all tank pages",
+        "three.js and supporting libraries for model viewer",
+        "New testing model from World of Tanks",
+        "Test models for tank visualiser",
+        "New description text to Website Statistics page"
+      ],
+      "changed": [
+        "Win rate stat label text",
+        "Font size of stat counters in Wordle game",
+        "Views API outage blog post updated to mention resolution",
+        "Agent placeholder description in Website-Configs",
+        "Changelog in Website-Configs",
+        "Daily commit log in Website-Configs",
+        "FBX file version for test model",
+        "Textures folder renamed in test model files",
+        "File names updated for test model for 3D model viewer",
+        "Replaced CDN URLs with GitHub URLs for social share images across Main Site, Website Changelog, Website Statistics, and Website Status"
+      ],
+      "removed": [
+        "Old test model file",
+        "Redundant .max model file"
+      ],
+      "fixed": [
+        "Typo in new imports across all tank pages"
+      ]
+    },
+    {
       "version": "0.0.2097",
       "date": "2025-09-30",
       "author": "HEAT Labs Team",
