@@ -14,7 +14,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/agds/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/agds/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/agds/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/agds/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/agds/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/agds/model/model.fbx"
     },
     {
         "id": 2,
@@ -31,7 +32,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/alvt/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/alvt/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/alvt/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/alvt/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/alvt/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/alvt/model/model.fbx"
     },
     {
         "id": 3,
@@ -48,7 +50,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/bat-4m/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/bat-4m/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/bat-4m/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/bat-4m/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/bat-4m/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/bat-4m/model/model.fbx"
     },
     {
         "id": 4,
@@ -65,7 +68,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/fv4030x/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/fv4030x/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/fv4030x/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/fv4030x/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/fv4030x/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/fv4030x/model/model.fbx"
     },
     {
         "id": 5,
@@ -82,7 +86,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/hstv-l/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/hstv-l/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/hstv-l/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/hstv-l/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/hstv-l/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/hstv-l/model/model.fbx"
     },
     {
         "id": 6,
@@ -99,7 +104,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-1a1b/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-1a1b/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-1a1b/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-1a1b/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-1a1b/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/leopard-1a1b/model/model.fbx"
     },
     {
         "id": 7,
@@ -116,7 +122,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-1a6a1/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-1a6a1/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-1a6a1/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-1a6a1/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-1a6a1/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/leopard-1a6a1/model/model.fbx"
     },
     {
         "id": 8,
@@ -133,7 +140,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-2k14/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-2k14/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-2k14/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-2k14/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-2k14/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/leopard-2k14/model/model.fbx"
     },
     {
         "id": 9,
@@ -150,7 +158,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-2fk/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-2fk/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-2fk/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-2fk/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/leopard-2fk/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/leopard-2fk/model/model.fbx"
     },
     {
         "id": 10,
@@ -167,7 +176,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m1-railgun/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m1-railgun/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m1-railgun/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m1-railgun/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m1-railgun/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/m1-railgun/model/model.fbx"
     },
     {
         "id": 11,
@@ -184,7 +194,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m1e1/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m1e1/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m1e1/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m1e1/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m1e1/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/m1e1/model/model.fbx"
     },
     {
         "id": 12,
@@ -201,7 +212,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m3a1-bradley/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m3a1-bradley/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m3a1-bradley/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m3a1-bradley/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m3a1-bradley/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/m3a1-bradley/model/model.fbx"
     },
     {
         "id": 13,
@@ -218,7 +230,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m60a3e2/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m60a3e2/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m60a3e2/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m60a3e2/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m60a3e2/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/m60a3e2/model/model.fbx"
     },
     {
         "id": 14,
@@ -235,7 +248,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m60a3e2-bot/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m60a3e2-bot/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m60a3e2-bot/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m60a3e2-bot/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m60a3e2-bot/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/m60a3e2-bot/model/model.fbx"
     },
     {
         "id": 15,
@@ -252,7 +266,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m60e2/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m60e2/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m60e2/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m60e2/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/m60e2/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/m60e2/model/model.fbx"
     },
     {
         "id": 16,
@@ -269,7 +284,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm551/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm551/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm551/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm551/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm551/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/xm551/model/model.fbx"
     },
     {
         "id": 17,
@@ -286,7 +302,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/object-279/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/object-279/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/object-279/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/object-279/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/object-279/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/object-279/model/model.fbx"
     },
     {
         "id": 18,
@@ -303,7 +320,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/object-287/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/object-287/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/object-287/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/object-287/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/object-287/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/object-287/model/model.fbx"
     },
     {
         "id": 19,
@@ -320,7 +338,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/ptz89c/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/ptz89c/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/ptz89c/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/ptz89c/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/ptz89c/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/ptz89c/model/model.fbx"
     },
     {
         "id": 20,
@@ -337,7 +356,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-62av/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-62av/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-62av/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-62av/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-62av/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/t-62av/model/model.fbx"
     },
     {
         "id": 21,
@@ -354,7 +374,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-64a/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-64a/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-64a/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-64a/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-64a/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/t-64a/model/model.fbx"
     },
     {
         "id": 22,
@@ -371,7 +392,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-62ms/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-62ms/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-62ms/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-62ms/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-62ms/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/t-62ms/model/model.fbx"
     },
     {
         "id": 23,
@@ -388,7 +410,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-72au/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-72au/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-72au/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-72au/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-72au/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/t-72au/model/model.fbx"
     },
     {
         "id": 24,
@@ -405,7 +428,8 @@
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-72b/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-72b/details.json",
         "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-72b/builds.json",
-        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-72b/abilities.json"
+        "abilities": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-72b/abilities.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/t-72b/model/model.fbx"
     },
     {
         "id": 25,
@@ -421,7 +445,8 @@
         "perks": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-55-enigma/perks.json",
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-55-enigma/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-55-enigma/details.json",
-        "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-55-enigma/builds.json"
+        "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/t-55-enigma/builds.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/t-55-enigma/model/model.fbx"
     },
     {
         "id": 26,
@@ -437,7 +462,8 @@
         "perks": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm1-90/perks.json",
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm1-90/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm1-90/details.json",
-        "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm1-90/builds.json"
+        "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm1-90/builds.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/xm1-90/model/model.fbx"
     },
     {
         "id": 27,
@@ -453,7 +479,8 @@
         "perks": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm1-v/perks.json",
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm1-v/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm1-v/details.json",
-        "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm1-v/builds.json"
+        "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm1-v/builds.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/xm1-v/model/model.fbx"
     },
     {
         "id": 28,
@@ -469,7 +496,8 @@
         "perks": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm808-twister/perks.json",
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm808-twister/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm808-twister/details.json",
-        "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm808-twister/builds.json"
+        "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/xm808-twister/builds.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/xm808-twister/model/model.fbx"
     },
     {
         "id": 29,
@@ -485,6 +513,7 @@
         "perks": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/amx-10-rc/perks.json",
         "agents": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/amx-10-rc/agents.json",
         "details": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/amx-10-rc/details.json",
-        "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/amx-10-rc/builds.json"
+        "builds": "https://cdn.jsdelivr.net/gh/HEATLabs/Database-Files@main/tanks/amx-10-rc/builds.json",
+        "model": "https://cdn.jsdelivr.net/gh/HEATLabs/Tank-Models@main/tanks/amx-10-rc/model/model.fbx"
     }
 ]
