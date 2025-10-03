@@ -1,6 +1,65 @@
 {
   "updates": [
     {
+      "version": "0.0.2163",
+      "date": "2025-10-02",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #160",
+      "description": "Full patch notes for Update v0.0.2163 (#160), detailing all changes made on 02 October, 2025.",
+      "added": [
+        "Two new team member spots in Credits page",
+        "Two new team member spots in About Us page",
+        "Counters to home page for Agents, Tanks, and Maps",
+        "Logic module for model viewer test page",
+        "Placeholder image for new members wanted team cards",
+        "Future proof paths for tank model locations in Tank index file",
+        "Missing textures for test model in Database-Files",
+        "OAT2 vehicles-american base model files",
+        "OAT2 vehicles-common base model files",
+        "OAT2 vehicles-german base model files",
+        "OAT2 vehicles-russian base model files",
+        "OAT2 vehicles-chinese base model files",
+        "OAT2 vehicles-british base model files",
+        "OAT2 vehicles-american base model files",
+        "OAT1 vehicles-common base model files",
+        "OAT1 vehicles-german base model files",
+        "OAT1 vehicles-russian base model files",
+        "OAT1 vehicles-chinese base model files",
+        "OAT1 vehicles-british base model files",
+        "OAT1 vehicles-american base model files",
+        "Test model files in Tank-Models repository",
+        "Tracking pixel for one page in HEATLabs Views API"
+      ],
+      "changed": [
+        "Order of home page statistics",
+        "Soundboard page with share modal and sharing system",
+        "Paths in model viewer test page to new tank model location",
+        "Model viewer module behavior when exiting fullscreen with Escape",
+        "Texts in model viewer test page with placeholders",
+        "Formatting in model viewer testing page",
+        "Model control colors and hover states",
+        "Asset gallery with decode and fade transition testing",
+        "Home page statistics in Website-Configs (twice updated)",
+        "Paths for models in Tank index file",
+        "Tracking pixel index with one new page",
+        "GSC index data",
+        "Changelog",
+        "Daily commit log",
+        "Daily commit fetcher tool updated with new repo name",
+        "Texture files in test model (Database-Files)",
+        "README.md in Tank-Models repository"
+      ],
+      "removed": [
+        "Test model files from Database-Files repository"
+      ],
+      "fixed": [
+        "Issue causing model viewer to block user interactions while loading",
+        "Local paths for test model locations",
+        "Paths in OAT1 vehicles-british base model files",
+        "Paths in OAT1 vehicles-american base model files (fixed twice)"
+      ]
+    },
+    {
       "version": "0.0.2119",
       "date": "2025-10-01",
       "author": "HEAT Labs Team",
