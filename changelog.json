@@ -1,6 +1,64 @@
 {
   "updates": [
     {
+      "version": "0.0.2212",
+      "date": "2025-10-04",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #162",
+      "description": "Full patch notes for Update v0.0.2212 (#162), detailing all changes made on 04 October, 2025.",
+      "added": [
+        "WIP tag and modal modules across all pages",
+        "Dedicated CSS and JS imports for the upcoming WIP modal system",
+        "Dedicated styles and JS files for the Radio and Go-To easter eggs",
+        "New easter egg CSS and JS imports in all main site pages",
+        "Placeholder CSS and JS files for the upcoming WIP modal module",
+        "Privacy-focused tracking pixel to maintenance pages",
+        "Chart.js library import and placeholder files for the mock player statistics page",
+        "WIP tag to strategy planner and mock player statistics pages",
+        "Beta tag to strategy planner page",
+        "Missing icons for Wordle and Soundboard cards on the Playground page",
+        "Placeholder image for strategy planner card in the Playground page",
+        "New image repository structure for maps, tanks, news, guides, blogs, galleries, features, and tournaments",
+        "Dedicated image repositories for Website-Images-Tanks, Website-Images-Maps, Website-Images-News, Website-Images-Features, Website-Images-Guides, Website-Images-Blogs, Website-Images-Gallery, and Website-Images-Tournaments",
+        "README files for all dedicated image repositories",
+        "Base GitHub organization repository added to daily commit fetcher list",
+        "Two missing repositories added to daily commit fetcher configuration",
+        "New mock data file paths in player statistics JS and CSS files"
+      ],
+      "changed": [
+        "All image paths across pages (playground, roulette, strategy planner, hero module, guides, blogs, bug hunting, maps, news, tournaments) updated to use new repository paths",
+        "Playground page structure with reordered cards and improved layout spacing",
+        "Strategy Planner page layout, hero section, and description shortened",
+        "Version tag header updated to link to the new changelog page path",
+        "Global hero modules updated across changelog, statistics, and status pages",
+        "Asset gallery HTML, CSS, and JS files to remove old tankopedia mentions",
+        "Social media paths in Go-To easter egg updated",
+        "daily commit log and changelog data in Website-Configs updated",
+        "Map, agent, tank, tournament, and gallery index files updated with new image paths",
+        "Tracking pixel index updated with the new Strategy Planner path",
+        "README files updated across all repositories to replace PCWStats with HEAT Labs",
+        "Example .env file updated to remove PCWStats references",
+        "Daily commit fetcher updated to support the new image repository structure"
+      ],
+      "removed": [
+        "Easter egg styles and scripts from misc.css and misc.js files across all site modules",
+        "WIP modal functionality from sidebar JS and CSS modules",
+        "Hero background, roulette, playground, strategy planner, guide, blog, bug hunting, map, gallery, news, tank, and tournament images from the main image repository",
+        "Redundant spaces in Playground page cards",
+        "Strategy Planner from sidebar lists in main site, changelog, statistics, and status pages",
+        "Unused entries in tracking pixel index",
+        "Leftover code comments and text mentions of PCWStats across repositories"
+      ],
+      "fixed": [
+        "Incorrect game name references in multiple README files",
+        "Pathing issues on the Strategy Planner and Video Showcase pages",
+        "Incorrect active tag in sidebar list on Video Showcase page",
+        "Incorrect page path in search keyword index entry",
+        "Several incorrect URL paths on Strategy Planner page",
+        "Code comment in Website-Status module mentioning PCWStats"
+      ]
+    },
+    {
       "version": "0.0.2169",
       "date": "2025-10-03",
       "author": "HEAT Labs Team",
