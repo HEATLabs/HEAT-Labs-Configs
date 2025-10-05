@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-02T05:07:35.793900",
+  "generated_at": "2025-10-06T02:23:06.750266",
   "base_cdn_url": "https://heatlabs-pixel-api.vercel.app/api/track",
   "pixels": [
     {
@@ -2209,6 +2209,22 @@
       "pixel_filename": "pcwstats-tracker-pixel-test-model-viewer.png",
       "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-test-model-viewer.png",
       "html_title": "Model Viewer Test Page - HEAT Labs"
+    },
+    {
+      "page_name": "Player Statistics",
+      "page_identifier": "players",
+      "html_file": "players.html",
+      "pixel_filename": "pcwstats-tracker-pixel-players.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-players.png",
+      "html_title": "Player Statistics - HEAT Labs"
+    },
+    {
+      "page_name": "Looking for New Team Members",
+      "page_identifier": "looking-for-new-team-members",
+      "html_file": "blog/looking-for-new-team-members.html",
+      "pixel_filename": "pcwstats-tracker-pixel-looking-for-new-team-members.png",
+      "pixel_url": "https://heatlabs-pixel-api.vercel.app/api/track/pcwstats-tracker-pixel-looking-for-new-team-members.png",
+      "html_title": "Looking for New Team Members - HEAT Labs"
     }
   ]
 }
