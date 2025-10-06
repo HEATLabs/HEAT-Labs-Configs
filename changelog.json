@@ -50,7 +50,7 @@
         "Missing icons for Wordle and Soundboard cards on the Playground page",
         "Placeholder image for strategy planner card in the Playground page",
         "New image repository structure for maps, tanks, news, guides, blogs, galleries, features, and tournaments",
-        "Dedicated image repositories for Website-Images-Tanks, Website-Images-Maps, Website-Images-News, Website-Images-Features, Website-Images-Guides, Website-Images-Blogs, Website-Images-Gallery, and Website-Images-Tournaments",
+        "Dedicated image repositories for HEAT-Labs-Images-Tanks, HEAT-Labs-Images-Maps, HEAT-Labs-Images-News, HEAT-Labs-Images-Features, HEAT-Labs-Images-Guides, HEAT-Labs-Images-Blogs, HEAT-Labs-Images-Gallery, and HEAT-Labs-Images-Tournaments",
         "README files for all dedicated image repositories",
         "Base GitHub organization repository added to daily commit fetcher list",
         "Two missing repositories added to daily commit fetcher configuration",
@@ -530,7 +530,7 @@
       "fixed": [
         "Pathing issue causing statistics button in Tank Roulette page not opening correct URL",
         "README issues in Website-Configs repo",
-        "README issues in Website-Images repo",
+        "README issues in HEAT-Labs-Images repo",
         "README issues in Database-Tools repo",
         "README issues in Website-Changelog repo",
         "Incorrect site names leftover from rebranding in Website-Changelog page",
@@ -797,7 +797,7 @@
         "All three Steam news posts to the new Steam News category",
         "Placeholder post for Steam News category",
         "Three new counters to the home page with updated counter layout",
-        "App preview image in Website-Images",
+        "App preview image in HEAT-Labs-Images",
         "New images for Steam News section",
         "TXT output directory option and menu enhancements in Database-Tools",
         "Folder count and total size statistics in Database-Tools",
@@ -816,7 +816,7 @@
         "Home-stats file with new project metrics",
         "Changelog entries",
         "Daily commit log",
-        "PWA screenshots in Website-Images"
+        "PWA screenshots in HEAT-Labs-Images"
       ],
       "removed": [
         "Nothing was removed in this update"
@@ -1227,7 +1227,7 @@
       "title": "HEAT Labs - Update Number #118",
       "description": "Full patch notes for Update v0.1.681 (#118), detailing all changes made on 20 August, 2025.",
       "added": [
-        "HEAT-related hero image in Website-Images"
+        "HEAT-related hero image in HEAT-Labs-Images"
       ],
       "changed": [
         "All cases of PCWStats updated to HEAT Labs across the site",
@@ -3361,7 +3361,7 @@
       "removed": [
         "Old tracking pixels from all pages",
         "Text styles on charts in tank pages",
-        "All tracking pixel files from Website-Images",
+        "All tracking pixel files from HEAT-Labs-Images",
         "Placeholder builds for all tanks",
         "Placeholders from XM1-V and Leopard 1A1B builds"
       ]
@@ -4504,7 +4504,7 @@
         "Ballistic Range map",
         "Missing maps and their images",
         "Hero background image on the custom 404 page",
-        "Ballistic_Range_1.png asset in Website-Images",
+        "Ballistic_Range_1.png asset in HEAT-Labs-Images",
         "File type selector tool in Database-Tools",
         "File converter and extractor tools in Database-Tools"
       ],
@@ -4534,7 +4534,7 @@
         "PWA tags and comments on all pages",
         "New modules on each page for better structure",
         "Known map sizes metadata",
-        "Images for aircraft carrier and PWA setup in Website-Images",
+        "Images for aircraft carrier and PWA setup in HEAT-Labs-Images",
         "placeholder-chopper.png and PCWStats.png assets"
       ],
       "changed": [
@@ -4548,10 +4548,10 @@
         "Nexus Dam FAQ updated",
         "Project Phoenix description revised",
         "Friendship Dam renamed to Nexus Dam",
-        "Standardized all images in Website-Images"
+        "Standardized all images in HEAT-Labs-Images"
       ],
       "removed": [
-        "Outdated PCWSTATS.png image from Website-Images"
+        "Outdated PCWSTATS.png image from HEAT-Labs-Images"
       ],
       "fixed": [
         "Nothing was fixed in this update"
@@ -4572,7 +4572,7 @@
         "Warning notice on the home page",
         "Descriptions throughout various sections",
         "Missing map asset",
-        "New agent images in Website-Images",
+        "New agent images in HEAT-Labs-Images",
         "Placeholders for future image and content use",
         "Aircraft_Carrier.png and Friendship_Dam.png images"
       ],
@@ -4588,7 +4588,7 @@
       "removed": [
         "Image subtext from pages",
         "Recommended Team Composition section",
-        "Old and unused agent images from Website-Images"
+        "Old and unused agent images from HEAT-Labs-Images"
       ],
       "fixed": [
         "Class names in guides page",
@@ -4609,14 +4609,14 @@
       "added": [
         "CTA (Call-To-Action) sections",
         "Placeholder map pages",
-        "New images in Website-Images"
+        "New images in HEAT-Labs-Images"
       ],
       "changed": [
         "CTA styles for improved standardization",
         "Updated existing images in pcwstats.github.io"
       ],
       "removed": [
-        "Old unused images from Website-Images"
+        "Old unused images from HEAT-Labs-Images"
       ],
       "fixed": [
         "Nothing was fixed in this update"
@@ -4641,9 +4641,9 @@
         "Home page along with main JavaScript and CSS files",
         "Placeholder files for search",
         "Placeholder JSON file in Website-Configs",
-        "Image in Website-Images",
+        "Image in HEAT-Labs-Images",
         "Placeholder image: placeholder-image.png",
-        ".gitignore files in Website-Configs, Website-Images, Database-Tools, and Database-Files",
+        ".gitignore files in Website-Configs, HEAT-Labs-Images, Database-Tools, and Database-Files",
         "Initial project files across all repositories"
       ],
       "changed": [
