@@ -1,6 +1,37 @@
 {
   "updates": [
     {
+      "version": "0.0.2228",
+      "date": "2025-10-05",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #163",
+      "description": "Full patch notes for Update v0.0.2228 (#163), detailing all changes made on 05 October, 2025.",
+      "added": [
+        "Tracking pixels to two new pages",
+        "New blog post on the main blogs page",
+        "Placeholder files for the upcoming Google Trends page",
+        "Missing page category to Website Statistics",
+        "Two new tracking pixels to HEATLabs Views API"
+      ],
+      "changed": [
+        "Header tag updated from BETA to Loading across multiple sites (main, changelog, statistics, status, and dev tools)",
+        "Website Statistics page updated to display data from all image repositories",
+        "Tracking pixel index updated with new pages",
+        "GSC index data refreshed",
+        "JsDelivr index data updated after purge",
+        "Changelog and daily commit log updated"
+      ],
+      "removed": [
+        "Google Trends test page"
+      ],
+      "fixed": [
+        "Incorrect comment in main blogs page",
+        "Incorrect date in one blog card",
+        "Official blog link in footers of Video Showcase, Playground, and Player Statistics pages",
+        "Minor misplaced comment in code"
+      ]
+    },
+    {
       "version": "0.0.2212",
       "date": "2025-10-04",
       "author": "HEAT Labs Team",
