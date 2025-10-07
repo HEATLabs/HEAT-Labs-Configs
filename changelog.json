@@ -1,6 +1,52 @@
 {
   "updates": [
     {
+      "version": "0.2.258",
+      "date": "2025-10-06",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #164",
+      "description": "Full patch notes for Update v0.2.258 (#164), detailing all changes made on 06 October, 2025.",
+      "added": [
+        "Complete HEAT Labs Discord redirect page including HTML, CSS, JS, libraries, and site-data files",
+        "Tracking pixel integration for Discord redirect page and related subdomains",
+        "New development tool for keeping site-data files up to date",
+        "Placeholder file for the new site data updater tool",
+        "Video on Alpha Tournament 2 page",
+        "Tracking pixel of new Discord redirect page in HEAT-Labs-Views-API"
+      ],
+      "changed": [
+        "README files across all repositories updated with new domain URLs, image repo paths, and Discord redirect pages",
+        "All JS, CSS, and configuration files updated to use new paths for configs, images, and API subdomains",
+        "Changelog pages updated with fixed header paths, new API subdomain, and improved navigation links",
+        "Navbar header buttons and footer links now point to new subdomains (status, statistics, changelog, discord, etc.)",
+        "Soundboard, tanks, and tournaments configuration files updated with new URLs and transcripts",
+        "Tracking pixel index files updated with new API and Discord redirect URLs",
+        "Changelog validator and versioning system updated with future-proof format",
+        "Daily commit logs refreshed and repository names updated",
+        "GSC index checker, JsDelivr purger, and development tools updated to reflect new repository structure and URLs",
+        "Website pages (main, statistics, status, changelog) migrated to new domain paths and updated image/CDN links",
+        "Database image and video placeholders corrected and re-linked with proper URLs",
+        "Banner and humans.txt files updated with new Discord URLs and branding references",
+        "Project stats counter, keyword checker, and pixel generator tools updated with new config locations",
+        "Model loader and tournament scripts updated to reference new image and database URLs",
+        "Removed trailing HTML tags from all URLs and site pages for cleaner linking",
+        "All sitemaps updated and verified for new domain structure"
+      ],
+      "fixed": [
+        "Incorrect or missing nav bar button paths across multiple subdomains",
+        "Broken sitemap paths in changelog, status, and statistics pages",
+        "Incorrect image URLs for OAT1 and OAT2 tournament pages",
+        "Inconsistent team member order on About Us and Credits pages",
+        "Placeholder image and video paths in database files for tank pages",
+        "Incorrect URLs in site-data for changelog and statistics pages",
+        "All remaining references to old heatlabs.github.io domain replaced with new heatlabs.net URLs"
+      ],
+      "removed": [
+        "Index page from sitemap list",
+        "Redundant quick access section from home page"
+      ]
+    },
+    {
       "version": "0.2.227",
       "date": "2025-10-05",
       "author": "HEAT Labs Team",
