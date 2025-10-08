@@ -1,6 +1,53 @@
 {
   "updates": [
     {
+      "version": "0.2.290",
+      "date": "2025-10-07",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #165",
+      "description": "Full patch notes for Update v0.2.290 (#165), detailing all changes made on 07 October, 2025.",
+      "added": [
+        "Two Halloween-specific images to the HEAT Labs Images repository",
+        "Tracking pixel for the desktop app",
+        "Dedicated CSS file for custom desktop title bar",
+        "Custom JS files required for desktop app build",
+        "Missing files to test desktop app version",
+        "Copy of main website for desktop app testing",
+        "package.json file for desktop app",
+        "build.yml workflow file for desktop app",
+        "Complete README for HEAT Labs Desktop",
+        "Tracking pixel for test desktop app in HEAT Labs Views API",
+        "CNAME file for HEAT Labs Website Development repository",
+        "Complete README for HEAT Labs Website Development repository",
+        "Initial commit for HEAT Labs Website Development repository"
+      ],
+      "changed": [
+        "Repository name references in all README files across HEAT Labs repositories",
+        "Home page statistics in HEAT Labs Configs",
+        "Tracking pixel index with one new tracker",
+        "JsDelivr purge index data",
+        "Daily commit log with missing entries from new repository",
+        "Search keyword index with new URLs",
+        "Changelog structure and entries in HEAT Labs Configs",
+        "Zoom level and minimum window sizes in HEAT Labs Desktop app",
+        "Formatting in HEAT Labs Desktop JavaScript files",
+        "Title bar styles and logic in HEAT Labs Desktop app",
+        "HEAT Labs Desktop package file configuration",
+        "SiteData tool in HEAT Labs Tools to use updated repository names",
+        "Developers Only page generator tool with new format",
+        "Daily commit fetcher to reference new repository names",
+        "Developers Only page content in HEAT Labs Website"
+      ],
+      "removed": [
+        "All test files from the HEAT Labs Desktop repository",
+        "Placeholder repository name from daily commit fetcher",
+        "Old repository name entry from daily commit fetcher"
+      ],
+      "fixed": [
+        "Meta tag URLs across HEAT Labs Changelog, Statistics, Status, and Main Website repositories"
+      ]
+    },
+    {
       "version": "0.2.258",
       "date": "2025-10-06",
       "author": "HEAT Labs Team",
