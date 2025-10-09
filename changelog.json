@@ -1,6 +1,45 @@
 {
   "updates": [
     {
+      "version": "0.2.314",
+      "date": "2025-10-08",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #166",
+      "description": "Full patch notes for Update v0.2.314 (#166), detailing all changes made on 08 October, 2025.",
+      "added": [
+        "WIP Halloween easter egg JavaScript files across all subprojects",
+        "Discord Rich Presence support in HEAT Labs Configurator (v1.1.7)",
+        "Discord Rich Presence support in HEAT Labs Desktop app",
+        "Complete code for the new HEAT Labs Socials website, including assets, site data, and README",
+        "New social share images for maintenance, error, and main website pages",
+        "Cobweb 3 and Cobweb 4 image assets for Halloween theme",
+        "Tracking pixel for the new Socials page in HEAT Labs Views API",
+        "Sound number sorter tool added to HEAT Labs Tools repository",
+        "Sound source fixer tool added to HEAT Labs Tools repository"
+      ],
+      "changed": [
+        "Updated settings modules across all HEAT Labs repositories to include new seasonal content setting",
+        "Updated halloween.js scripts with ambiance music or radio across all projects",
+        "Updated README files with new images in multiple repositories",
+        "Updated social share images and sizes across changelog, status, statistics, and website pages",
+        "Updated main HEAT Labs website hero section to remove unnecessary shadows",
+        "Updated text on the website statistics page to include CDN tracking start date",
+        "Updated GSC index data, home stats, and tracking pixel index in HEAT Labs Configs",
+        "Updated changelog and daily commit fetcher in HEAT Labs Configs",
+        "Updated site data updater and daily commit fetcher tools with new repository names",
+        "Updated social share image sizes in Devs Only generator tool",
+        "Bumped HEAT Labs Configurator version from 1.1.6 to 1.1.7"
+      ],
+      "removed": [
+        "Punctuation from seasonal content settings across all repositories",
+        "Sound number sorter tool from HEAT Labs Sounds repository",
+        "Sound source fixer tool from HEAT Labs Sounds repository"
+      ],
+      "fixed": [
+        "Tweaked paths in soundboard number sorter and source fixer tools"
+      ]
+    },
+    {
       "version": "0.2.290",
       "date": "2025-10-07",
       "author": "HEAT Labs Team",
