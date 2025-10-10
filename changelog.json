@@ -1,6 +1,56 @@
 {
   "updates": [
     {
+      "version": "0.2.349",
+      "date": "2025-10-09",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #167",
+      "description": "Full patch notes for Update v0.2.349 (#167), detailing all changes made on 09 October, 2025.",
+      "added": [
+        "External CDN preconnect and prefetch to all pages across all HEAT Labs web modules",
+        "Head flags to disable automatic format detection on all pages",
+        "Theme support declaration to all pages",
+        "Webpage schema across all sites",
+        "Missing meta image alt tags to all pages",
+        "Keyword meta tags to all pages",
+        "Yandex browser manifest files and specific meta tags for all sites",
+        "Breadcrumb schema across multiple page types including main site news, guides, legal, agents, maps, tournaments, bug hunting, and steam news pages",
+        "Custom website JSON schema implementation for all pages",
+        "News article schema to all announcement and Steam news pages",
+        "Blogpost schema to all blog and bug hunting pages",
+        "Privacy-focused schema updates across HEAT Labs Website, Discord, Changelog, Status, and Socials modules",
+        "Yandex browser icon in HEAT-Labs-Images",
+        "Sound transcripts by SirBarett and corresponding sound index updates in HEAT-Labs-Configs",
+        "Community credits page updated with 2 new contributors",
+        "New sitemap generator tool with file exclusion logic",
+        "Sitedata files in HEAT-Labs-Website-Development"
+      ],
+      "changed": [
+        "Robots.txt files across all HEAT Labs sites",
+        "Global hero module styling to remove duplicate CSS classes",
+        "Indentation and formatting in theme support declaration comments",
+        "Home page hero counter and Alpha 3 countdown for better light theme visibility",
+        "GSC sound transcript placement and stats data updates in HEAT-Labs-Configs",
+        "Changelog and daily commit logs in HEAT-Labs-Configs",
+        "Sitemap updated with excluded pages and refreshed dates to force Google refetch",
+        "Devs Only page updated with missing pages",
+        "Tool formatting and generation behavior in Devs Only page generator tool",
+        "Paths and logic in several dev tools: search keyword checker, page tag updater, news card updater, JSON validator, jsDelivr cache purger, and tracking pixel tools"
+      ],
+      "removed": [
+        "Duplicate CSS class from global-hero module across all web properties",
+        "Redundant prefetch and preconnect tags from tournament pages"
+      ],
+      "fixed": [
+        "Incorrect transcript placement in one sound entry",
+        "Indentation inconsistencies in theme support comments",
+        "Article dates in Steam news schemas",
+        "Typos in meet the team and announcement pages",
+        "Double schema issue in website status page",
+        "Pathing errors in multiple internal development tools"
+      ]
+    },
+    {
       "version": "0.2.314",
       "date": "2025-10-08",
       "author": "HEAT Labs Team",
