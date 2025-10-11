@@ -1,6 +1,39 @@
 {
   "updates": [
     {
+      "version": "0.2.367",
+      "date": "2025-10-10",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #168",
+      "description": "Full patch notes for Update v0.2.367 (#168), detailing all changes made on 10 October, 2025.",
+      "added": [
+        "NewsArticle schema in one news post",
+        "Missing contributor image files in HEAT-Labs-Images"
+      ],
+      "changed": [
+        "Changelog updated in HEAT-Labs-Configs",
+        "Daily commit log updated in HEAT-Labs-Configs",
+        "Corrected 'Alpha 2 Days to Go' news post dates",
+        "Updated comments in news page",
+        "Updated all news posts with their respective schemas"
+      ],
+      "removed": [
+        "Contributor images from HEAT-Labs-Images-Guides repository",
+        "Leftover JS import in all agent pages",
+        "Index page from sitemap",
+        "Placeholder post paths from news posts",
+        "Placeholder post paths from announcements"
+      ],
+      "fixed": [
+        "Various 404 errors and incorrect URL paths in HEAT-Labs-Changelog",
+        "Various 404 errors and incorrect URL paths in HEAT-Labs-Status",
+        "Incorrect image path in main maps page",
+        "Incorrect path on one bug hunting post",
+        "Additional 404 errors and broken links across HEAT-Labs-Website",
+        "Pathing issues in four map pages"
+      ]
+    },
+    {
       "version": "0.2.349",
       "date": "2025-10-09",
       "author": "HEAT Labs Team",
