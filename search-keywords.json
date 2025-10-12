@@ -2,133 +2,133 @@
   {
     "name": "Home",
     "description": "Main page of HEAT Labs with quick access to all features",
-    "path": "https://heatlabs.net/index.html",
+    "path": "https://heatlabs.net/index",
     "keywords": ["home", "main", "welcome", "start", "dashboard"]
   },
   {
     "name": "Tank Statistics",
     "description": "Compare armor, firepower, speed, and other tank stats",
-    "path": "https://heatlabs.net/tanks.html",
+    "path": "https://heatlabs.net/tanks",
     "keywords": ["tanks", "statistics", "stats", "compare", "armor", "firepower", "speed", "vehicle", "vehicles"]
   },
   {
     "name": "Video Showcase",
     "description": "Highlights from top community creators",
-    "path": "https://heatlabs.net/video-showcase.html",
+    "path": "https://heatlabs.net/video-showcase",
     "keywords": ["videos", "youtube", "creators", "youtubers"]
   },
   {
     "name": "Map Knowledge",
     "description": "Tactical insights for each map including choke points and ambush zones",
-    "path": "https://heatlabs.net/maps.html",
+    "path": "https://heatlabs.net/maps",
     "keywords": ["maps", "map", "knowledge", "tactics", "choke", "points", "ambush", "zones", "terrain"]
   },
   {
     "name": "Common Builds",
     "description": "Popular and effective builds used by top players",
-    "path": "https://heatlabs.net/builds.html",
+    "path": "https://heatlabs.net/builds",
     "keywords": ["builds", "build", "setup", "configuration", "loadout", "gear", "equipment", "meta"]
   },
   {
     "name": "Community Guides",
     "description": "Strategies written by experienced players",
-    "path": "https://heatlabs.net/guides.html",
+    "path": "https://heatlabs.net/guides",
     "keywords": ["guides", "guide", "community", "strategies", "tips", "tricks", "how to", "tutorial"]
   },
   {
     "name": "Community Credits",
     "description": "Acknowledgements for community contributors",
-    "path": "https://heatlabs.net/resources/credits.html",
+    "path": "https://heatlabs.net/resources/credits",
     "keywords": ["credits", "contributors", "acknowledgements", "thanks", "team"]
   },
   {
     "name": "Tournaments",
     "description": "Information about recent and ongoing tournaments",
-    "path": "https://heatlabs.net/tournaments.html",
+    "path": "https://heatlabs.net/tournaments",
     "keywords": ["tournaments", "tournament", "competitive", "esports", "events", "matches"]
   },
   {
     "name": "Game News",
     "description": "Latest news and announcements from Project CW developers",
-    "path": "https://heatlabs.net/news.html",
+    "path": "https://heatlabs.net/news",
     "keywords": ["news", "updates", "announcements", "patch", "notes", "developer"]
   },
   {
     "name": "Asset Gallery",
     "description": "Complete database of all tanks and game elements",
-    "path": "https://heatlabs.net/asset-gallery.html",
+    "path": "https://heatlabs.net/asset-gallery",
     "keywords": ["assets", "database", "encyclopedia", "tanks", "reference", "info"]
   },
   {
     "name": "Official Blog",
     "description": "Developer blog about upcoming features and changes",
-    "path": "https://heatlabs.net/blog.html",
+    "path": "https://heatlabs.net/blog",
     "keywords": ["blog", "official", "devblog", "development", "updates", "features"]
   },
   {
     "name": "About the Project",
     "description": "Information about the HEAT Labs project",
-    "path": "https://heatlabs.net/resources/about-us.html",
+    "path": "https://heatlabs.net/resources/about-us",
     "keywords": ["about", "project", "information", "mission", "purpose", "team"]
   },
   {
     "name": "Project Policies",
     "description": "Legal documents and policies",
-    "path": "https://heatlabs.net/legal.html",
+    "path": "https://heatlabs.net/legal",
     "keywords": ["legal", "policies", "terms", "privacy", "policy", "license"]
   },
   {
     "name": "Playground",
     "description": "Random tank selector for fun gameplay",
-    "path": "https://heatlabs.net/playground.html",
+    "path": "https://heatlabs.net/playground",
     "keywords": ["roulette", "random", "selector", "fun", "game", "chooser"]
   },
   {
     "name": "Alpha 3 Playtest",
     "description": "Information about the Alpha 3 playtesting phase",
-    "path": "https://heatlabs.net/playground/alpha-3-playtest.html",
+    "path": "https://heatlabs.net/playground/alpha-3-playtest",
     "keywords": ["tools", "playground", "testing"]
   },
   {
     "name": "Tank Roulette",
     "description": "Random tank selector for fun gameplay",
-    "path": "https://heatlabs.net/playground/roulette.html",
+    "path": "https://heatlabs.net/playground/roulette",
     "keywords": ["roulette", "random", "selector", "fun", "game", "chooser"]
   },
   {
     "name": "Tier List Creator",
     "description": "Create your own ranking for tanks, maps and agents",
-    "path": "https://heatlabs.net/playground/tierlist.html",
+    "path": "https://heatlabs.net/playground/tierlist",
     "keywords": ["tierlist", "ranking", "tier", "list"]
   },
   {
     "name": "Game Configurator",
     "description": "Customize your Project CW experience",
-    "path": "https://heatlabs.net/playground/configurator.html",
+    "path": "https://heatlabs.net/playground/configurator",
     "keywords": ["config", "configurator", "gameplay"]
   },
   {
     "name": "Game Servers",
     "description": "Live tracking for all World of Tanks: HEAT game servers",
-    "path": "https://heatlabs.net/playground/game-servers.html",
+    "path": "https://heatlabs.net/playground/game-servers",
     "keywords": ["servers", "uptime", "ping"]
   },
   {
     "name": "HEAT Labs App",
     "description": "Download our application on your Phone or Desktop",
-    "path": "https://heatlabs.net/playground/heat-labs-app.html",
+    "path": "https://heatlabs.net/playground/heat-labs-app",
     "keywords": ["app", "application", "pwa"]
   },
   {
     "name": "Wordle Game",
     "description": "Wordle game based on World of Tanks: HEAT",
-    "path": "https://heatlabs.net/playground/wordle.html",
+    "path": "https://heatlabs.net/playground/wordle",
     "keywords": ["wordle", "game", "guess"]
   },
   {
     "name": "HEAT Soundboard",
     "description": "Listen to all sounds from World of Tanks: HEAT",
-    "path": "https://heatlabs.net/playground/soundboard.html",
+    "path": "https://heatlabs.net/playground/soundboard",
     "keywords": ["sounds", "soundboard", "game sounds"]
   },
   {
@@ -170,1381 +170,1381 @@
   {
     "name": "Contact Us",
     "description": "Reach out to the HEAT Labs team",
-    "path": "https://heatlabs.net/resources/contact-us.html",
+    "path": "https://heatlabs.net/resources/contact-us",
     "keywords": ["contact", "reach", "message", "email", "support", "questions"]
   },
   {
     "name": "Get Involved",
     "description": "Learn how to contribute to HEAT Labs",
-    "path": "https://heatlabs.net/resources/get-involved.html",
+    "path": "https://heatlabs.net/resources/get-involved",
     "keywords": ["involved", "contribute", "help", "volunteer", "join", "community"]
   },
   {
     "name": "Support Us",
     "description": "Ways to support the HEAT Labs project",
-    "path": "https://heatlabs.net/resources/support-us.html",
+    "path": "https://heatlabs.net/resources/support-us",
     "keywords": ["support", "donate", "help", "fund", "contribute", "keep alive"]
   },
   {
     "name": "AGDS",
     "description": "Detailed statistics for AGDS",
-    "path": "https://heatlabs.net/tanks/agds.html",
+    "path": "https://heatlabs.net/tanks/agds",
     "keywords": ["agds"]
   },
   {
     "name": "ALVT",
     "description": "Detailed statistics for ALVT",
-    "path": "https://heatlabs.net/tanks/alvt.html",
+    "path": "https://heatlabs.net/tanks/alvt",
     "keywords": ["alvt"]
   },
   {
     "name": "BAT-4M",
     "description": "Detailed statistics for BAT-4M",
-    "path": "https://heatlabs.net/tanks/bat-4m.html",
+    "path": "https://heatlabs.net/tanks/bat-4m",
     "keywords": ["bat-4m"]
   },
   {
     "name": "fv4030x",
     "description": "Detailed statistics for FV 4030/X",
-    "path": "https://heatlabs.net/tanks/fv4030x.html",
+    "path": "https://heatlabs.net/tanks/fv4030x",
     "keywords": ["fv4030x"]
   },
   {
     "name": "HSTV-L",
     "description": "Detailed statistics for HSTV-L",
-    "path": "https://heatlabs.net/tanks/hstv-l.html",
+    "path": "https://heatlabs.net/tanks/hstv-l",
     "keywords": ["hstv-l"]
   },
   {
     "name": "Leopard 1A1B",
     "description": "Detailed statistics for Leopard 1A1B",
-    "path": "https://heatlabs.net/tanks/leopard-1a1b.html",
+    "path": "https://heatlabs.net/tanks/leopard-1a1b",
     "keywords": ["leopard 1a1b"]
   },
   {
     "name": "Leopard 1A6A1",
     "description": "Detailed statistics for Leopard 1A6A1",
-    "path": "https://heatlabs.net/tanks/leopard-1a6a1.html",
+    "path": "https://heatlabs.net/tanks/leopard-1a6a1",
     "keywords": ["leopard 1a6a1"]
   },
   {
     "name": "Leopard 2FK",
     "description": "Detailed statistics for Leopard 2FK",
-    "path": "https://heatlabs.net/tanks/leopard-2fk.html",
+    "path": "https://heatlabs.net/tanks/leopard-2fk",
     "keywords": ["leopard 2fk"]
   },
   {
     "name": "Leopard 2K14",
     "description": "Detailed statistics for Leopard 2K14",
-    "path": "https://heatlabs.net/tanks/leopard-2k14.html",
+    "path": "https://heatlabs.net/tanks/leopard-2k14",
     "keywords": ["leopard 2k14"]
   },
   {
     "name": "M1 Railgun",
     "description": "Detailed statistics for M1 Railgun",
-    "path": "https://heatlabs.net/tanks/m1-railgun.html",
+    "path": "https://heatlabs.net/tanks/m1-railgun",
     "keywords": ["m1 railgun"]
   },
   {
     "name": "M1E1",
     "description": "Detailed statistics for M1E1",
-    "path": "https://heatlabs.net/tanks/m1e1.html",
+    "path": "https://heatlabs.net/tanks/m1e1",
     "keywords": ["m1e1"]
   },
   {
     "name": "M3A1 Bradley",
     "description": "Detailed statistics for M3A1 Bradley",
-    "path": "https://heatlabs.net/tanks/m3a1-bradley.html",
+    "path": "https://heatlabs.net/tanks/m3a1-bradley",
     "keywords": ["m3a1 bradley"]
   },
   {
     "name": "M60A3E2",
     "description": "Detailed statistics for M60A3E2",
-    "path": "https://heatlabs.net/tanks/m60a3e2.html",
+    "path": "https://heatlabs.net/tanks/m60a3e2",
     "keywords": ["m60a3e2"]
   },
   {
     "name": "M60E2",
     "description": "Detailed statistics for M60E2",
-    "path": "https://heatlabs.net/tanks/m60e2.html",
+    "path": "https://heatlabs.net/tanks/m60e2",
     "keywords": ["m60e2"]
   },
   {
     "name": "Object 279",
     "description": "Detailed statistics for Object 279",
-    "path": "https://heatlabs.net/tanks/object-279.html",
+    "path": "https://heatlabs.net/tanks/object-279",
     "keywords": ["object 279"]
   },
   {
     "name": "Object 287",
     "description": "Detailed statistics for Object 287",
-    "path": "https://heatlabs.net/tanks/object-287.html",
+    "path": "https://heatlabs.net/tanks/object-287",
     "keywords": ["object 287"]
   },
   {
     "name": "PTZ89C",
     "description": "Detailed statistics for PTZ89C",
-    "path": "https://heatlabs.net/tanks/ptz89c.html",
+    "path": "https://heatlabs.net/tanks/ptz89c",
     "keywords": ["ptz89c"]
   },
   {
     "name": "T-62AV",
     "description": "Detailed statistics for T-62AV",
-    "path": "https://heatlabs.net/tanks/t-62av.html",
+    "path": "https://heatlabs.net/tanks/t-62av",
     "keywords": ["t-62av"]
   },
   {
     "name": "T-62MS",
     "description": "Detailed statistics for T-62MS",
-    "path": "https://heatlabs.net/tanks/t-62ms.html",
+    "path": "https://heatlabs.net/tanks/t-62ms",
     "keywords": ["t-62ms"]
   },
   {
     "name": "T-64A",
     "description": "Detailed statistics for T-64A",
-    "path": "https://heatlabs.net/tanks/t-64a.html",
+    "path": "https://heatlabs.net/tanks/t-64a",
     "keywords": ["t-64a"]
   },
   {
     "name": "T-72AU",
     "description": "Detailed statistics for T-72AU",
-    "path": "https://heatlabs.net/tanks/t-72au.html",
+    "path": "https://heatlabs.net/tanks/t-72au",
     "keywords": ["t-72au"]
   },
   {
     "name": "T-72B",
     "description": "Detailed statistics for T-72B",
-    "path": "https://heatlabs.net/tanks/t-72b.html",
+    "path": "https://heatlabs.net/tanks/t-72b",
     "keywords": ["t-72b"]
   },
   {
     "name": "XM1-90",
     "description": "Detailed statistics for XM1-90",
-    "path": "https://heatlabs.net/tanks/xm1-90.html",
+    "path": "https://heatlabs.net/tanks/xm1-90",
     "keywords": ["xm1-90"]
   },
   {
     "name": "XM1-V",
     "description": "Detailed statistics for XM1-V",
-    "path": "https://heatlabs.net/tanks/xm1-v.html",
+    "path": "https://heatlabs.net/tanks/xm1-v",
     "keywords": ["xm1-v"]
   },
   {
     "name": "XM551",
     "description": "Detailed statistics for XM551",
-    "path": "https://heatlabs.net/tanks/xm551.html",
+    "path": "https://heatlabs.net/tanks/xm551",
     "keywords": ["xm551"]
   },
   {
     "name": "XM808 Twister",
     "description": "Detailed statistics for XM808 Twister",
-    "path": "https://heatlabs.net/tanks/xm808-twister.html",
+    "path": "https://heatlabs.net/tanks/xm808-twister",
     "keywords": ["xm808 twister"]
   },
   {
     "name": "T-55 Enigma",
     "description": "Detailed statistics for T-55 Enigma",
-    "path": "https://heatlabs.net/tanks/t-55-enigma.html",
+    "path": "https://heatlabs.net/tanks/t-55-enigma",
     "keywords": ["t-55 enigma"]
   },
   {
     "name": "M60A3E2 Bot",
     "description": "Detailed statistics for M60A3E2 Bot",
-    "path": "https://heatlabs.net/tanks/m60a3e2-bot.html",
+    "path": "https://heatlabs.net/tanks/m60a3e2-bot",
     "keywords": ["m60a3e2 bot"]
   },
   {
     "name": "AMX-10 RC",
     "description": "Detailed statistics for AMX-10 RC",
-    "path": "https://heatlabs.net/tanks/amx-10-rc.html",
+    "path": "https://heatlabs.net/tanks/amx-10-rc",
     "keywords": ["amx 10 rc"]
   },
   {
     "name": "Open Alpha 1 Tournament",
     "description": "Details, brackets, and results for the Open Alpha 1 Tournament",
-    "path": "https://heatlabs.net/tournaments/open-alpha-1-tournament.html",
+    "path": "https://heatlabs.net/tournaments/open-alpha-1-tournament",
     "keywords": ["open alpha 1", "tournament", "alpha tournament", "brackets", "results", "competition"]
   },
   {
     "name": "Open Alpha 2 Tournament",
     "description": "Details, brackets, and results for the Open Alpha 2 Tournament",
-    "path": "https://heatlabs.net/tournaments/open-alpha-2-tournament.html",
+    "path": "https://heatlabs.net/tournaments/open-alpha-2-tournament",
     "keywords": ["open alpha 2", "tournament", "alpha tournament", "brackets", "results", "competition"]
   },
   {
     "name": "Privacy Policy",
     "description": "How user data is collected, stored, and protected by HEAT Labs",
-    "path": "https://heatlabs.net/legal/privacy-policy.html",
+    "path": "https://heatlabs.net/legal/privacy-policy",
     "keywords": ["privacy", "privacy policy", "data", "security", "user data", "policy"]
   },
   {
     "name": "Project License",
     "description": "Legal licensing terms under which HEAT Labs operates",
-    "path": "https://heatlabs.net/legal/project-license.html",
+    "path": "https://heatlabs.net/legal/project-license",
     "keywords": ["license", "project license", "legal", "terms", "use", "rights"]
   },
   {
     "name": "Terms of Service",
     "description": "The official terms governing the use of HEAT Labs",
-    "path": "https://heatlabs.net/legal/terms-of-service.html",
+    "path": "https://heatlabs.net/legal/terms-of-service",
     "keywords": ["terms", "terms of service", "tos", "agreement", "legal", "usage"]
   },
   {
     "name": "Code of Conduct",
     "description": "Rules and expectations for behavior within the HEAT Labs community and contributions",
-    "path": "https://heatlabs.net/legal/code-of-conduct.html",
+    "path": "https://heatlabs.net/legal/code-of-conduct",
     "keywords": ["code of conduct", "behavior", "community", "guidelines", "rules", "conduct"]
   },
   {
     "name": "Project Contributions",
     "description": "Guidelines for contributing to HEAT Labs, including code standards and submission process",
-    "path": "https://heatlabs.net/legal/project-contributions.html",
+    "path": "https://heatlabs.net/legal/project-contributions",
     "keywords": ["contributions", "contributing", "guidelines", "code", "open source"]
   },
   {
     "name": "Project Security",
     "description": "Information about HEAT Labs' security practices and how to report vulnerabilities",
-    "path": "https://heatlabs.net/legal/project-security.html",
+    "path": "https://heatlabs.net/legal/project-security",
     "keywords": ["security", "vulnerabilities", "reporting", "bugs", "disclosure"]
   },
   {
     "name": "Aircraft Carrier",
     "description": "Tactical overview and key areas of the Aircraft Carrier map",
-    "path": "https://heatlabs.net/maps/aircraft-carrier.html",
+    "path": "https://heatlabs.net/maps/aircraft-carrier",
     "keywords": ["aircraft carrier", "map", "carrier", "naval", "overview"]
   },
   {
     "name": "Baikonur",
     "description": "Tactical overview and key areas of the Baikonur map",
-    "path": "https://heatlabs.net/maps/baikonur.html",
+    "path": "https://heatlabs.net/maps/baikonur",
     "keywords": ["baikonur", "map", "cosmodrome", "overview"]
   },
   {
     "name": "Ring of Fury",
     "description": "Tactical overview and key areas of the Ring of Fury map",
-    "path": "https://heatlabs.net/maps/ring-of-fury.html",
+    "path": "https://heatlabs.net/maps/ring-of-fury",
     "keywords": ["ring of fury", "map", "overview"]
   },
   {
     "name": "Ballistic Range",
     "description": "Tactical overview and key areas of the Ballistic Range map",
-    "path": "https://heatlabs.net/maps/ballistic-range.html",
+    "path": "https://heatlabs.net/maps/ballistic-range",
     "keywords": ["ballistic range", "map", "firing range", "test site", "overview"]
   },
   {
     "name": "Blossom Crash",
     "description": "Tactical overview and key areas of the Blossom Crash map",
-    "path": "https://heatlabs.net/maps/blossom-crash.html",
+    "path": "https://heatlabs.net/maps/blossom-crash",
     "keywords": ["blossom crash", "map", "crash site", "cherry", "overview"]
   },
   {
     "name": "Inferno",
     "description": "Tactical overview and key areas of the Inferno map",
-    "path": "https://heatlabs.net/maps/inferno.html",
+    "path": "https://heatlabs.net/maps/inferno",
     "keywords": ["inferno", "map", "volcano", "lava", "fire", "overview"]
   },
   {
     "name": "Military Training",
     "description": "Tactical overview and key areas of the Military Training map",
-    "path": "https://heatlabs.net/maps/military-training.html",
+    "path": "https://heatlabs.net/maps/military-training",
     "keywords": ["military training", "map", "training ground", "bootcamp", "overview"]
   },
   {
     "name": "Moonshot",
     "description": "Tactical overview and key areas of the Moonshot map",
-    "path": "https://heatlabs.net/maps/moonshot.html",
+    "path": "https://heatlabs.net/maps/moonshot",
     "keywords": ["moonshot", "map", "launch", "space", "overview"]
   },
   {
     "name": "Nexus Dam",
     "description": "Tactical overview and key areas of the Nexus Dam map",
-    "path": "https://heatlabs.net/maps/nexus-dam.html",
+    "path": "https://heatlabs.net/maps/nexus-dam",
     "keywords": ["nexus dam", "map", "dam", "hydro", "overview"]
   },
   {
     "name": "Nord Oko",
     "description": "Tactical overview and key areas of the Nord Oko map",
-    "path": "https://heatlabs.net/maps/nord-oko.html",
+    "path": "https://heatlabs.net/maps/nord-oko",
     "keywords": ["nord oko", "map", "nord", "snow", "ice", "overview"]
   },
   {
     "name": "Project Phoenix",
     "description": "Tactical overview and key areas of the Project Phoenix map",
-    "path": "https://heatlabs.net/maps/project-phoenix.html",
+    "path": "https://heatlabs.net/maps/project-phoenix",
     "keywords": ["project phoenix", "map", "phoenix", "rebirth", "overview"]
   },
   {
     "name": "Scarred City",
     "description": "Tactical overview and key areas of the Scarred City map",
-    "path": "https://heatlabs.net/maps/scarred-city.html",
+    "path": "https://heatlabs.net/maps/scarred-city",
     "keywords": ["scarred city", "map", "urban", "ruins", "overview"]
   },
   {
     "name": "Sunstroke",
     "description": "Tactical overview and key areas of the Sunstroke map",
-    "path": "https://heatlabs.net/maps/sunstroke.html",
+    "path": "https://heatlabs.net/maps/sunstroke",
     "keywords": ["sunstroke", "map", "desert", "heat", "overview"]
   },
   {
     "name": "Afghanistan 2",
     "description": "Tactical overview and key areas of the Afghanistan 2 map",
-    "path": "https://heatlabs.net/maps/afghanistan-2.html",
+    "path": "https://heatlabs.net/maps/afghanistan-2",
     "keywords": ["afghanistan-2", "map", "unreleased", "overview"]
   },
   {
     "name": "Afghanistan",
     "description": "Tactical overview and key areas of the Afghanistan map",
-    "path": "https://heatlabs.net/maps/afghanistan.html",
+    "path": "https://heatlabs.net/maps/afghanistan",
     "keywords": ["afghanistan", "map", "unreleased", "overview"]
   },
   {
     "name": "Avalanche",
     "description": "Tactical overview and key areas of the Avalanche map",
-    "path": "https://heatlabs.net/maps/avalanche.html",
+    "path": "https://heatlabs.net/maps/avalanche",
     "keywords": ["avalanche", "map", "unreleased", "overview"]
   },
   {
     "name": "Citadel",
     "description": "Tactical overview and key areas of the Citadel map",
-    "path": "https://heatlabs.net/maps/citadel.html",
+    "path": "https://heatlabs.net/maps/citadel",
     "keywords": ["citadel", "map", "unreleased", "overview"]
   },
   {
     "name": "Classified",
     "description": "Tactical overview and key areas of the Classified map",
-    "path": "https://heatlabs.net/maps/classified.html",
+    "path": "https://heatlabs.net/maps/classified",
     "keywords": ["classified", "map", "unreleased", "overview"]
   },
   {
     "name": "Comms",
     "description": "Tactical overview and key areas of the Comms map",
-    "path": "https://heatlabs.net/maps/comms.html",
+    "path": "https://heatlabs.net/maps/comms",
     "keywords": ["comms", "map", "unreleased", "overview"]
   },
   {
     "name": "Critical Harbor",
     "description": "Tactical overview and key areas of the Critical Harbor map",
-    "path": "https://heatlabs.net/maps/critical-harbor.html",
+    "path": "https://heatlabs.net/maps/critical-harbor",
     "keywords": ["critical-harbor", "map", "unreleased", "overview"]
   },
   {
     "name": "Crossroads",
     "description": "Tactical overview and key areas of the Crossroads map",
-    "path": "https://heatlabs.net/maps/crossroads.html",
+    "path": "https://heatlabs.net/maps/crossroads",
     "keywords": ["crossroads", "map", "unreleased", "overview"]
   },
   {
     "name": "Deadly Fields",
     "description": "Tactical overview and key areas of the Deadly Fields map",
-    "path": "https://heatlabs.net/maps/deadly-fields.html",
+    "path": "https://heatlabs.net/maps/deadly-fields",
     "keywords": ["deadly-fields", "map", "unreleased", "overview"]
   },
   {
     "name": "Desert City",
     "description": "Tactical overview and key areas of the Desert City map",
-    "path": "https://heatlabs.net/maps/desert-city.html",
+    "path": "https://heatlabs.net/maps/desert-city",
     "keywords": ["desert-city", "map", "unreleased", "overview"]
   },
   {
     "name": "Deserted",
     "description": "Tactical overview and key areas of the Deserted map",
-    "path": "https://heatlabs.net/maps/deserted.html",
+    "path": "https://heatlabs.net/maps/deserted",
     "keywords": ["deserted", "map", "unreleased", "overview"]
   },
   {
     "name": "Dolcegusta",
     "description": "Tactical overview and key areas of the Dolcegusta map",
-    "path": "https://heatlabs.net/maps/dolcegusta.html",
+    "path": "https://heatlabs.net/maps/dolcegusta",
     "keywords": ["dolcegusta", "map", "unreleased", "overview"]
   },
   {
     "name": "Duga",
     "description": "Tactical overview and key areas of the Duga map",
-    "path": "https://heatlabs.net/maps/duga.html",
+    "path": "https://heatlabs.net/maps/duga",
     "keywords": ["duga", "map", "unreleased", "overview"]
   },
   {
     "name": "Evergreen",
     "description": "Tactical overview and key areas of the Evergreen map",
-    "path": "https://heatlabs.net/maps/evergreen.html",
+    "path": "https://heatlabs.net/maps/evergreen",
     "keywords": ["evergreen", "map", "unreleased", "overview"]
   },
   {
     "name": "Fatal Acres",
     "description": "Tactical overview and key areas of the Fatal Acres map",
-    "path": "https://heatlabs.net/maps/fatal-acres.html",
+    "path": "https://heatlabs.net/maps/fatal-acres",
     "keywords": ["fatal-acres", "map", "unreleased", "overview"]
   },
   {
     "name": "Harvest",
     "description": "Tactical overview and key areas of the Harvest map",
-    "path": "https://heatlabs.net/maps/harvest.html",
+    "path": "https://heatlabs.net/maps/harvest",
     "keywords": ["harvest", "map", "unreleased", "overview"]
   },
   {
     "name": "Height 911 RS",
     "description": "Tactical overview and key areas of the Height 911 RS map",
-    "path": "https://heatlabs.net/maps/height-911rs.html",
+    "path": "https://heatlabs.net/maps/height-911rs",
     "keywords": ["height-911rs", "map", "unreleased", "overview"]
   },
   {
     "name": "Height 911 TB",
     "description": "Tactical overview and key areas of the Height 911 TB map",
-    "path": "https://heatlabs.net/maps/height-911tb.html",
+    "path": "https://heatlabs.net/maps/height-911tb",
     "keywords": ["height-911tb", "map", "unreleased", "overview"]
   },
   {
     "name": "Hydro",
     "description": "Tactical overview and key areas of the Hydro map",
-    "path": "https://heatlabs.net/maps/hydro.html",
+    "path": "https://heatlabs.net/maps/hydro",
     "keywords": ["hydro", "map", "unreleased", "overview"]
   },
   {
     "name": "Kerak",
     "description": "Tactical overview and key areas of the Kerak map",
-    "path": "https://heatlabs.net/maps/kerak.html",
+    "path": "https://heatlabs.net/maps/kerak",
     "keywords": ["kerak", "map", "unreleased", "overview"]
   },
   {
     "name": "Placeholder Map",
     "description": "Tactical overview and key areas of the Placeholder Map",
-    "path": "https://heatlabs.net/maps/placeholder-map.html",
+    "path": "https://heatlabs.net/maps/placeholder-map",
     "keywords": ["placeholder-map", "map", "unreleased", "overview"]
   },
   {
     "name": "Port",
     "description": "Tactical overview and key areas of the Port map",
-    "path": "https://heatlabs.net/maps/port.html",
+    "path": "https://heatlabs.net/maps/port",
     "keywords": ["port", "map", "unreleased", "overview"]
   },
   {
     "name": "Red Alert",
     "description": "Tactical overview and key areas of the Red Alert map",
-    "path": "https://heatlabs.net/maps/red-alert.html",
+    "path": "https://heatlabs.net/maps/red-alert",
     "keywords": ["red-alert", "map", "unreleased", "overview"]
   },
   {
     "name": "Spillway",
     "description": "Tactical overview and key areas of the Spillway map",
-    "path": "https://heatlabs.net/maps/spillway.html",
+    "path": "https://heatlabs.net/maps/spillway",
     "keywords": ["spillway", "map", "unreleased", "overview"]
   },
   {
     "name": "Sundered City",
     "description": "Tactical overview and key areas of the Sundered City map",
-    "path": "https://heatlabs.net/maps/sundered-city.html",
+    "path": "https://heatlabs.net/maps/sundered-city",
     "keywords": ["sundered-city", "map", "unreleased", "overview"]
   },
   {
     "name": "Surveillance",
     "description": "Tactical overview and key areas of the Surveillance map",
-    "path": "https://heatlabs.net/maps/surveillance.html",
+    "path": "https://heatlabs.net/maps/surveillance",
     "keywords": ["surveillance", "map", "unreleased", "overview"]
   },
   {
     "name": "Tajbeg",
     "description": "Tactical overview and key areas of the Tajbeg map",
-    "path": "https://heatlabs.net/maps/tajbeg.html",
+    "path": "https://heatlabs.net/maps/tajbeg",
     "keywords": ["tajbeg", "map", "unreleased", "overview"]
   },
   {
     "name": "Zenith",
     "description": "Tactical overview and key areas of the Zenith map",
-    "path": "https://heatlabs.net/maps/zenith.html",
+    "path": "https://heatlabs.net/maps/zenith",
     "keywords": ["zenith", "map", "unreleased", "overview"]
   },
   {
     "name": "General Guides",
     "description": "Broad tips and strategies for improving overall gameplay",
-    "path": "https://heatlabs.net/guides/general.html",
+    "path": "https://heatlabs.net/guides/general",
     "keywords": ["guides", "general", "strategy", "tips", "overview"]
   },
   {
     "name": "Map Guides",
     "description": "Detailed strategies and route planning for each map",
-    "path": "https://heatlabs.net/guides/maps.html",
+    "path": "https://heatlabs.net/guides/maps",
     "keywords": ["map guides", "maps", "strategy", "tactics", "zones"]
   },
   {
     "name": "Tank Guides",
     "description": "In-depth analysis of tank roles, builds, and combat tips",
-    "path": "https://heatlabs.net/guides/tanks.html",
+    "path": "https://heatlabs.net/guides/tanks",
     "keywords": ["tank guides", "tanks", "builds", "combat", "roles", "strategy"]
   },
   {
     "name": "Agent Spotlight Akira",
     "description": "Article: Agent Spotlight Akira",
-    "path": "https://heatlabs.net/news/agent-spotlight-akira.html",
+    "path": "https://heatlabs.net/news/agent-spotlight-akira",
     "keywords": ["news", "article", "agent spotlight akira"]
   },
   {
     "name": "Agent Spotlight Fantome",
     "description": "Article: Agent Spotlight Fantome",
-    "path": "https://heatlabs.net/news/agent-spotlight-fantome.html",
+    "path": "https://heatlabs.net/news/agent-spotlight-fantome",
     "keywords": ["news", "article", "agent spotlight fantome"]
   },
   {
     "name": "Agent Spotlight Kent",
     "description": "Article: Agent Spotlight Kent",
-    "path": "https://heatlabs.net/news/agent-spotlight-kent.html",
+    "path": "https://heatlabs.net/news/agent-spotlight-kent",
     "keywords": ["news", "article", "agent spotlight kent"]
   },
   {
     "name": "Alpha 1 1 Day To Go",
     "description": "Article: Alpha 1 1 Day To Go",
-    "path": "https://heatlabs.net/news/alpha-1-1-day-to-go.html",
+    "path": "https://heatlabs.net/news/alpha-1-1-day-to-go",
     "keywords": ["news", "article", "alpha 1 1 day to go"]
   },
   {
     "name": "Alpha 1 2 Days To Go",
     "description": "Article: Alpha 1 2 Days To Go",
-    "path": "https://heatlabs.net/news/alpha-1-2-days-to-go.html",
+    "path": "https://heatlabs.net/news/alpha-1-2-days-to-go",
     "keywords": ["news", "article", "alpha 1 2 days to go"]
   },
   {
     "name": "Alpha 1 3 Days To Go",
     "description": "Article: Alpha 1 3 Days To Go",
-    "path": "https://heatlabs.net/news/alpha-1-3-days-to-go.html",
+    "path": "https://heatlabs.net/news/alpha-1-3-days-to-go",
     "keywords": ["news", "article", "alpha 1 3 days to go"]
   },
   {
     "name": "Alpha 1 Facts Figures",
     "description": "Article: Alpha 1 Facts Figures",
-    "path": "https://heatlabs.net/news/alpha-1-facts-figures.html",
+    "path": "https://heatlabs.net/news/alpha-1-facts-figures",
     "keywords": ["news", "article", "alpha 1 facts figures"]
   },
   {
     "name": "Alpha 1 Patch 3 Quick Match Updates",
     "description": "Article: Alpha 1 Patch 3 Quick Match Updates",
-    "path": "https://heatlabs.net/news/alpha-1-patch-3-quick-match-updates.html",
+    "path": "https://heatlabs.net/news/alpha-1-patch-3-quick-match-updates",
     "keywords": ["news", "article", "alpha 1 patch 3 quick match updates"]
   },
   {
     "name": "Alpha 1 Patch 4 Quality of Life",
     "description": "Article: Alpha 1 Patch 4 Quality of Life",
-    "path": "https://heatlabs.net/news/alpha-1-patch-4-quality-of-life.html",
+    "path": "https://heatlabs.net/news/alpha-1-patch-4-quality-of-life",
     "keywords": ["news", "article", "alpha 1 patch 4 quality of life"]
   },
   {
     "name": "Alpha 1 Patch 5 Fantome Updates",
     "description": "Article: Alpha 1 Patch 5 Fantome Updates",
-    "path": "https://heatlabs.net/news/alpha-1-patch-5-fantome-updates.html",
+    "path": "https://heatlabs.net/news/alpha-1-patch-5-fantome-updates",
     "keywords": ["news", "article", "alpha 1 patch 5 fantome updates"]
   },
   {
     "name": "Alpha 1 Patch 6 Ray Updates",
     "description": "Article: Alpha 1 Patch 6 Ray Updates",
-    "path": "https://heatlabs.net/news/alpha-1-patch-6-ray-updates.html",
+    "path": "https://heatlabs.net/news/alpha-1-patch-6-ray-updates",
     "keywords": ["news", "article", "alpha 1 patch 6 ray updates"]
   },
   {
     "name": "Alpha 1 Patch 7 Raketa Updates",
     "description": "Article: Alpha 1 Patch 7 Raketa Updates",
-    "path": "https://heatlabs.net/news/alpha-1-patch-7-raketa-updates.html",
+    "path": "https://heatlabs.net/news/alpha-1-patch-7-raketa-updates",
     "keywords": ["news", "article", "alpha 1 patch 7 raketa updates"]
   },
   {
     "name": "Alpha 1 Patch 8 Akira Updates",
     "description": "Article: Alpha 1 Patch 8 Akira Updates",
-    "path": "https://heatlabs.net/news/alpha-1-patch-8-akira-updates.html",
+    "path": "https://heatlabs.net/news/alpha-1-patch-8-akira-updates",
     "keywords": ["news", "article", "alpha 1 patch 8 akira updates"]
   },
   {
     "name": "Alpha 1 Patch 8 Delayed",
     "description": "Article: Alpha 1 Patch 8 Delayed",
-    "path": "https://heatlabs.net/news/alpha-1-patch-8-delayed.html",
+    "path": "https://heatlabs.net/news/alpha-1-patch-8-delayed",
     "keywords": ["news", "article", "alpha 1 patch 8 delayed"]
   },
   {
     "name": "Alpha 1 Patch 9 HSTVL Updates",
     "description": "Article: Alpha 1 Patch 9 HSTVL Updates",
-    "path": "https://heatlabs.net/news/alpha-1-patch-9-hstvl-updates.html",
+    "path": "https://heatlabs.net/news/alpha-1-patch-9-hstvl-updates",
     "keywords": ["news", "article", "alpha 1 patch 9 hstvl updates"]
   },
   {
     "name": "Alpha 1 Patch 10 Tournament Preparation Improvements",
     "description": "Article: Alpha 1 Patch 10 Tournament Preparation Improvements",
-    "path": "https://heatlabs.net/news/alpha-1-patch-10-tournament-preparation-improvements.html",
+    "path": "https://heatlabs.net/news/alpha-1-patch-10-tournament-preparation-improvements",
     "keywords": ["news", "article", "alpha 1 patch 10 tournament preparation improvements"]
   },
   {
     "name": "Alpha 1 Patch 11 Post Tournament QoL Improvements",
     "description": "Article: Alpha 1 Patch 11 Post Tournament QoL Improvements",
-    "path": "https://heatlabs.net/news/alpha-1-patch-11-post-tournament-qol-improvements.html",
+    "path": "https://heatlabs.net/news/alpha-1-patch-11-post-tournament-qol-improvements",
     "keywords": ["news", "article", "alpha 1 patch 11 post tournament qol improvements"]
   },
   {
     "name": "Alpha 1 Valentines Day",
     "description": "Article: Alpha 1 Valentines Day",
-    "path": "https://heatlabs.net/news/alpha-1-valentines-day.html",
+    "path": "https://heatlabs.net/news/alpha-1-valentines-day",
     "keywords": ["news", "article", "alpha 1 valentines day"]
   },
   {
     "name": "Alpha 2 1 Day To Go",
     "description": "Article: Alpha 2 1 Day To Go",
-    "path": "https://heatlabs.net/news/alpha-2-1-day-to-go.html",
+    "path": "https://heatlabs.net/news/alpha-2-1-day-to-go",
     "keywords": ["news", "article", "alpha 2 1 day to go"]
   },
   {
     "name": "Alpha 2 2 Days To Go",
     "description": "Article: Alpha 2 2 Days To Go",
-    "path": "https://heatlabs.net/news/alpha-2-2-days-to-go.html",
+    "path": "https://heatlabs.net/news/alpha-2-2-days-to-go",
     "keywords": ["news", "article", "alpha 2 2 days to go"]
   },
   {
     "name": "Alpha 2 3 Days To Go",
     "description": "Article: Alpha 2 3 Days To Go",
-    "path": "https://heatlabs.net/news/alpha-2-3-days-to-go.html",
+    "path": "https://heatlabs.net/news/alpha-2-3-days-to-go",
     "keywords": ["news", "article", "alpha 2 3 days to go"]
   },
   {
     "name": "Alpha 2 Patch 1 First Patch",
     "description": "Article: Alpha 2 Patch 1 First Patch",
-    "path": "https://heatlabs.net/news/alpha-2-patch-1-first-patch.html",
+    "path": "https://heatlabs.net/news/alpha-2-patch-1-first-patch",
     "keywords": ["news", "article", "alpha 2 patch 1 first patch"]
   },
   {
     "name": "Alpha 2 Patch 2 Client Server Update",
     "description": "Article: Alpha 2 Patch 2 Client Server Update",
-    "path": "https://heatlabs.net/news/alpha-2-patch-2-client-server-update.html",
+    "path": "https://heatlabs.net/news/alpha-2-patch-2-client-server-update",
     "keywords": ["news", "article", "alpha 2 patch 2 client server update"]
   },
   {
     "name": "Alpha 2 Patch 3 Hounds Become The Hunted",
     "description": "Article: Alpha 2 Patch 3 Hounds Become The Hunted",
-    "path": "https://heatlabs.net/news/alpha-2-patch-3-hounds-become-the-hunted.html",
+    "path": "https://heatlabs.net/news/alpha-2-patch-3-hounds-become-the-hunted",
     "keywords": ["news", "article", "alpha 2 patch 3 hounds become the hunted"]
   },
   {
     "name": "Alpha 2 Patch 4 Balance Improvements",
     "description": "Article: Alpha 2 Patch 4 Balance Improvements",
-    "path": "https://heatlabs.net/news/alpha-2-patch-4-balance-improvements.html",
+    "path": "https://heatlabs.net/news/alpha-2-patch-4-balance-improvements",
     "keywords": ["news", "article", "alpha 2 patch 4 balance improvements"]
   },
   {
     "name": "Alpha 2 Patch 5 Small Improvements",
     "description": "Article: Alpha 2 Patch 5 Small Improvements",
-    "path": "https://heatlabs.net/news/alpha-2-patch-5-small-improvements.html",
+    "path": "https://heatlabs.net/news/alpha-2-patch-5-small-improvements",
     "keywords": ["news", "article", "alpha 2 patch 5 small improvements"]
   },
   {
     "name": "Alpha 2 Patch 6 Important Changes",
     "description": "Article: Alpha 2 Patch 6 Important Changes",
-    "path": "https://heatlabs.net/news/alpha-2-patch-6-important-changes.html",
+    "path": "https://heatlabs.net/news/alpha-2-patch-6-important-changes",
     "keywords": ["news", "article", "alpha 2 patch 6 important changes"]
   },
   {
     "name": "Alpha 2 Patch 7 Bradley Is Here",
     "description": "Article: Alpha 2 Patch 7 Bradley Is Here",
-    "path": "https://heatlabs.net/news/alpha-2-patch-7-bradley-is-here.html",
+    "path": "https://heatlabs.net/news/alpha-2-patch-7-bradley-is-here",
     "keywords": ["news", "article", "alpha 2 patch 7 bradley is here"]
   },
   {
     "name": "Alpha 2 Patch 8 Balancing Changes",
     "description": "Article: Alpha 2 Patch 8 Balancing Changes",
-    "path": "https://heatlabs.net/news/alpha-2-patch-8-balancing-changes.html",
+    "path": "https://heatlabs.net/news/alpha-2-patch-8-balancing-changes",
     "keywords": ["news", "article", "alpha 2 patch 8 balancing changes"]
   },
   {
     "name": "Alpha 2 Patch 9 Balancing Tweaks",
     "description": "Article: Alpha 2 Patch 9 Balancing Tweaks",
-    "path": "https://heatlabs.net/news/alpha-2-patch-9-balancing-tweaks.html",
+    "path": "https://heatlabs.net/news/alpha-2-patch-9-balancing-tweaks",
     "keywords": ["news", "article", "alpha 2 patch 9 balancing tweaks"]
   },
   {
     "name": "Alpha 2 Valentines Day",
     "description": "Article: Alpha 2 Valentines Day",
-    "path": "https://heatlabs.net/news/alpha-2-valentines-day.html",
+    "path": "https://heatlabs.net/news/alpha-2-valentines-day",
     "keywords": ["news", "article", "alpha 2 valentines day"]
   },
   {
     "name": "Balanced and Reworked Maps",
     "description": "Article: Balanced and Reworked Maps",
-    "path": "https://heatlabs.net/news/balanced-and-reworked-maps.html",
+    "path": "https://heatlabs.net/news/balanced-and-reworked-maps",
     "keywords": ["news", "article", "balanced and reworked maps"]
   },
   {
     "name": "Beirut Concept Art",
     "description": "Article: Beirut Concept Art",
-    "path": "https://heatlabs.net/news/beirut-concept-art.html",
+    "path": "https://heatlabs.net/news/beirut-concept-art",
     "keywords": ["news", "article", "beirut concept art"]
   },
   {
     "name": "Blossom Crash Concept Art 1",
     "description": "Article: Blossom Crash Concept Art 1",
-    "path": "https://heatlabs.net/news/blossom-crash-concept-art-1.html",
+    "path": "https://heatlabs.net/news/blossom-crash-concept-art-1",
     "keywords": ["news", "article", "blossom crash concept art 1"]
   },
   {
     "name": "Blossom Crash Concept Art 2",
     "description": "Article: Blossom Crash Concept Art 2",
-    "path": "https://heatlabs.net/news/blossom-crash-concept-art-2.html",
+    "path": "https://heatlabs.net/news/blossom-crash-concept-art-2",
     "keywords": ["news", "article", "blossom crash concept art 2"]
   },
   {
     "name": "Community Managers Reintroduction",
     "description": "Article: Community Managers Reintroduction",
-    "path": "https://heatlabs.net/news/community-managers-reintroduction.html",
+    "path": "https://heatlabs.net/news/community-managers-reintroduction",
     "keywords": ["news", "article", "community managers reintroduction"]
   },
   {
     "name": "Concept Art 1",
     "description": "Article: Concept Art 1",
-    "path": "https://heatlabs.net/news/concept-art-1.html",
+    "path": "https://heatlabs.net/news/concept-art-1",
     "keywords": ["news", "article", "concept art 1"]
   },
   {
     "name": "Concept Art 2",
     "description": "Article: Concept Art 2",
-    "path": "https://heatlabs.net/news/concept-art-2.html",
+    "path": "https://heatlabs.net/news/concept-art-2",
     "keywords": ["news", "article", "concept art 2"]
   },
   {
     "name": "Content Creator Impressions",
     "description": "Article: Content Creator Impressions",
-    "path": "https://heatlabs.net/news/content-creator-impressions.html",
+    "path": "https://heatlabs.net/news/content-creator-impressions",
     "keywords": ["news", "article", "content creator impressions"]
   },
   {
     "name": "Desktop Mobile Backgrounds",
     "description": "Article: Desktop Mobile Backgrounds",
-    "path": "https://heatlabs.net/news/desktop-mobile-backgrounds.html",
+    "path": "https://heatlabs.net/news/desktop-mobile-backgrounds",
     "keywords": ["news", "article", "desktop mobile backgrounds"]
   },
   {
     "name": "Dev Questions Answers Design",
     "description": "Article: Dev Questions Answers Design",
-    "path": "https://heatlabs.net/news/dev-questions-answers-design.html",
+    "path": "https://heatlabs.net/news/dev-questions-answers-design",
     "keywords": ["news", "article", "dev questions answers design"]
   },
   {
     "name": "Dev Questions Answers Narrative",
     "description": "Article: Dev Questions Answers Narrative",
-    "path": "https://heatlabs.net/news/dev-questions-answers-narrative.html",
+    "path": "https://heatlabs.net/news/dev-questions-answers-narrative",
     "keywords": ["news", "article", "dev questions answers narrative"]
   },
   {
     "name": "Friendship Dam Concept Art 1",
     "description": "Article: Friendship Dam Concept Art 1",
-    "path": "https://heatlabs.net/news/friendship-dam-concept-art-1.html",
+    "path": "https://heatlabs.net/news/friendship-dam-concept-art-1",
     "keywords": ["news", "article", "friendship dam concept art 1"]
   },
   {
     "name": "Friendship Dam Sneak Peek 1",
     "description": "Article: Friendship Dam Sneak Peek 1",
-    "path": "https://heatlabs.net/news/friendship-dam-sneak-peek-1.html",
+    "path": "https://heatlabs.net/news/friendship-dam-sneak-peek-1",
     "keywords": ["news", "article", "friendship dam sneak peek 1"]
   },
   {
     "name": "Friendship Dam Sneak Peek 2",
     "description": "Article: Friendship Dam Sneak Peek 2",
-    "path": "https://heatlabs.net/news/friendship-dam-sneak-peek-2.html",
+    "path": "https://heatlabs.net/news/friendship-dam-sneak-peek-2",
     "keywords": ["news", "article", "friendship dam sneak peek 2"]
   },
   {
     "name": "Gun Dispersion Changes",
     "description": "Article: Gun Dispersion Changes",
-    "path": "https://heatlabs.net/news/gun-dispersion-changes.html",
+    "path": "https://heatlabs.net/news/gun-dispersion-changes",
     "keywords": ["news", "article", "gun dispersion changes"]
   },
   {
     "name": "Happy Tanksgiving",
     "description": "Article: Happy Tanksgiving",
-    "path": "https://heatlabs.net/news/happy-tanksgiving.html",
+    "path": "https://heatlabs.net/news/happy-tanksgiving",
     "keywords": ["news", "article", "happy tanksgiving"]
   },
   {
     "name": "Hitbox Monday 1",
     "description": "Article: Hitbox Monday 1",
-    "path": "https://heatlabs.net/news/hitbox-monday-1.html",
+    "path": "https://heatlabs.net/news/hitbox-monday-1",
     "keywords": ["news", "article", "hitbox monday 1"]
   },
   {
     "name": "Hitbox Monday 2",
     "description": "Article: Hitbox Monday 2",
-    "path": "https://heatlabs.net/news/hitbox-monday-2.html",
+    "path": "https://heatlabs.net/news/hitbox-monday-2",
     "keywords": ["news", "article", "hitbox monday 2"]
   },
   {
     "name": "Hitbox Monday 3",
     "description": "Article: Hitbox Monday 3",
-    "path": "https://heatlabs.net/news/hitbox-monday-3.html",
+    "path": "https://heatlabs.net/news/hitbox-monday-3",
     "keywords": ["news", "article", "hitbox monday 3"]
   },
   {
     "name": "Hitbox Monday 4",
     "description": "Article: Hitbox Monday 4",
-    "path": "https://heatlabs.net/news/hitbox-monday-4.html",
+    "path": "https://heatlabs.net/news/hitbox-monday-4",
     "keywords": ["news", "article", "hitbox monday 4"]
   },
   {
     "name": "Hitbox Monday 5",
     "description": "Article: Hitbox Monday 5",
-    "path": "https://heatlabs.net/news/hitbox-monday-5.html",
+    "path": "https://heatlabs.net/news/hitbox-monday-5",
     "keywords": ["news", "article", "hitbox monday 5"]
   },
   {
     "name": "Jager Wall Bug",
     "description": "Article: Jager Wall Bug",
-    "path": "https://heatlabs.net/news/jager-wall-bug.html",
+    "path": "https://heatlabs.net/news/jager-wall-bug",
     "keywords": ["news", "article", "jager wall bug"]
   },
   {
     "name": "Map Monday 1",
     "description": "Article: Map Monday 1",
-    "path": "https://heatlabs.net/news/map-monday-1.html",
+    "path": "https://heatlabs.net/news/map-monday-1",
     "keywords": ["news", "article", "map monday 1"]
   },
   {
     "name": "Map Monday 2",
     "description": "Article: Map Monday 2",
-    "path": "https://heatlabs.net/news/map-monday-2.html",
+    "path": "https://heatlabs.net/news/map-monday-2",
     "keywords": ["news", "article", "map monday 2"]
   },
   {
     "name": "Map Monday 3",
     "description": "Article: Map Monday 3",
-    "path": "https://heatlabs.net/news/map-monday-3.html",
+    "path": "https://heatlabs.net/news/map-monday-3",
     "keywords": ["news", "article", "map monday 3"]
   },
   {
     "name": "Map Monday 4",
     "description": "Article: Map Monday 4",
-    "path": "https://heatlabs.net/news/map-monday-4.html",
+    "path": "https://heatlabs.net/news/map-monday-4",
     "keywords": ["news", "article", "map monday 4"]
   },
   {
     "name": "Map Monday 5",
     "description": "Article: Map Monday 5",
-    "path": "https://heatlabs.net/news/map-monday-5.html",
+    "path": "https://heatlabs.net/news/map-monday-5",
     "keywords": ["news", "article", "map monday 5"]
   },
   {
     "name": "Medals Explained",
     "description": "Article: Medals Explained",
-    "path": "https://heatlabs.net/news/medals-explained.html",
+    "path": "https://heatlabs.net/news/medals-explained",
     "keywords": ["news", "article", "medals explained"]
   },
   {
     "name": "New Agents 1",
     "description": "Article: New Agents 1",
-    "path": "https://heatlabs.net/news/new-agents-1.html",
+    "path": "https://heatlabs.net/news/new-agents-1",
     "keywords": ["news", "article", "new agents 1"]
   },
   {
     "name": "New Agents 2",
     "description": "Article: New Agents 2",
-    "path": "https://heatlabs.net/news/new-agents-2.html",
+    "path": "https://heatlabs.net/news/new-agents-2",
     "keywords": ["news", "article", "new agents 2"]
   },
   {
     "name": "New Agents 3",
     "description": "Article: New Agents 3",
-    "path": "https://heatlabs.net/news/new-agents-3.html",
+    "path": "https://heatlabs.net/news/new-agents-3",
     "keywords": ["news", "article", "new agents 3"]
   },
   {
     "name": "Nord Oko Concept Art 1",
     "description": "Article: Nord Oko Concept Art 1",
-    "path": "https://heatlabs.net/news/nord-oko-concept-art-1.html",
+    "path": "https://heatlabs.net/news/nord-oko-concept-art-1",
     "keywords": ["news", "article", "nord oko concept art 1"]
   },
   {
     "name": "Nord Oko Concept Art 2",
     "description": "Article: Nord Oko Concept Art 2",
-    "path": "https://heatlabs.net/news/nord-oko-concept-art-2.html",
+    "path": "https://heatlabs.net/news/nord-oko-concept-art-2",
     "keywords": ["news", "article", "nord oko concept art 2"]
   },
   {
     "name": "Nord Oko Concept Art 3",
     "description": "Article: Nord Oko Concept Art 3",
-    "path": "https://heatlabs.net/news/nord-oko-concept-art-3.html",
+    "path": "https://heatlabs.net/news/nord-oko-concept-art-3",
     "keywords": ["news", "article", "nord oko concept art 3"]
   },
   {
     "name": "Plant Defuse Mode",
     "description": "Article: Plant Defuse Mode",
-    "path": "https://heatlabs.net/news/plant-defuse-mode.html",
+    "path": "https://heatlabs.net/news/plant-defuse-mode",
     "keywords": ["news", "article", "plant defuse mode"]
   },
   {
     "name": "Progression and Social Changes",
     "description": "Article: Progression and Social Changes",
-    "path": "https://heatlabs.net/news/progression-and-social-changes.html",
+    "path": "https://heatlabs.net/news/progression-and-social-changes",
     "keywords": ["news", "article", "progression and social changes"]
   },
   {
     "name": "Quest Progress",
     "description": "Article: Quest Progress",
-    "path": "https://heatlabs.net/news/quest-progress.html",
+    "path": "https://heatlabs.net/news/quest-progress",
     "keywords": ["news", "article", "quest progress"]
   },
   {
     "name": "Update Recap",
     "description": "Article: Update Recap",
-    "path": "https://heatlabs.net/news/update-recap.html",
+    "path": "https://heatlabs.net/news/update-recap",
     "keywords": ["news", "article", "update recap"]
   },
   {
     "name": "Who Are They 1",
     "description": "Article: Who Are They 1",
-    "path": "https://heatlabs.net/news/who-are-they-1.html",
+    "path": "https://heatlabs.net/news/who-are-they-1",
     "keywords": ["news", "article", "who are they 1"]
   },
   {
     "name": "Who Are They 2",
     "description": "Article: Who Are They 2",
-    "path": "https://heatlabs.net/news/who-are-they-2.html",
+    "path": "https://heatlabs.net/news/who-are-they-2",
     "keywords": ["news", "article", "who are they 2"]
   },
   {
     "name": "Announcing World of Tanks: HEAT",
     "description": "Announcing World of Tanks: HEAT",
-    "path": "https://heatlabs.net/steam-news/announcing-world-of-tanks-heat.html",
+    "path": "https://heatlabs.net/steam-news/announcing-world-of-tanks-heat",
     "keywords": ["announcing", "world of tanks: heat"]
   },
   {
     "name": "Turning Up the HEAT: Fair Play, Clear Value",
     "description": "Turning Up the HEAT: Fair Play, Clear Value",
-    "path": "https://heatlabs.net/steam-news/fair-play-and-clear-value.html",
+    "path": "https://heatlabs.net/steam-news/fair-play-and-clear-value",
     "keywords": ["fair", "play", "clear", "value"]
   },
   {
     "name": "Join the Lodestar Program",
     "description": "Join the Lodestar Program",
-    "path": "https://heatlabs.net/steam-news/join-the-lodestar-program.html",
+    "path": "https://heatlabs.net/steam-news/join-the-lodestar-program",
     "keywords": ["lodestar", "program", "register"]
   },
   {
     "name": "Alpha 1 Announcement 1",
     "description": "First announcement for Alpha 1 testing phase",
-    "path": "https://heatlabs.net/announcements/alpha-1-announcement-1.html",
+    "path": "https://heatlabs.net/announcements/alpha-1-announcement-1",
     "keywords": ["announcement", "alpha 1", "testing", "phase", "first"]
   },
   {
     "name": "Alpha 1 Announcement 2",
     "description": "Second announcement for Alpha 1 testing phase",
-    "path": "https://heatlabs.net/announcements/alpha-1-announcement-2.html",
+    "path": "https://heatlabs.net/announcements/alpha-1-announcement-2",
     "keywords": ["announcement", "alpha 1", "testing", "phase", "second"]
   },
   {
     "name": "Alpha 2 Facts and Figures",
     "description": "Statistics and data from the Alpha 2 testing phase",
-    "path": "https://heatlabs.net/announcements/alpha-2-facts-figures.html",
+    "path": "https://heatlabs.net/announcements/alpha-2-facts-figures",
     "keywords": ["alpha 2", "facts", "figures", "stats", "data", "testing"]
   },
   {
     "name": "Alpha 2 Has Ended",
     "description": "Announcement about the conclusion of Alpha 2 testing",
-    "path": "https://heatlabs.net/announcements/alpha-2-has-ended.html",
+    "path": "https://heatlabs.net/announcements/alpha-2-has-ended",
     "keywords": ["alpha 2", "ended", "conclusion", "testing", "phase"]
   },
   {
     "name": "Alpha 2 Livestream",
     "description": "Information about Alpha 2 livestream events",
-    "path": "https://heatlabs.net/announcements/alpha-2-livestream.html",
+    "path": "https://heatlabs.net/announcements/alpha-2-livestream",
     "keywords": ["alpha 2", "livestream", "twitch", "youtube", "stream"]
   },
   {
     "name": "Alpha 2 Tournament",
     "description": "Details about the Alpha 2 tournament",
-    "path": "https://heatlabs.net/announcements/alpha-2-tournament.html",
+    "path": "https://heatlabs.net/announcements/alpha-2-tournament",
     "keywords": ["alpha 2", "tournament", "competitive", "esports", "event"]
   },
   {
     "name": "James's Introduction",
     "description": "Introduction of PCW team member James",
-    "path": "https://heatlabs.net/announcements/jamess-introduction.html",
+    "path": "https://heatlabs.net/announcements/jamess-introduction",
     "keywords": ["team", "introduction", "james", "developer", "staff"]
   },
   {
     "name": "Last Day of Alpha 2",
     "description": "Announcement about the final day of Alpha 2 testing",
-    "path": "https://heatlabs.net/announcements/last-day-of-alpha-2.html",
+    "path": "https://heatlabs.net/announcements/last-day-of-alpha-2",
     "keywords": ["alpha 2", "last day", "final", "testing", "phase"]
   },
   {
     "name": "Voreksis's Introduction",
     "description": "Introduction of PCW team member Voreksis",
-    "path": "https://heatlabs.net/announcements/voreksis-introduction.html",
+    "path": "https://heatlabs.net/announcements/voreksis-introduction",
     "keywords": ["team", "introduction", "voreksis", "developer", "staff"]
   },
   {
     "name": "Winter Wargames Tournament",
     "description": "Details about the Winter Wargames Tournament",
-    "path": "https://heatlabs.net/announcements/winter-wargames-tournament-1.html",
+    "path": "https://heatlabs.net/announcements/winter-wargames-tournament-1",
     "keywords": ["winter", "wargames", "tournament", "event", "competitive"]
   },
   {
     "name": "Say hello to World of Tanks: HEAT",
     "description": "No more codename, say hello to World of Tanks: HEAT",
-    "path": "https://heatlabs.net/announcements/game-name-released.html",
+    "path": "https://heatlabs.net/announcements/game-name-released",
     "keywords": ["name", "project", "heat", "trailer"]
   },
   {
     "name": "Meet the Team: Esmatty",
     "description": "Profile of HEAT Labs team member Esmatty",
-    "path": "https://heatlabs.net/blog/meet-the-team-esmatty.html",
+    "path": "https://heatlabs.net/blog/meet-the-team-esmatty",
     "keywords": ["team", "profile", "esmatty", "developer", "staff", "blog"]
   },
   {
     "name": "Meet the Team: SINEWAVE",
     "description": "Profile of HEAT Labs team member Sinewave",
-    "path": "https://heatlabs.net/blog/meet-the-team-sinewave.html",
+    "path": "https://heatlabs.net/blog/meet-the-team-sinewave",
     "keywords": ["team", "profile", "sinewave", "developer", "staff", "blog"]
   },
   {
     "name": "Meet the Team: _VEN0M",
     "description": "Profile of HEAT Labs team member _VEN0M",
-    "path": "https://heatlabs.net/blog/meet-the-team-ven0m.html",
+    "path": "https://heatlabs.net/blog/meet-the-team-ven0m",
     "keywords": ["team", "profile", "ven0m", "developer", "staff", "blog"]
   },
   {
     "name": "Meet the Team: Shockwave",
     "description": "Profile of HEAT Labs team member Shockwave",
-    "path": "https://heatlabs.net/blog/meet-the-team-shockwave.html",
+    "path": "https://heatlabs.net/blog/meet-the-team-shockwave",
     "keywords": ["team", "profile", "shockwave", "developer", "staff", "blog"]
   },
   {
     "name": "Meet the Team: Antitank99",
     "description": "Profile of HEAT Labs team member Antitank99",
-    "path": "https://heatlabs.net/blog/meet-the-team-antitank99.html",
+    "path": "https://heatlabs.net/blog/meet-the-team-antitank99",
     "keywords": ["team", "profile", "antitank99", "developer", "staff", "blog"]
   },
   {
     "name": "Meet the Team: Anuraen",
     "description": "Profile of HEAT Labs team member Anuraen",
-    "path": "https://heatlabs.net/blog/meet-the-team-anuraen.html",
+    "path": "https://heatlabs.net/blog/meet-the-team-anuraen",
     "keywords": ["team", "profile", "anuraen", "developer", "staff", "blog"]
   },
   {
     "name": "Meet the Team: IAmEdWards",
     "description": "Profile of HEAT Labs team member IAmEdWards",
-    "path": "https://heatlabs.net/blog/meet-the-team-iamedwards.html",
+    "path": "https://heatlabs.net/blog/meet-the-team-iamedwards",
     "keywords": ["team", "profile", "iamedwards", "developer", "staff", "blog"]
   },
   {
     "name": "Tournament Feature Blog",
     "description": "Blog post about tournament features",
-    "path": "https://heatlabs.net/blog/tournament-feature-blog.html",
+    "path": "https://heatlabs.net/blog/tournament-feature-blog",
     "keywords": ["tournament", "features", "blog", "competitive", "events"]
   },
   {
     "name": "Website Plans & Mission",
     "description": "Our plans for the foreseeable and beyond",
-    "path": "https://heatlabs.net/blog/website-plans-and-mission.html",
+    "path": "https://heatlabs.net/blog/website-plans-and-mission",
     "keywords": ["plans", "future", "website", "questions"]
   },
   {
     "name": "New Playground Features",
     "description": "Discover the new Playground Features",
-    "path": "https://heatlabs.net/blog/new-playground-features.html",
+    "path": "https://heatlabs.net/blog/new-playground-features",
     "keywords": ["playground", "new"]
   },
   {
     "name": "Views API Outage",
     "description": "Learn more about our Views API Outage",
-    "path": "https://heatlabs.net/blog/views-api-outage.html",
+    "path": "https://heatlabs.net/blog/views-api-outage",
     "keywords": ["outage", "views"]
   },
   {
     "name": "HEAT Labs Application",
     "description": "Download the HEAT Labs Application",
-    "path": "https://heatlabs.net/blog/heat-labs-application.html",
+    "path": "https://heatlabs.net/blog/heat-labs-application",
     "keywords": ["application", "pwa"]
   },
   {
     "name": "From PCWStats to HEAT Labs",
     "description": "Our rebranding process from PCWStats to HEAT Labs",
-    "path": "https://heatlabs.net/blog/from-pcwstats-to-heat-labs.html",
+    "path": "https://heatlabs.net/blog/from-pcwstats-to-heat-labs",
     "keywords": ["rebranding", "pcwstats"]
   },
   {
     "name": "Bug Hunting",
     "description": "Information about bug hunting and reporting",
-    "path": "https://heatlabs.net/bug-hunting.html",
+    "path": "https://heatlabs.net/bug-hunting",
     "keywords": ["bug", "hunting", "report", "issues", "feedback"]
   },
   {
     "name": "Esmatty's XM1-V Guide",
     "description": "Guide for the XM1-V tank by Esmatty",
-    "path": "https://heatlabs.net/guides/tanks/esmattys-xm1-v-guide.html",
+    "path": "https://heatlabs.net/guides/tanks/esmattys-xm1-v-guide",
     "keywords": ["guide", "xm1-v", "tank", "esmatty", "strategy", "build"]
   },
   {
     "name": "Long Time No See",
     "description": "News update after a period of inactivity",
-    "path": "https://heatlabs.net/news/long-time-no-see.html",
+    "path": "https://heatlabs.net/news/long-time-no-see",
     "keywords": ["news", "update", "return", "announcement", "status"]
   },
   {
     "name": "Damage Calculation Bug Hunting",
     "description": "Investigation into damage calculation mechanics",
-    "path": "https://heatlabs.net/bug-hunting/damage-calculation.html",
+    "path": "https://heatlabs.net/bug-hunting/damage-calculation",
     "keywords": ["bug", "damage", "calculation", "mechanics", "investigation"]
   },
   {
     "name": "Developer Guide Images",
     "description": "Analysis of developer guide images for hidden clues",
-    "path": "https://heatlabs.net/bug-hunting/developer-guide-images.html",
+    "path": "https://heatlabs.net/bug-hunting/developer-guide-images",
     "keywords": ["developer", "guide", "images", "analysis", "clues"]
   },
   {
     "name": "Discovery of CoreX",
     "description": "Findings about the mysterious CoreX system",
-    "path": "https://heatlabs.net/bug-hunting/discovery-of-corex.html",
+    "path": "https://heatlabs.net/bug-hunting/discovery-of-corex",
     "keywords": ["corex", "discovery", "system", "mysterious", "findings"]
   },
   {
     "name": "Animation and Movement Desync",
     "description": "Research into animation and movement synchronization issues",
-    "path": "https://heatlabs.net/bug-hunting/exploring-animation-and-movement-desync.html",
+    "path": "https://heatlabs.net/bug-hunting/exploring-animation-and-movement-desync",
     "keywords": ["animation", "movement", "desync", "research", "bugs"]
   },
   {
     "name": "Main Menu Garage Exploration",
     "description": "Findings from investigating the main menu garage",
-    "path": "https://heatlabs.net/bug-hunting/exploring-the-main-menu-garage.html",
+    "path": "https://heatlabs.net/bug-hunting/exploring-the-main-menu-garage",
     "keywords": ["main menu", "garage", "exploration", "investigation", "ui"]
   },
   {
     "name": "Hidden Servers Hunt",
     "description": "Search for potential hidden game servers",
-    "path": "https://heatlabs.net/bug-hunting/hunting-for-potential-hidden-servers.html",
+    "path": "https://heatlabs.net/bug-hunting/hunting-for-potential-hidden-servers",
     "keywords": ["hidden", "servers", "hunt", "network", "discovery"]
   },
   {
     "name": "Info from Developers",
     "description": "Compilation of information gathered from developers",
-    "path": "https://heatlabs.net/bug-hunting/info-from-developers.html",
+    "path": "https://heatlabs.net/bug-hunting/info-from-developers",
     "keywords": ["developers", "information", "compilation", "insights", "findings"]
   },
   {
     "name": "Mysterious Engine Picture",
     "description": "Analysis of a mysterious engine-related image",
-    "path": "https://heatlabs.net/bug-hunting/mysterious-engine-picture.html",
+    "path": "https://heatlabs.net/bug-hunting/mysterious-engine-picture",
     "keywords": ["engine", "mysterious", "picture", "analysis", "clue"]
   },
   {
     "name": "Potential Campaign Mode",
     "description": "Evidence suggesting a possible campaign mode",
-    "path": "https://heatlabs.net/bug-hunting/potential-campaign-mode.html",
+    "path": "https://heatlabs.net/bug-hunting/potential-campaign-mode",
     "keywords": ["campaign", "mode", "evidence", "potential", "pve"]
   },
   {
     "name": "Tank Module Locations",
     "description": "Research into tank module positioning data",
-    "path": "https://heatlabs.net/bug-hunting/tank-module-locations.html",
+    "path": "https://heatlabs.net/bug-hunting/tank-module-locations",
     "keywords": ["tank", "module", "locations", "positioning", "data"]
   },
   {
     "name": "The Three Badges",
     "description": "Investigation into three mysterious badges",
-    "path": "https://heatlabs.net/bug-hunting/the-three-badges.html",
+    "path": "https://heatlabs.net/bug-hunting/the-three-badges",
     "keywords": ["badges", "mysterious", "three", "investigation", "achievements"]
   },
   {
     "name": "Titan Dummies Respawn Glitch",
     "description": "Documentation of a Titan dummies respawn glitch",
-    "path": "https://heatlabs.net/bug-hunting/titan-dummies-respawn-glitch.html",
+    "path": "https://heatlabs.net/bug-hunting/titan-dummies-respawn-glitch",
     "keywords": ["titan", "dummies", "respawn", "glitch", "bug"]
   },
   {
     "name": "Unlocking the Camera",
     "description": "Experiments with camera freedom and limitations",
-    "path": "https://heatlabs.net/bug-hunting/unlocking-the-camera.html",
+    "path": "https://heatlabs.net/bug-hunting/unlocking-the-camera",
     "keywords": ["camera", "unlock", "freedom", "limitations", "experiments"]
   },
   {
     "name": "Who is PCW Bug Hunters",
     "description": "Introduction to the PCW bug hunting community",
-    "path": "https://heatlabs.net/bug-hunting/who-is-pcw-bug-hunters.html",
+    "path": "https://heatlabs.net/bug-hunting/who-is-pcw-bug-hunters",
     "keywords": ["bug", "hunters", "community", "introduction", "pcw"]
   },
   {
     "name": "Weird Pattern Images",
     "description": "Analysis of strange pattern images found in game files",
-    "path": "https://heatlabs.net/bug-hunting/wierd-pattern-images.html",
+    "path": "https://heatlabs.net/bug-hunting/wierd-pattern-images",
     "keywords": ["pattern", "images", "weird", "analysis", "files"]
   },
   {
     "name": "Alpha 2 Fuel Crit Multiplier Incident",
     "description": "Analysis of a bug concerning the fuel crit multiplier",
-    "path": "https://heatlabs.net/bug-hunting/alpha-2-fuel-crit-multiplier.html",
+    "path": "https://heatlabs.net/bug-hunting/alpha-2-fuel-crit-multiplier",
     "keywords": ["fuel", "crit", "multiplier", "alpha"]
   },
   {
     "name": "Check and Compare",
     "description": "Tool for comparing game data and statistics",
-    "path": "https://heatlabs.net/check-compare.html",
+    "path": "https://heatlabs.net/check-compare",
     "keywords": ["check", "compare", "tool", "statistics", "data"]
   },
   {
     "name": "General Guides",
     "description": "Overview of general game guides",
-    "path": "https://heatlabs.net/guides/general-guides.html",
+    "path": "https://heatlabs.net/guides/general-guides",
     "keywords": ["guides", "general", "overview", "gameplay", "tips"]
   },
   {
     "name": "Map Guides",
     "description": "Overview of available map guides",
-    "path": "https://heatlabs.net/guides/map-guides.html",
+    "path": "https://heatlabs.net/guides/map-guides",
     "keywords": ["maps", "guides", "overview", "locations", "strategies"]
   },
   {
     "name": "Tank Guides",
     "description": "Overview of available tank guides",
-    "path": "https://heatlabs.net/guides/tank-guides.html",
+    "path": "https://heatlabs.net/guides/tank-guides",
     "keywords": ["tanks", "guides", "overview", "vehicles", "strategies"]
   },
   {
     "name": "BAT-4M Basic Guide",
     "description": "Basic guide for the BAT-4M tank",
-    "path": "https://heatlabs.net/guides/tank-guides/bat-4m-basic-guide.html",
+    "path": "https://heatlabs.net/guides/tank-guides/bat-4m-basic-guide",
     "keywords": ["bat-4m", "guide", "basic", "tank", "strategy"]
   },
   {
     "name": "XM1-V Build Guide",
     "description": "Build guide for the XM1-V tank",
-    "path": "https://heatlabs.net/guides/tank-guides/xm1-v-build-guide.html",
+    "path": "https://heatlabs.net/guides/tank-guides/xm1-v-build-guide",
     "keywords": ["xm1-v", "build", "guide", "tank", "strategy"]
   },
   {
     "name": "Project CW Debrief 1",
     "description": "First development debrief for Project CW",
-    "path": "https://heatlabs.net/news/project-cw-debrief-1.html",
+    "path": "https://heatlabs.net/news/project-cw-debrief-1",
     "keywords": ["project cw", "debrief", "development", "update", "news"]
   },
   {
     "name": "Project CW Debrief 2",
     "description": "Second development debrief for Project CW",
-    "path": "https://heatlabs.net/news/project-cw-debrief-2.html",
+    "path": "https://heatlabs.net/news/project-cw-debrief-2",
     "keywords": ["project cw", "debrief", "development", "update", "news"]
   },
   {
     "name": "Project CW Debrief 3",
     "description": "Third development debrief for Project CW",
-    "path": "https://heatlabs.net/news/project-cw-debrief-3.html",
+    "path": "https://heatlabs.net/news/project-cw-debrief-3",
     "keywords": ["project cw", "debrief", "development", "update", "news"]
   },
   {
     "name": "Project CW Gamescom 2025",
     "description": "Coverage of Project CW at Gamescom 2025",
-    "path": "https://heatlabs.net/news/project-cw-gamescom-2025.html",
+    "path": "https://heatlabs.net/news/project-cw-gamescom-2025",
     "keywords": ["project cw", "gamescom", "2025", "event", "news"]
   },
   {
     "name": "Frequent Questions",
     "description": "Find answers to common questions about HEAT Labs",
-    "path": "https://heatlabs.net/resources/frequent-questions.html",
+    "path": "https://heatlabs.net/resources/frequent-questions",
     "keywords": ["questions", "answers", "asked", "faq"]
   },
   {
     "name": "Maxwell",
     "description": "Maxwell, is that you?",
-    "path": "https://heatlabs.net/easter-eggs/maxwell.html",
+    "path": "https://heatlabs.net/easter-eggs/maxwell",
     "keywords": ["maxwell"]
   },
   {
     "name": "Agents",
     "description": "Master every Agent with detailed insights and more",
-    "path": "https://heatlabs.net/agents.html",
+    "path": "https://heatlabs.net/agents",
     "keywords": ["agents"]
   },
   {
     "name": "Anansi",
     "description": "Learn everything about Anansi",
-    "path": "https://heatlabs.net/agents/anansi.html",
+    "path": "https://heatlabs.net/agents/anansi",
     "keywords": ["agents"]
   },
   {
     "name": "Blitz",
     "description": "Learn everything about Blitz",
-    "path": "https://heatlabs.net/agents/blitz.html",
+    "path": "https://heatlabs.net/agents/blitz",
     "keywords": [""]
   },
   {
     "name": "Agents",
     "description": "Learn everything about ",
-    "path": "https://heatlabs.net/agents/chopper.html",
+    "path": "https://heatlabs.net/agents/chopper",
     "keywords": [""]
   },
   {
     "name": "Ember",
     "description": "Learn everything about Ember",
-    "path": "https://heatlabs.net/agents/ember.html",
+    "path": "https://heatlabs.net/agents/ember",
     "keywords": ["ember"]
   },
   {
     "name": "Hound",
     "description": "Learn everything about Hound",
-    "path": "https://heatlabs.net/agents/hound.html",
+    "path": "https://heatlabs.net/agents/hound",
     "keywords": ["hound"]
   },
   {
     "name": "Kent",
     "description": "Learn everything about Kent",
-    "path": "https://heatlabs.net/agents/kent.html",
+    "path": "https://heatlabs.net/agents/kent",
     "keywords": ["kent"]
   },
   {
     "name": "Raketa",
     "description": "Learn everything about Raketa",
-    "path": "https://heatlabs.net/agents/raketa.html",
+    "path": "https://heatlabs.net/agents/raketa",
     "keywords": ["raketa"]
   },
   {
     "name": "Ray",
     "description": "Learn everything about Ray",
-    "path": "https://heatlabs.net/agents/ray.html",
+    "path": "https://heatlabs.net/agents/ray",
     "keywords": ["ray"]
   },
   {
     "name": "Reaper",
     "description": "Learn everything about Reaper",
-    "path": "https://heatlabs.net/agents/reaper.html",
+    "path": "https://heatlabs.net/agents/reaper",
     "keywords": ["reaper"]
   },
   {
     "name": "Udarnik",
     "description": "Learn everything about Udarnik",
-    "path": "https://heatlabs.net/agents/udarnik.html",
+    "path": "https://heatlabs.net/agents/udarnik",
     "keywords": ["udarnik"]
   },
   {
     "name": "Jager",
     "description": "Learn everything about Jager",
-    "path": "https://heatlabs.net/agents/jager.html",
+    "path": "https://heatlabs.net/agents/jager",
     "keywords": ["jager"]
   },
   {
     "name": "Punch",
     "description": "Learn everything about Punch",
-    "path": "https://heatlabs.net/agents/punch.html",
+    "path": "https://heatlabs.net/agents/punch",
     "keywords": ["punch"]
   },
   {
     "name": "Fantome",
     "description": "Learn everything about Fantome",
-    "path": "https://heatlabs.net/agents/fantome.html",
+    "path": "https://heatlabs.net/agents/fantome",
     "keywords": ["fantome"]
   },
   {
     "name": "Atom",
     "description": "Learn everything about Udarnik",
-    "path": "https://heatlabs.net/agents/atom.html",
+    "path": "https://heatlabs.net/agents/atom",
     "keywords": ["atom"]
   },
   {
     "name": "Arblast",
     "description": "Learn everything about Udarnik",
-    "path": "https://heatlabs.net/agents/arblast.html",
+    "path": "https://heatlabs.net/agents/arblast",
     "keywords": ["arblast"]
   },
   {
     "name": "Akira",
     "description": "Learn everything about Akira",
-    "path": "https://heatlabs.net/agents/akira.html",
+    "path": "https://heatlabs.net/agents/akira",
     "keywords": ["akira"]
   }
 ]
