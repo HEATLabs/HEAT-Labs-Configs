@@ -132,10 +132,40 @@
     "keywords": ["sounds", "soundboard", "game sounds"]
   },
   {
-    "name": "Changelog",
+    "name": "Website Changelog",
     "description": "Full history of changes, fixes, and feature additions",
-    "path": "https://heatlabs.net/Website-Changelog",
-    "keywords": ["changelog", "history", "updates", "patches", "log", "changes"]
+    "path": "https://changelog.heatlabs.net",
+    "keywords": ["website", "status"]
+  },
+  {
+    "name": "Website Statistics",
+    "description": "Statistics and analytics for the HEAT Labs website",
+    "path": "https://statistics.heatlabs.net",
+    "keywords": ["website", "statistics"]
+  },
+  {
+    "name": "Website Socials",
+    "description": "All social media accounts of the HEAT Labs website",
+    "path": "https://social.heatlabs.net",
+    "keywords": ["website", "socials"]
+  },
+  {
+    "name": "Website Status",
+    "description": "Live status monitor for the HEAT Labs website",
+    "path": "https://status.heatlabs.net",
+    "keywords": ["website", "status"]
+  },
+  {
+    "name": "Discord Server",
+    "description": "Join our Discord Server",
+    "path": "https://discord.heatlabs.net",
+    "keywords": ["discord", "server"]
+  },
+  {
+    "name": "Discord Bot",
+    "description": "Bring HEAT Labs in your discord servers.",
+    "path": "https://bot.heatlabs.net",
+    "keywords": ["discord", "bot"]
   },
   {
     "name": "Contact Us",
@@ -1410,22 +1440,10 @@
     "keywords": ["project cw", "gamescom", "2025", "event", "news"]
   },
   {
-    "name": "Website Statistics",
-    "description": "Statistics and analytics for the HEAT Labs website",
-    "path": "https://heatlabs.net/Website-Statistics",
-    "keywords": ["website", "statistics", "analytics", "traffic", "data"]
-  },
-  {
     "name": "Frequent Questions",
     "description": "Find answers to common questions about HEAT Labs",
     "path": "https://heatlabs.net/resources/frequent-questions.html",
     "keywords": ["questions", "answers", "asked", "faq"]
-  },
-  {
-    "name": "System Status",
-    "description": "Current status of HEAT Labs services and systems",
-    "path": "https://heatlabs.net/Website-Status",
-    "keywords": ["website", "status", "system", "uptime"]
   },
   {
     "name": "Maxwell",
