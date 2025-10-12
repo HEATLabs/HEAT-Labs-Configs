@@ -1,18 +1,139 @@
 {
-  "generated_at": "2025-10-11T03:14:18.740105",
+  "generated_at": "2025-10-12T05:25:20.247203",
   "site_url": "sc-domain:heatlabs.net",
   "data_type": "all_time",
   "data": {
     "site_url": "sc-domain:heatlabs.net",
-    "last_checked": "2025-10-11T03:14:18.492266",
+    "last_checked": "2025-10-12T05:25:19.792201",
     "date_range": {
       "start_date": "2025-05-16",
-      "end_date": "2025-10-11"
+      "end_date": "2025-10-12"
     },
-    "pages": [],
+    "pages": [
+      {
+        "url": "https://heatlabs.net/",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 1,
+        "impressions": 8,
+        "ctr": 0.125,
+        "position": 3.125
+      },
+      {
+        "url": "https://heatlabs.net/agents",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
+        "url": "https://heatlabs.net/asset-gallery",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
+        "url": "https://heatlabs.net/blog",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
+        "url": "https://heatlabs.net/bug-hunting",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
+        "url": "https://heatlabs.net/guides",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
+        "url": "https://heatlabs.net/tanks/alvt.html",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "url": "https://heatlabs.net/tournaments",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 4
+      }
+    ],
     "summary": {
-      "total_pages": 0,
-      "indexed_pages": 0,
+      "total_pages": 8,
+      "indexed_pages": 8,
       "not_indexed_pages": 0,
       "errors": 0
     },
@@ -33,7 +154,7 @@
         "is_pending": false,
         "is_sitemaps_index": false,
         "type": "sitemap",
-        "last_downloaded": "2025-10-10T00:13:17.149Z",
+        "last_downloaded": "2025-10-11T08:38:10.543Z",
         "warnings": "1",
         "errors": "0"
       },
@@ -43,7 +164,7 @@
         "is_pending": false,
         "is_sitemaps_index": false,
         "type": "sitemap",
-        "last_downloaded": "2025-10-09T20:51:52.692Z",
+        "last_downloaded": "2025-10-11T16:10:10.785Z",
         "warnings": "0",
         "errors": "0"
       },
@@ -80,8 +201,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 0,
-    "indexed_pages": 0,
+    "total_pages_found": 8,
+    "indexed_pages": 8,
     "errors": 0
   }
 }
