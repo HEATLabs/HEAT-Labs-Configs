@@ -1,6 +1,36 @@
 {
   "updates": [
     {
+      "version": "0.2.382",
+      "date": "2025-10-11",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #169",
+      "description": "Full patch notes for Update v0.2.382 (#169), detailing all changes made on 11 October, 2025.",
+      "added": [
+        "Bing verification tag to the main website"
+      ],
+      "changed": [
+        "Changelog data in HEAT-Labs-Configs",
+        "Daily commit log in HEAT-Labs-Configs",
+        "GSC API index data in HEAT-Labs-Configs",
+        "Statistics page to include Cloudflare Web Analytics mention for transparency"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Incorrect path to GitHub repository in statistics page",
+        "Incorrect canonical URL in Check and Compare page",
+        "Incorrect path to placeholder image across all map pages",
+        "Incorrect GitHub repository paths in two pages",
+        "Incorrect file formats in one map page",
+        "Incorrect image paths in two announcement pages",
+        "Incorrect image path in one tournament post",
+        "Incorrect path to GitHub organization in Support Us page",
+        "Incorrect file formats in two images within Bug Hunting posts"
+      ]
+    },
+    {
       "version": "0.2.367",
       "date": "2025-10-10",
       "author": "HEAT Labs Team",
