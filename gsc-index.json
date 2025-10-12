@@ -1,10 +1,10 @@
 {
-  "generated_at": "2025-10-12T18:21:05.474917",
+  "generated_at": "2025-10-12T21:39:59.297121",
   "site_url": "sc-domain:heatlabs.net",
   "data_type": "all_time",
   "data": {
     "site_url": "sc-domain:heatlabs.net",
-    "last_checked": "2025-10-12T18:21:04.999220",
+    "last_checked": "2025-10-12T21:39:59.037120",
     "date_range": {
       "start_date": "2025-05-16",
       "end_date": "2025-10-12"
@@ -185,6 +185,16 @@
         "is_sitemaps_index": false,
         "type": "sitemap",
         "last_downloaded": "2025-10-09T23:00:02.533Z",
+        "warnings": "0",
+        "errors": "0"
+      },
+      {
+        "path": "https://bot.heatlabs.net/site-data/sitemap.xml",
+        "last_submitted": "2025-10-12T18:28:38.455Z",
+        "is_pending": false,
+        "is_sitemaps_index": false,
+        "type": "sitemap",
+        "last_downloaded": "2025-10-12T18:28:39.993Z",
         "warnings": "0",
         "errors": "0"
       },
