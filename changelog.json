@@ -1,6 +1,71 @@
 {
   "updates": [
     {
+      "version": "0.2.432",
+      "date": "2025-10-12",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #170",
+      "description": "Full patch notes for Update v0.2.432 (#170), detailing all changes made on 12 October, 2025.",
+      "added": [
+        "New subdomain added to website schema across all repositories and pages",
+        "Complete setup for HEAT Labs Discord Bot subdomain with assets, pages, and commands",
+        "Status rotator module and configuration for Discord Bot",
+        "Logger module integrated across Discord Bot commands",
+        "Tournaments, Tournament, Tank, Agent, Maps List, Tanks List, and Agents List commands in Discord Bot",
+        "Team, Socials, Domains, Contributors, and Help commands in Discord Bot",
+        "Contributors data file and server index setup",
+        "Dedicated Discord Bot config, domains, and socials files",
+        "New repository files for HEAT Labs Discord Bot including README and assets",
+        "Dedicated GitHub banner image in HEAT Labs Images repository",
+        "Tracking pixel for new Discord Bot page",
+        "Tracking pixel for Views API subdomain",
+        "Views API frontend files and sitedata added",
+        "Development version of HEAT Labs website with full page structure",
+        "Discord, Changelog, Statistics, Status, and Social pages added to development website",
+        "New entries in sitedata updater tool for Tools repository",
+        "Placeholder file for upcoming Bing Index Checker tool",
+        "Placeholder Bing index JSON file in Configs",
+        "Description field added to all domain and social URLs",
+        "Description field added to all maps in map index",
+        "Dedicated sitedata for future Discord Bot subdomain",
+        "Maintenance-related tracking pixels and schema updates across multiple subdomains"
+      ],
+      "changed": [
+        "WIP modal functionality across all repositories for improved user experience",
+        "Version tag and changelog button path in Discord Bot",
+        "Domains config file to include new subdomain",
+        "Logger functionality added to Discord Bot commands (servers, team, statistics, socials, domains)",
+        "Header branding updated to include DEV tag in development website",
+        "Sidebar and header links corrected across development website pages",
+        "Home page lines of code counter text updated on main and dev websites",
+        "Footer titles and metadata updated for DEV environment clarity",
+        "Website schema in Views API updated with correct path and subdomain inclusion",
+        "Button styles and text refined in Views API subdomain page",
+        "GSC index data and sitemap updates in Configs",
+        "Tracking pixel index updated with new entries",
+        "Search keyword index updated with missing pages and subdomain changes",
+        "Daily commit log and changelog updated with latest entries",
+        "Environment files updated with Bing and Discord Bot tokens",
+        "Navbar and sidebar links across the dev site adjusted for new internal routing",
+        "Views API CORS headers updated to support OPTIONS and Content-Type",
+        "Env and requirements files refined across repositories"
+      ],
+      "removed": [
+        "Strategy Planner feature from main website and Configs",
+        "Test Model Viewer files from main website",
+        "Placeholder pages from main website",
+        "Trailing .html entries from search keyword and tracking pixel indexes",
+        "Custom footer from Discord Bot tank command",
+        "Statistics command from Discord Bot (deprecated)"
+      ],
+      "fixed": [
+        "Incorrect tracking pixel path in Configs repository",
+        "Incorrect placeholder image path for agents",
+        "Sidebar issue in development website Discord Bot page",
+        "Incorrect active tag on development website sidebar"
+      ]
+    },
+    {
       "version": "0.2.382",
       "date": "2025-10-11",
       "author": "HEAT Labs Team",
