@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "version": "0.2.441",
+      "date": "2025-10-13",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #171",
+      "description": "Full patch notes for Update v0.2.441 (#171), detailing all changes made on 13 October, 2025.",
+      "added": [
+        "Custom context menu implemented across all major modules, including Changelog, Discord, Discord Bot, Socials, Statistics, Status, Website, Website Development, and Views API",
+        "CSS and JS imports for the new custom context menu feature integrated across all modules"
+      ],
+      "changed": [
+        "Home page statistics updated",
+        "GSC index data refreshed",
+        "Changelog entries revised and updated",
+        "Daily commit log updated",
+        "Devs Only page generator tool enhanced with new CSS and JS imports"
+      ],
+      "removed": [
+        "Duplicate JavaScript imports from Maps page"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.2.432",
       "date": "2025-10-12",
       "author": "HEAT Labs Team",
