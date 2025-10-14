@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "publish": true,
+        "name": "Alpha #1 Tournament",
+        "slug": "open-alpha-1-tournament",
+        "description": "World of Tanks: HEAT (Formerly Project CW) Open Alpha Tournament 1",
+        "start": "2024-01-27T14:00:00Z",
+        "end": "2024-01-29T14:00:00Z",
+        "date": "2024-01-27",
+        "mode": "Plant & Defuse",
+        "type": "Ended",
+        "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tournaments@main/tournaments/OAT1/Tournament_announcement-1.webp",
+        "tournament-id": "OAT1",
+        "tournament-data": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Database@main/tournaments/OAT1.json",
+        "tournament-views": "https://pcwstats-pixel-api.vercel.app/api/stats?image=pcwstats-tracker-pixel-open-alpha-2-tournament.png"
+    },
+    {
+        "id": 2,
+        "publish": true,
+        "name": "Alpha #2 Tournament",
+        "slug": "open-alpha-2-tournament",
+        "description": "World of Tanks: HEAT (Formerly Project CW) Open Alpha Tournament 2",
+        "start": "2025-02-22T14:00:00Z",
+        "end": "2025-02-24T14:00:00Z",
+        "date": "2025-02-22",
+        "mode": "Plant & Defuse",
+        "type": "Ended",
+        "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tournaments@main/tournaments/OAT2/Tournament_announcement-2.webp",
+        "tournament-id": "OAT2",
+        "tournament-data": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Database@main/tournaments/OAT2.json",
+        "tournament-views": "https://pcwstats-pixel-api.vercel.app/api/stats?image=pcwstats-tracker-pixel-open-alpha-2-tournament.png"
+    },
+    {
+        "id": 5,
+        "publish": true,
+        "name": "Dev Tournament: Stream Embeds",
+        "slug": "open-alpha-3-tournament",
+        "description": "Dev Tournament Description: Stream Embeds",
+        "start": "2099-02-22T14:00:00Z",
+        "end": "2099-02-24T14:00:00Z",
+        "date": "2099-02-22",
+        "mode": "Dev Mode",
+        "type": "Dev",
+        "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images@main/contributors/VEN0M.webp",
+        "tournament-id": "DEV",
+        "tournament-data": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Database@main/tournaments/OAT2.json",
+        "tournament-views": ""
+    }
+]
