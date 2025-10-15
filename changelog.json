@@ -1,6 +1,55 @@
 {
   "updates": [
     {
+      "version": "0.2.475",
+      "date": "2025-10-14",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #172",
+      "description": "Full patch notes for Update v0.2.475 (#172), detailing all changes made on 14 October, 2025.",
+      "added": [
+        "New CDN integration for static JS and CSS files across all HEAT Labs projects",
+        "Submenu support in custom context menu across all web apps",
+        "Discord redirect page inside context menu submenu",
+        "Twitch banner module and Twitch alert JS import",
+        "New seasonal JS module integration",
+        "Social media buttons in custom context menu",
+        "New tab option in custom context menu",
+        "Static repositories for all CSS, JS, fonts, and easter egg modules (HEAT-Labs-Static)",
+        "Privacy improvements in image protection module to block click and hold events",
+        "Development copy of tournaments.json",
+        "WIP modal easter egg for development site",
+        "Twitch alert testing module for development site"
+      ],
+      "changed": [
+        "Renamed 'Extras' category to 'Resources' in custom context menus across all repositories",
+        "Replaced 'Go Home' with 'Return Home' in all context menus",
+        "Updated context menu labels for clarity and consistency",
+        "Moved reload option next to back and forward buttons in context menu",
+        "Updated submenu order and overall layout for better organization",
+        "Updated Halloween module to check for user settings",
+        "Disabled Halloween effects across all web apps",
+        "Renamed 'Tankopedia' to 'Asset Gallery' on homepage explore section",
+        "Updated wallpapers game news post to include download buttons",
+        "Updated GSC index data and homepage statistics",
+        "Tweaked start date for development tournament",
+        "Devs Only pages updated across main and development sites",
+        "Daily commit log and changelog refreshed in configuration repository",
+        "Navbar improvements and beta tags added in multiple modules",
+        "Adjusted Twitch banner visuals and mobile styling",
+        "Improved logic check for Twitch banner display",
+        "Devs only page generator updated with new schema and seasonal imports"
+      ],
+      "removed": [
+        "Unused exports from Twitch banner modules",
+        "Redundant JS imports in select pages",
+        "Console logs in Twitch banner module (cleaned before deployment)"
+      ],
+      "fixed": [
+        "Incorrect check in Twitch banner logic",
+        "Minor UI inconsistencies in context menu and submenu elements"
+      ]
+    },
+    {
       "version": "0.2.441",
       "date": "2025-10-13",
       "author": "HEAT Labs Team",
