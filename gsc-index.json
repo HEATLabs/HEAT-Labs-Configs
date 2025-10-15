@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-10-14T21:28:31.783583",
+  "generated_at": "2025-10-15T22:20:43.359987",
   "site_url": "sc-domain:heatlabs.net",
   "data_type": "all_time",
   "data": {
     "site_url": "sc-domain:heatlabs.net",
-    "last_checked": "2025-10-14T21:28:31.361182",
+    "last_checked": "2025-10-15T22:20:43.003901",
     "date_range": {
       "start_date": "2025-05-16",
-      "end_date": "2025-10-14"
+      "end_date": "2025-10-15"
     },
     "pages": [
       {
@@ -20,10 +20,10 @@
         "crawl_time": null,
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
-        "clicks": 1,
-        "impressions": 15,
-        "ctr": 0.06666666666666667,
-        "position": 3.8
+        "clicks": 3,
+        "impressions": 28,
+        "ctr": 0.10714285714285714,
+        "position": 4.25
       },
       {
         "url": "https://heatlabs.net/agents",
@@ -66,9 +66,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 6,
+        "impressions": 7,
         "ctr": 0,
-        "position": 2
+        "position": 2.2857142857142856
       },
       {
         "url": "https://heatlabs.net/blog/from-pcwstats-to-heat-labs",
@@ -81,7 +81,7 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
         "position": 5
       },
@@ -156,12 +156,27 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 4,
+        "impressions": 5,
         "ctr": 0,
-        "position": 5
+        "position": 5.8
       },
       {
         "url": "https://heatlabs.net/tanks",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 11,
+        "ctr": 0,
+        "position": 5.7272727272727275
+      },
+      {
+        "url": "https://heatlabs.net/tanks/alvt",
         "status": "indexed_and_served",
         "last_crawled": null,
         "indexing_state": "INDEXED",
@@ -176,21 +191,6 @@
         "position": 3.5
       },
       {
-        "url": "https://heatlabs.net/tanks/alvt",
-        "status": "indexed_and_served",
-        "last_crawled": null,
-        "indexing_state": "INDEXED",
-        "coverage_state": "VALID",
-        "discovery_date": null,
-        "crawl_time": null,
-        "robots_txt_state": "ALLOWED",
-        "user_agent": "DESKTOP",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 4
-      },
-      {
         "url": "https://heatlabs.net/tanks/alvt.html",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -201,9 +201,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 3,
         "ctr": 0,
-        "position": 8
+        "position": 6.666666666666667
       },
       {
         "url": "https://heatlabs.net/tanks/bat-4m",
@@ -216,9 +216,24 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 5
+        "position": 4
+      },
+      {
+        "url": "https://heatlabs.net/tanks/leopard-2fk",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 9.5
       },
       {
         "url": "https://heatlabs.net/tanks/m1-railgun",
@@ -236,7 +251,7 @@
         "position": 9
       },
       {
-        "url": "https://heatlabs.net/tanks/m60e2",
+        "url": "https://heatlabs.net/tanks/m60a3e2",
         "status": "indexed_and_served",
         "last_crawled": null,
         "indexing_state": "INDEXED",
@@ -248,7 +263,52 @@
         "clicks": 0,
         "impressions": 1,
         "ctr": 0,
+        "position": 9
+      },
+      {
+        "url": "https://heatlabs.net/tanks/m60a3e2-bot",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+      },
+      {
+        "url": "https://heatlabs.net/tanks/m60e2",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
         "position": 8
+      },
+      {
+        "url": "https://heatlabs.net/tanks/t-64a",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 9
       },
       {
         "url": "https://heatlabs.net/tanks/xm1-v",
@@ -261,9 +321,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 3,
         "ctr": 0,
-        "position": 10
+        "position": 8.666666666666668
       },
       {
         "url": "https://heatlabs.net/tournaments",
@@ -282,8 +342,8 @@
       }
     ],
     "summary": {
-      "total_pages": 18,
-      "indexed_pages": 18,
+      "total_pages": 22,
+      "indexed_pages": 22,
       "not_indexed_pages": 0,
       "errors": 0
     },
@@ -314,7 +374,7 @@
         "is_pending": false,
         "is_sitemaps_index": false,
         "type": "sitemap",
-        "last_downloaded": "2025-10-13T14:54:34.727Z",
+        "last_downloaded": "2025-10-15T08:51:25.081Z",
         "warnings": "0",
         "errors": "0"
       },
@@ -334,7 +394,7 @@
         "is_pending": false,
         "is_sitemaps_index": false,
         "type": "sitemap",
-        "last_downloaded": "2025-10-13T15:48:12.374Z",
+        "last_downloaded": "2025-10-15T03:58:40.635Z",
         "warnings": "1",
         "errors": "0"
       },
@@ -361,8 +421,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 18,
-    "indexed_pages": 18,
+    "total_pages_found": 22,
+    "indexed_pages": 22,
     "errors": 0
   }
 }
