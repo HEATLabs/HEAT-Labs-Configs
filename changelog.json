@@ -1,6 +1,54 @@
 {
   "updates": [
     {
+      "version": "0.2.508",
+      "date": "2025-10-15",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #173",
+      "description": "Full patch notes for Update v0.2.508 (#173), detailing all changes made on 15 October, 2025.",
+      "added": [
+        "Wrong turn pages for all active CDNs (CDN0-CDN13)",
+        "Static JS and CSS files for wrong turn pages",
+        "Video list schemas for both tournament pages",
+        "Video showcase schema support",
+        "Development tag to player commands",
+        "Player commands added to bot documentation",
+        "Static site-data files",
+        "Embedded YouTube stream test pages",
+        "New tracking pixel entries for latest pages",
+        "CNAME records across all CDN subprojects"
+      ],
+      "changed": [
+        "All project paths migrated from JsDelivr to internal CDN5 structure",
+        "CDN image references updated across all repositories",
+        "Tracking pixel URLs updated across multiple subprojects",
+        "Map, guide, feature, blog, news, tank, and tournament image paths migrated to CDN-specific endpoints",
+        "Static file and script imports updated to use new CDN architecture",
+        "All project READMEs updated to reflect new CDN usage",
+        "Homepage and statistics pages updated with refreshed tracking and layout",
+        "Sitemap.xml and humans.txt generation logic adjusted for new static structure",
+        "GSC index data and home page stats refreshed",
+        "Dev-only page generator updated with CDN0 support",
+        "Sidebar updated with missing Wrong Turn button in dev website",
+        "Twitch embed and iframe parent variable fixes",
+        "Changelog and commit log updated with latest data"
+      ],
+      "removed": [
+        "Old external JsDelivr preconnections from all HEAT Labs subprojects",
+        "Deprecated assets folders from various pages",
+        "Old CDN statistics from website statistics pages",
+        "JsDelivr purge tool (moved to deprecated tools folder)"
+      ],
+      "fixed": [
+        "Malformed or incorrect URL strings across static fetch calls",
+        "Incorrect image paths in multiple 404 pages",
+        "Video schema validation for showcase and tournament pages",
+        "Twitch chat embed URL issues and iframe parent variable",
+        "Wrong file path references in fetch logic",
+        "Incorrect website URL in Views API README"
+      ]
+    },
+    {
       "version": "0.2.475",
       "date": "2025-10-14",
       "author": "HEAT Labs Team",
