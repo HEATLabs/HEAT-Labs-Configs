@@ -1,6 +1,27 @@
 {
   "updates": [
     {
+      "version": "0.2.514",
+      "date": "2025-10-16",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #174",
+      "description": "Full patch notes for Update v0.2.514 (#174), detailing all changes made on 16 October, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Changelog in HEAT-Labs-Configs",
+        "Daily commit log in HEAT-Labs-Configs",
+        "tournaments.js revised to allow for debug bypassing in both Static and Website-Development repositories"
+      ],
+      "removed": [
+        "Radio elements from Halloween effects module (temporary)"
+      ],
+      "fixed": [
+        "Tournament config path on tournament page"
+      ]
+    },
+    {
       "version": "0.2.508",
       "date": "2025-10-15",
       "author": "HEAT Labs Team",
