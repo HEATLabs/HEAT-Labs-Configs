@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-10-17T10:04:35.138079",
+  "generated_at": "2025-10-18T03:58:13.499308",
   "site_url": "sc-domain:heatlabs.net",
   "data_type": "all_time",
   "data": {
     "site_url": "sc-domain:heatlabs.net",
-    "last_checked": "2025-10-17T10:04:34.725081",
+    "last_checked": "2025-10-18T03:58:13.187767",
     "date_range": {
       "start_date": "2025-05-16",
-      "end_date": "2025-10-17"
+      "end_date": "2025-10-18"
     },
     "pages": [
       {
@@ -21,9 +21,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 3,
-        "impressions": 32,
-        "ctr": 0.09375,
-        "position": 4.375
+        "impressions": 38,
+        "ctr": 0.07894736842105263,
+        "position": 4.552631578947368
       },
       {
         "url": "https://heatlabs.net/agents",
@@ -51,9 +51,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 1
+        "position": 1.5
       },
       {
         "url": "https://heatlabs.net/blog",
@@ -171,9 +171,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 8
+        "position": 6.5
       },
       {
         "url": "https://heatlabs.net/playground/heat-labs-app",
@@ -246,9 +246,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 4,
         "ctr": 0,
-        "position": 3.5
+        "position": 4
       },
       {
         "url": "https://heatlabs.net/tanks/alvt.html",
@@ -291,9 +291,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 3,
         "ctr": 0,
-        "position": 9.5
+        "position": 9.666666666666666
       },
       {
         "url": "https://heatlabs.net/tanks/leopard-2k14",
@@ -411,9 +411,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 81
+        "position": 56
       },
       {
         "url": "https://heatlabs.net/tanks/xm1-v",
