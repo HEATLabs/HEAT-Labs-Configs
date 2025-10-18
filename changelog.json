@@ -1,6 +1,28 @@
 {
   "updates": [
     {
+      "version": "0.2.521",
+      "date": "2025-10-17",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #175",
+      "description": "Full patch notes for Update v0.2.521 (#175), detailing all changes made on 17 October, 2025.",
+      "added": [
+        "Test chat background filter in website development environment"
+      ],
+      "changed": [
+        "Daily commit log",
+        "Changelog data",
+        "GSC index data",
+        "Team member image for Anuraen"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.2.514",
       "date": "2025-10-16",
       "author": "HEAT Labs Team",
