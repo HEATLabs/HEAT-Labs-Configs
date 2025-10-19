@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-10-18T03:58:13.499308",
+  "generated_at": "2025-10-19T05:08:53.271525",
   "site_url": "sc-domain:heatlabs.net",
   "data_type": "all_time",
   "data": {
     "site_url": "sc-domain:heatlabs.net",
-    "last_checked": "2025-10-18T03:58:13.187767",
+    "last_checked": "2025-10-19T05:08:52.997435",
     "date_range": {
       "start_date": "2025-05-16",
-      "end_date": "2025-10-18"
+      "end_date": "2025-10-19"
     },
     "pages": [
       {
@@ -21,9 +21,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 3,
-        "impressions": 38,
-        "ctr": 0.07894736842105263,
-        "position": 4.552631578947368
+        "impressions": 40,
+        "ctr": 0.075,
+        "position": 4.6
       },
       {
         "url": "https://heatlabs.net/agents",
@@ -171,9 +171,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 3,
         "ctr": 0,
-        "position": 6.5
+        "position": 7.666666666666667
       },
       {
         "url": "https://heatlabs.net/playground/heat-labs-app",
@@ -231,9 +231,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 2
+        "position": 5.5
       },
       {
         "url": "https://heatlabs.net/tanks/alvt",
@@ -246,9 +246,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 4,
+        "impressions": 6,
         "ctr": 0,
-        "position": 4
+        "position": 4.166666666666666
       },
       {
         "url": "https://heatlabs.net/tanks/alvt.html",
@@ -291,9 +291,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 4,
         "ctr": 0,
-        "position": 9.666666666666666
+        "position": 9.5
       },
       {
         "url": "https://heatlabs.net/tanks/leopard-2k14",
@@ -336,7 +336,7 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 3,
         "ctr": 0,
         "position": 9
       },
@@ -381,9 +381,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 5,
+        "impressions": 7,
         "ctr": 0,
-        "position": 7.2
+        "position": 7.285714285714286
       },
       {
         "url": "https://heatlabs.net/tanks/t-64a",
@@ -401,6 +401,21 @@
         "position": 7.666666666666667
       },
       {
+        "url": "https://heatlabs.net/tanks/t-72au",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 4
+      },
+      {
         "url": "https://heatlabs.net/tanks/t-72b",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -411,9 +426,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 3,
         "ctr": 0,
-        "position": 56
+        "position": 39.333333333333336
       },
       {
         "url": "https://heatlabs.net/tanks/xm1-v",
@@ -456,14 +471,14 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 1
+        "position": 4
       }
     ],
     "summary": {
-      "total_pages": 30,
-      "indexed_pages": 30,
+      "total_pages": 31,
+      "indexed_pages": 31,
       "not_indexed_pages": 0,
       "errors": 0
     },
@@ -541,8 +556,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 30,
-    "indexed_pages": 30,
+    "total_pages_found": 31,
+    "indexed_pages": 31,
     "errors": 0
   }
 }
