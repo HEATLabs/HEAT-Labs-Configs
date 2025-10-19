@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "version": "0.2.538",
+      "date": "2025-10-18",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #176",
+      "description": "Full patch notes for Update v0.2.538 (#176), detailing all changes made on 18 October, 2025.",
+      "added": [
+        "Debug command for bot testing and diagnostics",
+        "Dedicated assets for the development version of the bot",
+        "Cooldown module applied to all commands",
+        "New /contact command for user-to-team messages"
+      ],
+      "changed": [
+        "Home page statistics in configuration files",
+        "Changelog entries and daily commit log",
+        "GSC index data for updated site information",
+        "Main bot file to integrate cooldown module",
+        "Help command for more compact text and inclusion of new command",
+        "Bot showcase page to include the new /contact command",
+        "Environment example file with new variable",
+        "Public bot assets moved to a dedicated folder",
+        "Stream embed sidebar paths corrected in development site",
+        "YouTube embed sidebar updated with Twitch embed test",
+        "Twitch embed page renamed for clarity"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.2.521",
       "date": "2025-10-17",
       "author": "HEAT Labs Team",
