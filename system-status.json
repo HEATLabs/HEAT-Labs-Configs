@@ -28,7 +28,7 @@
             "description": "HEAT Labs is currently experiencing degraded performance across multiple services due to a major AWS outage affecting parts of our infrastructure. Users may encounter long loading times, missing or partially loaded content, and intermittent outages on both the main site and subdomains. The status page may also be impacted.",
             "severity": "warning",
             "start_time": "2025-10-20T17:00:00Z",
-            "status": "started",
+            "status": "monitoring",
             "updates": [
                 {
                     "status": "identified",
