@@ -2,23 +2,23 @@
     "systems": [
         {
             "name": "Website",
-            "status": "operational",
-            "message": "The website is functioning normally with no reported issues."
+            "status": "degraded",
+            "message": "The main website is experiencing slow loading times and occasional unresponsiveness due to the ongoing AWS outage."
         },
         {
             "name": "API Service",
-            "status": "operational",
-            "message": "All API endpoints are responding normally."
+            "status": "degraded",
+            "message": "API endpoints may respond slower than usual or fail intermittently as a result of infrastructure degradation."
         },
         {
             "name": "Database",
-            "status": "operational",
-            "message": "Database queries are performing as expected."
+            "status": "degraded",
+            "message": "Database performance is currently impacted, leading to delayed or partial data retrieval in some services."
         },
         {
             "name": "CDN",
-            "status": "operational",
-            "message": "Content delivery network is functioning optimally."
+            "status": "degraded",
+            "message": "The content delivery network is affected by upstream latency, causing slow or incomplete content delivery."
         }
     ],
     "incidents": [
