@@ -3,12 +3,12 @@
         {
             "name": "Website",
             "status": "degraded",
-            "message": "The main website is experiencing slow loading times and occasional unresponsiveness due to the ongoing AWS outage."
+            "message": "The main website is experiencing slow loading times and occasional unresponsiveness due to the ongoing outage."
         },
         {
             "name": "API Service",
-            "status": "degraded",
-            "message": "API endpoints may respond slower than usual or fail intermittently as a result of infrastructure degradation."
+            "status": "major_outage",
+            "message": "The API service is currently unavailable due to the ongoing outage. Requests will fail until services are restored."
         },
         {
             "name": "Database",
