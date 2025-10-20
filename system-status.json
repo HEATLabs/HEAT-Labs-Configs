@@ -32,7 +32,7 @@
             "status": "ended",
             "updates": [
                 {
-                    "status": "resolved",
+                    "status": "ended",
                     "message": "AWS has declared the outage resolved, and HEAT Labs services are now recovering. All systems should gradually return to normal performance. We will continue monitoring to ensure full stability.",
                     "time": "2025-10-20T22:53:00Z"
                 },
