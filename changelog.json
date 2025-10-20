@@ -1,6 +1,35 @@
 {
   "updates": [
     {
+      "version": "0.2.552",
+      "date": "2025-10-19",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #177",
+      "description": "Full patch notes for Update v0.2.552 (#177), detailing all changes made on 19 October, 2025.",
+      "added": [
+        "Method to skip cooldown for autocomplete interactions in Discord Bot",
+        "Video banner preview files for Discord Bot"
+      ],
+      "changed": [
+        "sounds.json in HEAT Labs Configs",
+        "GSC index data in HEAT Labs Configs",
+        "Changelog and daily commit log in HEAT Labs Configs",
+        "Statuses in Discord Bot",
+        "Bot profile image URL in cooldown module",
+        "Cooldown behavior and timing reduced to 10 seconds",
+        "Legal pages in both main and development websites with updated contact email",
+        "Blogs page in development site to include WIP meet the team posts"
+      ],
+      "removed": [
+        "WIP meet the team pages from sitemap",
+        "Meet the team template page from main website",
+        "WIP meet the team posts from main website"
+      ],
+      "fixed": [
+        "Incorrect path to embed footer icon in Discord Bot"
+      ]
+    },
+    {
       "version": "0.2.538",
       "date": "2025-10-18",
       "author": "HEAT Labs Team",
