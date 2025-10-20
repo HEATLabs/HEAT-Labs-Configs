@@ -2,34 +2,40 @@
     "systems": [
         {
             "name": "Website",
-            "status": "degraded",
-            "message": "The main website is experiencing slow loading times and occasional unresponsiveness due to the ongoing outage."
+            "status": "operational",
+            "message": "The website is functioning normally with no reported issues."
         },
         {
             "name": "API Service",
-            "status": "major_outage",
-            "message": "The API service is currently unavailable due to the ongoing outage. Requests will fail until services are restored."
+            "status": "operational",
+            "message": "All API endpoints are responding normally."
         },
         {
             "name": "Database",
-            "status": "degraded",
-            "message": "Database performance is currently impacted, leading to delayed or partial data retrieval in some services."
+            "status": "operational",
+            "message": "Database queries are performing as expected."
         },
         {
             "name": "CDN",
-            "status": "degraded",
-            "message": "The content delivery network is affected by upstream latency, causing slow or incomplete content delivery."
+            "status": "operational",
+            "message": "Content delivery network is functioning optimally."
         }
     ],
     "incidents": [
         {
             "id": "inc-20251020-001",
             "title": "Degraded Performance Across HEAT Labs (AWS Outage)",
-            "description": "HEAT Labs is currently experiencing degraded performance across multiple services due to a major AWS outage affecting parts of our infrastructure. Users may encounter long loading times, missing or partially loaded content, and intermittent outages on both the main site and subdomains. The status page may also be impacted.",
+            "description": "AWS has declared the outage resolved, and HEAT Labs services are now recovering. All systems should gradually return to normal performance. We will continue monitoring to ensure full stability.",
             "severity": "warning",
             "start_time": "2025-10-20T17:00:00Z",
-            "status": "monitoring",
+            "end_time": "2025-10-20T22:53:00Z",
+            "status": "resolved",
             "updates": [
+                {
+                    "status": "resolved",
+                    "message": "AWS has declared the outage resolved, and HEAT Labs services are now recovering. All systems should gradually return to normal performance. We will continue monitoring to ensure full stability.",
+                    "time": "2025-10-20T22:53:00Z"
+                },
                 {
                     "status": "identified",
                     "message": "We are currently experiencing degraded performance across several HEAT Labs services due to a major AWS outage. Users may see long loading times, missing content, or temporary outages.",
