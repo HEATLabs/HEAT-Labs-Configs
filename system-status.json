@@ -26,7 +26,7 @@
             "id": "inc-20251020-001",
             "title": "Degraded Performance Across HEAT Labs (AWS Outage)",
             "description": "HEAT Labs is currently experiencing degraded performance across multiple services due to a major AWS outage affecting parts of our infrastructure. Users may encounter long loading times, missing or partially loaded content, and intermittent outages on both the main site and subdomains. The status page may also be impacted.",
-            "severity": "degraded",
+            "severity": "warning",
             "start_time": "2025-10-20T00:00:00Z",
             "status": "started",
             "updates": [
@@ -46,7 +46,7 @@
             "id": "inc-20250819-001",
             "title": "World of Tanks: HEAT Rebranding",
             "description": "The rebranding process has been successfully completed! The game now has its official name, and our site along with all pages are back online. We appreciate your patience and support during this transition.",
-            "severity": "major_outage",
+            "severity": "warning",
             "start_time": "2025-08-19T21:05:18Z",
             "end_time": "2025-08-20T08:01:11Z",
             "status": "ended",
