@@ -1,6 +1,41 @@
 {
   "updates": [
     {
+      "version": "0.2.572",
+      "date": "2025-10-20",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #178",
+      "description": "Full patch notes for Update v0.2.572 (#178), detailing all changes made on 20 October, 2025.",
+      "added": [
+        "Incident report added to status page",
+        "Placeholder page-data JSON file",
+        "Local copy of GSC index data file",
+        "Complete page data updater tool code",
+        "Placeholder file for page data updater tool"
+      ],
+      "changed": [
+        "Status page after incident resolution",
+        "System statuses following AWS outage",
+        "API status indicators",
+        "Page data file with complete dataset",
+        "Page data XLSX file with simplified name and format",
+        "GSC index data",
+        "Changelog entries",
+        "Daily commit log",
+        "CSS and JS files for status page to include missing statuses",
+        "Status JS and CSS files in development website"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Incorrect status in last incident",
+        "Timestamps in recent incident",
+        "Incorrect severity levels in incident data",
+        "Minor status inaccuracies in incident report"
+      ]
+    },
+    {
       "version": "0.2.552",
       "date": "2025-10-19",
       "author": "HEAT Labs Team",
