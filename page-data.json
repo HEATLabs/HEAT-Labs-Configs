@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 251,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-10-20T16:53:43.552649"
+    "export_timestamp": "2025-10-21T16:49:41.092067"
   },
   "pages": [
     {
@@ -178,7 +178,7 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/announcements/alpha-2-livestream",
@@ -192,7 +192,7 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/announcements/game-name-released",
@@ -203,8 +203,8 @@
     },
     {
       "url": "https://heatlabs.net/announcements/jamess-introduction",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -213,12 +213,12 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/announcements/voreksis-introduction",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -227,7 +227,7 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/asset-gallery",
@@ -325,26 +325,26 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/alpha-2-fuel-crit-multiplier",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/damage-calculation",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/developer-guide-images",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -560,15 +560,15 @@
     },
     {
       "url": "https://heatlabs.net/maps/afghanistan",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/afghanistan-2",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -581,29 +581,29 @@
     },
     {
       "url": "https://heatlabs.net/maps/avalanche",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/baikonur",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/ballistic-range",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/blossom-crash",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -812,8 +812,8 @@
     },
     {
       "url": "https://heatlabs.net/maps/sunstroke",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1361,14 +1361,14 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/who-are-they-2",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/playground",
@@ -1766,14 +1766,14 @@
   "statistics": {
     "google_index_data": {
       "not_needed": 3,
-      "pending": 54,
-      "not_indexed": 120,
+      "pending": 66,
+      "not_indexed": 108,
       "indexed": 74
     },
     "google_api_status": {
       "not_needed": 3,
-      "pending": 91,
-      "not_indexed": 120,
+      "pending": 103,
+      "not_indexed": 108,
       "indexed": 37
     },
     "https_page_status": {
@@ -1784,9 +1784,9 @@
     },
     "breadcrumb_status": {
       "not_needed": 3,
-      "unknown": 182,
+      "unknown": 175,
       "invalid": 0,
-      "valid": 66
+      "valid": 73
     }
   }
 }
