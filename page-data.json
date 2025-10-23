@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 251,
+    "total_pages": 248,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-10-21T16:49:41.092067"
+    "export_timestamp": "2025-10-23T06:54:21.215542"
   },
   "pages": [
     {
@@ -25,13 +25,6 @@
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
-    },
-    {
-      "url": "https://heatlabs.net/404",
-      "gsc_status": "NOT NEEDED",
-      "g_api_status": "NOT NEEDED",
-      "https_status": "NOT NEEDED",
-      "breadcrumb_status": "NOT NEEDED"
     },
     {
       "url": "https://heatlabs.net/agents",
@@ -350,71 +343,71 @@
     },
     {
       "url": "https://heatlabs.net/bug-hunting/discovery-of-corex",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/exploring-animation-and-movement-desync",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/exploring-the-main-menu-garage",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/hunting-for-potential-hidden-servers",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/info-from-developers",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/mysterious-engine-picture",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/potential-campaign-mode",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/tank-module-locations",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/the-three-badges",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/titan-dummies-respawn-glitch",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -543,13 +536,6 @@
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/maintenance",
-      "gsc_status": "NOT NEEDED",
-      "g_api_status": "NOT NEEDED",
-      "https_status": "NOT NEEDED",
-      "breadcrumb_status": "NOT NEEDED"
     },
     {
       "url": "https://heatlabs.net/maps",
@@ -1728,13 +1714,6 @@
       "breadcrumb_status": "VALID"
     },
     {
-      "url": "https://heatlabs.net/tournaments/tournament-maintenance",
-      "gsc_status": "NOT NEEDED",
-      "g_api_status": "NOT NEEDED",
-      "https_status": "NOT NEEDED",
-      "breadcrumb_status": "NOT NEEDED"
-    },
-    {
       "url": "https://heatlabs.net/video-showcase",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
@@ -1765,25 +1744,21 @@
   ],
   "statistics": {
     "google_index_data": {
-      "not_needed": 3,
-      "pending": 66,
-      "not_indexed": 108,
+      "pending": 76,
+      "not_indexed": 98,
       "indexed": 74
     },
     "google_api_status": {
-      "not_needed": 3,
-      "pending": 103,
-      "not_indexed": 108,
+      "pending": 113,
+      "not_indexed": 98,
       "indexed": 37
     },
     "https_page_status": {
-      "not_needed": 3,
       "unknown": 176,
       "not_https": 0,
       "https": 72
     },
     "breadcrumb_status": {
-      "not_needed": 3,
       "unknown": 175,
       "invalid": 0,
       "valid": 73
