@@ -1,6 +1,34 @@
 {
   "updates": [
     {
+      "version": "0.2.612",
+      "date": "2025-10-25",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #183",
+      "description": "Full patch notes for Update v0.2.612 (#183), detailing all changes made on 25 October, 2025.",
+      "added": [
+        "New team member roles in bot configuration",
+        "New contributor added to contributors.json",
+        "Static config files required for Discord bot deployed to CDN0"
+      ],
+      "changed": [
+        "Contributors count in home-stats.json",
+        "Page data files",
+        "Changelog",
+        "Daily commit log",
+        "Requirements file for Discord bot",
+        "Team member order in team.json",
+        "Three commands in Discord bot to fetch config data from remote URLs",
+        "Data Contributors section in main and development websites"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.2.599",
       "date": "2025-10-24",
       "author": "HEAT Labs Team",
