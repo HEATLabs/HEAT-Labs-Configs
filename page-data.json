@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 248,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-10-25T04:01:53.060160"
+    "export_timestamp": "2025-10-26T00:26:39.292805"
   },
   "pages": [
     {
@@ -413,8 +413,8 @@
     },
     {
       "url": "https://heatlabs.net/bug-hunting/unlocking-the-camera",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1043,22 +1043,22 @@
     },
     {
       "url": "https://heatlabs.net/news/alpha-2-valentines-day",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/balanced-and-reworked-maps",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/beirut-concept-art",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1078,15 +1078,15 @@
     },
     {
       "url": "https://heatlabs.net/news/community-managers-reintroduction",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/concept-art-1",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1113,15 +1113,15 @@
     },
     {
       "url": "https://heatlabs.net/news/dev-questions-answers-design",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/dev-questions-answers-narrative",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1148,15 +1148,15 @@
     },
     {
       "url": "https://heatlabs.net/news/gun-dispersion-changes",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/happy-tanksgiving",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1246,22 +1246,22 @@
     },
     {
       "url": "https://heatlabs.net/news/new-agents-1",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/new-agents-2",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/new-agents-3",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1744,13 +1744,13 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 64,
-      "not_indexed": 85,
+      "pending": 77,
+      "not_indexed": 72,
       "indexed": 99
     },
     "google_api_status": {
-      "pending": 109,
-      "not_indexed": 85,
+      "pending": 122,
+      "not_indexed": 72,
       "indexed": 54
     },
     "https_page_status": {
