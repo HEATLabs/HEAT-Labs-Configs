@@ -1,6 +1,29 @@
 {
   "updates": [
     {
+      "version": "0.2.599",
+      "date": "2025-10-24",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #182",
+      "description": "Full patch notes for Update v0.2.599 (#182), detailing all changes made on 24 October, 2025.",
+      "added": [
+        "Logic for page data integration on the website statistics page",
+        "New chart sections added to the statistics dashboard",
+        "New charts for page data on the website statistics page"
+      ],
+      "changed": [
+        "GSC index data",
+        "Daily commit log",
+        "Changelog entries"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.2.591",
       "date": "2025-10-23",
       "author": "HEAT Labs Team",
