@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 248,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-10-26T00:26:39.292805"
+    "export_timestamp": "2025-10-26T20:33:19.711298"
   },
   "pages": [
     {
@@ -113,7 +113,7 @@
     {
       "url": "https://heatlabs.net/agents/punch",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
     },
@@ -155,7 +155,7 @@
     {
       "url": "https://heatlabs.net/announcements/alpha-1-announcement-2",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
     },
@@ -183,7 +183,7 @@
     {
       "url": "https://heatlabs.net/announcements/alpha-2-tournament",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
     },
@@ -330,7 +330,7 @@
     {
       "url": "https://heatlabs.net/bug-hunting/damage-calculation",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
     },
@@ -470,7 +470,7 @@
     {
       "url": "https://heatlabs.net/guides/tank-guides",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
     },
@@ -1046,14 +1046,14 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/balanced-and-reworked-maps",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/beirut-concept-art",
@@ -1088,7 +1088,7 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/concept-art-2",
@@ -1151,7 +1151,7 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/happy-tanksgiving",
@@ -1394,7 +1394,7 @@
     {
       "url": "https://heatlabs.net/playground/soundboard",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1625,7 +1625,7 @@
     {
       "url": "https://heatlabs.net/tanks/t-55-enigma",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
     },
@@ -1749,9 +1749,9 @@
       "indexed": 99
     },
     "google_api_status": {
-      "pending": 122,
+      "pending": 115,
       "not_indexed": 72,
-      "indexed": 54
+      "indexed": 61
     },
     "https_page_status": {
       "unknown": 153,
@@ -1759,9 +1759,9 @@
       "https": 95
     },
     "breadcrumb_status": {
-      "unknown": 167,
+      "unknown": 163,
       "invalid": 0,
-      "valid": 81
+      "valid": 85
     }
   }
 }
