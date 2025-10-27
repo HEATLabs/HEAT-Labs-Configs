@@ -1,6 +1,40 @@
 {
   "updates": [
     {
+      "version": "0.2.631",
+      "date": "2025-10-26",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #184",
+      "description": "Full patch notes for Update v0.2.631 (#184), detailing all changes made on 26 October, 2025.",
+      "added": [
+        "More transcriptions for soundboard sounds contributed by legocity2000",
+        "System status command in Discord bot",
+        "Missing debug command to help menu and bot documentation page",
+        "Missing code comments to bot documentation page",
+        "Two new commands added to bot documentation page",
+        "Missing help command to bot documentation page",
+        "Ping command to Discord bot"
+      ],
+      "changed": [
+        "Page data files and home page stats in HEAT-Labs-Configs",
+        "GSC index data in HEAT-Labs-Configs",
+        "Help menu updated with new status and ping commands",
+        "Help menu structure tweaked to fit within Discord embed limit",
+        "Command counter updated from 15 to 18 and later from 18 to 19",
+        "Icons updated for all commands in bot documentation",
+        "Contributor name formatting in credits (applied to both website and development versions)",
+        "System status JS file to use direct URLs",
+        "Development version of bot documentation synced with main version"
+      ],
+      "removed": [
+        "Plus symbol (+) from bot command counter to prevent Google indexing issues",
+        "Help command from help menu"
+      ],
+      "fixed": [
+        "Footer icon path issue in bot responses using incorrect URL"
+      ]
+    },
+    {
       "version": "0.2.612",
       "date": "2025-10-25",
       "author": "HEAT Labs Team",
