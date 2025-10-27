@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-10-26T20:28:10.940856",
+  "generated_at": "2025-10-27T11:48:51.862704",
   "site_url": "sc-domain:heatlabs.net",
   "data_type": "all_time",
   "data": {
     "site_url": "sc-domain:heatlabs.net",
-    "last_checked": "2025-10-26T20:28:10.574856",
+    "last_checked": "2025-10-27T11:48:51.439903",
     "date_range": {
       "start_date": "2025-05-16",
-      "end_date": "2025-10-26"
+      "end_date": "2025-10-27"
     },
     "pages": [
       {
@@ -21,9 +21,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 7,
-        "impressions": 74,
-        "ctr": 0.0945945945945946,
-        "position": 3.3378378378378377
+        "impressions": 85,
+        "ctr": 0.08235294117647059,
+        "position": 3.223529411764706
       },
       {
         "url": "https://heatlabs.net/announcements/alpha-2-has-ended",
@@ -96,9 +96,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 1,
-        "impressions": 17,
-        "ctr": 0.058823529411764705,
-        "position": 4.529411764705882
+        "impressions": 19,
+        "ctr": 0.05263157894736842,
+        "position": 4.421052631578947
       },
       {
         "url": "https://heatlabs.net/agents",
@@ -326,6 +326,21 @@
         "position": 5
       },
       {
+        "url": "https://heatlabs.net/bug-hunting/discovery-of-corex",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 4
+      },
+      {
         "url": "https://heatlabs.net/guides",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -371,6 +386,51 @@
         "position": 4.5
       },
       {
+        "url": "https://heatlabs.net/maps/afghanistan",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 50
+      },
+      {
+        "url": "https://heatlabs.net/maps/afghanistan-2",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 49
+      },
+      {
+        "url": "https://heatlabs.net/maps/avalanche",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
+      },
+      {
         "url": "https://heatlabs.net/maps/nexus-dam",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -396,9 +456,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 9
+        "position": 6.5
       },
       {
         "url": "https://heatlabs.net/playground/alpha-3-playtest",
@@ -441,9 +501,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 3,
         "ctr": 0,
-        "position": 5
+        "position": 7.333333333333333
       },
       {
         "url": "https://heatlabs.net/playground/soundboard",
@@ -501,9 +561,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 4,
         "ctr": 0,
-        "position": 5
+        "position": 9
       },
       {
         "url": "https://heatlabs.net/tanks",
@@ -942,8 +1002,8 @@
       }
     ],
     "summary": {
-      "total_pages": 62,
-      "indexed_pages": 62,
+      "total_pages": 66,
+      "indexed_pages": 66,
       "not_indexed_pages": 0,
       "errors": 0
     },
@@ -1021,8 +1081,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 62,
-    "indexed_pages": 62,
+    "total_pages_found": 66,
+    "indexed_pages": 66,
     "errors": 0
   }
 }
