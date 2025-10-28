@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-10-27T11:48:51.862704",
+  "generated_at": "2025-10-28T15:06:23.870710",
   "site_url": "sc-domain:heatlabs.net",
   "data_type": "all_time",
   "data": {
     "site_url": "sc-domain:heatlabs.net",
-    "last_checked": "2025-10-27T11:48:51.439903",
+    "last_checked": "2025-10-28T15:06:23.478182",
     "date_range": {
       "start_date": "2025-05-16",
-      "end_date": "2025-10-27"
+      "end_date": "2025-10-28"
     },
     "pages": [
       {
@@ -21,9 +21,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 7,
-        "impressions": 85,
-        "ctr": 0.08235294117647059,
-        "position": 3.223529411764706
+        "impressions": 88,
+        "ctr": 0.07954545454545454,
+        "position": 3.1704545454545454
       },
       {
         "url": "https://heatlabs.net/announcements/alpha-2-has-ended",
@@ -84,6 +84,21 @@
         "impressions": 3,
         "ctr": 0.3333333333333333,
         "position": 4.333333333333334
+      },
+      {
+        "url": "https://heatlabs.net/news/happy-tanksgiving",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 1,
+        "position": 2
       },
       {
         "url": "https://heatlabs.net/tanks/alvt",
@@ -321,9 +336,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 3,
         "ctr": 0,
-        "position": 5
+        "position": 5.666666666666667
       },
       {
         "url": "https://heatlabs.net/bug-hunting/discovery-of-corex",
@@ -339,6 +354,21 @@
         "impressions": 1,
         "ctr": 0,
         "position": 4
+      },
+      {
+        "url": "https://heatlabs.net/bug-hunting/titan-dummies-respawn-glitch",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
       },
       {
         "url": "https://heatlabs.net/guides",
@@ -444,6 +474,21 @@
         "impressions": 1,
         "ctr": 0,
         "position": 5
+      },
+      {
+        "url": "https://heatlabs.net/news/alpha-2-valentines-day",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 3
       },
       {
         "url": "https://heatlabs.net/playground",
@@ -906,9 +951,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 13,
+        "impressions": 16,
         "ctr": 0,
-        "position": 58.76923076923077
+        "position": 57.3125
       },
       {
         "url": "https://heatlabs.net/tanks/xm1-90",
@@ -921,9 +966,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 6,
+        "impressions": 7,
         "ctr": 0,
-        "position": 5.5
+        "position": 5
       },
       {
         "url": "https://heatlabs.net/tanks/xm1-v",
@@ -1002,8 +1047,8 @@
       }
     ],
     "summary": {
-      "total_pages": 66,
-      "indexed_pages": 66,
+      "total_pages": 69,
+      "indexed_pages": 69,
       "not_indexed_pages": 0,
       "errors": 0
     },
@@ -1081,8 +1126,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 66,
-    "indexed_pages": 66,
+    "total_pages_found": 69,
+    "indexed_pages": 69,
     "errors": 0
   }
 }
