@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 248,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-10-27T00:52:29.742609"
+    "export_timestamp": "2025-10-28T15:11:09.152189"
   },
   "pages": [
     {
@@ -407,7 +407,7 @@
     {
       "url": "https://heatlabs.net/bug-hunting/titan-dummies-respawn-glitch",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -749,8 +749,8 @@
     },
     {
       "url": "https://heatlabs.net/maps/port",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -868,8 +868,8 @@
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-3-days-to-go",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -882,15 +882,15 @@
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-patch-10-tournament-preparation-improvements",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-patch-11-post-tournament-qol-improvements",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -952,8 +952,8 @@
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-valentines-day",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1022,8 +1022,8 @@
     },
     {
       "url": "https://heatlabs.net/news/alpha-2-patch-7-bradley-is-here",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1044,7 +1044,7 @@
     {
       "url": "https://heatlabs.net/news/alpha-2-valentines-day",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "VALID"
     },
@@ -1156,42 +1156,42 @@
     {
       "url": "https://heatlabs.net/news/happy-tanksgiving",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/hitbox-monday-1",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/hitbox-monday-2",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/hitbox-monday-3",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/hitbox-monday-4",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/hitbox-monday-5",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1744,14 +1744,14 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 88,
-      "not_indexed": 56,
+      "pending": 99,
+      "not_indexed": 45,
       "indexed": 104
     },
     "google_api_status": {
-      "pending": 131,
-      "not_indexed": 56,
-      "indexed": 61
+      "pending": 139,
+      "not_indexed": 45,
+      "indexed": 64
     },
     "https_page_status": {
       "unknown": 153,
