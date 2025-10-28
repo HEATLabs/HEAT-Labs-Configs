@@ -1,6 +1,27 @@
 {
   "updates": [
     {
+      "version": "0.2.637",
+      "date": "2025-10-27",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #185",
+      "description": "Full patch notes for Update v0.2.637 (#185), detailing all changes made on 27 October, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "GSC index data in HEAT Labs Configs",
+        "Changelog content and structure",
+        "Daily commit log"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.2.631",
       "date": "2025-10-26",
       "author": "HEAT Labs Team",
