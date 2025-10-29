@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-10-28T15:06:23.870710",
+  "generated_at": "2025-10-29T19:24:57.012866",
   "site_url": "sc-domain:heatlabs.net",
   "data_type": "all_time",
   "data": {
     "site_url": "sc-domain:heatlabs.net",
-    "last_checked": "2025-10-28T15:06:23.478182",
+    "last_checked": "2025-10-29T19:24:56.504741",
     "date_range": {
       "start_date": "2025-05-16",
-      "end_date": "2025-10-28"
+      "end_date": "2025-10-29"
     },
     "pages": [
       {
@@ -20,10 +20,10 @@
         "crawl_time": null,
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
-        "clicks": 7,
-        "impressions": 88,
-        "ctr": 0.07954545454545454,
-        "position": 3.1704545454545454
+        "clicks": 8,
+        "impressions": 95,
+        "ctr": 0.08421052631578947,
+        "position": 3.1789473684210527
       },
       {
         "url": "https://heatlabs.net/announcements/alpha-2-has-ended",
@@ -66,9 +66,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 1,
-        "impressions": 10,
-        "ctr": 0.1,
-        "position": 3.2
+        "impressions": 11,
+        "ctr": 0.09090909090909091,
+        "position": 3.4545454545454546
       },
       {
         "url": "https://heatlabs.net/blog/from-pcwstats-to-heat-labs",
@@ -96,9 +96,24 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 1,
+        "impressions": 2,
+        "ctr": 0.5,
+        "position": 4.5
+      },
+      {
+        "url": "https://heatlabs.net/steam-news/join-the-lodestar-program",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 1,
         "impressions": 1,
         "ctr": 1,
-        "position": 2
+        "position": 12
       },
       {
         "url": "https://heatlabs.net/tanks/alvt",
@@ -321,9 +336,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 1
+        "position": 5
       },
       {
         "url": "https://heatlabs.net/bug-hunting/damage-calculation",
@@ -336,9 +351,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 5,
         "ctr": 0,
-        "position": 5.666666666666667
+        "position": 7.2
       },
       {
         "url": "https://heatlabs.net/bug-hunting/discovery-of-corex",
@@ -411,9 +426,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 5,
         "ctr": 0,
-        "position": 4.5
+        "position": 4.8
       },
       {
         "url": "https://heatlabs.net/maps/afghanistan",
@@ -831,9 +846,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 3,
         "ctr": 0,
-        "position": 10.5
+        "position": 9.666666666666666
       },
       {
         "url": "https://heatlabs.net/tanks/m60e2",
@@ -951,9 +966,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 16,
+        "impressions": 17,
         "ctr": 0,
-        "position": 57.3125
+        "position": 56.64705882352941
       },
       {
         "url": "https://heatlabs.net/tanks/xm1-90",
@@ -966,7 +981,7 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 7,
+        "impressions": 8,
         "ctr": 0,
         "position": 5
       },
@@ -1047,8 +1062,8 @@
       }
     ],
     "summary": {
-      "total_pages": 69,
-      "indexed_pages": 69,
+      "total_pages": 70,
+      "indexed_pages": 70,
       "not_indexed_pages": 0,
       "errors": 0
     },
@@ -1126,8 +1141,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 69,
-    "indexed_pages": 69,
+    "total_pages_found": 70,
+    "indexed_pages": 70,
     "errors": 0
   }
 }
