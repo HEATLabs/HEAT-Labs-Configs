@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 248,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-10-28T15:11:09.152189"
+    "export_timestamp": "2025-10-29T19:40:26.433711"
   },
   "pages": [
     {
@@ -721,8 +721,8 @@
     },
     {
       "url": "https://heatlabs.net/maps/military-training",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -763,8 +763,8 @@
     },
     {
       "url": "https://heatlabs.net/maps/red-alert",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "INDEXED",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -784,15 +784,15 @@
     },
     {
       "url": "https://heatlabs.net/maps/spillway",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "INDEXED",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/sundered-city",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "INDEXED",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -819,8 +819,8 @@
     },
     {
       "url": "https://heatlabs.net/maps/zenith",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "INDEXED",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -833,29 +833,29 @@
     },
     {
       "url": "https://heatlabs.net/news/agent-spotlight-akira",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/agent-spotlight-fantome",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/agent-spotlight-kent",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-1-day-to-go",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -903,15 +903,15 @@
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-patch-4-quality-of-life",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-patch-5-fantome-updates",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -987,29 +987,29 @@
     },
     {
       "url": "https://heatlabs.net/news/alpha-2-patch-2-client-server-update",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/alpha-2-patch-3-hounds-become-the-hunted",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/alpha-2-patch-4-balance-improvements",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/alpha-2-patch-5-small-improvements",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1744,13 +1744,13 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 99,
-      "not_indexed": 45,
-      "indexed": 104
+      "pending": 110,
+      "not_indexed": 30,
+      "indexed": 108
     },
     "google_api_status": {
-      "pending": 139,
-      "not_indexed": 45,
+      "pending": 154,
+      "not_indexed": 30,
       "indexed": 64
     },
     "https_page_status": {
