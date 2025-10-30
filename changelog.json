@@ -1,6 +1,40 @@
 {
   "updates": [
     {
+      "version": "0.2.663",
+      "date": "2025-10-29",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #187",
+      "description": "Full patch notes for Update v0.2.663 (#187), detailing all changes made on 29 October, 2025.",
+      "added": [
+        "New playground command for Discord Bot",
+        "Complete README for HEAT-Labs-Videos",
+        "Archive copies of Intro Video versions 1, 2, and 3",
+        "CNAME file for HEAT-Labs-Videos repository",
+        "Wrong Turn page in new Videos repository (CDN14)",
+        "Backup copy of YouTube video thumbnails"
+      ],
+      "changed": [
+        "Home page statistics in HEAT-Labs-Configs",
+        "Changelog and daily commit log in HEAT-Labs-Configs",
+        "Page data files and GSC index data in HEAT-Labs-Configs",
+        "Discord Bot status messages (expanded and updated for latest API changes)",
+        "Output structure of new playground command",
+        "Help command to include new playground command",
+        "Bot documentation page with details about the new command",
+        "Command counter increased from 19 to 20",
+        "Daily commit fetcher tool updated with new repository name",
+        "Development version of bot documentation page synced with main site"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Typo in one news article post on Main Website",
+        "Typo in one news article post on Development Website"
+      ]
+    },
+    {
       "version": "0.2.644",
       "date": "2025-10-28",
       "author": "HEAT Labs Team",
