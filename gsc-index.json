@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-10-29T19:24:57.012866",
+  "generated_at": "2025-10-31T14:48:42.933295",
   "site_url": "sc-domain:heatlabs.net",
   "data_type": "all_time",
   "data": {
     "site_url": "sc-domain:heatlabs.net",
-    "last_checked": "2025-10-29T19:24:56.504741",
+    "last_checked": "2025-10-31T14:48:42.451295",
     "date_range": {
       "start_date": "2025-05-16",
-      "end_date": "2025-10-29"
+      "end_date": "2025-10-31"
     },
     "pages": [
       {
@@ -20,10 +20,10 @@
         "crawl_time": null,
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
-        "clicks": 8,
-        "impressions": 95,
-        "ctr": 0.08421052631578947,
-        "position": 3.1789473684210527
+        "clicks": 14,
+        "impressions": 104,
+        "ctr": 0.1346153846153846,
+        "position": 3.0865384615384617
       },
       {
         "url": "https://heatlabs.net/announcements/alpha-2-has-ended",
@@ -51,9 +51,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 1,
-        "impressions": 1,
-        "ctr": 1,
-        "position": 3
+        "impressions": 2,
+        "ctr": 0.5,
+        "position": 6.5
       },
       {
         "url": "https://heatlabs.net/blog",
@@ -126,9 +126,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 1,
-        "impressions": 19,
-        "ctr": 0.05263157894736842,
-        "position": 4.421052631578947
+        "impressions": 22,
+        "ctr": 0.045454545454545456,
+        "position": 5.045454545454546
       },
       {
         "url": "https://heatlabs.net/agents",
@@ -336,9 +336,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 3,
         "ctr": 0,
-        "position": 5
+        "position": 7
       },
       {
         "url": "https://heatlabs.net/bug-hunting/damage-calculation",
@@ -354,6 +354,21 @@
         "impressions": 5,
         "ctr": 0,
         "position": 7.2
+      },
+      {
+        "url": "https://heatlabs.net/bug-hunting/developer-guide-images",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 9
       },
       {
         "url": "https://heatlabs.net/bug-hunting/discovery-of-corex",
@@ -476,6 +491,21 @@
         "position": 8
       },
       {
+        "url": "https://heatlabs.net/maps/blossom-crash",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
         "url": "https://heatlabs.net/maps/nexus-dam",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -491,7 +521,7 @@
         "position": 5
       },
       {
-        "url": "https://heatlabs.net/news/alpha-2-valentines-day",
+        "url": "https://heatlabs.net/maps/sunstroke",
         "status": "indexed_and_served",
         "last_crawled": null,
         "indexing_state": "INDEXED",
@@ -503,7 +533,37 @@
         "clicks": 0,
         "impressions": 1,
         "ctr": 0,
-        "position": 3
+        "position": 4
+      },
+      {
+        "url": "https://heatlabs.net/news/alpha-2-patch-8-balancing-changes",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 4.666666666666666
+      },
+      {
+        "url": "https://heatlabs.net/news/alpha-2-valentines-day",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 4.5
       },
       {
         "url": "https://heatlabs.net/playground",
@@ -636,9 +696,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 26,
+        "impressions": 27,
         "ctr": 0,
-        "position": 6.576923076923077
+        "position": 6.666666666666667
       },
       {
         "url": "https://heatlabs.net/tanks/agds",
@@ -846,9 +906,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 4,
         "ctr": 0,
-        "position": 9.666666666666666
+        "position": 9.75
       },
       {
         "url": "https://heatlabs.net/tanks/m60e2",
@@ -1062,8 +1122,8 @@
       }
     ],
     "summary": {
-      "total_pages": 70,
-      "indexed_pages": 70,
+      "total_pages": 74,
+      "indexed_pages": 74,
       "not_indexed_pages": 0,
       "errors": 0
     },
@@ -1114,7 +1174,7 @@
         "is_pending": false,
         "is_sitemaps_index": false,
         "type": "sitemap",
-        "last_downloaded": "2025-10-26T13:47:45.601Z",
+        "last_downloaded": "2025-10-30T14:22:01.587Z",
         "warnings": "1",
         "errors": "0"
       },
@@ -1124,7 +1184,7 @@
         "is_pending": false,
         "is_sitemaps_index": false,
         "type": "sitemap",
-        "last_downloaded": "2025-10-21T09:08:53.348Z",
+        "last_downloaded": "2025-10-31T02:39:38.120Z",
         "warnings": "0",
         "errors": "0"
       },
@@ -1141,8 +1201,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 70,
-    "indexed_pages": 70,
+    "total_pages_found": 74,
+    "indexed_pages": 74,
     "errors": 0
   }
 }
