@@ -1,6 +1,26 @@
 {
   "updates": [
     {
+      "version": "0.2.668",
+      "date": "2025-10-30",
+      "author": "HEAT Labs Team",
+      "title": "HEAT Labs - Update Number #188",
+      "description": "Full patch notes for Update v0.2.668 (#188), detailing all changes made on 30 October, 2025.",
+      "added": [
+        "Archive copy of the official game logo"
+      ],
+      "changed": [
+        "Changelog in HEAT-Labs-Configs",
+        "Daily commit log in HEAT-Labs-Configs"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.2.663",
       "date": "2025-10-29",
       "author": "HEAT Labs Team",
