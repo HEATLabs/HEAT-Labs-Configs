@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 248,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-10-31T14:51:34.019211"
+    "export_timestamp": "2025-11-02T01:50:32.055242"
   },
   "pages": [
     {
@@ -344,7 +344,7 @@
     {
       "url": "https://heatlabs.net/bug-hunting/discovery-of-corex",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -547,14 +547,14 @@
     {
       "url": "https://heatlabs.net/maps/afghanistan",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/maps/afghanistan-2",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
     },
@@ -568,7 +568,7 @@
     {
       "url": "https://heatlabs.net/maps/avalanche",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
     },
@@ -595,29 +595,29 @@
     },
     {
       "url": "https://heatlabs.net/maps/citadel",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/classified",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/comms",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/critical-harbor",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -700,8 +700,8 @@
     },
     {
       "url": "https://heatlabs.net/maps/hydro",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -714,8 +714,8 @@
     },
     {
       "url": "https://heatlabs.net/maps/kerak",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -770,15 +770,15 @@
     },
     {
       "url": "https://heatlabs.net/maps/ring-of-fury",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/scarred-city",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -805,15 +805,15 @@
     },
     {
       "url": "https://heatlabs.net/maps/surveillance",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/tajbeg",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -827,7 +827,7 @@
     {
       "url": "https://heatlabs.net/news",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -869,7 +869,7 @@
     {
       "url": "https://heatlabs.net/news/alpha-1-3-days-to-go",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1065,7 +1065,7 @@
     {
       "url": "https://heatlabs.net/news/blossom-crash-concept-art-1",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1191,7 +1191,7 @@
     {
       "url": "https://heatlabs.net/news/hitbox-monday-5",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1478,7 +1478,7 @@
     {
       "url": "https://heatlabs.net/steam-news/join-the-lodestar-program",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1744,14 +1744,14 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 121,
-      "not_indexed": 19,
+      "pending": 131,
+      "not_indexed": 9,
       "indexed": 108
     },
     "google_api_status": {
-      "pending": 161,
-      "not_indexed": 19,
-      "indexed": 68
+      "pending": 162,
+      "not_indexed": 9,
+      "indexed": 77
     },
     "https_page_status": {
       "unknown": 153,
