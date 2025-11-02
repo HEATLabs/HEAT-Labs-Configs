@@ -1,4 +1,15 @@
 {
+  "2025-11-01": [
+    "[HEAT-Labs-Configs] updated page data files",
+    "[HEAT-Labs-Configs] updated GSC index data",
+    "[HEAT-Labs-Configs] updated changelog",
+    "[HEAT-Labs-Configs] updated daily commit log",
+    "[HEAT-Labs-Configs] tweaked structure of changelog titles",
+    "[HEAT-Labs-Static] updated changelog page to better display past updates",
+    "[HEAT-Labs-Static] updated changelog page to not use CDN for data fetching",
+    "[HEAT-Labs-Tools] tweaked changelog validator tool to use the new title structure",
+    "[HEAT-Labs-Website-Development] synced changelog page in dev website with main changelog page"
+  ],
   "2025-10-31": [
     "[HEAT-Labs-Configs] updated home page stats",
     "[HEAT-Labs-Configs] updated changelog",
