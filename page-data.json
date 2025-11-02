@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 248,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-11-02T01:50:32.055242"
+    "export_timestamp": "2025-11-03T01:58:53.225886"
   },
   "pages": [
     {
@@ -162,7 +162,7 @@
     {
       "url": "https://heatlabs.net/announcements/alpha-2-facts-figures",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
     },
@@ -190,7 +190,7 @@
     {
       "url": "https://heatlabs.net/announcements/game-name-released",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
     },
@@ -623,64 +623,64 @@
     },
     {
       "url": "https://heatlabs.net/maps/crossroads",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/deadly-fields",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/desert-city",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/deserted",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/dolcegusta",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/duga",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "INDEXED",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/evergreen",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/fatal-acres",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/harvest",
-      "gsc_status": "NOT INDEXED",
-      "g_api_status": "NOT INDEXED",
+      "gsc_status": "INDEXED",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -855,7 +855,7 @@
     {
       "url": "https://heatlabs.net/news/alpha-1-1-day-to-go",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1744,14 +1744,14 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 131,
-      "not_indexed": 9,
-      "indexed": 108
+      "pending": 138,
+      "not_indexed": 0,
+      "indexed": 110
     },
     "google_api_status": {
-      "pending": 162,
-      "not_indexed": 9,
-      "indexed": 77
+      "pending": 168,
+      "not_indexed": 0,
+      "indexed": 80
     },
     "https_page_status": {
       "unknown": 153,
