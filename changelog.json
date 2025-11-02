@@ -1,6 +1,32 @@
 {
   "updates": [
     {
+      "version": "0.2.687",
+      "date": "2025-11-01",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #190",
+      "description": "Full patch notes for Update v0.2.687 (#190), detailing all changes made on 01 November, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Page data files in HEAT Labs Configs",
+        "GSC index data in HEAT Labs Configs",
+        "Changelog and daily commit log in HEAT Labs Configs",
+        "Structure of changelog titles for improved consistency",
+        "Changelog page layout to better display past updates",
+        "Changelog page to remove CDN dependency for data fetching",
+        "Changelog validator tool to follow the new title structure",
+        "Development website changelog page to sync with main changelog page"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.2.676",
       "date": "2025-10-31",
       "author": "HEAT Labs Team",
