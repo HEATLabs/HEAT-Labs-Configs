@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 248,
+    "total_pages": 249,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-11-03T01:58:53.225886"
+    "export_timestamp": "2025-11-03T02:37:40.981133"
   },
   "pages": [
     {
@@ -38,35 +38,35 @@
       "gsc_status": "INDEXED",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/agents/anansi",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/agents/arblast",
       "gsc_status": "INDEXED",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/agents/atom",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/agents/blitz",
       "gsc_status": "INDEXED",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/agents/chopper",
@@ -80,14 +80,14 @@
       "gsc_status": "INDEXED",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/agents/fantome",
       "gsc_status": "INDEXED",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/agents/hound",
@@ -101,21 +101,21 @@
       "gsc_status": "INDEXED",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/agents/kent",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/agents/punch",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/agents/raketa",
@@ -129,21 +129,21 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/agents/reaper",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/agents/udarnik",
       "gsc_status": "INDEXED",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/announcements/alpha-1-announcement-1",
@@ -164,7 +164,7 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/announcements/alpha-2-has-ended",
@@ -213,7 +213,7 @@
       "gsc_status": "INDEXED",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/announcements/winter-wargames-tournament-1",
@@ -241,7 +241,7 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/blog/heat-labs-application",
@@ -269,7 +269,7 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/blog/meet-the-team-sinewave",
@@ -290,7 +290,7 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/blog/tournament-feature-blog",
@@ -346,70 +346,70 @@
       "gsc_status": "PENDING",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/exploring-animation-and-movement-desync",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/exploring-the-main-menu-garage",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/hunting-for-potential-hidden-servers",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/info-from-developers",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/mysterious-engine-picture",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/potential-campaign-mode",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/tank-module-locations",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/the-three-badges",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/titan-dummies-respawn-glitch",
       "gsc_status": "PENDING",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/unlocking-the-camera",
@@ -423,14 +423,14 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/bug-hunting/wierd-pattern-images",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/builds",
@@ -458,21 +458,21 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/guides/map-guides",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/guides/tank-guides",
       "gsc_status": "PENDING",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/guides/tank-guides/bat-4m-basic-guide",
@@ -486,7 +486,7 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/legal",
@@ -528,7 +528,7 @@
       "gsc_status": "INDEXED",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/legal/terms-of-service",
@@ -598,28 +598,28 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/maps/classified",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/maps/comms",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/maps/critical-harbor",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/maps/crossroads",
@@ -689,42 +689,42 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/maps/height-911tb",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/maps/hydro",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/maps/inferno",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/maps/kerak",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/maps/military-training",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/maps/moonshot",
@@ -738,7 +738,7 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/nord-oko",
@@ -752,7 +752,7 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/maps/project-phoenix",
@@ -773,14 +773,14 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/maps/scarred-city",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/maps/spillway",
@@ -801,21 +801,21 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/maps/surveillance",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/maps/tajbeg",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/maps/zenith",
@@ -829,70 +829,70 @@
       "gsc_status": "PENDING",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/agent-spotlight-akira",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/agent-spotlight-fantome",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/agent-spotlight-kent",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-1-day-to-go",
       "gsc_status": "PENDING",
       "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-2-days-to-go",
       "gsc_status": "INDEXED",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-3-days-to-go",
       "gsc_status": "PENDING",
       "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-facts-figures",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-patch-10-tournament-preparation-improvements",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-patch-11-post-tournament-qol-improvements",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-patch-3-quick-match-updates",
@@ -906,112 +906,112 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-patch-5-fantome-updates",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-patch-6-ray-updates",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-patch-7-raketa-updates",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-patch-8-akira-updates",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-patch-8-delayed",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-patch-9-hstvl-updates",
       "gsc_status": "INDEXED",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/alpha-1-valentines-day",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-2-1-day-to-go",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-2-2-days-to-go",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-2-3-days-to-go",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-2-patch-1-first-patch",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-2-patch-2-client-server-update",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-2-patch-3-hounds-become-the-hunted",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-2-patch-4-balance-improvements",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-2-patch-5-small-improvements",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-2-patch-6-important-changes",
@@ -1025,7 +1025,7 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-2-patch-8-balancing-changes",
@@ -1039,7 +1039,7 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/alpha-2-valentines-day",
@@ -1067,7 +1067,7 @@
       "gsc_status": "PENDING",
       "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/blossom-crash-concept-art-2",
@@ -1109,7 +1109,7 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/dev-questions-answers-design",
@@ -1137,7 +1137,7 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/friendship-dam-sneak-peek-2",
@@ -1158,42 +1158,42 @@
       "gsc_status": "PENDING",
       "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/hitbox-monday-1",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/hitbox-monday-2",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/hitbox-monday-3",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/hitbox-monday-4",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/hitbox-monday-5",
       "gsc_status": "PENDING",
       "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/jager-wall-bug",
@@ -1228,7 +1228,7 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/map-monday-5",
@@ -1277,14 +1277,14 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/nord-oko-concept-art-3",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/plant-defuse-mode",
@@ -1298,7 +1298,7 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/news/project-cw-debrief-1",
@@ -1368,7 +1368,7 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/playground/configurator",
@@ -1389,7 +1389,7 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/playground/soundboard",
@@ -1403,7 +1403,7 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/playground/tierlist",
@@ -1417,7 +1417,7 @@
       "gsc_status": "INDEXED",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/resources/about-us",
@@ -1480,7 +1480,7 @@
       "gsc_status": "PENDING",
       "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/tanks",
@@ -1501,7 +1501,7 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
+      "breadcrumb_status": "VALID"
     },
     {
       "url": "https://heatlabs.net/tanks/amx-10-rc",
@@ -1536,21 +1536,21 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/tanks/leopard-1a6a1",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/tanks/leopard-2fk",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/tanks/leopard-2k14",
@@ -1571,21 +1571,21 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/tanks/m3a1-bradley",
       "gsc_status": "INDEXED",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/tanks/m60a3e2",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/tanks/m60a3e2-bot",
@@ -1620,14 +1620,14 @@
       "gsc_status": "PENDING",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/tanks/t-55-enigma",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/tanks/t-62av",
@@ -1648,7 +1648,7 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/tanks/t-72au",
@@ -1662,7 +1662,7 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/tanks/xm1-90",
@@ -1683,7 +1683,7 @@
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/tanks/xm808-twister",
@@ -1704,14 +1704,14 @@
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/tournaments/open-alpha-2-tournament",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/video-showcase",
@@ -1740,28 +1740,35 @@
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://discord.heatlabs.net",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "VALID"
     }
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 138,
+      "pending": 139,
       "not_indexed": 0,
       "indexed": 110
     },
     "google_api_status": {
-      "pending": 168,
+      "pending": 169,
       "not_indexed": 0,
       "indexed": 80
     },
     "https_page_status": {
-      "unknown": 153,
+      "unknown": 154,
       "not_https": 0,
       "https": 95
     },
     "breadcrumb_status": {
-      "unknown": 163,
+      "unknown": 137,
       "invalid": 0,
-      "valid": 85
+      "valid": 112
     }
   }
 }
