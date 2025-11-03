@@ -1,6 +1,40 @@
 {
   "updates": [
     {
+      "version": "0.2.706",
+      "date": "2025-11-02",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #191",
+      "description": "Full patch notes for Update v0.2.706 (#191), detailing all changes made on 02 November, 2025.",
+      "added": [
+        "Path to Discord app in sidebar across all HEAT Labs sections (Website, CDN, Socials, Status, Statistics, and more)",
+        "Path to Discord app in sidebar of Discord redirect page",
+        "Path to Discord app in sidebar of Discord bot page",
+        "Path to Discord app in sidebar of Statistics page",
+        "Path to Discord app in sidebar of Status page",
+        "Path to Discord app in sidebar of Development website pages",
+        "Path to Discord app in sidebar of CDN Wrong Turn pages across all image and data repositories",
+        "New GSC export files inside the configs CDN",
+        "Missing 404 page added to CDN14",
+        "Black transparent logo",
+        "White transparent logo"
+      ],
+      "changed": [
+        "Page data files in HEAT-Labs-Configs",
+        "GSC index data in HEAT-Labs-Configs",
+        "Changelog file in HEAT-Labs-Configs",
+        "Daily commit log in HEAT-Labs-Configs",
+        "Home page statistics in HEAT-Labs-Configs",
+        "Devs Only page generator tool to include new Discord app path"
+      ],
+      "removed": [
+        "Development-only path for Discord app page in Development website"
+      ],
+      "fixed": [
+        "Incorrect active tag in sidebar of Discord app page"
+      ]
+    },
+    {
       "version": "0.2.687",
       "date": "2025-11-01",
       "author": "HEAT Labs Team",
