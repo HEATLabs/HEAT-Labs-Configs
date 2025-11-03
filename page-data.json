@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 250,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-11-03T03:21:28.440503"
+    "export_timestamp": "2025-11-03T03:25:47.502612"
   },
   "pages": [
     {
@@ -452,13 +452,6 @@
       "g_api_status": "PENDING",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
-    },
-    {
-      "url": "https://heatlabs.net/game-data",
-      "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/guides",
@@ -1402,6 +1395,13 @@
       "url": "https://heatlabs.net/playground/heat-labs-app",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/playground/roulette",
+      "gsc_status": "INDEXED",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
