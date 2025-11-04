@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 250,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-11-03T03:25:47.502612"
+    "export_timestamp": "2025-11-04T05:04:49.671379"
   },
   "pages": [
     {
@@ -400,7 +400,7 @@
     {
       "url": "https://heatlabs.net/bug-hunting/tank-module-locations",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
     },
@@ -421,7 +421,7 @@
     {
       "url": "https://heatlabs.net/bug-hunting/unlocking-the-camera",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -547,7 +547,7 @@
     {
       "url": "https://heatlabs.net/maps",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
     },
@@ -1763,9 +1763,9 @@
       "indexed": 178
     },
     "google_api_status": {
-      "pending": 170,
+      "pending": 167,
       "not_indexed": 0,
-      "indexed": 80
+      "indexed": 83
     },
     "https_page_status": {
       "unknown": 137,
