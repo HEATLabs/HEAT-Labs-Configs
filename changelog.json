@@ -40,7 +40,8 @@
         "Validated all index data in page data files",
         "Validated all HTTPS data in page data files",
         "Validated all breadcrumbs data in page data files",
-        "All easter egg pages to include noindex and nofollow tags"
+        "All easter egg pages to include noindex and nofollow tags",
+        "Disabled Halloween seasonal effects globally"
       ],
       "removed": [
         "Game-data page from page data files",
@@ -48,9 +49,6 @@
       ],
       "fixed": [
         "Nothing was fixed in this update"
-      ],
-      "other": [
-        "Disabled Halloween seasonal effects globally"
       ]
     },
     {
