@@ -1,11 +1,46 @@
 {
   "updates": [
     {
-      "version": "0.2.726",
+      "version": "0.2.747",
+      "date": "2025-11-05",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #194",
+      "description": "Full patch notes for Update v0.2.747 (#194), detailing all changes made on 05 November, 2025.",
+      "added": [
+        "Monitoring module to HEAT Labs Discord Bot",
+        "WEBHOOK variable in .env file for HEAT Labs Discord Bot",
+        "Placeholder image for the new 'In Development' page",
+        "Ship easter egg to static CDN0",
+        "Ship easter egg to home page in main website",
+        "Ship easter egg to home page in development website",
+        "New 'In Development' session tracker page in development website",
+        "Tracking pixel image for the new 'In Development' page in HEAT Labs Views API"
+      ],
+      "changed": [
+        "Tracking pixel index with entry for new 'In Development' page",
+        "Page data files in HEAT Labs Configs",
+        "GSC index data",
+        "Changelog structure and entries",
+        "Daily commit log",
+        "GSC export Excel files",
+        "CTA section in the 'In Development' session tracker page",
+        "Ship easter egg implementation to work properly in the main website"
+      ],
+      "removed": [
+        "Placeholder agent page from the main website"
+      ],
+      "fixed": [
+        "Artifact in Update Number #192 caused by automatic changelog creator",
+        "Subtitle class issue in ship easter egg",
+        "Description update issue in new ship easter egg"
+      ]
+    },
+    {
+      "version": "0.2.727",
       "date": "2025-11-04",
       "author": "HEAT Labs Team",
       "title": "Update Number #193",
-      "description": "Full patch notes for Update v0.2.726 (#193), detailing all changes made on 04 November, 2025.",
+      "description": "Full patch notes for Update v0.2.727 (#193), detailing all changes made on 04 November, 2025.",
       "added": [
         "Nothing was added in this update"
       ],
@@ -23,11 +58,11 @@
       ]
     },
     {
-      "version": "0.2.719",
+      "version": "0.2.720",
       "date": "2025-11-03",
       "author": "HEAT Labs Team",
       "title": "Update Number #192",
-      "description": "Full patch notes for Update v0.2.719 (#192), detailing all changes made on 03 November, 2025.",
+      "description": "Full patch notes for Update v0.2.720 (#192), detailing all changes made on 03 November, 2025.",
       "added": [
         "Missing video indexing export file from GSC",
         "Missing roulette page entry to page data files"
