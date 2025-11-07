@@ -1,6 +1,32 @@
 {
   "updates": [
     {
+      "version": "0.2.758",
+      "date": "2025-11-06",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #195",
+      "description": "Full patch notes for Update v0.2.758 (#195), detailing all changes made on 06 November, 2025.",
+      "added": [
+        "Missing browser and manifest files for site metadata across multiple repositories"
+      ],
+      "changed": [
+        "Sitemap lastmod dates across all HEAT Labs repositories",
+        "Last modified date in humans.txt for all repositories",
+        "Home page statistics in HEAT-Labs-Configs",
+        "Changelog and daily commit log in HEAT-Labs-Configs",
+        "GSC index data and Excel export files",
+        "humans.txt and sitemap paths in the Site Data Updater Tool",
+        ".gitignore simplified and updated for Java projects in HEAT-Labs-Sounds"
+      ],
+      "removed": [
+        "Redundant paths to non-existent sitemaps across multiple repositories",
+        "Static site data for multiple subdomains in HEAT-Labs-Static"
+      ],
+      "fixed": [
+        "Yandex manifest path across all repositories"
+      ]
+    },
+    {
       "version": "0.2.747",
       "date": "2025-11-05",
       "author": "HEAT Labs Team",
