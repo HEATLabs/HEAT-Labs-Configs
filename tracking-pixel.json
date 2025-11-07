@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-06T02:23:06.750266",
+  "generated_at": "2025-11-07T06:10:42.585883",
   "base_cdn_url": "https://views.heatlabs.net/api/track",
   "pixels": [
     {
@@ -11,12 +11,20 @@
       "html_title": "Page Not Found - HEAT Labs"
     },
     {
-      "page_name": "About the Project",
-      "page_identifier": "about-us",
-      "html_file": "resources/about-us",
-      "pixel_filename": "pcwstats-tracker-pixel-about-us.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-about-us.png",
-      "html_title": "About the Project - HEAT Labs"
+      "page_name": "Agents",
+      "page_identifier": "agents",
+      "html_file": "agents",
+      "pixel_filename": "pcwstats-tracker-pixel-agents.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-agents.png",
+      "html_title": "Agents - HEAT Labs"
+    },
+    {
+      "page_name": "Asset Gallery",
+      "page_identifier": "asset-gallery",
+      "html_file": "asset-gallery",
+      "pixel_filename": "pcwstats-tracker-pixel-asset-gallery.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-asset-gallery.png",
+      "html_title": "Asset Gallery - HEAT Labs"
     },
     {
       "page_name": "Official Blog",
@@ -25,14 +33,6 @@
       "pixel_filename": "pcwstats-tracker-pixel-blog.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-blog.png",
       "html_title": "Official Blog - HEAT Labs"
-    },
-    {
-      "page_name": "Bored Developers",
-      "page_identifier": "bored-developers",
-      "html_file": "easter-eggs/bored-developers",
-      "pixel_filename": "pcwstats-tracker-pixel-bored-developers.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-bored-developers.png",
-      "html_title": "Bored Developers - HEAT Labs"
     },
     {
       "page_name": "Bug Hunters",
@@ -51,60 +51,12 @@
       "html_title": "Common Builds - HEAT Labs"
     },
     {
-      "page_name": "Changelog",
-      "page_identifier": "changelog",
-      "html_file": "Website-Changelog",
-      "pixel_filename": "pcwstats-tracker-pixel-changelog.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-changelog.png",
-      "html_title": "Changelog - HEAT Labs"
-    },
-    {
       "page_name": "Check & Compare",
       "page_identifier": "check-compare",
       "html_file": "check-compare",
       "pixel_filename": "pcwstats-tracker-pixel-check-compare.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-check-compare.png",
       "html_title": "Check & Compare - HEAT Labs"
-    },
-    {
-      "page_name": "Contact Us",
-      "page_identifier": "contact-us",
-      "html_file": "resources/contact-us",
-      "pixel_filename": "pcwstats-tracker-pixel-contact-us.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-contact-us.png",
-      "html_title": "Contact Us - HEAT Labs"
-    },
-    {
-      "page_name": "Community Credits",
-      "page_identifier": "credits",
-      "html_file": "resources/credits",
-      "pixel_filename": "pcwstats-tracker-pixel-credits.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-credits.png",
-      "html_title": "Community Credits - HEAT Labs"
-    },
-    {
-      "page_name": "Devs Only",
-      "page_identifier": "devsonly",
-      "html_file": "easter-eggs/devsonly",
-      "pixel_filename": "pcwstats-tracker-pixel-devsonly.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-devsonly.png",
-      "html_title": "Devs Only - HEAT Labs"
-    },
-    {
-      "page_name": "Game Data",
-      "page_identifier": "game-data",
-      "html_file": "game-data",
-      "pixel_filename": "pcwstats-tracker-pixel-game-data.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-game-data.png",
-      "html_title": "Game Data - HEAT Labs"
-    },
-    {
-      "page_name": "Get Involved",
-      "page_identifier": "get-involved",
-      "html_file": "resources/get-involved",
-      "pixel_filename": "pcwstats-tracker-pixel-get-involved.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-get-involved.png",
-      "html_title": "Get Involved - HEAT Labs"
     },
     {
       "page_name": "Community Guides",
@@ -131,6 +83,14 @@
       "html_title": "Project Policies - HEAT Labs"
     },
     {
+      "page_name": "Maintenance Mode",
+      "page_identifier": "maintenance",
+      "html_file": "maintenance",
+      "pixel_filename": "pcwstats-tracker-pixel-maintenance.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-maintenance.png",
+      "html_title": "Maintenance Mode - HEAT Labs"
+    },
+    {
       "page_name": "Map Knowledge",
       "page_identifier": "maps",
       "html_file": "maps",
@@ -147,28 +107,20 @@
       "html_title": "Game News - HEAT Labs"
     },
     {
-      "page_name": "Strategy Planner",
-      "page_identifier": "strategy-planner",
-      "html_file": "playground/strategy-planner",
-      "pixel_filename": "pcwstats-tracker-pixel-strategy-planner.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-strategy-planner.png",
-      "html_title": "Strategy Planner - HEAT Labs"
+      "page_name": "Player Statistics",
+      "page_identifier": "players",
+      "html_file": "players",
+      "pixel_filename": "pcwstats-tracker-pixel-players.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-players.png",
+      "html_title": "Player Statistics - HEAT Labs"
     },
     {
-      "page_name": "Session Tracker",
-      "page_identifier": "session-tracker",
-      "html_file": "playground/session-tracker",
-      "pixel_filename": "pcwstats-tracker-pixel-session-tracker.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-session-tracker.png",
-      "html_title": "Session Tracker - HEAT Labs"
-    },
-    {
-      "page_name": "Support Us",
-      "page_identifier": "support-us",
-      "html_file": "resources/support-us",
-      "pixel_filename": "pcwstats-tracker-pixel-support-us.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-support-us.png",
-      "html_title": "Support Us - HEAT Labs"
+      "page_name": "Playground",
+      "page_identifier": "playground",
+      "html_file": "playground",
+      "pixel_filename": "pcwstats-tracker-pixel-playground.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-playground.png",
+      "html_title": "Playground - HEAT Labs"
     },
     {
       "page_name": "Tank Statistics",
@@ -185,6 +137,142 @@
       "pixel_filename": "pcwstats-tracker-pixel-tournaments.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-tournaments.png",
       "html_title": "Tournaments - HEAT Labs"
+    },
+    {
+      "page_name": "Video Showcase",
+      "page_identifier": "video-showcase",
+      "html_file": "video-showcase",
+      "pixel_filename": "pcwstats-tracker-pixel-video-showcase.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-video-showcase.png",
+      "html_title": "Video Showcase - HEAT Labs"
+    },
+    {
+      "page_name": "Akira",
+      "page_identifier": "akira",
+      "html_file": "agents/akira",
+      "pixel_filename": "pcwstats-tracker-pixel-akira.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-akira.png",
+      "html_title": "Akira - HEAT Labs"
+    },
+    {
+      "page_name": "Anansi",
+      "page_identifier": "anansi",
+      "html_file": "agents/anansi",
+      "pixel_filename": "pcwstats-tracker-pixel-anansi.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-anansi.png",
+      "html_title": "Anansi - HEAT Labs"
+    },
+    {
+      "page_name": "Arblast",
+      "page_identifier": "arblast",
+      "html_file": "agents/arblast",
+      "pixel_filename": "pcwstats-tracker-pixel-arblast.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-arblast.png",
+      "html_title": "Arblast - HEAT Labs"
+    },
+    {
+      "page_name": "Atom",
+      "page_identifier": "atom",
+      "html_file": "agents/atom",
+      "pixel_filename": "pcwstats-tracker-pixel-atom.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-atom.png",
+      "html_title": "Atom - HEAT Labs"
+    },
+    {
+      "page_name": "Blitz",
+      "page_identifier": "blitz",
+      "html_file": "agents/blitz",
+      "pixel_filename": "pcwstats-tracker-pixel-blitz.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-blitz.png",
+      "html_title": "Blitz - HEAT Labs"
+    },
+    {
+      "page_name": "Chopper",
+      "page_identifier": "chopper",
+      "html_file": "agents/chopper",
+      "pixel_filename": "pcwstats-tracker-pixel-chopper.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-chopper.png",
+      "html_title": "Chopper - HEAT Labs"
+    },
+    {
+      "page_name": "Ember",
+      "page_identifier": "ember",
+      "html_file": "agents/ember",
+      "pixel_filename": "pcwstats-tracker-pixel-ember.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-ember.png",
+      "html_title": "Ember - HEAT Labs"
+    },
+    {
+      "page_name": "Fantome",
+      "page_identifier": "fantome",
+      "html_file": "agents/fantome",
+      "pixel_filename": "pcwstats-tracker-pixel-fantome.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-fantome.png",
+      "html_title": "Fantome - HEAT Labs"
+    },
+    {
+      "page_name": "Hound",
+      "page_identifier": "hound",
+      "html_file": "agents/hound",
+      "pixel_filename": "pcwstats-tracker-pixel-hound.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-hound.png",
+      "html_title": "Hound - HEAT Labs"
+    },
+    {
+      "page_name": "Jager",
+      "page_identifier": "jager",
+      "html_file": "agents/jager",
+      "pixel_filename": "pcwstats-tracker-pixel-jager.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-jager.png",
+      "html_title": "Jager - HEAT Labs"
+    },
+    {
+      "page_name": "Kent",
+      "page_identifier": "kent",
+      "html_file": "agents/kent",
+      "pixel_filename": "pcwstats-tracker-pixel-kent.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-kent.png",
+      "html_title": "Kent - HEAT Labs"
+    },
+    {
+      "page_name": "Punch",
+      "page_identifier": "punch",
+      "html_file": "agents/punch",
+      "pixel_filename": "pcwstats-tracker-pixel-punch.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-punch.png",
+      "html_title": "Punch - HEAT Labs"
+    },
+    {
+      "page_name": "Raketa",
+      "page_identifier": "raketa",
+      "html_file": "agents/raketa",
+      "pixel_filename": "pcwstats-tracker-pixel-raketa.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-raketa.png",
+      "html_title": "Raketa - HEAT Labs"
+    },
+    {
+      "page_name": "Ray",
+      "page_identifier": "ray",
+      "html_file": "agents/ray",
+      "pixel_filename": "pcwstats-tracker-pixel-ray.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-ray.png",
+      "html_title": "Ray - HEAT Labs"
+    },
+    {
+      "page_name": "Reaper",
+      "page_identifier": "reaper",
+      "html_file": "agents/reaper",
+      "pixel_filename": "pcwstats-tracker-pixel-reaper.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-reaper.png",
+      "html_title": "Reaper - HEAT Labs"
+    },
+    {
+      "page_name": "Udarnik",
+      "page_identifier": "udarnik",
+      "html_file": "agents/udarnik",
+      "pixel_filename": "pcwstats-tracker-pixel-udarnik.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-udarnik.png",
+      "html_title": "Udarnik - HEAT Labs"
     },
     {
       "page_name": "Alpha 1 Announcement #1",
@@ -235,12 +323,20 @@
       "html_title": "Alpha 2 Tournament - HEAT Labs"
     },
     {
-      "page_name": "New Community Manger #2",
+      "page_name": "Say hello to World of Tanks: HEAT",
+      "page_identifier": "game-name-released",
+      "html_file": "announcements/game-name-released",
+      "pixel_filename": "pcwstats-tracker-pixel-game-name-released.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-game-name-released.png",
+      "html_title": "Say hello to World of Tanks: HEAT - HEAT Labs"
+    },
+    {
+      "page_name": "New Community Manager #2",
       "page_identifier": "jamess-introduction",
       "html_file": "announcements/jamess-introduction",
       "pixel_filename": "pcwstats-tracker-pixel-jamess-introduction.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-jamess-introduction.png",
-      "html_title": "New Community Manger #2 - HEAT Labs"
+      "html_title": "New Community Manager #2 - HEAT Labs"
     },
     {
       "page_name": "Last Day of Alpha 2",
@@ -251,20 +347,12 @@
       "html_title": "Last Day of Alpha 2 - HEAT Labs"
     },
     {
-      "page_name": "Announcement Title",
-      "page_identifier": "placeholder-announcement",
-      "html_file": "announcements/placeholder-announcement",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-announcement.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-placeholder-announcement.png",
-      "html_title": "Announcement Title - HEAT Labs"
-    },
-    {
-      "page_name": "New Community Manger #1",
+      "page_name": "New Community Manager #1",
       "page_identifier": "voreksis-introduction",
       "html_file": "announcements/voreksis-introduction",
       "pixel_filename": "pcwstats-tracker-pixel-voreksis-introduction.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-voreksis-introduction.png",
-      "html_title": "New Community Manger #1 - HEAT Labs"
+      "html_title": "New Community Manager #1 - HEAT Labs"
     },
     {
       "page_name": "Winter Wargames Tournament #1",
@@ -275,12 +363,148 @@
       "html_title": "Winter Wargames Tournament #1 - HEAT Labs"
     },
     {
+      "page_name": "Easter Egg Friday #1",
+      "page_identifier": "easter-egg-friday-01",
+      "html_file": "blog/easter-egg-friday-01",
+      "pixel_filename": "pcwstats-tracker-pixel-easter-egg-friday-01.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-easter-egg-friday-01.png",
+      "html_title": "Easter Egg Friday #1 - HEAT Labs"
+    },
+    {
+      "page_name": "Easter Egg Friday #2",
+      "page_identifier": "easter-egg-friday-02",
+      "html_file": "blog/easter-egg-friday-02",
+      "pixel_filename": "pcwstats-tracker-pixel-easter-egg-friday-02.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-easter-egg-friday-02.png",
+      "html_title": "Easter Egg Friday #2 - HEAT Labs"
+    },
+    {
+      "page_name": "Easter Egg Friday #3",
+      "page_identifier": "easter-egg-friday-03",
+      "html_file": "blog/easter-egg-friday-03",
+      "pixel_filename": "pcwstats-tracker-pixel-easter-egg-friday-03.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-easter-egg-friday-03.png",
+      "html_title": "Easter Egg Friday #3 - HEAT Labs"
+    },
+    {
+      "page_name": "Easter Egg Friday #4",
+      "page_identifier": "easter-egg-friday-04",
+      "html_file": "blog/easter-egg-friday-04",
+      "pixel_filename": "pcwstats-tracker-pixel-easter-egg-friday-04.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-easter-egg-friday-04.png",
+      "html_title": "Easter Egg Friday #4 - HEAT Labs"
+    },
+    {
+      "page_name": "Easter Egg Friday #5",
+      "page_identifier": "easter-egg-friday-05",
+      "html_file": "blog/easter-egg-friday-05",
+      "pixel_filename": "pcwstats-tracker-pixel-easter-egg-friday-05.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-easter-egg-friday-05.png",
+      "html_title": "Easter Egg Friday #5 - HEAT Labs"
+    },
+    {
+      "page_name": "Easter Egg Friday #6",
+      "page_identifier": "easter-egg-friday-06",
+      "html_file": "blog/easter-egg-friday-06",
+      "pixel_filename": "pcwstats-tracker-pixel-easter-egg-friday-06.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-easter-egg-friday-06.png",
+      "html_title": "Easter Egg Friday #6 - HEAT Labs"
+    },
+    {
+      "page_name": "Easter Egg Friday #7",
+      "page_identifier": "easter-egg-friday-07",
+      "html_file": "blog/easter-egg-friday-07",
+      "pixel_filename": "pcwstats-tracker-pixel-easter-egg-friday-07.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-easter-egg-friday-07.png",
+      "html_title": "Easter Egg Friday #7 - HEAT Labs"
+    },
+    {
+      "page_name": "Easter Egg Friday #8",
+      "page_identifier": "easter-egg-friday-08",
+      "html_file": "blog/easter-egg-friday-08",
+      "pixel_filename": "pcwstats-tracker-pixel-easter-egg-friday-08.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-easter-egg-friday-08.png",
+      "html_title": "Easter Egg Friday #8 - HEAT Labs"
+    },
+    {
+      "page_name": "Easter Egg Friday #9",
+      "page_identifier": "easter-egg-friday-09",
+      "html_file": "blog/easter-egg-friday-09",
+      "pixel_filename": "pcwstats-tracker-pixel-easter-egg-friday-09.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-easter-egg-friday-09.png",
+      "html_title": "Easter Egg Friday #9 - HEAT Labs"
+    },
+    {
+      "page_name": "Easter Egg Friday #10",
+      "page_identifier": "easter-egg-friday-10",
+      "html_file": "blog/easter-egg-friday-10",
+      "pixel_filename": "pcwstats-tracker-pixel-easter-egg-friday-10.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-easter-egg-friday-10.png",
+      "html_title": "Easter Egg Friday #10 - HEAT Labs"
+    },
+    {
+      "page_name": "Easter Egg Friday #11",
+      "page_identifier": "easter-egg-friday-11",
+      "html_file": "blog/easter-egg-friday-11",
+      "pixel_filename": "pcwstats-tracker-pixel-easter-egg-friday-11.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-easter-egg-friday-11.png",
+      "html_title": "Easter Egg Friday #11 - HEAT Labs"
+    },
+    {
+      "page_name": "Easter Egg Friday #12",
+      "page_identifier": "easter-egg-friday-12",
+      "html_file": "blog/easter-egg-friday-12",
+      "pixel_filename": "pcwstats-tracker-pixel-easter-egg-friday-12.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-easter-egg-friday-12.png",
+      "html_title": "Easter Egg Friday #12 - HEAT Labs"
+    },
+    {
+      "page_name": "Easter Egg Friday #13",
+      "page_identifier": "easter-egg-friday-13",
+      "html_file": "blog/easter-egg-friday-13",
+      "pixel_filename": "pcwstats-tracker-pixel-easter-egg-friday-13.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-easter-egg-friday-13.png",
+      "html_title": "Easter Egg Friday #13 - HEAT Labs"
+    },
+    {
+      "page_name": "From PCWStats to HEAT Labs",
+      "page_identifier": "from-pcwstats-to-heat-labs",
+      "html_file": "blog/from-pcwstats-to-heat-labs",
+      "pixel_filename": "pcwstats-tracker-pixel-from-pcwstats-to-heat-labs.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-from-pcwstats-to-heat-labs.png",
+      "html_title": "From PCWStats to HEAT Labs - HEAT Labs"
+    },
+    {
+      "page_name": "HEAT Labs Application",
+      "page_identifier": "heat-labs-application",
+      "html_file": "blog/heat-labs-application",
+      "pixel_filename": "pcwstats-tracker-pixel-heat-labs-application.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-heat-labs-application.png",
+      "html_title": "HEAT Labs Application - HEAT Labs"
+    },
+    {
+      "page_name": "Looking for New Team Members",
+      "page_identifier": "looking-for-new-team-members",
+      "html_file": "blog/looking-for-new-team-members",
+      "pixel_filename": "pcwstats-tracker-pixel-looking-for-new-team-members.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-looking-for-new-team-members.png",
+      "html_title": "Looking for New Team Members - HEAT Labs"
+    },
+    {
       "page_name": "Meet The Team: esmatty",
       "page_identifier": "meet-the-team-esmatty",
       "html_file": "blog/meet-the-team-esmatty",
       "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-esmatty.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-meet-the-team-esmatty.png",
       "html_title": "Meet The Team: esmatty - HEAT Labs"
+    },
+    {
+      "page_name": "Meet The Team: Shockwave",
+      "page_identifier": "meet-the-team-shockwave",
+      "html_file": "blog/meet-the-team-shockwave",
+      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-shockwave.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-meet-the-team-shockwave.png",
+      "html_title": "Meet The Team: Shockwave - HEAT Labs"
     },
     {
       "page_name": "Meet The Team: SINEWAVE",
@@ -291,14 +515,6 @@
       "html_title": "Meet The Team: SINEWAVE - HEAT Labs"
     },
     {
-      "page_name": "Meet The Team: Template",
-      "page_identifier": "meet-the-team-template",
-      "html_file": "blog/meet-the-team-template",
-      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-template.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-meet-the-team-template.png",
-      "html_title": "Meet The Team: Template - HEAT Labs"
-    },
-    {
       "page_name": "Meet The Team: _VEN0M",
       "page_identifier": "meet-the-team-ven0m",
       "html_file": "blog/meet-the-team-ven0m",
@@ -307,12 +523,12 @@
       "html_title": "Meet The Team: _VEN0M - HEAT Labs"
     },
     {
-      "page_name": "Blog Title",
-      "page_identifier": "placeholder-blog-post",
-      "html_file": "blog/placeholder-blog-post",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-blog-post.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-placeholder-blog-post.png",
-      "html_title": "Blog Title - HEAT Labs"
+      "page_name": "New Playground Features",
+      "page_identifier": "new-playground-features",
+      "html_file": "blog/new-playground-features",
+      "pixel_filename": "pcwstats-tracker-pixel-new-playground-features.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-new-playground-features.png",
+      "html_title": "New Playground Features - HEAT Labs"
     },
     {
       "page_name": "New Feature: Tournaments",
@@ -323,12 +539,180 @@
       "html_title": "New Feature: Tournaments - HEAT Labs"
     },
     {
-      "page_name": "Bug Hunt Post",
-      "page_identifier": "placeholder-bug-hunt",
-      "html_file": "bug-hunting/placeholder-bug-hunt",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-bug-hunt.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-placeholder-bug-hunt.png",
-      "html_title": "Bug Hunt Post - HEAT Labs"
+      "page_name": "Views API Outage",
+      "page_identifier": "views-api-outage",
+      "html_file": "blog/views-api-outage",
+      "pixel_filename": "pcwstats-tracker-pixel-views-api-outage.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-views-api-outage.png",
+      "html_title": "Views API Outage - HEAT Labs"
+    },
+    {
+      "page_name": "Website Plans & Mission",
+      "page_identifier": "website-plans-and-mission",
+      "html_file": "blog/website-plans-and-mission",
+      "pixel_filename": "pcwstats-tracker-pixel-website-plans-and-mission.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-website-plans-and-mission.png",
+      "html_title": "Website Plans & Mission - HEAT Labs"
+    },
+    {
+      "page_name": "Alpha 2 Fuel Crit Multiplier Incident",
+      "page_identifier": "alpha-2-fuel-crit-multiplier",
+      "html_file": "bug-hunting/alpha-2-fuel-crit-multiplier",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-fuel-crit-multiplier.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-alpha-2-fuel-crit-multiplier.png",
+      "html_title": "Alpha 2 Fuel Crit Multiplier Incident - HEAT Labs"
+    },
+    {
+      "page_name": "Damage Calculation",
+      "page_identifier": "damage-calculation",
+      "html_file": "bug-hunting/damage-calculation",
+      "pixel_filename": "pcwstats-tracker-pixel-damage-calculation.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-damage-calculation.png",
+      "html_title": "Damage Calculation - HEAT Labs"
+    },
+    {
+      "page_name": "Developer Guide Images",
+      "page_identifier": "developer-guide-images",
+      "html_file": "bug-hunting/developer-guide-images",
+      "pixel_filename": "pcwstats-tracker-pixel-developer-guide-images.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-developer-guide-images.png",
+      "html_title": "Developer Guide Images - HEAT Labs"
+    },
+    {
+      "page_name": "Discovery of CoreX in World of Tanks: HEAT",
+      "page_identifier": "discovery-of-corex",
+      "html_file": "bug-hunting/discovery-of-corex",
+      "pixel_filename": "pcwstats-tracker-pixel-discovery-of-corex.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-discovery-of-corex.png",
+      "html_title": "Discovery of CoreX in World of Tanks: HEAT - HEAT Labs"
+    },
+    {
+      "page_name": "Exploring Animation and Movement Desync",
+      "page_identifier": "exploring-animation-and-movement-desync",
+      "html_file": "bug-hunting/exploring-animation-and-movement-desync",
+      "pixel_filename": "pcwstats-tracker-pixel-exploring-animation-and-movement-desync.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-exploring-animation-and-movement-desync.png",
+      "html_title": "Exploring Animation and Movement Desync - HEAT Labs"
+    },
+    {
+      "page_name": "Exploring the Main Menu Garage",
+      "page_identifier": "exploring-the-main-menu-garage",
+      "html_file": "bug-hunting/exploring-the-main-menu-garage",
+      "pixel_filename": "pcwstats-tracker-pixel-exploring-the-main-menu-garage.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-exploring-the-main-menu-garage.png",
+      "html_title": "Exploring the Main Menu Garage - HEAT Labs"
+    },
+    {
+      "page_name": "Hunting For Potential Hidden Servers",
+      "page_identifier": "hunting-for-potential-hidden-servers",
+      "html_file": "bug-hunting/hunting-for-potential-hidden-servers",
+      "pixel_filename": "pcwstats-tracker-pixel-hunting-for-potential-hidden-servers.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-hunting-for-potential-hidden-servers.png",
+      "html_title": "Hunting For Potential Hidden Servers - HEAT Labs"
+    },
+    {
+      "page_name": "Info From Developers",
+      "page_identifier": "info-from-developers",
+      "html_file": "bug-hunting/info-from-developers",
+      "pixel_filename": "pcwstats-tracker-pixel-info-from-developers.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-info-from-developers.png",
+      "html_title": "Info From Developers - HEAT Labs"
+    },
+    {
+      "page_name": "Mysterious Engine Picture",
+      "page_identifier": "mysterious-engine-picture",
+      "html_file": "bug-hunting/mysterious-engine-picture",
+      "pixel_filename": "pcwstats-tracker-pixel-mysterious-engine-picture.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-mysterious-engine-picture.png",
+      "html_title": "Mysterious Engine Picture - HEAT Labs"
+    },
+    {
+      "page_name": "Potential Campaign Mode",
+      "page_identifier": "potential-campaign-mode",
+      "html_file": "bug-hunting/potential-campaign-mode",
+      "pixel_filename": "pcwstats-tracker-pixel-potential-campaign-mode.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-potential-campaign-mode.png",
+      "html_title": "Potential Campaign Mode - HEAT Labs"
+    },
+    {
+      "page_name": "Tank Module Locations",
+      "page_identifier": "tank-module-locations",
+      "html_file": "bug-hunting/tank-module-locations",
+      "pixel_filename": "pcwstats-tracker-pixel-tank-module-locations.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-tank-module-locations.png",
+      "html_title": "Tank Module Locations - HEAT Labs"
+    },
+    {
+      "page_name": "The Three Badges",
+      "page_identifier": "the-three-badges",
+      "html_file": "bug-hunting/the-three-badges",
+      "pixel_filename": "pcwstats-tracker-pixel-the-three-badges.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-the-three-badges.png",
+      "html_title": "The Three Badges - HEAT Labs"
+    },
+    {
+      "page_name": "Titan Dummies Respawn Glitch",
+      "page_identifier": "titan-dummies-respawn-glitch",
+      "html_file": "bug-hunting/titan-dummies-respawn-glitch",
+      "pixel_filename": "pcwstats-tracker-pixel-titan-dummies-respawn-glitch.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-titan-dummies-respawn-glitch.png",
+      "html_title": "Titan Dummies Respawn Glitch - HEAT Labs"
+    },
+    {
+      "page_name": "Unlocking the Camera on the End Game Screen",
+      "page_identifier": "unlocking-the-camera",
+      "html_file": "bug-hunting/unlocking-the-camera",
+      "pixel_filename": "pcwstats-tracker-pixel-unlocking-the-camera.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-unlocking-the-camera.png",
+      "html_title": "Unlocking the Camera on the End Game Screen - HEAT Labs"
+    },
+    {
+      "page_name": "Who is PCW Bug Hunters?",
+      "page_identifier": "who-is-pcw-bug-hunters",
+      "html_file": "bug-hunting/who-is-pcw-bug-hunters",
+      "pixel_filename": "pcwstats-tracker-pixel-who-is-pcw-bug-hunters.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-who-is-pcw-bug-hunters.png",
+      "html_title": "Who is PCW Bug Hunters? - HEAT Labs"
+    },
+    {
+      "page_name": "Wierd Pattern Images",
+      "page_identifier": "wierd-pattern-images",
+      "html_file": "bug-hunting/wierd-pattern-images",
+      "pixel_filename": "pcwstats-tracker-pixel-wierd-pattern-images.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-wierd-pattern-images.png",
+      "html_title": "Wierd Pattern Images - HEAT Labs"
+    },
+    {
+      "page_name": "Bored Developers",
+      "page_identifier": "bored-developers",
+      "html_file": "easter-eggs/bored-developers",
+      "pixel_filename": "pcwstats-tracker-pixel-bored-developers.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-bored-developers.png",
+      "html_title": "Bored Developers - HEAT Labs"
+    },
+    {
+      "page_name": "Devs Only",
+      "page_identifier": "devsonly",
+      "html_file": "easter-eggs/devsonly",
+      "pixel_filename": "pcwstats-tracker-pixel-devsonly.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-devsonly.png",
+      "html_title": "Devs Only - HEAT Labs"
+    },
+    {
+      "page_name": "Hungry Devs",
+      "page_identifier": "hungry-devs",
+      "html_file": "easter-eggs/hungry-devs",
+      "pixel_filename": "pcwstats-tracker-pixel-hungry-devs.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-hungry-devs.png",
+      "html_title": "Hungry Devs - HEAT Labs"
+    },
+    {
+      "page_name": "Maxwell",
+      "page_identifier": "maxwell",
+      "html_file": "easter-eggs/maxwell",
+      "pixel_filename": "pcwstats-tracker-pixel-maxwell.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-maxwell.png",
+      "html_title": "Maxwell - HEAT Labs"
     },
     {
       "page_name": "General Guides",
@@ -377,14 +761,6 @@
       "pixel_filename": "pcwstats-tracker-pixel-bat-4m-basic-guide.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-bat-4m-basic-guide.png",
       "html_title": "BAT-4M Basic Guide - HEAT Labs"
-    },
-    {
-      "page_name": "Guide Title",
-      "page_identifier": "placeholder-tank-guide",
-      "html_file": "guides/tank-guides/placeholder-tank-guide",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-tank-guide.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-placeholder-tank-guide.png",
-      "html_title": "Guide Title - HEAT Labs"
     },
     {
       "page_name": "XM1-V Build Guide",
@@ -443,12 +819,36 @@
       "html_title": "Terms of Service - HEAT Labs"
     },
     {
+      "page_name": "Afghanistan 2",
+      "page_identifier": "afghanistan-2",
+      "html_file": "maps/afghanistan-2",
+      "pixel_filename": "pcwstats-tracker-pixel-afghanistan-2.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-afghanistan-2.png",
+      "html_title": "Afghanistan 2 - HEAT Labs"
+    },
+    {
+      "page_name": "Afghanistan",
+      "page_identifier": "afghanistan",
+      "html_file": "maps/afghanistan",
+      "pixel_filename": "pcwstats-tracker-pixel-afghanistan.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-afghanistan.png",
+      "html_title": "Afghanistan - HEAT Labs"
+    },
+    {
       "page_name": "Aircraft Carrier",
       "page_identifier": "aircraft-carrier",
       "html_file": "maps/aircraft-carrier",
       "pixel_filename": "pcwstats-tracker-pixel-aircraft-carrier.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-aircraft-carrier.png",
       "html_title": "Aircraft Carrier - HEAT Labs"
+    },
+    {
+      "page_name": "Avalanche",
+      "page_identifier": "avalanche",
+      "html_file": "maps/avalanche",
+      "pixel_filename": "pcwstats-tracker-pixel-avalanche.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-avalanche.png",
+      "html_title": "Avalanche - HEAT Labs"
     },
     {
       "page_name": "Baikonur",
@@ -475,12 +875,148 @@
       "html_title": "Blossom Crash - HEAT Labs"
     },
     {
+      "page_name": "Citadel",
+      "page_identifier": "citadel",
+      "html_file": "maps/citadel",
+      "pixel_filename": "pcwstats-tracker-pixel-citadel.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-citadel.png",
+      "html_title": "Citadel - HEAT Labs"
+    },
+    {
+      "page_name": "Classified",
+      "page_identifier": "classified",
+      "html_file": "maps/classified",
+      "pixel_filename": "pcwstats-tracker-pixel-classified.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-classified.png",
+      "html_title": "Classified - HEAT Labs"
+    },
+    {
+      "page_name": "Comms",
+      "page_identifier": "comms",
+      "html_file": "maps/comms",
+      "pixel_filename": "pcwstats-tracker-pixel-comms.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-comms.png",
+      "html_title": "Comms - HEAT Labs"
+    },
+    {
+      "page_name": "Critical Harbor",
+      "page_identifier": "critical-harbor",
+      "html_file": "maps/critical-harbor",
+      "pixel_filename": "pcwstats-tracker-pixel-critical-harbor.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-critical-harbor.png",
+      "html_title": "Critical Harbor - HEAT Labs"
+    },
+    {
+      "page_name": "Crossroads",
+      "page_identifier": "crossroads",
+      "html_file": "maps/crossroads",
+      "pixel_filename": "pcwstats-tracker-pixel-crossroads.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-crossroads.png",
+      "html_title": "Crossroads - HEAT Labs"
+    },
+    {
+      "page_name": "Deadly Fields",
+      "page_identifier": "deadly-fields",
+      "html_file": "maps/deadly-fields",
+      "pixel_filename": "pcwstats-tracker-pixel-deadly-fields.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-deadly-fields.png",
+      "html_title": "Deadly Fields - HEAT Labs"
+    },
+    {
+      "page_name": "Desert City",
+      "page_identifier": "desert-city",
+      "html_file": "maps/desert-city",
+      "pixel_filename": "pcwstats-tracker-pixel-desert-city.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-desert-city.png",
+      "html_title": "Desert City - HEAT Labs"
+    },
+    {
+      "page_name": "Deserted",
+      "page_identifier": "deserted",
+      "html_file": "maps/deserted",
+      "pixel_filename": "pcwstats-tracker-pixel-deserted.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-deserted.png",
+      "html_title": "Deserted - HEAT Labs"
+    },
+    {
+      "page_name": "Dolcegusta",
+      "page_identifier": "dolcegusta",
+      "html_file": "maps/dolcegusta",
+      "pixel_filename": "pcwstats-tracker-pixel-dolcegusta.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-dolcegusta.png",
+      "html_title": "Dolcegusta - HEAT Labs"
+    },
+    {
+      "page_name": "Duga",
+      "page_identifier": "duga",
+      "html_file": "maps/duga",
+      "pixel_filename": "pcwstats-tracker-pixel-duga.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-duga.png",
+      "html_title": "Duga - HEAT Labs"
+    },
+    {
+      "page_name": "Evergreen",
+      "page_identifier": "evergreen",
+      "html_file": "maps/evergreen",
+      "pixel_filename": "pcwstats-tracker-pixel-evergreen.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-evergreen.png",
+      "html_title": "Evergreen - HEAT Labs"
+    },
+    {
+      "page_name": "Fatal Acres",
+      "page_identifier": "fatal-acres",
+      "html_file": "maps/fatal-acres",
+      "pixel_filename": "pcwstats-tracker-pixel-fatal-acres.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-fatal-acres.png",
+      "html_title": "Fatal Acres - HEAT Labs"
+    },
+    {
+      "page_name": "Harvest",
+      "page_identifier": "harvest",
+      "html_file": "maps/harvest",
+      "pixel_filename": "pcwstats-tracker-pixel-harvest.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-harvest.png",
+      "html_title": "Harvest - HEAT Labs"
+    },
+    {
+      "page_name": "Height 911RS",
+      "page_identifier": "height-911rs",
+      "html_file": "maps/height-911rs",
+      "pixel_filename": "pcwstats-tracker-pixel-height-911rs.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-height-911rs.png",
+      "html_title": "Height 911RS - HEAT Labs"
+    },
+    {
+      "page_name": "Height 911TB",
+      "page_identifier": "height-911tb",
+      "html_file": "maps/height-911tb",
+      "pixel_filename": "pcwstats-tracker-pixel-height-911tb.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-height-911tb.png",
+      "html_title": "Height 911TB - HEAT Labs"
+    },
+    {
+      "page_name": "Hydro",
+      "page_identifier": "hydro",
+      "html_file": "maps/hydro",
+      "pixel_filename": "pcwstats-tracker-pixel-hydro.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-hydro.png",
+      "html_title": "Hydro - HEAT Labs"
+    },
+    {
       "page_name": "Inferno",
       "page_identifier": "inferno",
       "html_file": "maps/inferno",
       "pixel_filename": "pcwstats-tracker-pixel-inferno.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-inferno.png",
       "html_title": "Inferno - HEAT Labs"
+    },
+    {
+      "page_name": "Kerak",
+      "page_identifier": "kerak",
+      "html_file": "maps/kerak",
+      "pixel_filename": "pcwstats-tracker-pixel-kerak.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-kerak.png",
+      "html_title": "Kerak - HEAT Labs"
     },
     {
       "page_name": "Military Training",
@@ -515,12 +1051,12 @@
       "html_title": "Nord Oko - HEAT Labs"
     },
     {
-      "page_name": "Placeholder Map",
-      "page_identifier": "placeholder-map",
-      "html_file": "maps/placeholder-map",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-map.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-placeholder-map.png",
-      "html_title": "Placeholder Map - HEAT Labs"
+      "page_name": "Port",
+      "page_identifier": "port",
+      "html_file": "maps/port",
+      "pixel_filename": "pcwstats-tracker-pixel-port.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-port.png",
+      "html_title": "Port - HEAT Labs"
     },
     {
       "page_name": "Project Phoenix",
@@ -531,6 +1067,22 @@
       "html_title": "Project Phoenix - HEAT Labs"
     },
     {
+      "page_name": "Red-Alert",
+      "page_identifier": "red-alert",
+      "html_file": "maps/red-alert",
+      "pixel_filename": "pcwstats-tracker-pixel-red-alert.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-red-alert.png",
+      "html_title": "Red-Alert - HEAT Labs"
+    },
+    {
+      "page_name": "Ring of Fury",
+      "page_identifier": "ring-of-fury",
+      "html_file": "maps/ring-of-fury",
+      "pixel_filename": "pcwstats-tracker-pixel-ring-of-fury.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-ring-of-fury.png",
+      "html_title": "Ring of Fury - HEAT Labs"
+    },
+    {
       "page_name": "Scarred City",
       "page_identifier": "scarred-city",
       "html_file": "maps/scarred-city",
@@ -539,12 +1091,52 @@
       "html_title": "Scarred City - HEAT Labs"
     },
     {
+      "page_name": "Spillway",
+      "page_identifier": "spillway",
+      "html_file": "maps/spillway",
+      "pixel_filename": "pcwstats-tracker-pixel-spillway.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-spillway.png",
+      "html_title": "Spillway - HEAT Labs"
+    },
+    {
+      "page_name": "Sundered City",
+      "page_identifier": "sundered-city",
+      "html_file": "maps/sundered-city",
+      "pixel_filename": "pcwstats-tracker-pixel-sundered-city.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-sundered-city.png",
+      "html_title": "Sundered City - HEAT Labs"
+    },
+    {
       "page_name": "Sunstroke",
       "page_identifier": "sunstroke",
       "html_file": "maps/sunstroke",
       "pixel_filename": "pcwstats-tracker-pixel-sunstroke.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-sunstroke.png",
       "html_title": "Sunstroke - HEAT Labs"
+    },
+    {
+      "page_name": "Surveillance",
+      "page_identifier": "surveillance",
+      "html_file": "maps/surveillance",
+      "pixel_filename": "pcwstats-tracker-pixel-surveillance.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-surveillance.png",
+      "html_title": "Surveillance - HEAT Labs"
+    },
+    {
+      "page_name": "Tajbeg",
+      "page_identifier": "tajbeg",
+      "html_file": "maps/tajbeg",
+      "pixel_filename": "pcwstats-tracker-pixel-tajbeg.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-tajbeg.png",
+      "html_title": "Tajbeg - HEAT Labs"
+    },
+    {
+      "page_name": "Zenith",
+      "page_identifier": "zenith",
+      "html_file": "maps/zenith",
+      "pixel_filename": "pcwstats-tracker-pixel-zenith.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-zenith.png",
+      "html_title": "Zenith - HEAT Labs"
     },
     {
       "page_name": "Akira Agent Spotlight",
@@ -1067,14 +1659,6 @@
       "html_title": "Nord Oko Concept Art #3 - HEAT Labs"
     },
     {
-      "page_name": "News Title",
-      "page_identifier": "placeholder-news",
-      "html_file": "news/placeholder-news",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-news.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-placeholder-news.png",
-      "html_title": "News Title - HEAT Labs"
-    },
-    {
       "page_name": "Plant/Defuse Game Mode",
       "page_identifier": "plant-defuse-mode",
       "html_file": "news/plant-defuse-mode",
@@ -1091,28 +1675,36 @@
       "html_title": "Progression and Social Changes - HEAT Labs"
     },
     {
-      "page_name": "Project CW Debrief #1",
+      "page_name": "World of Tanks: HEAT Debrief #1",
       "page_identifier": "project-cw-debrief-1",
       "html_file": "news/project-cw-debrief-1",
       "pixel_filename": "pcwstats-tracker-pixel-project-cw-debrief-1.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-project-cw-debrief-1.png",
-      "html_title": "Project CW Debrief #1 - HEAT Labs"
+      "html_title": "World of Tanks: HEAT Debrief #1 - HEAT Labs"
     },
     {
-      "page_name": "Project CW Debrief #2",
+      "page_name": "World of Tanks: HEAT Debrief #2",
       "page_identifier": "project-cw-debrief-2",
       "html_file": "news/project-cw-debrief-2",
       "pixel_filename": "pcwstats-tracker-pixel-project-cw-debrief-2.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-project-cw-debrief-2.png",
-      "html_title": "Project CW Debrief #2 - HEAT Labs"
+      "html_title": "World of Tanks: HEAT Debrief #2 - HEAT Labs"
     },
     {
-      "page_name": "Project CW at Gamescom 2025",
+      "page_name": "World of Tanks: HEAT Debrief #3",
+      "page_identifier": "project-cw-debrief-3",
+      "html_file": "news/project-cw-debrief-3",
+      "pixel_filename": "pcwstats-tracker-pixel-project-cw-debrief-3.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-project-cw-debrief-3.png",
+      "html_title": "World of Tanks: HEAT Debrief #3 - HEAT Labs"
+    },
+    {
+      "page_name": "World of Tanks: HEAT at Gamescom 2025",
       "page_identifier": "project-cw-gamescom-2025",
       "html_file": "news/project-cw-gamescom-2025",
       "pixel_filename": "pcwstats-tracker-pixel-project-cw-gamescom-2025.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-project-cw-gamescom-2025.png",
-      "html_title": "Project CW at Gamescom 2025 - HEAT Labs"
+      "html_title": "World of Tanks: HEAT at Gamescom 2025 - HEAT Labs"
     },
     {
       "page_name": "Update on Quest Progress",
@@ -1147,20 +1739,140 @@
       "html_title": "Who Are They #2 - HEAT Labs"
     },
     {
-      "page_name": "Community Guides",
-      "page_identifier": "all-guides-placeholder",
-      "html_file": "placeholder-tables/all-guides-placeholder",
-      "pixel_filename": "pcwstats-tracker-pixel-all-guides-placeholder.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-all-guides-placeholder.png",
-      "html_title": "Community Guides - HEAT Labs"
+      "page_name": "Alpha 3 Playtest",
+      "page_identifier": "alpha-3-playtest",
+      "html_file": "playground/alpha-3-playtest",
+      "pixel_filename": "pcwstats-tracker-pixel-alpha-3-playtest.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-alpha-3-playtest.png",
+      "html_title": "Alpha 3 Playtest - HEAT Labs"
     },
     {
-      "page_name": "Placeholder",
-      "page_identifier": "guide-category-placeholder",
-      "html_file": "placeholder-tables/guide-category-placeholder",
-      "pixel_filename": "pcwstats-tracker-pixel-guide-category-placeholder.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-guide-category-placeholder.png",
-      "html_title": "Placeholder - HEAT Labs"
+      "page_name": "Game Configurator",
+      "page_identifier": "configurator",
+      "html_file": "playground/configurator",
+      "pixel_filename": "pcwstats-tracker-pixel-configurator.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-configurator.png",
+      "html_title": "Game Configurator - HEAT Labs"
+    },
+    {
+      "page_name": "Game Servers",
+      "page_identifier": "game-servers",
+      "html_file": "playground/game-servers",
+      "pixel_filename": "pcwstats-tracker-pixel-game-servers.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-game-servers.png",
+      "html_title": "Game Servers - HEAT Labs"
+    },
+    {
+      "page_name": "PWA App",
+      "page_identifier": "heat-labs-app",
+      "html_file": "playground/heat-labs-app",
+      "pixel_filename": "pcwstats-tracker-pixel-heat-labs-app.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-heat-labs-app.png",
+      "html_title": "PWA App - HEAT Labs"
+    },
+    {
+      "page_name": "Tank Roulette",
+      "page_identifier": "roulette",
+      "html_file": "playground/roulette",
+      "pixel_filename": "pcwstats-tracker-pixel-roulette.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-roulette.png",
+      "html_title": "Tank Roulette - HEAT Labs"
+    },
+    {
+      "page_name": "Soundboard",
+      "page_identifier": "soundboard",
+      "html_file": "playground/soundboard",
+      "pixel_filename": "pcwstats-tracker-pixel-soundboard.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-soundboard.png",
+      "html_title": "Soundboard - HEAT Labs"
+    },
+    {
+      "page_name": "Tier List Creator",
+      "page_identifier": "tierlist",
+      "html_file": "playground/tierlist",
+      "pixel_filename": "pcwstats-tracker-pixel-tierlist.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-tierlist.png",
+      "html_title": "Tier List Creator - HEAT Labs"
+    },
+    {
+      "page_name": "Wordle",
+      "page_identifier": "wordle",
+      "html_file": "playground/wordle",
+      "pixel_filename": "pcwstats-tracker-pixel-wordle.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-wordle.png",
+      "html_title": "Wordle - HEAT Labs"
+    },
+    {
+      "page_name": "About the Project",
+      "page_identifier": "about-us",
+      "html_file": "resources/about-us",
+      "pixel_filename": "pcwstats-tracker-pixel-about-us.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-about-us.png",
+      "html_title": "About the Project - HEAT Labs"
+    },
+    {
+      "page_name": "Contact Us",
+      "page_identifier": "contact-us",
+      "html_file": "resources/contact-us",
+      "pixel_filename": "pcwstats-tracker-pixel-contact-us.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-contact-us.png",
+      "html_title": "Contact Us - HEAT Labs"
+    },
+    {
+      "page_name": "Community Credits",
+      "page_identifier": "credits",
+      "html_file": "resources/credits",
+      "pixel_filename": "pcwstats-tracker-pixel-credits.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-credits.png",
+      "html_title": "Community Credits - HEAT Labs"
+    },
+    {
+      "page_name": "Frequently Asked Questions",
+      "page_identifier": "frequent-questions",
+      "html_file": "resources/frequent-questions",
+      "pixel_filename": "pcwstats-tracker-pixel-frequent-questions.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-frequent-questions.png",
+      "html_title": "Frequently Asked Questions - HEAT Labs"
+    },
+    {
+      "page_name": "Get Involved",
+      "page_identifier": "get-involved",
+      "html_file": "resources/get-involved",
+      "pixel_filename": "pcwstats-tracker-pixel-get-involved.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-get-involved.png",
+      "html_title": "Get Involved - HEAT Labs"
+    },
+    {
+      "page_name": "Support Us",
+      "page_identifier": "support-us",
+      "html_file": "resources/support-us",
+      "pixel_filename": "pcwstats-tracker-pixel-support-us.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-support-us.png",
+      "html_title": "Support Us - HEAT Labs"
+    },
+    {
+      "page_name": "Announcing World of Tanks: HEAT",
+      "page_identifier": "announcing-world-of-tanks-heat",
+      "html_file": "steam-news/announcing-world-of-tanks-heat",
+      "pixel_filename": "pcwstats-tracker-pixel-announcing-world-of-tanks-heat.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-announcing-world-of-tanks-heat.png",
+      "html_title": "Announcing World of Tanks: HEAT - HEAT Labs"
+    },
+    {
+      "page_name": "Turning Up the HEAT: Fair Play, Clear Value",
+      "page_identifier": "fair-play-and-clear-value",
+      "html_file": "steam-news/fair-play-and-clear-value",
+      "pixel_filename": "pcwstats-tracker-pixel-fair-play-and-clear-value.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-fair-play-and-clear-value.png",
+      "html_title": "Turning Up the HEAT: Fair Play, Clear Value - HEAT Labs"
+    },
+    {
+      "page_name": "Join the Lodestar Program",
+      "page_identifier": "join-the-lodestar-program",
+      "html_file": "steam-news/join-the-lodestar-program",
+      "pixel_filename": "pcwstats-tracker-pixel-join-the-lodestar-program.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-join-the-lodestar-program.png",
+      "html_title": "Join the Lodestar Program - HEAT Labs"
     },
     {
       "page_name": "AGDS",
@@ -1177,6 +1889,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-alvt.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-alvt.png",
       "html_title": "ALVT - HEAT Labs"
+    },
+    {
+      "page_name": "AMX-10 RC",
+      "page_identifier": "amx-10-rc",
+      "html_file": "tanks/amx-10-rc",
+      "pixel_filename": "pcwstats-tracker-pixel-amx-10-rc.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-amx-10-rc.png",
+      "html_title": "AMX-10 RC - HEAT Labs"
     },
     {
       "page_name": "BAT-4M",
@@ -1259,6 +1979,14 @@
       "html_title": "M3A1 Bradley - HEAT Labs"
     },
     {
+      "page_name": "M60A3E2 Bot",
+      "page_identifier": "m60a3e2-bot",
+      "html_file": "tanks/m60a3e2-bot",
+      "pixel_filename": "pcwstats-tracker-pixel-m60a3e2-bot.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-m60a3e2-bot.png",
+      "html_title": "M60A3E2 Bot - HEAT Labs"
+    },
+    {
       "page_name": "M60A3E2",
       "page_identifier": "m60a3e2",
       "html_file": "tanks/m60a3e2",
@@ -1291,20 +2019,20 @@
       "html_title": "Object 287 - HEAT Labs"
     },
     {
-      "page_name": "Tank",
-      "page_identifier": "placeholder-tank",
-      "html_file": "tanks/placeholder-tank",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-tank.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-placeholder-tank.png",
-      "html_title": "Tank - HEAT Labs"
-    },
-    {
       "page_name": "PTZ-89C",
       "page_identifier": "ptz89c",
       "html_file": "tanks/ptz89c",
       "pixel_filename": "pcwstats-tracker-pixel-ptz89c.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-ptz89c.png",
       "html_title": "PTZ-89C - HEAT Labs"
+    },
+    {
+      "page_name": "T-55 Enigma",
+      "page_identifier": "t-55-enigma",
+      "html_file": "tanks/t-55-enigma",
+      "pixel_filename": "pcwstats-tracker-pixel-t-55-enigma.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-t-55-enigma.png",
+      "html_title": "T-55 Enigma - HEAT Labs"
     },
     {
       "page_name": "T-62AV",
@@ -1395,892 +2123,12 @@
       "html_title": "Alpha #2 Tournament - HEAT Labs"
     },
     {
-      "page_name": "Website Statistics",
-      "page_identifier": "website-statistics",
-      "html_file": "Website-Statistics",
-      "pixel_filename": "pcwstats-tracker-pixel-website-statistics.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-website-statistics.png",
-      "html_title": "Website Statistics - HEAT Labs"
-    },
-    {
-      "page_name": "Views API",
-      "page_identifier": "views-api",
-      "html_file": "views-api",
-      "pixel_filename": "pcwstats-tracker-pixel-website-views.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-website-views.png",
-      "html_title": "Views API - HEAT Labs"
-    },
-    {
-      "page_name": "Discord",
-      "page_identifier": "website-discord",
-      "html_file": "Website-Discord",
-      "pixel_filename": "pcwstats-tracker-pixel-website-discord.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-website-discord.png",
-      "html_title": "Discord - HEAT Labs"
-    },
-    {
-      "page_name": "Discord",
-      "page_identifier": "discord-bot",
-      "html_file": "Discord-Bot",
-      "pixel_filename": "pcwstats-tracker-pixel-website-discord-bot.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-website-discord-bot.png",
-      "html_title": "Discord Bot - HEAT Labs"
-    },
-    {
-      "page_name": "Socials",
-      "page_identifier": "website-social",
-      "html_file": "Website-Socials",
-      "pixel_filename": "pcwstats-tracker-pixel-website-social.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-website-social.png",
-      "html_title": "Socials - HEAT Labs"
-    },
-    {
-      "page_name": "Wrong Turn",
-      "page_identifier": "wrong-turn",
-      "html_file": "wrong-turn",
-      "pixel_filename": "pcwstats-tracker-pixel-wrong-turn.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-wrong-turn.png",
-      "html_title": "Wrong Turn - HEAT Labs"
-    },
-    {
-      "page_name": "Damage Calculation",
-      "page_identifier": "damage-calculation",
-      "html_file": "bug-hunting/damage-calculation",
-      "pixel_filename": "pcwstats-tracker-pixel-damage-calculation.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-damage-calculation.png",
-      "html_title": "Damage Calculation - HEAT Labs"
-    },
-    {
-      "page_name": "Developer Guide Images",
-      "page_identifier": "developer-guide-images",
-      "html_file": "bug-hunting/developer-guide-images",
-      "pixel_filename": "pcwstats-tracker-pixel-developer-guide-images.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-developer-guide-images.png",
-      "html_title": "Developer Guide Images - HEAT Labs"
-    },
-    {
-      "page_name": "Discovery of CoreX in Project CW",
-      "page_identifier": "discovery-of-corex",
-      "html_file": "bug-hunting/discovery-of-corex",
-      "pixel_filename": "pcwstats-tracker-pixel-discovery-of-corex.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-discovery-of-corex.png",
-      "html_title": "Discovery of CoreX in Project CW - HEAT Labs"
-    },
-    {
-      "page_name": "Exploring Animation and Movement Desync",
-      "page_identifier": "exploring-animation-and-movement-desync",
-      "html_file": "bug-hunting/exploring-animation-and-movement-desync",
-      "pixel_filename": "pcwstats-tracker-pixel-exploring-animation-and-movement-desync.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-exploring-animation-and-movement-desync.png",
-      "html_title": "Exploring Animation and Movement Desync - HEAT Labs"
-    },
-    {
-      "page_name": "Exploring the Main Menu Garage",
-      "page_identifier": "exploring-the-main-menu-garage",
-      "html_file": "bug-hunting/exploring-the-main-menu-garage",
-      "pixel_filename": "pcwstats-tracker-pixel-exploring-the-main-menu-garage.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-exploring-the-main-menu-garage.png",
-      "html_title": "Exploring the Main Menu Garage - HEAT Labs"
-    },
-    {
-      "page_name": "Hunting For Potential Hidden Servers",
-      "page_identifier": "hunting-for-potential-hidden-servers",
-      "html_file": "bug-hunting/hunting-for-potential-hidden-servers",
-      "pixel_filename": "pcwstats-tracker-pixel-hunting-for-potential-hidden-servers.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-hunting-for-potential-hidden-servers.png",
-      "html_title": "Hunting For Potential Hidden Servers - HEAT Labs"
-    },
-    {
-      "page_name": "Info From Developers",
-      "page_identifier": "info-from-developers",
-      "html_file": "bug-hunting/info-from-developers",
-      "pixel_filename": "pcwstats-tracker-pixel-info-from-developers.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-info-from-developers.png",
-      "html_title": "Info From Developers - HEAT Labs"
-    },
-    {
-      "page_name": "Mysterious Engine Picture",
-      "page_identifier": "mysterious-engine-picture",
-      "html_file": "bug-hunting/mysterious-engine-picture",
-      "pixel_filename": "pcwstats-tracker-pixel-mysterious-engine-picture.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-mysterious-engine-picture.png",
-      "html_title": "Mysterious Engine Picture - HEAT Labs"
-    },
-    {
-      "page_name": "Bug Hunt Post",
-      "page_identifier": "palceholder",
-      "html_file": "bug-hunting/palceholder",
-      "pixel_filename": "pcwstats-tracker-pixel-palceholder.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-palceholder.png",
-      "html_title": "Bug Hunt Post - HEAT Labs"
-    },
-    {
-      "page_name": "Potential Campaign Mode",
-      "page_identifier": "potential-campaign-mode",
-      "html_file": "bug-hunting/potential-campaign-mode",
-      "pixel_filename": "pcwstats-tracker-pixel-potential-campaign-mode.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-potential-campaign-mode.png",
-      "html_title": "Potential Campaign Mode - HEAT Labs"
-    },
-    {
-      "page_name": "Tank Module Locations",
-      "page_identifier": "tank-module-locations",
-      "html_file": "bug-hunting/tank-module-locations",
-      "pixel_filename": "pcwstats-tracker-pixel-tank-module-locations.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-tank-module-locations.png",
-      "html_title": "Tank Module Locations - HEAT Labs"
-    },
-    {
-      "page_name": "The Three Badges",
-      "page_identifier": "the-three-badges",
-      "html_file": "bug-hunting/the-three-badges",
-      "pixel_filename": "pcwstats-tracker-pixel-the-three-badges.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-the-three-badges.png",
-      "html_title": "The Three Badges - HEAT Labs"
-    },
-    {
-      "page_name": "Titan Dummies Respawn Glitch",
-      "page_identifier": "titan-dummies-respawn-glitch",
-      "html_file": "bug-hunting/titan-dummies-respawn-glitch",
-      "pixel_filename": "pcwstats-tracker-pixel-titan-dummies-respawn-glitch.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-titan-dummies-respawn-glitch.png",
-      "html_title": "Titan Dummies Respawn Glitch - HEAT Labs"
-    },
-    {
-      "page_name": "Who is PCW Bug Hunters?",
-      "page_identifier": "who-is-pcw-bug-hunters",
-      "html_file": "bug-hunting/who-is-pcw-bug-hunters",
-      "pixel_filename": "pcwstats-tracker-pixel-who-is-pcw-bug-hunters.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-who-is-pcw-bug-hunters.png",
-      "html_title": "Who is PCW Bug Hunters? - HEAT Labs"
-    },
-    {
-      "page_name": "Wierd Pattern Images",
-      "page_identifier": "wierd-pattern-images",
-      "html_file": "bug-hunting/wierd-pattern-images",
-      "pixel_filename": "pcwstats-tracker-pixel-wierd-pattern-images.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-wierd-pattern-images.png",
-      "html_title": "Wierd Pattern Images - HEAT Labs"
-    },
-    {
-      "page_name": "Maxwell",
-      "page_identifier": "maxwell",
-      "html_file": "easter-eggs/maxwell",
-      "pixel_filename": "pcwstats-tracker-pixel-maxwell.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-maxwell.png",
-      "html_title": "Maxwell - HEAT Labs"
-    },
-    {
-      "page_name": "Frequently Asked Questions",
-      "page_identifier": "frequent-questions",
-      "html_file": "resources/frequent-questions",
-      "pixel_filename": "pcwstats-tracker-pixel-frequent-questions.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-frequent-questions.png",
-      "html_title": "Frequently Asked Questions - HEAT Labs"
-    },
-    {
-      "page_name": "System Status",
-      "page_identifier": "system-status",
-      "html_file": "Website-Status",
-      "pixel_filename": "pcwstats-tracker-pixel-system-status.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-system-status.png",
-      "html_title": "System Status - HEAT Labs"
-    },
-    {
-      "page_name": "Ring of Fury",
-      "page_identifier": "ring-of-fury",
-      "html_file": "maps/ring-of-fury",
-      "pixel_filename": "pcwstats-tracker-pixel-ring-of-fury.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-ring-of-fury.png",
-      "html_title": "Ring of Fury - HEAT Labs"
-    },
-    {
-      "page_name": "Alpha 2 Fuel Crit Multiplier Incident",
-      "page_identifier": "alpha-2-fuel-crit-multiplier",
-      "html_file": "bug-hunting/alpha-2-fuel-crit-multiplier",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-2-fuel-crit-multiplier.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-alpha-2-fuel-crit-multiplier.png",
-      "html_title": "Alpha 2 Fuel Crit Multiplier Incident - HEAT Labs"
-    },
-    {
-      "page_name": "M60A3E2 Bot",
-      "page_identifier": "m60a3e2-bot",
-      "html_file": "tanks/m60a3e2-bot",
-      "pixel_filename": "pcwstats-tracker-pixel-m60a3e2-bot.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-m60a3e2-bot.png",
-      "html_title": "M60A3E2 Bot - HEAT Labs"
-    },
-    {
-      "page_name": "T-55 Enigma",
-      "page_identifier": "t-55-enigma",
-      "html_file": "tanks/t-55-enigma",
-      "pixel_filename": "pcwstats-tracker-pixel-t-55-enigma.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-t-55-enigma.png",
-      "html_title": "T-55 Enigma - HEAT Labs"
-    },
-    {
-      "page_name": "Agents",
-      "page_identifier": "agents",
-      "html_file": "agents",
-      "pixel_filename": "pcwstats-tracker-pixel-agents.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-agents.png",
-      "html_title": "Agents - HEAT Labs"
-    },
-    {
-      "page_name": "Meet The Team: Template",
-      "page_identifier": "meet-the-team-shockwave",
-      "html_file": "blog/meet-the-team-shockwave",
-      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-shockwave.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-meet-the-team-shockwave.png",
-      "html_title": "Meet The Team: Template - HEAT Labs"
-    },
-    {
-      "page_name": "Feature Showcase: Name",
-      "page_identifier": "feature-showcase-template",
-      "html_file": "blog/feature-showcase-template",
-      "pixel_filename": "pcwstats-tracker-pixel-feature-showcase-template.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-feature-showcase-template.png",
-      "html_title": "Feature Showcase: Name - HEAT Labs"
-    },
-    {
-      "page_name": "Website Plans & Mission",
-      "page_identifier": "website-plans-and-mission",
-      "html_file": "blog/website-plans-and-mission",
-      "pixel_filename": "pcwstats-tracker-pixel-website-plans-and-mission.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-website-plans-and-mission.png",
-      "html_title": "Website Plans & Mission - HEAT Labs"
-    },
-    {
-      "page_name": "Playground",
-      "page_identifier": "playground",
-      "html_file": "playground",
-      "pixel_filename": "pcwstats-tracker-pixel-playground.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-playground.png",
-      "html_title": "Playground - HEAT Labs"
-    },
-    {
-      "page_name": "Tier List Creator",
-      "page_identifier": "tierlist",
-      "html_file": "playground/tierlist",
-      "pixel_filename": "pcwstats-tracker-pixel-tierlist.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-tierlist.png",
-      "html_title": "Tier List Creator - HEAT Labs"
-    },
-    {
-      "page_name": "Anansi",
-      "page_identifier": "anansi",
-      "html_file": "agents/anansi",
-      "pixel_filename": "pcwstats-tracker-pixel-anansi.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-anansi.png",
-      "html_title": "Anansi - HEAT Labs"
-    },
-    {
-      "page_name": "Blitz",
-      "page_identifier": "blitz",
-      "html_file": "agents/blitz",
-      "pixel_filename": "pcwstats-tracker-pixel-blitz.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-blitz.png",
-      "html_title": "Blitz - HEAT Labs"
-    },
-    {
-      "page_name": "Chopper",
-      "page_identifier": "chopper",
-      "html_file": "agents/chopper",
-      "pixel_filename": "pcwstats-tracker-pixel-chopper.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-chopper.png",
-      "html_title": "Chopper - HEAT Labs"
-    },
-    {
-      "page_name": "Ember",
-      "page_identifier": "ember",
-      "html_file": "agents/ember",
-      "pixel_filename": "pcwstats-tracker-pixel-ember.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-ember.png",
-      "html_title": "Ember - HEAT Labs"
-    },
-    {
-      "page_name": "Hound",
-      "page_identifier": "hound",
-      "html_file": "agents/hound",
-      "pixel_filename": "pcwstats-tracker-pixel-hound.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-hound.png",
-      "html_title": "Hound - HEAT Labs"
-    },
-    {
-      "page_name": "Kent",
-      "page_identifier": "kent",
-      "html_file": "agents/kent",
-      "pixel_filename": "pcwstats-tracker-pixel-kent.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-kent.png",
-      "html_title": "Kent - HEAT Labs"
-    },
-    {
-      "page_name": "Placeholder Agent",
-      "page_identifier": "placeholder-agent",
-      "html_file": "agents/placeholder-agent",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-agent.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-placeholder-agent.png",
-      "html_title": "Placeholder Agent - HEAT Labs"
-    },
-    {
-      "page_name": "Raketa",
-      "page_identifier": "raketa",
-      "html_file": "agents/raketa",
-      "pixel_filename": "pcwstats-tracker-pixel-raketa.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-raketa.png",
-      "html_title": "Raketa - HEAT Labs"
-    },
-    {
-      "page_name": "Ray",
-      "page_identifier": "ray",
-      "html_file": "agents/ray",
-      "pixel_filename": "pcwstats-tracker-pixel-ray.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-ray.png",
-      "html_title": "Ray - HEAT Labs"
-    },
-    {
-      "page_name": "Reaper",
-      "page_identifier": "reaper",
-      "html_file": "agents/reaper",
-      "pixel_filename": "pcwstats-tracker-pixel-reaper.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-reaper.png",
-      "html_title": "Reaper - HEAT Labs"
-    },
-    {
-      "page_name": "Udarnik",
-      "page_identifier": "udarnik",
-      "html_file": "agents/udarnik",
-      "pixel_filename": "pcwstats-tracker-pixel-udarnik.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-udarnik.png",
-      "html_title": "Udarnik - HEAT Labs"
-    },
-    {
-      "page_name": "Punch",
-      "page_identifier": "punch",
-      "html_file": "agents/punch",
-      "pixel_filename": "pcwstats-tracker-pixel-punch.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-punch.png",
-      "html_title": "Punch - HEAT Labs"
-    },
-    {
-      "page_name": "Fantome",
-      "page_identifier": "fantome",
-      "html_file": "agents/fantome",
-      "pixel_filename": "pcwstats-tracker-pixel-fantome.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-fantome.png",
-      "html_title": "Fantome - HEAT Labs"
-    },
-    {
-      "page_name": "Arblast",
-      "page_identifier": "arblast",
-      "html_file": "agents/arblast",
-      "pixel_filename": "pcwstats-tracker-pixel-arblast.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-arblast.png",
-      "html_title": "Arblast - HEAT Labs"
-    },
-    {
-      "page_name": "Atom",
-      "page_identifier": "atom",
-      "html_file": "agents/atom",
-      "pixel_filename": "pcwstats-tracker-pixel-atom.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-atom.png",
-      "html_title": "Atom - HEAT Labs"
-    },
-    {
-      "page_name": "Maintenance Mode",
-      "page_identifier": "maintenance",
-      "html_file": "maintenance",
-      "pixel_filename": "pcwstats-tracker-pixel-maintenance.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-maintenance.png",
-      "html_title": "Maintenance Mode - HEAT Labs"
-    },
-    {
-      "page_name": "Project CW Debrief #3",
-      "page_identifier": "project-cw-debrief-3",
-      "html_file": "news/project-cw-debrief-3",
-      "pixel_filename": "pcwstats-tracker-pixel-project-cw-debrief-3.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-project-cw-debrief-3.png",
-      "html_title": "Project CW Debrief #3 - HEAT Labs"
-    },
-    {
       "page_name": "Tournament Maintenance",
       "page_identifier": "tournament-maintenance",
       "html_file": "tournaments/tournament-maintenance",
       "pixel_filename": "pcwstats-tracker-pixel-tournament-maintenance.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-tournament-maintenance.png",
       "html_title": "Tournament Maintenance - HEAT Labs"
-    },
-    {
-      "page_name": "Afghanistan 2",
-      "page_identifier": "afghanistan-2",
-      "html_file": "maps/afghanistan-2",
-      "pixel_filename": "pcwstats-tracker-pixel-afghanistan-2.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-afghanistan-2.png",
-      "html_title": "Afghanistan 2 - HEAT Labs"
-    },
-    {
-      "page_name": "Afghanistan",
-      "page_identifier": "afghanistan",
-      "html_file": "maps/afghanistan",
-      "pixel_filename": "pcwstats-tracker-pixel-afghanistan.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-afghanistan.png",
-      "html_title": "Afghanistan - HEAT Labs"
-    },
-    {
-      "page_name": "Avalanche",
-      "page_identifier": "avalanche",
-      "html_file": "maps/avalanche",
-      "pixel_filename": "pcwstats-tracker-pixel-avalanche.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-avalanche.png",
-      "html_title": "Avalanche - HEAT Labs"
-    },
-    {
-      "page_name": "Citadel",
-      "page_identifier": "citadel",
-      "html_file": "maps/citadel",
-      "pixel_filename": "pcwstats-tracker-pixel-citadel.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-citadel.png",
-      "html_title": "Citadel - HEAT Labs"
-    },
-    {
-      "page_name": "Classified",
-      "page_identifier": "classified",
-      "html_file": "maps/classified",
-      "pixel_filename": "pcwstats-tracker-pixel-classified.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-classified.png",
-      "html_title": "Classified - HEAT Labs"
-    },
-    {
-      "page_name": "Comms",
-      "page_identifier": "comms",
-      "html_file": "maps/comms",
-      "pixel_filename": "pcwstats-tracker-pixel-comms.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-comms.png",
-      "html_title": "Comms - HEAT Labs"
-    },
-    {
-      "page_name": "Critical Harbor",
-      "page_identifier": "critical-harbor",
-      "html_file": "maps/critical-harbor",
-      "pixel_filename": "pcwstats-tracker-pixel-critical-harbor.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-critical-harbor.png",
-      "html_title": "Critical Harbor - HEAT Labs"
-    },
-    {
-      "page_name": "Crossroads",
-      "page_identifier": "crossroads",
-      "html_file": "maps/crossroads",
-      "pixel_filename": "pcwstats-tracker-pixel-crossroads.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-crossroads.png",
-      "html_title": "Crossroads - HEAT Labs"
-    },
-    {
-      "page_name": "Deadly Fields",
-      "page_identifier": "deadly-fields",
-      "html_file": "maps/deadly-fields",
-      "pixel_filename": "pcwstats-tracker-pixel-deadly-fields.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-deadly-fields.png",
-      "html_title": "Deadly Fields - HEAT Labs"
-    },
-    {
-      "page_name": "Desert City",
-      "page_identifier": "desert-city",
-      "html_file": "maps/desert-city",
-      "pixel_filename": "pcwstats-tracker-pixel-desert-city.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-desert-city.png",
-      "html_title": "Desert City - HEAT Labs"
-    },
-    {
-      "page_name": "Deserted",
-      "page_identifier": "deserted",
-      "html_file": "maps/deserted",
-      "pixel_filename": "pcwstats-tracker-pixel-deserted.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-deserted.png",
-      "html_title": "Deserted - HEAT Labs"
-    },
-    {
-      "page_name": "Dolcegusta",
-      "page_identifier": "dolcegusta",
-      "html_file": "maps/dolcegusta",
-      "pixel_filename": "pcwstats-tracker-pixel-dolcegusta.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-dolcegusta.png",
-      "html_title": "Dolcegusta - HEAT Labs"
-    },
-    {
-      "page_name": "Duga",
-      "page_identifier": "duga",
-      "html_file": "maps/duga",
-      "pixel_filename": "pcwstats-tracker-pixel-duga.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-duga.png",
-      "html_title": "Duga - HEAT Labs"
-    },
-    {
-      "page_name": "Evergreen",
-      "page_identifier": "evergreen",
-      "html_file": "maps/evergreen",
-      "pixel_filename": "pcwstats-tracker-pixel-evergreen.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-evergreen.png",
-      "html_title": "Evergreen - HEAT Labs"
-    },
-    {
-      "page_name": "Fatal Acres",
-      "page_identifier": "fatal-acres",
-      "html_file": "maps/fatal-acres",
-      "pixel_filename": "pcwstats-tracker-pixel-fatal-acres.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-fatal-acres.png",
-      "html_title": "Fatal Acres - HEAT Labs"
-    },
-    {
-      "page_name": "Harvest",
-      "page_identifier": "harvest",
-      "html_file": "maps/harvest",
-      "pixel_filename": "pcwstats-tracker-pixel-harvest.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-harvest.png",
-      "html_title": "Harvest - HEAT Labs"
-    },
-    {
-      "page_name": "Height 911RS",
-      "page_identifier": "height-911rs",
-      "html_file": "maps/height-911rs",
-      "pixel_filename": "pcwstats-tracker-pixel-height-911rs.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-height-911rs.png",
-      "html_title": "Height 911RS - HEAT Labs"
-    },
-    {
-      "page_name": "Height 911TB",
-      "page_identifier": "height-911tb",
-      "html_file": "maps/height-911tb",
-      "pixel_filename": "pcwstats-tracker-pixel-height-911tb.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-height-911tb.png",
-      "html_title": "Height 911TB - HEAT Labs"
-    },
-    {
-      "page_name": "Hydro",
-      "page_identifier": "hydro",
-      "html_file": "maps/hydro",
-      "pixel_filename": "pcwstats-tracker-pixel-hydro.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-hydro.png",
-      "html_title": "Hydro - HEAT Labs"
-    },
-    {
-      "page_name": "Kerak",
-      "page_identifier": "kerak",
-      "html_file": "maps/kerak",
-      "pixel_filename": "pcwstats-tracker-pixel-kerak.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-kerak.png",
-      "html_title": "Kerak - HEAT Labs"
-    },
-    {
-      "page_name": "Port",
-      "page_identifier": "port",
-      "html_file": "maps/port",
-      "pixel_filename": "pcwstats-tracker-pixel-port.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-port.png",
-      "html_title": "Port - HEAT Labs"
-    },
-    {
-      "page_name": "Red-Alert",
-      "page_identifier": "red-alert",
-      "html_file": "maps/red-alert",
-      "pixel_filename": "pcwstats-tracker-pixel-red-alert.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-red-alert.png",
-      "html_title": "Red-Alert - HEAT Labs"
-    },
-    {
-      "page_name": "Spillway",
-      "page_identifier": "spillway",
-      "html_file": "maps/spillway",
-      "pixel_filename": "pcwstats-tracker-pixel-spillway.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-spillway.png",
-      "html_title": "Spillway - HEAT Labs"
-    },
-    {
-      "page_name": "Sundered City",
-      "page_identifier": "sundered-city",
-      "html_file": "maps/sundered-city",
-      "pixel_filename": "pcwstats-tracker-pixel-sundered-city.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-sundered-city.png",
-      "html_title": "Sundered City - HEAT Labs"
-    },
-    {
-      "page_name": "Surveillance",
-      "page_identifier": "surveillance",
-      "html_file": "maps/surveillance",
-      "pixel_filename": "pcwstats-tracker-pixel-surveillance.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-surveillance.png",
-      "html_title": "Surveillance - HEAT Labs"
-    },
-    {
-      "page_name": "Tajbeg",
-      "page_identifier": "tajbeg",
-      "html_file": "maps/tajbeg",
-      "pixel_filename": "pcwstats-tracker-pixel-tajbeg.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-tajbeg.png",
-      "html_title": "Tajbeg - HEAT Labs"
-    },
-    {
-      "page_name": "Zenith",
-      "page_identifier": "zenith",
-      "html_file": "maps/zenith",
-      "pixel_filename": "pcwstats-tracker-pixel-zenith.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-zenith.png",
-      "html_title": "Zenith - HEAT Labs"
-    },
-    {
-      "page_name": "Game Configurator",
-      "page_identifier": "configurator",
-      "html_file": "playground/configurator",
-      "pixel_filename": "pcwstats-tracker-pixel-configurator.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-configurator.png",
-      "html_title": "Game Configurator - HEAT Labs"
-    },
-    {
-      "page_name": "Game Configurator App",
-      "page_identifier": "configurator-app",
-      "html_file": "#",
-      "pixel_filename": "pcw-configurator-app.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcw-configurator-app.png",
-      "html_title": "Game Configurator App"
-    },
-    {
-      "page_name": "Desktop App",
-      "page_identifier": "desktop-app",
-      "html_file": "#",
-      "pixel_filename": "pcwstats-tracker-pixel-desktop-app.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-desktop-app.png",
-      "html_title": "Desktop App"
-    },
-    {
-      "page_name": "Say hello to World of Tanks: HEAT",
-      "page_identifier": "game-name-released",
-      "html_file": "news/game-name-released",
-      "pixel_filename": "pcwstats-tracker-pixel-game-name-released.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-game-name-released.png",
-      "html_title": "Say hello to World of Tanks: HEAT - HEAT Labs"
-    },
-    {
-      "page_name": "AMX-10 RC",
-      "page_identifier": "amx-10-rc",
-      "html_file": "tanks/amx-10-rc",
-      "pixel_filename": "pcwstats-tracker-pixel-amx-10-rc.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-amx-10-rc.png",
-      "html_title": "AMX-10 RC - HEAT Labs"
-    },
-    {
-      "page_name": "Asset Gallery",
-      "page_identifier": "asset-gallery",
-      "html_file": "asset-gallery",
-      "pixel_filename": "pcwstats-tracker-pixel-tankopedia.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-tankopedia.png",
-      "html_title": "Asset Gallery - HEAT Labs"
-    },
-    {
-      "page_name": "Say hello to World of Tanks: HEAT",
-      "page_identifier": "game-name-released",
-      "html_file": "announcements/game-name-released",
-      "pixel_filename": "pcwstats-tracker-pixel-game-name-released.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-game-name-released.png",
-      "html_title": "Say hello to World of Tanks: HEAT - HEAT Labs"
-    },
-    {
-      "page_name": "Unlocking the Camera on the End Game Screen",
-      "page_identifier": "unlocking-the-camera",
-      "html_file": "bug-hunting/unlocking-the-camera",
-      "pixel_filename": "pcwstats-tracker-pixel-unlocking-the-camera.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-unlocking-the-camera.png",
-      "html_title": "Unlocking the Camera on the End Game Screen - HEAT Labs"
-    },
-    {
-      "page_name": "Alpha 3 Playtest",
-      "page_identifier": "alpha-3-playtest",
-      "html_file": "playground/alpha-3-playtest",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-3-playtest.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-alpha-3-playtest.png",
-      "html_title": "Alpha 3 Playtest - HEAT Labs"
-    },
-    {
-      "page_name": "Game Servers",
-      "page_identifier": "game-servers",
-      "html_file": "playground/game-servers",
-      "pixel_filename": "pcwstats-tracker-pixel-game-servers.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-game-servers.png",
-      "html_title": "Game Servers - HEAT Labs"
-    },
-    {
-      "page_name": "Tank Roulette",
-      "page_identifier": "roulette",
-      "html_file": "playground/roulette",
-      "pixel_filename": "pcwstats-tracker-pixel-roulette.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-roulette.png",
-      "html_title": "Tank Roulette - HEAT Labs"
-    },
-    {
-      "page_name": "Announcing World of Tanks: HEAT",
-      "page_identifier": "announcing-world-of-tanks-heat",
-      "html_file": "steam-news/announcing-world-of-tanks-heat",
-      "pixel_filename": "pcwstats-tracker-pixel-announcing-world-of-tanks-heat.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-announcing-world-of-tanks-heat.png",
-      "html_title": "Announcing World of Tanks: HEAT - HEAT Labs"
-    },
-    {
-      "page_name": "Turning Up the HEAT: Fair Play, Clear Value",
-      "page_identifier": "fair-play-and-clear-value",
-      "html_file": "steam-news/fair-play-and-clear-value",
-      "pixel_filename": "pcwstats-tracker-pixel-fair-play-and-clear-value.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-fair-play-and-clear-value.png",
-      "html_title": "Turning Up the HEAT: Fair Play, Clear Value - HEAT Labs"
-    },
-    {
-      "page_name": "Join the Lodestar Program",
-      "page_identifier": "join-the-lodestar-program",
-      "html_file": "steam-news/join-the-lodestar-program",
-      "pixel_filename": "pcwstats-tracker-pixel-join-the-lodestar-program.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-join-the-lodestar-program.png",
-      "html_title": "Join the Lodestar Program - HEAT Labs"
-    },
-    {
-      "page_name": "Steam Title",
-      "page_identifier": "placeholder-post",
-      "html_file": "steam-news/placeholder-post",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-post.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-placeholder-post.png",
-      "html_title": "Steam Title - HEAT Labs"
-    },
-    {
-      "page_name": "PWA App",
-      "page_identifier": "heat-labs-app",
-      "html_file": "playground/heat-labs-app",
-      "pixel_filename": "pcwstats-tracker-pixel-heat-labs-app.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-heat-labs-app.png",
-      "html_title": "PWA App - HEAT Labs"
-    },
-    {
-      "page_name": "Wordle",
-      "page_identifier": "wordle",
-      "html_file": "playground/wordle",
-      "pixel_filename": "pcwstats-tracker-pixel-wordle.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-wordle.png",
-      "html_title": "Wordle - HEAT Labs"
-    },
-    {
-      "page_name": "Soundboard",
-      "page_identifier": "soundboard",
-      "html_file": "playground/soundboard",
-      "pixel_filename": "pcwstats-tracker-pixel-soundboard.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-soundboard.png",
-      "html_title": "Soundboard - HEAT Labs"
-    },
-    {
-      "page_name": "Akira",
-      "page_identifier": "akira",
-      "html_file": "agents/akira",
-      "pixel_filename": "pcwstats-tracker-pixel-akira.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-akira.png",
-      "html_title": "Akira - HEAT Labs"
-    },
-    {
-      "page_name": "Jager",
-      "page_identifier": "jager",
-      "html_file": "agents/jager",
-      "pixel_filename": "pcwstats-tracker-pixel-jager.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-jager.png",
-      "html_title": "Jager - HEAT Labs"
-    },
-    {
-      "page_name": "Video Showcase",
-      "page_identifier": "video-showcase",
-      "html_file": "video-showcase",
-      "pixel_filename": "pcwstats-tracker-pixel-video-showcase.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-video-showcase.png",
-      "html_title": "Video Showcase - HEAT Labs"
-    },
-    {
-      "page_name": "Hungry Devs",
-      "page_identifier": "hungry-devs",
-      "html_file": "easter-eggs/hungry-devs",
-      "pixel_filename": "pcwstats-tracker-pixel-hungry-devs.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-hungry-devs.png",
-      "html_title": "Hungry Devs - HEAT Labs"
-    },
-    {
-      "page_name": "From PCWStats to HEAT Labs",
-      "page_identifier": "from-pcwstats-to-heat-labs",
-      "html_file": "blog/from-pcwstats-to-heat-labs",
-      "pixel_filename": "pcwstats-tracker-pixel-from-pcwstats-to-heat-labs.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-from-pcwstats-to-heat-labs.png",
-      "html_title": "From PCWStats to HEAT Labs - HEAT Labs"
-    },
-    {
-      "page_name": "New Playground Features",
-      "page_identifier": "new-playground-features",
-      "html_file": "blog/new-playground-features",
-      "pixel_filename": "pcwstats-tracker-pixel-new-playground-features.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-new-playground-features.png",
-      "html_title": "New Playground Features - HEAT Labs"
-    },
-    {
-      "page_name": "Views API Outage",
-      "page_identifier": "views-api-outage",
-      "html_file": "blog/views-api-outage",
-      "pixel_filename": "pcwstats-tracker-pixel-views-api-outage.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-views-api-outage.png",
-      "html_title": "Views API Outage - HEAT Labs"
-    },
-    {
-      "page_name": "HEAT Labs Application",
-      "page_identifier": "heat-labs-application",
-      "html_file": "blog/heat-labs-application",
-      "pixel_filename": "pcwstats-tracker-pixel-heat-labs-application.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-heat-labs-application.png",
-      "html_title": "HEAT Labs Application - HEAT Labs"
-    },
-    {
-      "page_name": "Meet The Team: Antitank99",
-      "page_identifier": "meet-the-team-antitank99",
-      "html_file": "blog/meet-the-team-antitank99",
-      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-antitank99.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-meet-the-team-antitank99.png",
-      "html_title": "Meet The Team: Antitank99 - HEAT Labs"
-    },
-    {
-      "page_name": "Meet The Team: Anuraen",
-      "page_identifier": "meet-the-team-anuraen",
-      "html_file": "blog/meet-the-team-anuraen",
-      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-anuraen.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-meet-the-team-anuraen.png",
-      "html_title": "Meet The Team: Anuraen - HEAT Labs"
-    },
-    {
-      "page_name": "Meet The Team: IAmEdWards",
-      "page_identifier": "meet-the-team-iamedwards",
-      "html_file": "blog/meet-the-team-iamedwards",
-      "pixel_filename": "pcwstats-tracker-pixel-meet-the-team-iamedwards.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-meet-the-team-iamedwards.png",
-      "html_title": "Meet The Team: IAmEdWards - HEAT Labs"
-    },
-    {
-      "page_name": "Model Viewer Test Page",
-      "page_identifier": "test-model-viewer",
-      "html_file": "tanks/test-model-viewer",
-      "pixel_filename": "pcwstats-tracker-pixel-test-model-viewer.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-test-model-viewer.png",
-      "html_title": "Model Viewer Test Page - HEAT Labs"
-    },
-    {
-      "page_name": "Player Statistics",
-      "page_identifier": "players",
-      "html_file": "players",
-      "pixel_filename": "pcwstats-tracker-pixel-players.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-players.png",
-      "html_title": "Player Statistics - HEAT Labs"
-    },
-    {
-      "page_name": "Looking for New Team Members",
-      "page_identifier": "looking-for-new-team-members",
-      "html_file": "blog/looking-for-new-team-members",
-      "pixel_filename": "pcwstats-tracker-pixel-looking-for-new-team-members.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-looking-for-new-team-members.png",
-      "html_title": "Looking for New Team Members - HEAT Labs"
     }
   ]
 }
