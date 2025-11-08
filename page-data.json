@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 250,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-11-05T05:07:45.706678"
+    "export_timestamp": "2025-11-08T07:25:26.284954"
   },
   "pages": [
     {
@@ -645,7 +645,7 @@
     {
       "url": "https://heatlabs.net/maps/desert-city",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1763,9 +1763,9 @@
       "indexed": 178
     },
     "google_api_status": {
-      "pending": 104,
+      "pending": 103,
       "not_indexed": 0,
-      "indexed": 146
+      "indexed": 147
     },
     "https_page_status": {
       "unknown": 137,
