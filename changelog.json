@@ -1,6 +1,35 @@
 {
   "updates": [
     {
+      "version": "0.2.772",
+      "date": "2025-11-07",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #196",
+      "description": "Full patch notes for Update v0.2.772 (#196), detailing all changes made on 07 November, 2025.",
+      "added": [
+        "Easter Egg Friday #1 blog post (public website and development site)",
+        "Missing filter option in blogs page (public and development sites)",
+        "Missing tracking pixel in Easter Egg Friday #1 blog post",
+        "Tracking pixel images for all new Easter Egg blog posts (Views API)"
+      ],
+      "changed": [
+        "Home page statistics in HEAT Labs Configs",
+        "Tracking pixel index in HEAT Labs Configs",
+        "Changelog in HEAT Labs Configs",
+        "Daily commit log in HEAT Labs Configs",
+        "GSC index data in HEAT Labs Configs",
+        "Descriptions in two blog posts to match development website versions",
+        "CSS and JS import paths for new blog posts in development site"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Meta tags in new blog posts on development website",
+        "Missing descriptions in two blog posts"
+      ]
+    },
+    {
       "version": "0.2.758",
       "date": "2025-11-06",
       "author": "HEAT Labs Team",
