@@ -1,6 +1,29 @@
 {
   "updates": [
     {
+      "version": "0.2.780",
+      "date": "2025-11-08",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #197",
+      "description": "Full patch notes for Update v0.2.780 (#197), detailing all changes made on 08 November, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "GSC export files",
+        "Changelog data",
+        "Daily commit log",
+        "Page data files",
+        "GSC index data"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.2.772",
       "date": "2025-11-07",
       "author": "HEAT Labs Team",
