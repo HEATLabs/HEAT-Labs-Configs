@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 263,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-11-09T09:14:07.388442"
+    "export_timestamp": "2025-11-10T10:28:19.236628"
   },
   "pages": [
     {
@@ -463,7 +463,7 @@
     {
       "url": "https://heatlabs.net/bug-hunting/hunting-for-potential-hidden-servers",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
     },
@@ -1569,7 +1569,7 @@
     {
       "url": "https://heatlabs.net/steam-news/announcing-world-of-tanks-heat",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1854,9 +1854,9 @@
       "indexed": 199
     },
     "google_api_status": {
-      "pending": 102,
+      "pending": 100,
       "not_indexed": 0,
-      "indexed": 149
+      "indexed": 151
     },
     "https_page_status": {
       "unknown": 138,
