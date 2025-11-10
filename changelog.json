@@ -1,6 +1,34 @@
 {
   "updates": [
     {
+      "version": "0.2.793",
+      "date": "2025-11-09",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #198",
+      "description": "Full patch notes for Update v0.2.793 (#198), detailing all changes made on 09 November, 2025.",
+      "added": [
+        "Placeholder GSC data file",
+        "New GSC processor tool"
+      ],
+      "changed": [
+        "Home page statistics in HEAT-Labs-Configs",
+        "Page data files in HEAT-Labs-Configs",
+        "GSC index data in HEAT-Labs-Configs",
+        "Changelog in HEAT-Labs-Configs",
+        "Daily commit log in HEAT-Labs-Configs",
+        "GSC data file with new and complete entries",
+        "All GSC export files with updated data",
+        "Sitemap in HEAT-Labs-Website to include new page",
+        "GSC export files renamed with simplified format"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.2.780",
       "date": "2025-11-08",
       "author": "HEAT Labs Team",
