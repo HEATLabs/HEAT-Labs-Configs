@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "version": "0.2.802",
+      "date": "2025-11-10",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #199",
+      "description": "Full patch notes for Update v0.2.802 (#199), detailing all changes made on 10 November, 2025.",
+      "added": [
+        "Two missing entries added to search keyword index file"
+      ],
+      "changed": [
+        "Page data files updated",
+        "GSC index data refreshed",
+        "Changelog updated with latest entries",
+        "Daily commit log updated",
+        "GSC export files updated",
+        "Search keyword index tool updated to normalize HTML file paths before keyword checking"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.2.793",
       "date": "2025-11-09",
       "author": "HEAT Labs Team",
