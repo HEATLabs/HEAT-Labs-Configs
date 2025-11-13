@@ -1,6 +1,50 @@
 {
   "updates": [
     {
+      "version": "0.2.816",
+      "date": "2025-11-12",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #201",
+      "description": "Full patch notes for Update v0.2.816 (#201), detailing all changes made on 12 November, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.2.812",
+      "date": "2025-11-11",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #200",
+      "description": "Full patch notes for Update v0.2.812 (#200), detailing all changes made on 11 November, 2025.",
+      "added": [
+        "Pigeon_Pie added to contributors list in HEAT Labs Discord Bot",
+        "Pigeon_Pie added to contributors list on HEAT Labs Website",
+        "Pigeon_Pie added to contributors list in HEAT Labs Website Development",
+        "123 replay files from PigeonPie2 added to HEAT Labs Tools"
+      ],
+      "changed": [
+        "GSC index data in HEAT Labs Configs",
+        "GSC export data in HEAT Labs Configs",
+        "Daily commit log in HEAT Labs Configs",
+        "Changelog in HEAT Labs Configs"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was removed in this update"
+      ]
+    },
+    {
       "version": "0.2.802",
       "date": "2025-11-10",
       "author": "HEAT Labs Team",
