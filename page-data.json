@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 263,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-11-13T04:59:39.986922"
+    "export_timestamp": "2025-11-13T05:01:04.866910"
   },
   "pages": [
     {
@@ -533,7 +533,7 @@
     {
       "url": "https://heatlabs.net/builds",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1233,7 +1233,7 @@
     {
       "url": "https://heatlabs.net/news/friendship-dam-sneak-peek-1",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
     },
@@ -1854,9 +1854,9 @@
       "indexed": 199
     },
     "google_api_status": {
-      "pending": 100,
+      "pending": 98,
       "not_indexed": 0,
-      "indexed": 151
+      "indexed": 153
     },
     "https_page_status": {
       "unknown": 138,
