@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "version": "0.2.841",
+      "date": "2025-11-14",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #203",
+      "description": "Full patch notes for Update v0.2.841 (#203), detailing all changes made on 14 November, 2025.",
+      "added": [
+        "New Easter Egg Friday blog post published across both main and development websites",
+        "Additional meme images added to the HEAT Labs Images library",
+        "New game-artwork elements introduced to the images repository"
+      ],
+      "changed": [
+        "Search keyword index updated to include the latest blog content",
+        "Sitemap refreshed to register the newly added blog page",
+        "Changelog data updated to reflect recent system activity",
+        "Daily commit log updated",
+        "GSC index and export data refreshed",
+        "Page data files updated across multiple sections"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Resolved incorrect canonical and OG URL values on multiple 404 pages across all HEAT Labs services and subdomains",
+        "Corrected various invalid or outdated paths to site-data files across CDN routes, redirect subdomains, and internal tools",
+        "Fixed path issues affecting wrong-turn pages for all CDN groups (CDN0 to CDN14)",
+        "Addressed site-data path problems within the statistics and status subdomains",
+        "Corrected site-data path handling across the main website and development environments",
+        "Fixed site-data path issues and metadata problems in the Views API and Discord-related subdomains",
+        "Updated internal tools to properly reference correct site-data paths"
+      ]
+    },
+    {
       "version": "0.2.824",
       "date": "2025-11-13",
       "author": "HEAT Labs Team",
