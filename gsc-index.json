@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-11-14T08:19:40.112594",
+  "generated_at": "2025-11-15T11:30:35.449899",
   "site_url": "sc-domain:heatlabs.net",
   "data_type": "all_time",
   "data": {
     "site_url": "sc-domain:heatlabs.net",
-    "last_checked": "2025-11-14T08:19:39.627582",
+    "last_checked": "2025-11-15T11:30:35.021790",
     "date_range": {
       "start_date": "2025-05-16",
-      "end_date": "2025-11-14"
+      "end_date": "2025-11-15"
     },
     "pages": [
       {
@@ -20,10 +20,10 @@
         "crawl_time": null,
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
-        "clicks": 25,
-        "impressions": 192,
-        "ctr": 0.13020833333333334,
-        "position": 3.125
+        "clicks": 26,
+        "impressions": 201,
+        "ctr": 0.12935323383084577,
+        "position": 3.0796019900497513
       },
       {
         "url": "https://heatlabs.net/steam-news/join-the-lodestar-program",
@@ -36,9 +36,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 5,
-        "impressions": 40,
-        "ctr": 0.125,
-        "position": 6.05
+        "impressions": 41,
+        "ctr": 0.12195121951219512,
+        "position": 6.195121951219512
       },
       {
         "url": "https://heatlabs.net/tanks/alvt",
@@ -50,10 +50,10 @@
         "crawl_time": null,
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
-        "clicks": 2,
-        "impressions": 32,
-        "ctr": 0.0625,
-        "position": 7.78125
+        "clicks": 3,
+        "impressions": 33,
+        "ctr": 0.09090909090909091,
+        "position": 7.848484848484849
       },
       {
         "url": "https://heatlabs.net/announcements/alpha-2-has-ended",
@@ -366,9 +366,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 5,
+        "impressions": 6,
         "ctr": 0,
-        "position": 5.8
+        "position": 6
       },
       {
         "url": "https://heatlabs.net/announcements/jamess-introduction",
@@ -741,9 +741,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 10
+        "position": 9.5
       },
       {
         "url": "https://heatlabs.net/guides",
@@ -1071,9 +1071,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 3,
         "ctr": 0,
-        "position": 80.5
+        "position": 55
       },
       {
         "url": "https://heatlabs.net/maps/military-training",
@@ -1731,9 +1731,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 5,
+        "impressions": 6,
         "ctr": 0,
-        "position": 5.4
+        "position": 5.666666666666667
       },
       {
         "url": "https://heatlabs.net/playground/alpha-3-playtest",
@@ -1821,9 +1821,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 17
+        "position": 14.5
       },
       {
         "url": "https://heatlabs.net/resources/about-us",
@@ -1836,9 +1836,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 8,
+        "impressions": 9,
         "ctr": 0,
-        "position": 3.875
+        "position": 3.6666666666666665
       },
       {
         "url": "https://heatlabs.net/resources/credits",
@@ -2301,9 +2301,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 9,
+        "impressions": 10,
         "ctr": 0,
-        "position": 4.777777777777778
+        "position": 4.7
       },
       {
         "url": "https://heatlabs.net/tanks/xm1-v",
@@ -2394,7 +2394,7 @@
         "is_pending": false,
         "is_sitemaps_index": false,
         "type": "sitemap",
-        "last_downloaded": "2025-11-09T07:22:22.012Z",
+        "last_downloaded": "2025-11-14T23:45:25.253Z",
         "warnings": "1",
         "errors": "0"
       },
