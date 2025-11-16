@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 263,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-11-16T05:12:35.253881"
+    "export_timestamp": "2025-11-16T19:30:51.093296"
   },
   "pages": [
     {
@@ -757,7 +757,7 @@
     {
       "url": "https://heatlabs.net/maps/duga",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -890,7 +890,7 @@
     {
       "url": "https://heatlabs.net/maps/sundered-city",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1681,7 +1681,7 @@
     {
       "url": "https://heatlabs.net/tanks/m3a1-bradley",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1854,9 +1854,9 @@
       "indexed": 199
     },
     "google_api_status": {
-      "pending": 98,
+      "pending": 95,
       "not_indexed": 0,
-      "indexed": 154
+      "indexed": 157
     },
     "https_page_status": {
       "unknown": 139,
