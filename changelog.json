@@ -1,6 +1,36 @@
 {
   "updates": [
     {
+      "version": "0.2.856",
+      "date": "2025-11-15",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #204",
+      "description": "Full patch notes for Update v0.2.856 (#204), detailing all changes made on 15 November, 2025.",
+      "added": [
+        "New replay data output file published to the Configs CDN",
+        "Large batch of replay files imported into the Database CDN",
+        "Calisota added to the contributor lists for the Discord Bot, main website, and development website",
+        "New replay statistics analysis tool introduced",
+        "17 new replay files added from contributor Calisota"
+      ],
+      "changed": [
+        "Home page statistics updated with the latest data",
+        "Team size distribution label improved in the replay statistics tool",
+        "All replay tools updated to use new CDN paths after relocating replay-specific files",
+        "Changelog updated",
+        "Daily commit log refreshed",
+        "GSC export data and GSC index data updated"
+      ],
+      "removed": [
+        "Redundant stats file removed from the Tools folder",
+        "Old replay data file removed from the Tools repository",
+        "Legacy replay files removed after consolidation and CDN migration"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.2.841",
       "date": "2025-11-14",
       "author": "HEAT Labs Team",
