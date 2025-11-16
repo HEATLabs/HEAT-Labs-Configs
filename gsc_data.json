@@ -705,9 +705,9 @@
       "valid": 76
     },
     "coverage": {
-      "not_indexed": "N/A",
-      "indexed": "N/A",
-      "impressions": "N/A"
+      "not_indexed": 106,
+      "indexed": 205,
+      "impressions": 19
     },
     "https": {
       "non_https_urls": 0,
@@ -725,9 +725,9 @@
       "valid": 54
     },
     "coverage": {
-      "not_indexed": "N/A",
-      "indexed": "N/A",
-      "impressions": "N/A"
+      "not_indexed": 106,
+      "indexed": 205,
+      "impressions": 18
     },
     "https": {
       "non_https_urls": 0,
@@ -745,18 +745,18 @@
       "valid": 47
     },
     "coverage": {
-      "not_indexed": "N/A",
-      "indexed": "N/A",
-      "impressions": "N/A"
+      "not_indexed": 106,
+      "indexed": 205,
+      "impressions": 26
     },
     "https": {
       "non_https_urls": 0,
       "https_urls": 54
     },
     "video_indexing": {
-      "no_video_indexed": "N/A",
-      "video_indexed": "N/A",
-      "impressions": "N/A"
+      "no_video_indexed": 24,
+      "video_indexed": 0,
+      "impressions": 0
     }
   },
   "2025-11-12": {
@@ -774,9 +774,9 @@
       "https_urls": 46
     },
     "video_indexing": {
-      "no_video_indexed": "N/A",
-      "video_indexed": "N/A",
-      "impressions": "N/A"
+      "no_video_indexed": 24,
+      "video_indexed": 0,
+      "impressions": 0
     }
   },
   "2025-11-13": {
@@ -790,8 +790,28 @@
       "impressions": "N/A"
     },
     "https": {
-      "non_https_urls": "N/A",
-      "https_urls": "N/A"
+      "non_https_urls": 0,
+      "https_urls": 43
+    },
+    "video_indexing": {
+      "no_video_indexed": 24,
+      "video_indexed": 0,
+      "impressions": 0
+    }
+  },
+  "2025-11-14": {
+    "breadcrumbs": {
+      "invalid": 0,
+      "valid": 38
+    },
+    "coverage": {
+      "not_indexed": "N/A",
+      "indexed": "N/A",
+      "impressions": "N/A"
+    },
+    "https": {
+      "non_https_urls": 0,
+      "https_urls": 40
     },
     "video_indexing": {
       "no_video_indexed": "N/A",
@@ -799,10 +819,10 @@
       "impressions": "N/A"
     }
   },
-  "2025-11-14": {
+  "2025-11-15": {
     "breadcrumbs": {
       "invalid": 0,
-      "valid": 38
+      "valid": 35
     },
     "coverage": {
       "not_indexed": "N/A",
