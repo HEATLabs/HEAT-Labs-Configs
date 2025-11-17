@@ -1,6 +1,35 @@
 {
   "updates": [
     {
+      "version": "0.2.870",
+      "date": "2025-11-16",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #205",
+      "description": "Full patch notes for Update v0.2.870 (#205), detailing all changes made on 16 November, 2025.",
+      "added": [
+        "Archived legacy GSC export files from the old domain for long-term storage",
+        "New GIF preview images added to the Discord Bot",
+        "PNG variant of the main HEAT Labs logo added",
+        "Feedback option introduced to the settings modal in both the Static and Development website environments"
+      ],
+      "changed": [
+        "Contributor counter on the home page updated from 4 to 6",
+        "CORS policy in the Configurator App expanded to allow CDN5",
+        "Discord RPC smallImageText updated for both desktop and configurator apps",
+        "Standalone desktop and configurator app icons refreshed to use the new HEAT Labs logo",
+        "Send Feedback button updated across all HEAT Labs platforms, subdomains, CDNs, and tools to point to the new user feedback survey",
+        "All icon files across the images library updated to the new logo",
+        "GSC export data, GSC index data, and page data files refreshed",
+        "Changelog and daily commit log updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "GIF preview frame rate in the Discord Bot optimized from 33 FPS to 20 FPS for smoother playback"
+      ]
+    },
+    {
       "version": "0.2.856",
       "date": "2025-11-15",
       "author": "HEAT Labs Team",
