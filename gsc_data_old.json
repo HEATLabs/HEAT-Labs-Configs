@@ -1685,9 +1685,9 @@
       "valid": "N/A"
     },
     "coverage": {
-      "not_indexed": "N/A",
-      "indexed": "N/A",
-      "impressions": "N/A"
+      "not_indexed": 38,
+      "indexed": 97,
+      "impressions": 16
     },
     "https": {
       "non_https_urls": 0,
@@ -1705,9 +1705,9 @@
       "valid": "N/A"
     },
     "coverage": {
-      "not_indexed": "N/A",
-      "indexed": "N/A",
-      "impressions": "N/A"
+      "not_indexed": 38,
+      "indexed": 97,
+      "impressions": 11
     },
     "https": {
       "non_https_urls": 0,
@@ -1725,18 +1725,18 @@
       "valid": "N/A"
     },
     "coverage": {
-      "not_indexed": "N/A",
-      "indexed": "N/A",
-      "impressions": "N/A"
+      "not_indexed": 38,
+      "indexed": 97,
+      "impressions": 10
     },
     "https": {
       "non_https_urls": 0,
       "https_urls": 0
     },
     "video_indexing": {
-      "no_video_indexed": "N/A",
-      "video_indexed": "N/A",
-      "impressions": "N/A"
+      "no_video_indexed": 8,
+      "video_indexed": 0,
+      "impressions": 0
     }
   },
   "2025-11-15": {
@@ -1745,18 +1745,18 @@
       "valid": "N/A"
     },
     "coverage": {
-      "not_indexed": "N/A",
-      "indexed": "N/A",
-      "impressions": "N/A"
+      "not_indexed": 38,
+      "indexed": 97,
+      "impressions": 8
     },
     "https": {
       "non_https_urls": 0,
       "https_urls": 0
     },
     "video_indexing": {
-      "no_video_indexed": "N/A",
-      "video_indexed": "N/A",
-      "impressions": "N/A"
+      "no_video_indexed": 8,
+      "video_indexed": 0,
+      "impressions": 0
     }
   },
   "2025-11-16": {
@@ -1774,12 +1774,32 @@
       "https_urls": 0
     },
     "video_indexing": {
-      "no_video_indexed": "N/A",
-      "video_indexed": "N/A",
-      "impressions": "N/A"
+      "no_video_indexed": 8,
+      "video_indexed": 0,
+      "impressions": 0
     }
   },
   "2025-11-17": {
+    "breadcrumbs": {
+      "invalid": "N/A",
+      "valid": "N/A"
+    },
+    "coverage": {
+      "not_indexed": "N/A",
+      "indexed": "N/A",
+      "impressions": "N/A"
+    },
+    "https": {
+      "non_https_urls": 0,
+      "https_urls": 0
+    },
+    "video_indexing": {
+      "no_video_indexed": 8,
+      "video_indexed": 0,
+      "impressions": "N/A"
+    }
+  },
+  "2025-11-18": {
     "breadcrumbs": {
       "invalid": "N/A",
       "valid": "N/A"
