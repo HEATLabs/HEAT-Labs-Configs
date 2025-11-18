@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 264,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-11-17T17:48:54.365385"
+    "export_timestamp": "2025-11-18T21:46:10.579707"
   },
   "pages": [
     {
@@ -1744,7 +1744,7 @@
     {
       "url": "https://heatlabs.net/tanks/t-62ms",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1861,9 +1861,9 @@
       "indexed": 199
     },
     "google_api_status": {
-      "pending": 95,
+      "pending": 94,
       "not_indexed": 0,
-      "indexed": 158
+      "indexed": 159
     },
     "https_page_status": {
       "unknown": 140,
