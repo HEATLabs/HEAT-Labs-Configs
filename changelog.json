@@ -1,16 +1,15 @@
 {
   "updates": [
     {
-      "version": "0.2.912",
+      "version": "0.2.911",
       "date": "2025-11-18",
       "author": "HEAT Labs Team",
       "title": "Update Number #207",
-      "description": "Full patch notes for Update v0.2.912 (#207), detailing all changes made on 18 November, 2025.",
+      "description": "Full patch notes for Update v0.2.911 (#207), detailing all changes made on 18 November, 2025.",
       "added": [
         "New data export added for legacy GSC datasets",
         "111 new replay files from dema_GG_UA added to the database",
-        "116 new replay files from TechTanker (part 1) added to the database",
-        "116 new replay files from TechTanker (part 2) added to the database",
+        "116 new replay files from TechTanker added to the database",
         "dema_GG_UA and TechTanker added to contributors data across the Discord Bot, Static files, and website credits"
       ],
       "changed": [
