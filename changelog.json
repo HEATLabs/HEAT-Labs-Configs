@@ -1,6 +1,47 @@
 {
   "updates": [
     {
+      "version": "0.2.922",
+      "date": "2025-11-20",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #209",
+      "description": "Full patch notes for Update v0.2.922 (#209), detailing all changes made on 20 November, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.2.918",
+      "date": "2025-11-19",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #208",
+      "description": "Full patch notes for Update v0.2.918 (#208), detailing all changes made on 19 November, 2025.",
+      "added": [
+        "Two new miscellaneous images added to the HEAT Labs image library"
+      ],
+      "changed": [
+        "Home page statistics refreshed with the latest values",
+        "Changelog updated with new entries",
+        "Daily commit log updated",
+        "Replay data output file expanded with 103 newly processed entries"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Resolved a duplicated entry in the most recent changelog post"
+      ]
+    },
+    {
       "version": "0.2.911",
       "date": "2025-11-18",
       "author": "HEAT Labs Team",
