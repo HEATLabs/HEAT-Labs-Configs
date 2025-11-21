@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 264,
+    "total_pages": 265,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-11-21T13:21:24.536087"
+    "export_timestamp": "2025-11-21T14:00:19.790022"
   },
   "pages": [
     {
@@ -378,6 +378,13 @@
     },
     {
       "url": "https://heatlabs.net/blog/meet-the-team-ven0m",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/minestones-and-feedback",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
@@ -1856,22 +1863,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 51,
+      "pending": 52,
       "not_indexed": 0,
       "indexed": 203
     },
     "google_api_status": {
-      "pending": 94,
+      "pending": 95,
       "not_indexed": 0,
       "indexed": 160
     },
     "https_page_status": {
-      "unknown": 229,
+      "unknown": 230,
       "not_https": 0,
       "https": 25
     },
     "breadcrumb_status": {
-      "unknown": 229,
+      "unknown": 230,
       "invalid": 0,
       "valid": 25
     }
