@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 264,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-11-18T21:46:10.579707"
+    "export_timestamp": "2025-11-21T12:32:13.530666"
   },
   "pages": [
     {
@@ -85,7 +85,7 @@
     {
       "url": "https://heatlabs.net/agents/ember",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -259,10 +259,10 @@
     },
     {
       "url": "https://heatlabs.net/blog/easter-egg-friday-03",
-      "gsc_status": "NOT NEEDED",
-      "g_api_status": "NOT NEEDED",
-      "https_status": "NOT NEEDED",
-      "breadcrumb_status": "NOT NEEDED"
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/blog/easter-egg-friday-04",
@@ -1856,22 +1856,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 54,
+      "pending": 55,
       "not_indexed": 0,
       "indexed": 199
     },
     "google_api_status": {
       "pending": 94,
       "not_indexed": 0,
-      "indexed": 159
+      "indexed": 160
     },
     "https_page_status": {
-      "unknown": 140,
+      "unknown": 141,
       "not_https": 0,
       "https": 113
     },
     "breadcrumb_status": {
-      "unknown": 141,
+      "unknown": 142,
       "invalid": 0,
       "valid": 112
     }
