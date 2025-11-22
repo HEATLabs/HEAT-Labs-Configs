@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-11-21T12:31:16.914125",
+  "generated_at": "2025-11-22T02:53:54.014926",
   "site_url": "sc-domain:heatlabs.net",
   "data_type": "all_time",
   "data": {
     "site_url": "sc-domain:heatlabs.net",
-    "last_checked": "2025-11-21T12:31:16.640913",
+    "last_checked": "2025-11-22T02:53:53.721615",
     "date_range": {
       "start_date": "2025-05-16",
-      "end_date": "2025-11-21"
+      "end_date": "2025-11-22"
     },
     "pages": [
       {
@@ -20,10 +20,10 @@
         "crawl_time": null,
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
-        "clicks": 34,
-        "impressions": 253,
-        "ctr": 0.13438735177865613,
-        "position": 3.683794466403162
+        "clicks": 36,
+        "impressions": 264,
+        "ctr": 0.13636363636363635,
+        "position": 3.640151515151515
       },
       {
         "url": "https://heatlabs.net/steam-news/join-the-lodestar-program",
@@ -51,9 +51,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 5,
-        "impressions": 43,
-        "ctr": 0.11627906976744186,
-        "position": 6.767441860465116
+        "impressions": 44,
+        "ctr": 0.11363636363636363,
+        "position": 6.636363636363637
       },
       {
         "url": "https://heatlabs.net/tanks",
@@ -141,9 +141,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 1,
-        "impressions": 4,
-        "ctr": 0.25,
-        "position": 6.25
+        "impressions": 5,
+        "ctr": 0.2,
+        "position": 5.8
       },
       {
         "url": "https://heatlabs.net/maps",
@@ -396,9 +396,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 10,
+        "impressions": 11,
         "ctr": 0,
-        "position": 11.5
+        "position": 11.090909090909092
       },
       {
         "url": "https://heatlabs.net/announcements/jamess-introduction",
@@ -444,6 +444,21 @@
         "impressions": 10,
         "ctr": 0,
         "position": 5.1
+      },
+      {
+        "url": "https://heatlabs.net/blog/heat-labs-application",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
       },
       {
         "url": "https://heatlabs.net/blog/looking-for-new-team-members.html",
@@ -1926,9 +1941,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 18,
+        "impressions": 21,
         "ctr": 0,
-        "position": 4.166666666666666
+        "position": 3.7142857142857144
       },
       {
         "url": "https://heatlabs.net/resources/credits",
@@ -2121,9 +2136,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 31,
+        "impressions": 32,
         "ctr": 0,
-        "position": 19.35483870967742
+        "position": 19.71875
       },
       {
         "url": "https://heatlabs.net/tanks/leopard-1a1b",
@@ -2271,7 +2286,7 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 14,
+        "impressions": 15,
         "ctr": 0,
         "position": 9
       },
@@ -2286,9 +2301,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 7,
+        "impressions": 8,
         "ctr": 0,
-        "position": 6.714285714285714
+        "position": 7
       },
       {
         "url": "https://heatlabs.net/tanks/object-287",
@@ -2346,9 +2361,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 20,
+        "impressions": 22,
         "ctr": 0,
-        "position": 6
+        "position": 5.863636363636363
       },
       {
         "url": "https://heatlabs.net/tanks/t-62ms",
@@ -2502,8 +2517,8 @@
       }
     ],
     "summary": {
-      "total_pages": 166,
-      "indexed_pages": 166,
+      "total_pages": 167,
+      "indexed_pages": 167,
       "not_indexed_pages": 0,
       "errors": 0
     },
@@ -2591,8 +2606,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 166,
-    "indexed_pages": 166,
+    "total_pages_found": 167,
+    "indexed_pages": 167,
     "errors": 0
   }
 }
