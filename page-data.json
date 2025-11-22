@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 265,
+    "total_pages": 264,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-11-21T14:00:19.790022"
+    "export_timestamp": "2025-11-22T02:54:28.229294"
   },
   "pages": [
     {
@@ -344,7 +344,7 @@
     {
       "url": "https://heatlabs.net/blog/heat-labs-application",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -419,121 +419,114 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/bug-hunting",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "HTTPS",
-      "breadcrumb_status": "VALID"
-    },
-    {
-      "url": "https://heatlabs.net/bug-hunting/alpha-2-fuel-crit-multiplier",
+      "url": "https://heatlabs.net/blog/alpha-2-fuel-crit-multiplier",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/bug-hunting/damage-calculation",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/bug-hunting/developer-guide-images",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/bug-hunting/discovery-of-corex",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/bug-hunting/exploring-animation-and-movement-desync",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/bug-hunting/exploring-the-main-menu-garage",
-      "gsc_status": "INDEXED",
+      "url": "https://heatlabs.net/blog/damage-calculation",
+      "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/bug-hunting/hunting-for-potential-hidden-servers",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/bug-hunting/info-from-developers",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/bug-hunting/mysterious-engine-picture",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/bug-hunting/potential-campaign-mode",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/bug-hunting/tank-module-locations",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/bug-hunting/the-three-badges",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/bug-hunting/titan-dummies-respawn-glitch",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/bug-hunting/unlocking-the-camera",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/bug-hunting/who-is-pcw-bug-hunters",
+      "url": "https://heatlabs.net/blog/developer-guide-images",
       "gsc_status": "PENDING",
-      "g_api_status": "INDEXED",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/bug-hunting/wierd-pattern-images",
+      "url": "https://heatlabs.net/blog/discovery-of-corex",
       "gsc_status": "PENDING",
-      "g_api_status": "INDEXED",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/exploring-animation-and-movement-desync",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/exploring-the-main-menu-garage",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/hunting-for-potential-hidden-servers",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/info-from-developers",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/mysterious-engine-picture",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/potential-campaign-mode",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/tank-module-locations",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/the-three-badges",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/titan-dummies-respawn-glitch",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/unlocking-the-camera",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/who-is-pcw-bug-hunters",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/wierd-pattern-images",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1863,24 +1856,24 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 52,
+      "pending": 65,
       "not_indexed": 0,
-      "indexed": 203
+      "indexed": 189
     },
     "google_api_status": {
-      "pending": 95,
+      "pending": 108,
       "not_indexed": 0,
-      "indexed": 160
+      "indexed": 146
     },
     "https_page_status": {
       "unknown": 230,
       "not_https": 0,
-      "https": 25
+      "https": 24
     },
     "breadcrumb_status": {
       "unknown": 230,
       "invalid": 0,
-      "valid": 25
+      "valid": 24
     }
   }
 }
