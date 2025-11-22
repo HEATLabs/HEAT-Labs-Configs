@@ -35,14 +35,6 @@
       "html_title": "Official Blog - HEAT Labs"
     },
     {
-      "page_name": "Bug Hunters",
-      "page_identifier": "bug-hunting",
-      "html_file": "bug-hunting",
-      "pixel_filename": "pcwstats-tracker-pixel-bug-hunting.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-bug-hunting.png",
-      "html_title": "Bug Hunters - HEAT Labs"
-    },
-    {
       "page_name": "Common Builds",
       "page_identifier": "builds",
       "html_file": "builds",
@@ -573,7 +565,7 @@
     {
       "page_name": "Alpha 2 Fuel Crit Multiplier Incident",
       "page_identifier": "alpha-2-fuel-crit-multiplier",
-      "html_file": "bug-hunting/alpha-2-fuel-crit-multiplier",
+      "html_file": "blog/alpha-2-fuel-crit-multiplier",
       "pixel_filename": "pcwstats-tracker-pixel-alpha-2-fuel-crit-multiplier.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-alpha-2-fuel-crit-multiplier.png",
       "html_title": "Alpha 2 Fuel Crit Multiplier Incident - HEAT Labs"
@@ -581,7 +573,7 @@
     {
       "page_name": "Damage Calculation",
       "page_identifier": "damage-calculation",
-      "html_file": "bug-hunting/damage-calculation",
+      "html_file": "blog/damage-calculation",
       "pixel_filename": "pcwstats-tracker-pixel-damage-calculation.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-damage-calculation.png",
       "html_title": "Damage Calculation - HEAT Labs"
@@ -589,7 +581,7 @@
     {
       "page_name": "Developer Guide Images",
       "page_identifier": "developer-guide-images",
-      "html_file": "bug-hunting/developer-guide-images",
+      "html_file": "blog/developer-guide-images",
       "pixel_filename": "pcwstats-tracker-pixel-developer-guide-images.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-developer-guide-images.png",
       "html_title": "Developer Guide Images - HEAT Labs"
@@ -597,7 +589,7 @@
     {
       "page_name": "Discovery of CoreX in World of Tanks: HEAT",
       "page_identifier": "discovery-of-corex",
-      "html_file": "bug-hunting/discovery-of-corex",
+      "html_file": "blog/discovery-of-corex",
       "pixel_filename": "pcwstats-tracker-pixel-discovery-of-corex.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-discovery-of-corex.png",
       "html_title": "Discovery of CoreX in World of Tanks: HEAT - HEAT Labs"
@@ -605,7 +597,7 @@
     {
       "page_name": "Exploring Animation and Movement Desync",
       "page_identifier": "exploring-animation-and-movement-desync",
-      "html_file": "bug-hunting/exploring-animation-and-movement-desync",
+      "html_file": "blog/exploring-animation-and-movement-desync",
       "pixel_filename": "pcwstats-tracker-pixel-exploring-animation-and-movement-desync.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-exploring-animation-and-movement-desync.png",
       "html_title": "Exploring Animation and Movement Desync - HEAT Labs"
@@ -613,7 +605,7 @@
     {
       "page_name": "Exploring the Main Menu Garage",
       "page_identifier": "exploring-the-main-menu-garage",
-      "html_file": "bug-hunting/exploring-the-main-menu-garage",
+      "html_file": "blog/exploring-the-main-menu-garage",
       "pixel_filename": "pcwstats-tracker-pixel-exploring-the-main-menu-garage.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-exploring-the-main-menu-garage.png",
       "html_title": "Exploring the Main Menu Garage - HEAT Labs"
@@ -621,7 +613,7 @@
     {
       "page_name": "Hunting For Potential Hidden Servers",
       "page_identifier": "hunting-for-potential-hidden-servers",
-      "html_file": "bug-hunting/hunting-for-potential-hidden-servers",
+      "html_file": "blog/hunting-for-potential-hidden-servers",
       "pixel_filename": "pcwstats-tracker-pixel-hunting-for-potential-hidden-servers.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-hunting-for-potential-hidden-servers.png",
       "html_title": "Hunting For Potential Hidden Servers - HEAT Labs"
@@ -629,7 +621,7 @@
     {
       "page_name": "Info From Developers",
       "page_identifier": "info-from-developers",
-      "html_file": "bug-hunting/info-from-developers",
+      "html_file": "blog/info-from-developers",
       "pixel_filename": "pcwstats-tracker-pixel-info-from-developers.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-info-from-developers.png",
       "html_title": "Info From Developers - HEAT Labs"
@@ -637,7 +629,7 @@
     {
       "page_name": "Mysterious Engine Picture",
       "page_identifier": "mysterious-engine-picture",
-      "html_file": "bug-hunting/mysterious-engine-picture",
+      "html_file": "blog/mysterious-engine-picture",
       "pixel_filename": "pcwstats-tracker-pixel-mysterious-engine-picture.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-mysterious-engine-picture.png",
       "html_title": "Mysterious Engine Picture - HEAT Labs"
@@ -645,7 +637,7 @@
     {
       "page_name": "Potential Campaign Mode",
       "page_identifier": "potential-campaign-mode",
-      "html_file": "bug-hunting/potential-campaign-mode",
+      "html_file": "blog/potential-campaign-mode",
       "pixel_filename": "pcwstats-tracker-pixel-potential-campaign-mode.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-potential-campaign-mode.png",
       "html_title": "Potential Campaign Mode - HEAT Labs"
@@ -653,7 +645,7 @@
     {
       "page_name": "Tank Module Locations",
       "page_identifier": "tank-module-locations",
-      "html_file": "bug-hunting/tank-module-locations",
+      "html_file": "blog/tank-module-locations",
       "pixel_filename": "pcwstats-tracker-pixel-tank-module-locations.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-tank-module-locations.png",
       "html_title": "Tank Module Locations - HEAT Labs"
@@ -661,7 +653,7 @@
     {
       "page_name": "The Three Badges",
       "page_identifier": "the-three-badges",
-      "html_file": "bug-hunting/the-three-badges",
+      "html_file": "blog/the-three-badges",
       "pixel_filename": "pcwstats-tracker-pixel-the-three-badges.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-the-three-badges.png",
       "html_title": "The Three Badges - HEAT Labs"
@@ -669,7 +661,7 @@
     {
       "page_name": "Titan Dummies Respawn Glitch",
       "page_identifier": "titan-dummies-respawn-glitch",
-      "html_file": "bug-hunting/titan-dummies-respawn-glitch",
+      "html_file": "blog/titan-dummies-respawn-glitch",
       "pixel_filename": "pcwstats-tracker-pixel-titan-dummies-respawn-glitch.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-titan-dummies-respawn-glitch.png",
       "html_title": "Titan Dummies Respawn Glitch - HEAT Labs"
@@ -677,7 +669,7 @@
     {
       "page_name": "Unlocking the Camera on the End Game Screen",
       "page_identifier": "unlocking-the-camera",
-      "html_file": "bug-hunting/unlocking-the-camera",
+      "html_file": "blog/unlocking-the-camera",
       "pixel_filename": "pcwstats-tracker-pixel-unlocking-the-camera.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-unlocking-the-camera.png",
       "html_title": "Unlocking the Camera on the End Game Screen - HEAT Labs"
@@ -685,7 +677,7 @@
     {
       "page_name": "Who is PCW Bug Hunters?",
       "page_identifier": "who-is-pcw-bug-hunters",
-      "html_file": "bug-hunting/who-is-pcw-bug-hunters",
+      "html_file": "blog/who-is-pcw-bug-hunters",
       "pixel_filename": "pcwstats-tracker-pixel-who-is-pcw-bug-hunters.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-who-is-pcw-bug-hunters.png",
       "html_title": "Who is PCW Bug Hunters? - HEAT Labs"
@@ -693,7 +685,7 @@
     {
       "page_name": "Wierd Pattern Images",
       "page_identifier": "wierd-pattern-images",
-      "html_file": "bug-hunting/wierd-pattern-images",
+      "html_file": "blog/wierd-pattern-images",
       "pixel_filename": "pcwstats-tracker-pixel-wierd-pattern-images.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-wierd-pattern-images.png",
       "html_title": "Wierd Pattern Images - HEAT Labs"
