@@ -1,6 +1,36 @@
 {
   "updates": [
     {
+      "version": "0.2.937",
+      "date": "2025-11-21",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #210",
+      "description": "Full patch notes for Update v0.2.937 (#210), detailing all changes made on 21 November, 2025.",
+      "added": [
+        "Restored a previously missing blog post across both main and development websites",
+        "Published the new Easter Egg Friday #3 blog page",
+        "Added the missing blog post and Easter Egg Friday #3 entry to the sitemap",
+        "Introduced a new tracking pixel for the restored blog post within the Views API"
+      ],
+      "changed": [
+        "Home page statistics updated with the latest platform data",
+        "Tracking pixel index refreshed to include the restored blog post",
+        "Search keyword index updated for both the missing post and the Easter Egg Friday #3 entry",
+        "Page data files updated to reflect newly added content",
+        "All page data sets successfully validated",
+        "Changelog updated",
+        "Daily commit log updated",
+        "GSC index data refreshed",
+        "Legacy and main GSC export data updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.2.922",
       "date": "2025-11-20",
       "author": "HEAT Labs Team",
