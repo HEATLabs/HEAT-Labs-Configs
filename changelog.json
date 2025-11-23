@@ -1,6 +1,46 @@
 {
   "updates": [
     {
+      "version": "0.2.962",
+      "date": "2025-11-22",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #211",
+      "description": "Full patch notes for Update v0.2.962 (#211), detailing all changes made on 22 November, 2025.",
+      "added": [
+        "Christmas seasonal script integrated across all HEAT Labs domains, including website pages, CDN wrong-turn screens, redirect subdomains, API pages, and internal tools",
+        "Christmas-themed corner images added to the images library",
+        "Three new meme images added to the media repository",
+        "Custom deployment workflow added to the Database module",
+        "New configuration files introduced in the Database module, including `_config.yml` and updated `.jekyllignore`"
+      ],
+      "changed": [
+        "Halloween script paths updated globally across all pages and environments",
+        "Home page statistics refreshed",
+        "Tracking pixel index and search keyword index updated with revised paths for relocated pages",
+        "Main and legacy GSC export files updated",
+        "Page data files updated across all services",
+        "GSC index updated",
+        "Daily commit log updated",
+        "Changelog data updated",
+        "Multiple Halloween JS files moved to the new modules directory",
+        "Seasonal content system updated with a new default setting: disabled"
+      ],
+      "removed": [
+        "All bug hunting pages removed from sidebars across the entire ecosystem",
+        "Main bug hunting page removed from the website",
+        "Bug hunting JS and CSS files removed from Static CDN and the development website",
+        "JsDelivr references fully removed from multiple services, including the Configurator, Static CDN, and development website",
+        "Experimental build files removed from the Database module"
+      ],
+      "fixed": [
+        "Corrected image paths and alt text for blog cards in both main and development websites",
+        "Restored missing author fields for nine affected blog posts",
+        "Fixed blog-type badge fields for all bug hunting posts migrated to the blog section",
+        "Fixed sparse-checkout path issues in the Database module",
+        "Updated path handling for seasonal assets across all subdomains and CDN groups"
+      ]
+    },
+    {
       "version": "0.2.937",
       "date": "2025-11-21",
       "author": "HEAT Labs Team",
