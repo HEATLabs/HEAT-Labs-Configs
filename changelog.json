@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "version": "0.2.979",
+      "date": "2025-11-23",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #212",
+      "description": "Full patch notes for Update v0.2.979 (#212), detailing all changes made on 23 November, 2025.",
+      "added": [
+        "New Twitch social button added to the footer across all platforms and subdomains",
+        "New TikTok social button added globally to all footers",
+        "Twitch and Discord buttons added to the main Socials page",
+        "New short-form video uploaded to the Videos CDN",
+        "Copy of the Twitch banner added to the images repository",
+        "New platform-specific hover styles introduced on the Socials page",
+        "New TikTok button added to the Socials page in development environment",
+        "Socials grid layout refined for improved clarity in both production and development sites"
+      ],
+      "changed": [
+        "Website Schema updated across all HEAT Labs services to include the new Twitch URL",
+        "Website Schema updated globally to register the new unified social link set",
+        "Home page statistics refreshed",
+        "GSC index data updated",
+        "Main and legacy GSC export datasets refreshed",
+        "Changelog files updated",
+        "Daily commit log updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "No fixes were required for this update"
+      ]
+    },
+    {
       "version": "0.2.962",
       "date": "2025-11-22",
       "author": "HEAT Labs Team",
