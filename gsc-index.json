@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-11-23T03:46:08.984048",
+  "generated_at": "2025-11-25T00:56:23.649691",
   "site_url": "sc-domain:heatlabs.net",
   "data_type": "all_time",
   "data": {
     "site_url": "sc-domain:heatlabs.net",
-    "last_checked": "2025-11-23T03:46:08.516012",
+    "last_checked": "2025-11-25T00:56:23.327373",
     "date_range": {
       "start_date": "2025-05-16",
-      "end_date": "2025-11-23"
+      "end_date": "2025-11-25"
     },
     "pages": [
       {
@@ -21,9 +21,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 36,
-        "impressions": 273,
-        "ctr": 0.13186813186813187,
-        "position": 3.6446886446886446
+        "impressions": 285,
+        "ctr": 0.12631578947368421,
+        "position": 3.680701754385965
       },
       {
         "url": "https://heatlabs.net/steam-news/join-the-lodestar-program",
@@ -35,10 +35,10 @@
         "crawl_time": null,
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
-        "clicks": 5,
-        "impressions": 54,
-        "ctr": 0.09259259259259259,
-        "position": 5.981481481481482
+        "clicks": 6,
+        "impressions": 57,
+        "ctr": 0.10526315789473684,
+        "position": 6
       },
       {
         "url": "https://heatlabs.net/tanks/alvt",
@@ -50,10 +50,10 @@
         "crawl_time": null,
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
-        "clicks": 5,
-        "impressions": 44,
-        "ctr": 0.11363636363636363,
-        "position": 6.636363636363637
+        "clicks": 6,
+        "impressions": 46,
+        "ctr": 0.13043478260869565,
+        "position": 6.565217391304348
       },
       {
         "url": "https://heatlabs.net/tanks",
@@ -66,9 +66,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 2,
-        "impressions": 49,
-        "ctr": 0.04081632653061224,
-        "position": 9.204081632653061
+        "impressions": 51,
+        "ctr": 0.0392156862745098,
+        "position": 9.196078431372548
       },
       {
         "url": "https://heatlabs.net/announcements/alpha-2-has-ended",
@@ -116,6 +116,21 @@
         "position": 4.0625
       },
       {
+        "url": "https://heatlabs.net/blog/easter-egg-friday-01",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 1,
+        "impressions": 2,
+        "ctr": 0.5,
+        "position": 6.5
+      },
+      {
         "url": "https://heatlabs.net/blog/from-pcwstats-to-heat-labs",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -141,9 +156,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 1,
-        "impressions": 5,
-        "ctr": 0.2,
-        "position": 5.8
+        "impressions": 6,
+        "ctr": 0.16666666666666666,
+        "position": 6.166666666666667
       },
       {
         "url": "https://heatlabs.net/maps",
@@ -396,9 +411,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 13,
+        "impressions": 14,
         "ctr": 0,
-        "position": 14.538461538461538
+        "position": 14.285714285714286
       },
       {
         "url": "https://heatlabs.net/announcements/jamess-introduction",
@@ -444,6 +459,21 @@
         "impressions": 11,
         "ctr": 0,
         "position": 4.909090909090909
+      },
+      {
+        "url": "https://heatlabs.net/blog/easter-egg-friday-02",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 3
       },
       {
         "url": "https://heatlabs.net/blog/heat-labs-application",
@@ -561,9 +591,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 15,
+        "impressions": 16,
         "ctr": 0,
-        "position": 11.066666666666666
+        "position": 10.75
       },
       {
         "url": "https://heatlabs.net/bug-hunting/developer-guide-images",
@@ -591,9 +621,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 4,
         "ctr": 0,
-        "position": 29
+        "position": 24
       },
       {
         "url": "https://heatlabs.net/bug-hunting/hunting-for-potential-hidden-servers",
@@ -666,9 +696,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 4,
+        "impressions": 5,
         "ctr": 0,
-        "position": 25.25
+        "position": 23
       },
       {
         "url": "https://heatlabs.net/bug-hunting/the-three-badges",
@@ -756,9 +786,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 6,
+        "impressions": 7,
         "ctr": 0,
-        "position": 8.5
+        "position": 8.285714285714285
       },
       {
         "url": "https://heatlabs.net/builds.html",
@@ -951,9 +981,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 8,
+        "impressions": 9,
         "ctr": 0,
-        "position": 26
+        "position": 23.22222222222222
       },
       {
         "url": "https://heatlabs.net/maps/classified",
@@ -1871,6 +1901,21 @@
         "position": 6.125
       },
       {
+        "url": "https://heatlabs.net/playground/game-servers",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 5
+      },
+      {
         "url": "https://heatlabs.net/playground/heat-labs-app",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -1881,9 +1926,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 6,
+        "impressions": 7,
         "ctr": 0,
-        "position": 5.5
+        "position": 5.142857142857143
       },
       {
         "url": "https://heatlabs.net/playground/soundboard",
@@ -2016,9 +2061,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 5,
+        "impressions": 6,
         "ctr": 0,
-        "position": 7.6
+        "position": 7.666666666666667
       },
       {
         "url": "https://heatlabs.net/steam-news/join-the-lodestar-program#section-1",
@@ -2031,9 +2076,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 5,
+        "impressions": 6,
         "ctr": 0,
-        "position": 7.6
+        "position": 7.666666666666667
       },
       {
         "url": "https://heatlabs.net/steam-news/join-the-lodestar-program#section-2",
@@ -2046,9 +2091,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 5,
+        "impressions": 6,
         "ctr": 0,
-        "position": 7.6
+        "position": 7.666666666666667
       },
       {
         "url": "https://heatlabs.net/tanks/agds",
@@ -2136,9 +2181,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 36,
+        "impressions": 53,
         "ctr": 0,
-        "position": 19.666666666666668
+        "position": 19.433962264150942
       },
       {
         "url": "https://heatlabs.net/tanks/leopard-1a1b",
@@ -2361,9 +2406,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 25,
+        "impressions": 28,
         "ctr": 0,
-        "position": 5.64
+        "position": 5.821428571428571
       },
       {
         "url": "https://heatlabs.net/tanks/t-62ms",
@@ -2391,9 +2436,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 9,
+        "impressions": 10,
         "ctr": 0,
-        "position": 16.88888888888889
+        "position": 15.9
       },
       {
         "url": "https://heatlabs.net/tanks/t-72au",
@@ -2517,12 +2562,22 @@
       }
     ],
     "summary": {
-      "total_pages": 167,
-      "indexed_pages": 167,
+      "total_pages": 170,
+      "indexed_pages": 170,
       "not_indexed_pages": 0,
       "errors": 0
     },
     "sitemaps": [
+      {
+        "path": "https://heatlabs.net/site-data/sitemap.xml",
+        "last_submitted": "2025-11-25T09:00:51.193Z",
+        "is_pending": true,
+        "is_sitemaps_index": false,
+        "type": "sitemap",
+        "last_downloaded": "2025-11-19T06:03:48.618Z",
+        "warnings": "1",
+        "errors": "0"
+      },
       {
         "path": "https://status.heatlabs.net/site-data/sitemap.xml",
         "last_submitted": "2025-11-20T02:23:13.513Z",
@@ -2541,16 +2596,6 @@
         "type": "sitemap",
         "last_downloaded": "2025-11-20T09:59:49.424Z",
         "warnings": "0",
-        "errors": "0"
-      },
-      {
-        "path": "https://heatlabs.net/site-data/sitemap.xml",
-        "last_submitted": "2025-11-02T01:05:07.506Z",
-        "is_pending": false,
-        "is_sitemaps_index": false,
-        "type": "sitemap",
-        "last_downloaded": "2025-11-19T06:03:48.618Z",
-        "warnings": "1",
         "errors": "0"
       },
       {
@@ -2606,8 +2651,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 167,
-    "indexed_pages": 167,
+    "total_pages_found": 170,
+    "indexed_pages": 170,
     "errors": 0
   }
 }
