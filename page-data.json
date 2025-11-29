@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 264,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-11-29T09:02:40.635611"
+    "export_timestamp": "2025-11-29T09:13:41.185239"
   },
   "pages": [
     {
@@ -266,10 +266,10 @@
     },
     {
       "url": "https://heatlabs.net/blog/easter-egg-friday-04",
-      "gsc_status": "NOT NEEDED",
-      "g_api_status": "NOT NEEDED",
-      "https_status": "NOT NEEDED",
-      "breadcrumb_status": "NOT NEEDED"
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/blog/easter-egg-friday-05",
@@ -1856,22 +1856,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 65,
+      "pending": 66,
       "not_indexed": 0,
       "indexed": 189
     },
     "google_api_status": {
-      "pending": 101,
+      "pending": 102,
       "not_indexed": 0,
       "indexed": 153
     },
     "https_page_status": {
-      "unknown": 230,
+      "unknown": 231,
       "not_https": 0,
       "https": 24
     },
     "breadcrumb_status": {
-      "unknown": 230,
+      "unknown": 231,
       "invalid": 0,
       "valid": 24
     }
