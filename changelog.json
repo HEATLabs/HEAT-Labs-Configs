@@ -1,6 +1,107 @@
 {
   "updates": [
     {
+      "version": "0.3.005",
+      "date": "2025-11-28",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #217",
+      "description": "Full patch notes for Update v0.3.005 (#217), detailing all changes made on 28 November, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.3.001",
+      "date": "2025-11-27",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #216",
+      "description": "Full patch notes for Update v0.3.001 (#216), detailing all changes made on 27 November, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.2.997",
+      "date": "2025-11-26",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #215",
+      "description": "Full patch notes for Update v0.2.997 (#215), detailing all changes made on 26 November, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.2.993",
+      "date": "2025-11-25",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #214",
+      "description": "Full patch notes for Update v0.2.993 (#214), detailing all changes made on 25 November, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Moved agents page higher in the search order"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.2.989",
+      "date": "2025-11-24",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #213",
+      "description": "Full patch notes for Update v0.2.989 (#213), detailing all changes made on 24 November, 2025.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Home page statistics refreshed with the latest data",
+        "Page data files updated across multiple sections",
+        "GSC index data regenerated to reflect recent content changes",
+        "Legacy and main GSC export datasets updated",
+        "Changelog and daily commit log brought up to date",
+        "Developer-only page generator tool expanded with a missing page",
+        "Developer-only page on the main website updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.2.979",
       "date": "2025-11-23",
       "author": "HEAT Labs Team",
