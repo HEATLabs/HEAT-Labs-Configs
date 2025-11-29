@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 264,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-11-25T00:58:20.303421"
+    "export_timestamp": "2025-11-29T09:02:40.635611"
   },
   "pages": [
     {
@@ -974,7 +974,7 @@
     {
       "url": "https://heatlabs.net/news/alpha-1-facts-figures",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1387,7 +1387,7 @@
     {
       "url": "https://heatlabs.net/news/plant-defuse-mode",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1555,7 +1555,7 @@
     {
       "url": "https://heatlabs.net/resources/get-involved",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1821,7 +1821,7 @@
     {
       "url": "https://heatlabs.net/video-showcase",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1861,9 +1861,9 @@
       "indexed": 189
     },
     "google_api_status": {
-      "pending": 105,
+      "pending": 101,
       "not_indexed": 0,
-      "indexed": 149
+      "indexed": 153
     },
     "https_page_status": {
       "unknown": 230,
