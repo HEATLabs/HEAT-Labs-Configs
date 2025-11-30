@@ -1,11 +1,11 @@
 {
   "updates": [
     {
-      "version": "0.3.015",
+      "version": "0.3.003",
       "date": "2025-11-29",
       "author": "HEAT Labs Team",
       "title": "Update Number #218",
-      "description": "Full patch notes for Update v0.3.015 (#218), detailing all changes made on 29 November, 2025.",
+      "description": "Full patch notes for Update v0.3.003 (#218), detailing all changes made on 29 November, 2025.",
       "added": [
         "Easter Egg Friday #4 added to the main website and incorporated into the sitemap",
         "Easter Egg Friday #4 included in the search keyword index for improved discoverability"
@@ -26,11 +26,11 @@
       ]
     },
     {
-      "version": "0.3.005",
+      "version": "0.2.993",
       "date": "2025-11-28",
       "author": "HEAT Labs Team",
       "title": "Update Number #217",
-      "description": "Full patch notes for Update v0.3.005 (#217), detailing all changes made on 28 November, 2025.",
+      "description": "Full patch notes for Update v0.2.993 (#217), detailing all changes made on 28 November, 2025.",
       "added": [
         "Nothing was added in this update"
       ],
@@ -45,11 +45,11 @@
       ]
     },
     {
-      "version": "0.3.001",
+      "version": "0.2.989",
       "date": "2025-11-27",
       "author": "HEAT Labs Team",
       "title": "Update Number #216",
-      "description": "Full patch notes for Update v0.3.001 (#216), detailing all changes made on 27 November, 2025.",
+      "description": "Full patch notes for Update v0.2.989 (#216), detailing all changes made on 27 November, 2025.",
       "added": [
         "Nothing was added in this update"
       ],
@@ -64,11 +64,11 @@
       ]
     },
     {
-      "version": "0.2.997",
+      "version": "0.2.985",
       "date": "2025-11-26",
       "author": "HEAT Labs Team",
       "title": "Update Number #215",
-      "description": "Full patch notes for Update v0.2.997 (#215), detailing all changes made on 26 November, 2025.",
+      "description": "Full patch notes for Update v0.2.985 (#215), detailing all changes made on 26 November, 2025.",
       "added": [
         "Nothing was added in this update"
       ],
@@ -83,11 +83,11 @@
       ]
     },
     {
-      "version": "0.2.993",
+      "version": "0.2.981",
       "date": "2025-11-25",
       "author": "HEAT Labs Team",
       "title": "Update Number #214",
-      "description": "Full patch notes for Update v0.2.993 (#214), detailing all changes made on 25 November, 2025.",
+      "description": "Full patch notes for Update v0.2.981 (#214), detailing all changes made on 25 November, 2025.",
       "added": [
         "Nothing was added in this update"
       ],
@@ -102,11 +102,11 @@
       ]
     },
     {
-      "version": "0.2.989",
+      "version": "0.2.977",
       "date": "2025-11-24",
       "author": "HEAT Labs Team",
       "title": "Update Number #213",
-      "description": "Full patch notes for Update v0.2.989 (#213), detailing all changes made on 24 November, 2025.",
+      "description": "Full patch notes for Update v0.2.977 (#213), detailing all changes made on 24 November, 2025.",
       "added": [
         "Nothing was added in this update"
       ],
@@ -127,83 +127,77 @@
       ]
     },
     {
-      "version": "0.2.979",
+      "version": "0.2.967",
       "date": "2025-11-23",
       "author": "HEAT Labs Team",
       "title": "Update Number #212",
-      "description": "Full patch notes for Update v0.2.979 (#212), detailing all changes made on 23 November, 2025.",
+      "description": "Full patch notes for Update v0.2.967 (#212), detailing all changes made on 23 November, 2025.",
       "added": [
-        "New Twitch social button added to the footer across all platforms and subdomains",
-        "New TikTok social button added globally to all footers",
-        "Twitch and Discord buttons added to the main Socials page",
-        "New short-form video uploaded to the Videos CDN",
-        "Copy of the Twitch banner added to the images repository",
-        "New platform-specific hover styles introduced on the Socials page",
-        "New TikTok button added to the Socials page in development environment",
-        "Socials grid layout refined for improved clarity in both production and development sites"
+        "New Twitch social button added to the footer across all HEAT Labs websites, tools, dashboards, and subdomains",
+        "New TikTok social button introduced globally in all applicable footers",
+        "New platform-specific hover styles added to the Socials page",
+        "Updated Socials page with new Twitch, Discord, and TikTok buttons",
+        "New short-form video added to the Videos CDN",
+        "Copy of the new Twitch banner added to the images library"
       ],
       "changed": [
-        "Website Schema updated across all HEAT Labs services to include the new Twitch URL",
-        "Website Schema updated globally to register the new unified social link set",
-        "Home page statistics refreshed",
-        "GSC index data updated",
-        "Main and legacy GSC export datasets refreshed",
-        "Changelog files updated",
-        "Daily commit log updated"
+        "Home page statistics refreshed with updated values",
+        "GSC index, main export, and legacy export data updated",
+        "Changelog and daily commit logs updated",
+        "Page layout and grid structure improved on the Socials page for better readability"
       ],
       "removed": [
         "Nothing was removed in this update"
       ],
       "fixed": [
-        "No fixes were required for this update"
+        "Updated website schema across all services to include the new Twitch profile URL",
+        "Updated social metadata across all domains to register new social URLs",
+        "Synchronized schema and metadata updates across every CDN, subdomain, microservice, and internal tool"
       ]
     },
     {
-      "version": "0.2.962",
+      "version": "0.2.953",
       "date": "2025-11-22",
       "author": "HEAT Labs Team",
       "title": "Update Number #211",
-      "description": "Full patch notes for Update v0.2.962 (#211), detailing all changes made on 22 November, 2025.",
+      "description": "Full patch notes for Update v0.2.953 (#211), detailing all changes made on 22 November, 2025.",
       "added": [
-        "Christmas seasonal script integrated across all HEAT Labs domains, including website pages, CDN wrong-turn screens, redirect subdomains, API pages, and internal tools",
-        "Christmas-themed corner images added to the images library",
-        "Three new meme images added to the media repository",
-        "Custom deployment workflow added to the Database module",
-        "New configuration files introduced in the Database module, including `_config.yml` and updated `.jekyllignore`"
+        "Integrated Christmas seasonal script across all CDNs, pages, subdomains, and tools",
+        "Added Christmas corner images and several new meme images to the media library",
+        "Introduced custom deployment workflow and new Jekyll configuration files in Database repository",
+        "Added Christmas.js support to main website, statistics page, status page, socials, Discord subdomains, and tools",
+        "Moved all Bug Hunting pages into the blog section on the main website"
       ],
       "changed": [
-        "Halloween script paths updated globally across all pages and environments",
-        "Home page statistics refreshed",
-        "Tracking pixel index and search keyword index updated with revised paths for relocated pages",
-        "Main and legacy GSC export files updated",
-        "Page data files updated across all services",
-        "GSC index updated",
-        "Daily commit log updated",
-        "Changelog data updated",
-        "Multiple Halloween JS files moved to the new modules directory",
-        "Seasonal content system updated with a new default setting: disabled"
+        "Updated Halloween script paths across the entire HEAT Labs ecosystem for consistent module handling",
+        "Updated tracking pixel index, search keyword index, and page data to reflect new page paths",
+        "Refreshed home page statistics with new data",
+        "Updated main and legacy GSC export files",
+        "Updated sparse-checkout configuration and internal deployment tooling",
+        "Adjusted seasonal content settings in Static CDN (default now disabled)",
+        "Reworked blog card image paths, alt text, and metadata on the main site",
+        "Moved Halloween JS into modules folder and reorganized seasonal assets",
+        "Standardized Christmas JS integration across all wrong-turn CDN pages"
       ],
       "removed": [
-        "All bug hunting pages removed from sidebars across the entire ecosystem",
-        "Main bug hunting page removed from the website",
-        "Bug hunting JS and CSS files removed from Static CDN and the development website",
-        "JsDelivr references fully removed from multiple services, including the Configurator, Static CDN, and development website",
-        "Experimental build files removed from the Database module"
+        "Bug Hunting page removed from sidebars across all subdomains and CDNs",
+        "Removed bug hunting JS/CSS files from Static CDN",
+        "Removed JsDelivr references from Configurator and Static CDN",
+        "Removed experimental build files from the Database repository"
       ],
       "fixed": [
-        "Corrected image paths and alt text for blog cards in both main and development websites",
-        "Restored missing author fields for nine affected blog posts",
-        "Fixed blog-type badge fields for all bug hunting posts migrated to the blog section",
-        "Fixed sparse-checkout path issues in the Database module",
-        "Updated path handling for seasonal assets across all subdomains and CDN groups"
+        "Corrected faulty paths in sparse-checkout configuration",
+        "Fixed incorrect image paths and missing blog card metadata (including 9 missing author fields)",
+        "Resolved outdated Halloween script references across multiple CDNs and redirect pages",
+        "Fixed inconsistent sidebar items across all HEAT Labs services by removing deprecated Bug Hunting entries"
       ]
     },
     {
-      "version": "0.2.937",
+      "version": "0.2.931",
       "date": "2025-11-21",
       "author": "HEAT Labs Team",
       "title": "Update Number #210",
-      "description": "Full patch notes for Update v0.2.937 (#210), detailing all changes made on 21 November, 2025.",
+      "description": "Full patch notes for Update v0.2.931 (#210), detailing all changes made on 21 November, 2025.",
       "added": [
         "Restored a previously missing blog post across both main and development websites",
         "Published the new Easter Egg Friday #3 blog page",
@@ -229,11 +223,11 @@
       ]
     },
     {
-      "version": "0.2.922",
+      "version": "0.2.916",
       "date": "2025-11-20",
       "author": "HEAT Labs Team",
       "title": "Update Number #209",
-      "description": "Full patch notes for Update v0.2.922 (#209), detailing all changes made on 20 November, 2025.",
+      "description": "Full patch notes for Update v0.2.916 (#209), detailing all changes made on 20 November, 2025.",
       "added": [
         "Nothing was added in this update"
       ],
@@ -248,11 +242,11 @@
       ]
     },
     {
-      "version": "0.2.918",
+      "version": "0.2.912",
       "date": "2025-11-19",
       "author": "HEAT Labs Team",
       "title": "Update Number #208",
-      "description": "Full patch notes for Update v0.2.918 (#208), detailing all changes made on 19 November, 2025.",
+      "description": "Full patch notes for Update v0.2.912 (#208), detailing all changes made on 19 November, 2025.",
       "added": [
         "Two new miscellaneous images added to the HEAT Labs image library"
       ],
@@ -270,11 +264,11 @@
       ]
     },
     {
-      "version": "0.2.911",
+      "version": "0.2.905",
       "date": "2025-11-18",
       "author": "HEAT Labs Team",
       "title": "Update Number #207",
-      "description": "Full patch notes for Update v0.2.911 (#207), detailing all changes made on 18 November, 2025.",
+      "description": "Full patch notes for Update v0.2.905 (#207), detailing all changes made on 18 November, 2025.",
       "added": [
         "New data export added for legacy GSC datasets",
         "111 new replay files from dema_GG_UA added to the database",
@@ -300,44 +294,38 @@
       ]
     },
     {
-      "version": "0.2.896",
+      "version": "0.2.890",
       "date": "2025-11-17",
       "author": "HEAT Labs Team",
       "title": "Update Number #206",
-      "description": "Full patch notes for Update v0.2.896 (#206), detailing all changes made on 17 November, 2025.",
+      "description": "Full patch notes for Update v0.2.890 (#206), detailing all changes made on 17 November, 2025.",
       "added": [
-        "Game Mods page integrated into the search keyword index",
-        "New WIP scoreboard_data file introduced for testing the upcoming scoreboard system",
-        "New mods.json index file created for centralizing mod metadata",
-        "Tracking pixel index updated with a new entry for the mods page",
-        "Archive added containing all EoM screenshots from OAT1 and OAT2",
-        "Domains command in the Discord Bot updated to recognize the new mods subdomain",
-        "Mod-page-specific CSS and JS files added across main, static, and development environments",
-        "Sample preview images generated by the WIP OCR tool added to the internal tools repository",
-        "Complete implementation code for the new Mods page added to the development website",
-        "Placeholder pages created for upcoming Mods content in both main and dev environments",
-        "Views API updated with a new tracking pixel for the Mods page"
+        "Introduced the first version of the new Game Mods section, including its full HTML structure, placeholder pages, site-data files, and accompanying CNAME, robots.txt, and README files",
+        "Added dedicated CSS and JS bundles for the new mods page across both main and development environments",
+        "Added a new search keyword entry and tracking pixel support for the mods page",
+        "Created a work-in-progress scoreboard_data file for early testing",
+        "Added mods.json index file and updated configurator path references",
+        "Added archive containing all EoM screenshots from OAT1 and OAT2",
+        "Added sample preview images generated by the WIP OCR tool",
+        "Added teaser video update featuring the latest HEAT Labs logo",
+        "Added tracking pixel integration in Views API for the new mods page"
       ],
       "changed": [
-        "Page data files refreshed across configs",
-        "GSC index data updated to reflect new links and activity",
-        "Home page statistics refreshed",
-        "Updated path references to the configurator in the Mods index",
-        "Daily commit log updated",
-        "Changelog updated",
-        "Bot-static files synced with the latest bot data",
-        "Teaser video updated with the latest logo version"
+        "Updated general page data files, GSC index data, and home page statistics",
+        "Synced bot-static assets with the latest Discord bot files",
+        "Updated Discord bot domains command to include the new mods subdomain",
+        "Refreshed the mods page templates and corrected internal paths",
+        "Improved meta tags and data attributes for the mods page in both main and development sites"
       ],
       "removed": [
-        "Nexus Mods buttons removed from the footer across all services, subdomains, tools, and websites",
-        "Nexus Mods references removed from Discord Bot commands and the Socials domain",
-        "A total of 11 redundant pages removed from both the main website and development website"
+        "Removed Nexus Mods links and buttons from the main website, development website, statistics pages, status pages, Discord bot commands, socials pages, and all shared footers",
+        "Removed 11 outdated and redundant pages across both the main and development sites"
       ],
       "fixed": [
-        "Resolved social-page redirect issue that previously sent users to the Discord invite without notice",
-        "Corrected data-page tag on the game mods page in the development environment",
-        "Meta tags fixed for the game mods page in the development website",
-        "Incorrect OG URL fixed on the dev version of the new Mods page"
+        "Corrected a misbehaving redirect on the socials subdomain that previously forwarded users to a Discord invite without notice",
+        "Fixed data-page tag issues on the new game mods page in both main and development versions",
+        "Fixed path inconsistencies in the mods index file and associated subpages",
+        "Resolved incorrect OG URL metadata in the development version of the new mods page"
       ]
     },
     {
