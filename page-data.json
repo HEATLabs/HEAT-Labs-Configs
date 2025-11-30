@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 264,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-11-29T09:13:41.185239"
+    "export_timestamp": "2025-11-30T04:04:59.486087"
   },
   "pages": [
     {
@@ -575,7 +575,7 @@
     {
       "url": "https://heatlabs.net/guides/tank-guides/bat-4m-basic-guide",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1562,7 +1562,7 @@
     {
       "url": "https://heatlabs.net/resources/support-us",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
     },
@@ -1861,9 +1861,9 @@
       "indexed": 189
     },
     "google_api_status": {
-      "pending": 102,
+      "pending": 100,
       "not_indexed": 0,
-      "indexed": 153
+      "indexed": 155
     },
     "https_page_status": {
       "unknown": 231,
