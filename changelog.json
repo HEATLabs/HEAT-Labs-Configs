@@ -1,6 +1,31 @@
 {
   "updates": [
     {
+      "version": "0.3.015",
+      "date": "2025-11-29",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #218",
+      "description": "Full patch notes for Update v0.3.015 (#218), detailing all changes made on 29 November, 2025.",
+      "added": [
+        "Easter Egg Friday #4 added to the main website and incorporated into the sitemap",
+        "Easter Egg Friday #4 included in the search keyword index for improved discoverability"
+      ],
+      "changed": [
+        "Page data files updated, including resolution of a previously missing page",
+        "Home page statistics refreshed with the latest available data",
+        "Blog post ordering improved across both main and development websites",
+        "Legacy and main GSC export data updated",
+        "Daily commit log updated",
+        "GSC index data refreshed"
+      ],
+      "removed": [
+        "Bing-Index-Checker moved to the deprecated tools section"
+      ],
+      "fixed": [
+        "Incorrect or missing comment blocks corrected on the blogs page in both main and development sites"
+      ]
+    },
+    {
       "version": "0.3.005",
       "date": "2025-11-28",
       "author": "HEAT Labs Team",
