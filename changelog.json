@@ -1,6 +1,49 @@
 {
   "updates": [
     {
+      "version": "0.3.031",
+      "date": "2025-11-30",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #219",
+      "description": "Full patch notes for Update v0.3.031 (#219), detailing all changes made on 30 November, 2025.",
+      "added": [
+        "New command cards introduced for the /wotheat and /statistics commands in both the Discord Bot and development website",
+        "New TikTok and Twitch entries added to the socials configuration for the Discord Bot",
+        "wotheat.json created to consolidate all World of Tanks: HEAT links",
+        "Extensive new ad index data added, including text-based ads, image-based ads, video ad archives, and placeholder JSON and XLSX index files",
+        "New wrong-turn page added for CDN15",
+        "Placeholder files added for the model-loader module and ad index processor tool",
+        "Complete README and site data files added for the Archives repository"
+      ],
+      "changed": [
+        "Home page statistics refreshed with updated values",
+        "GSC index, main export, and legacy export datasets updated",
+        "Page data files refreshed across multiple repositories",
+        "Daily commit log updated",
+        "Changelog updated, including addition of missing entries",
+        "Category heading refined from h1 to h2 in the Tierlist Creator page on both main and development websites",
+        "Breadcrumb Schema updated across multiple blog posts to use correct URLs",
+        "Blog post listings updated with corrected post paths",
+        "Lodestar survey link updated to be clickable across both website environments"
+      ],
+      "removed": [
+        "Legacy bug-hunting links removed from sidebar navigation across main and development websites",
+        "Temporarily removed image-based ads before reformatting improvements were applied"
+      ],
+      "fixed": [
+        "Corrected About Us page path used in footer sections across several services",
+        "Resolved issues with incorrect URLs, malformed metadata fields, and schema inconsistencies in various tournament and agent pages",
+        "Fixed changelog version link formatting across all main and development website pages",
+        "Corrected Halloween script path in selected blog posts",
+        "Fixed og:url casing issues in the Arblast agent page (main + dev)",
+        "Corrected malformed navigation href attributes in the Discord Bot dev page",
+        "Fixed path issues on blog pages affecting one blog post on both main and dev websites",
+        "Updated Archives ads with corrected URLs, naming, HTTPS usage, and improved formatting",
+        "Fixed incorrect names and missing formatting in ad index files",
+        "Corrected footer path, page paths, and site data handling across Configs, Static, Statistics, and related repositories"
+      ]
+    },
+    {
       "version": "0.3.003",
       "date": "2025-11-29",
       "author": "HEAT Labs Team",
