@@ -1,6 +1,35 @@
 {
   "updates": [
     {
+      "version": "0.3.068",
+      "date": "2025-12-03",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #222",
+      "description": "Full patch notes for Update v0.3.068 (#222), detailing all changes made on 03 December, 2025.",
+      "added": [
+        "New full-resolution image added for the Leopard 1A6A1 in the Tanks library",
+        "Introduced the Tracking Pixel Manager tool and its placeholder script",
+        "Added the Media Processing Suite main script and placeholder file"
+      ],
+      "changed": [
+        "Updated image path for the Leopard 1A6A1 in the main tanks config",
+        "Refreshed home page statistics",
+        "Updated GSC export data (main and legacy), GSC index data, changelog, and daily commit log",
+        "Renamed DevOps-Runner.py to DevOps-General-Runner.py",
+        "Improved folder structure by reorganizing individual tools, deprecated tools, and tracking pixel tools",
+        "Enhanced DevOps-General-Runner header formatting",
+        "Adjusted quit messages across two unified tools",
+        "Removed redundant separator lines from tool output"
+      ],
+      "removed": [
+        "AI-upscaled image warning removed from the Leopard 1A6A1 page on both main and development websites",
+        "Site Data Updater and Search Keywords Checker removed from the DevOps unified tool"
+      ],
+      "fixed": [
+        "Cleaned up the localhost development script to properly ignore .tv and Discord links"
+      ]
+    },
+    {
       "version": "0.3.054",
       "date": "2025-12-02",
       "author": "HEAT Labs Team",
