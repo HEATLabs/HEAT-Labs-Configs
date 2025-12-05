@@ -1,6 +1,47 @@
 {
   "updates": [
     {
+      "version": "0.3.094",
+      "date": "2025-12-04",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #223",
+      "description": "Full patch notes for Update v0.3.094 (#223), detailing all changes made on 04 December, 2025.",
+      "added": [
+        "Introduced the new game build checker tool, including its initial output file",
+        "Added placeholder configuration files for upcoming dice and facts features in the Discord Bot",
+        "Implemented full command logic for the new /dice-roll, /dice-rank, and /facts commands",
+        "Added initial hash set for the future dice roll system",
+        "Added full-resolution XM1-90 and M1E1 tank images to the gallery"
+      ],
+      "changed": [
+        "Updated XM1-90 and M1E1 tank image paths in main configuration files",
+        "Refreshed home page stats with the newest game and site values",
+        "Updated GSC export (main and legacy) and GSC index data",
+        "Updated page data files across multiple internal services",
+        "Renamed the legacy heat_builds file to game_builds",
+        "Improved documentation for the Discord Bot with 3 new commands and revised command counter",
+        "Overhauled bot command URLs to use direct file links instead of CDN/local paths",
+        "Updated embed formatting for Discord Bot monitoring",
+        "Enabled automatic sharding and monitoring in the Discord Bot",
+        "Refreshed example environment file with a new configuration field",
+        "Updated the statistics command to display additional game information",
+        "Revised the footer version row across static sites to include game version and build metadata",
+        "Renamed footer label from 'Version' to 'Website Version' across static and development websites",
+        "Updated roulette special prize artwork in the features image set"
+      ],
+      "removed": [
+        "Removed AI upscale disclaimers from the XM1-90 and M1E1 tank pages (main and development sites)",
+        "Deleted the deprecated dice_hash.json experimental file"
+      ],
+      "fixed": [
+        "Corrected sitemap last-modified dates across multiple services",
+        "Fixed humans.txt last-update timestamps across all subsites and CDNs",
+        "Corrected bot documentation path in the website playground sidebar",
+        "Tweaked various image assets to fix display inconsistencies",
+        "Updated multiple documentation pages in dev and main environments to reflect new command icons and structure"
+      ]
+    },
+    {
       "version": "0.3.068",
       "date": "2025-12-03",
       "author": "HEAT Labs Team",
