@@ -1,6 +1,52 @@
 {
   "updates": [
     {
+      "version": "0.3.110",
+      "date": "2025-12-06",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #225",
+      "description": "Full patch notes for Update v0.3.110 (#225), detailing all changes made on 06 December, 2025.",
+      "added": [
+        "New monitor-specific webhook and token fields introduced in the example environment file"
+      ],
+      "changed": [
+        "Example environment file updated to reflect the latest monitoring configuration requirements"
+      ],
+      "removed": [
+        "Deprecated test environment fields removed from the Discord Bot configuration"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.3.106",
+      "date": "2025-12-05",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #224",
+      "description": "Full patch notes for Update v0.3.106 (#224), detailing all changes made on 05 December, 2025.",
+      "added": [
+        "New Easter Egg Friday blog post published on both the main website and the development environment",
+        "Placeholder files introduced for the upcoming JSON Metadata Runner and Page Content Runner unified tools"
+      ],
+      "changed": [
+        "Search keyword index refreshed to include the latest blog post",
+        "GSC index data updated",
+        "Sitemap updated to reflect the new blog post",
+        "Daily commit log updated",
+        "Changelog data updated",
+        "All remaining standalone developer tools relocated into a dedicated tools folder",
+        "Tracking-Pixel-Manager.py renamed to Tracking-Pixel-Runner.py",
+        "Media-Processing-Suite.py renamed to Media-Processing-Runner.py"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Resolved a missing Christmas script import affecting one blog post on both the main and development websites"
+      ]
+    },
+    {
       "version": "0.3.094",
       "date": "2025-12-04",
       "author": "HEAT Labs Team",
