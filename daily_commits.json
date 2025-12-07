@@ -1,4 +1,25 @@
 {
+  "2025-12-06": [
+    "[HEAT-Labs-Discord-Bot] removed test env fields",
+    "[HEAT-Labs-Discord-Bot] updated example env file with new monitor specific webhook field",
+    "[HEAT-Labs-Discord-Bot] updated example env file with new monitor specific token field"
+  ],
+  "2025-12-05": [
+    "[HEAT-Labs-Configs] updated search keyword index with new blog post",
+    "[HEAT-Labs-Configs] updated GSC index data",
+    "[HEAT-Labs-Configs] updated changelog",
+    "[HEAT-Labs-Configs] updated daily commit log",
+    "[HEAT-Labs-Tools] moved all remaining individual tools to dedicated folder",
+    "[HEAT-Labs-Tools] added placeholder file for future JSON Metadata Runner tool",
+    "[HEAT-Labs-Tools] renamed Tracking-Pixel-Manager.py to Tracking-Pixel-Runner.py",
+    "[HEAT-Labs-Tools] renamed Media-Processing-Suite.py to Media-Processing-Runner.py",
+    "[HEAT-Labs-Tools] added placeholder file for future Page Content Runner unified tool",
+    "[HEAT-Labs-Website] updated sitemap with new blog post",
+    "[HEAT-Labs-Website] added new easter egg friday blog post",
+    "[HEAT-Labs-Website] fixed missing christmas JS import in one blog post",
+    "[HEAT-Labs-Website-Development] added new easter egg friday blog post",
+    "[HEAT-Labs-Website-Development] fixed missing christmas JS import in one blog post"
+  ],
   "2025-12-04": [
     "[HEAT-Labs-Changelog] updated last mod date in sitemap file",
     "[HEAT-Labs-Changelog] updated last update field in humans.txt file",
