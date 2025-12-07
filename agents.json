@@ -2,6 +2,7 @@
   "agents": [
     {
       "id": 1,
+      "state": "displayed",
       "name": "Blitz",
       "slug": "blitz",
       "status": "Available Now",
@@ -29,6 +30,7 @@
     },
     {
       "id": 2,
+      "state": "displayed",
       "name": "Anansi",
       "slug": "anansi",
       "status": "Available Now",
@@ -46,6 +48,7 @@
     },
     {
       "id": 3,
+      "state": "displayed",
       "name": "Ember",
       "slug": "ember",
       "status": "Available Now",
@@ -73,6 +76,7 @@
     },
     {
       "id": 4,
+      "state": "displayed",
       "name": "Kent",
       "slug": "kent",
       "status": "Available Now",
@@ -100,6 +104,7 @@
     },
     {
       "id": 5,
+      "state": "displayed",
       "name": "Hound",
       "slug": "hound",
       "status": "Available Now",
@@ -122,6 +127,7 @@
     },
     {
       "id": 6,
+      "state": "displayed",
       "name": "Reaper",
       "slug": "reaper",
       "status": "Available Now",
@@ -144,6 +150,7 @@
     },
     {
       "id": 7,
+      "state": "displayed",
       "name": "Ray",
       "slug": "ray",
       "status": "To Be Released",
@@ -166,6 +173,7 @@
     },
     {
       "id": 8,
+      "state": "displayed",
       "name": "Udarnik",
       "slug": "udarnik",
       "status": "To Be Released",
@@ -188,6 +196,7 @@
     },
     {
       "id": 9,
+      "state": "displayed",
       "name": "Raketa",
       "slug": "raketa",
       "status": "Available Now",
@@ -215,6 +224,7 @@
     },
     {
       "id": 10,
+      "state": "displayed",
       "name": "Chopper",
       "slug": "chopper",
       "status": "Available Now",
@@ -237,6 +247,7 @@
     },
     {
       "id": 11,
+      "state": "displayed",
       "name": "Arblast",
       "slug": "arblast",
       "status": "To Be Released",
@@ -248,6 +259,7 @@
     },
     {
       "id": 12,
+      "state": "displayed",
       "name": "Atom",
       "slug": "atom",
       "status": "To Be Released",
@@ -259,6 +271,7 @@
     },
     {
       "id": 13,
+      "state": "displayed",
       "name": "Jager",
       "slug": "jager",
       "status": "To Be Released",
@@ -270,6 +283,7 @@
     },
     {
       "id": 14,
+      "state": "displayed",
       "name": "Punch",
       "slug": "punch",
       "status": "To Be Released",
@@ -281,6 +295,7 @@
     },
     {
       "id": 15,
+      "state": "displayed",
       "name": "Fantome",
       "slug": "fantome",
       "status": "To Be Released",
@@ -292,6 +307,7 @@
     },
     {
       "id": 16,
+      "state": "displayed",
       "name": "Akira",
       "slug": "akira",
       "status": "To Be Released",
