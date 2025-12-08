@@ -11,6 +11,14 @@
       "html_title": "Page Not Found - HEAT Labs"
     },
     {
+      "page_name": "Random",
+      "page_identifier": "random",
+      "html_file": "random",
+      "pixel_filename": "pcwstats-tracker-pixel-agents.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-random.png",
+      "html_title": "Random - HEAT Labs"
+    },
+    {
       "page_name": "Agents",
       "page_identifier": "agents",
       "html_file": "agents",
