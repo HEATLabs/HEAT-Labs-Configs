@@ -1,6 +1,33 @@
 {
   "updates": [
     {
+      "version": "0.3.122",
+      "date": "2025-12-07",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #226",
+      "description": "Full patch notes for Update v0.3.122 (#226), detailing all changes made on 07 December, 2025.",
+      "added": [
+        "Individual logo parts added for future design and branding use",
+        "14 new meme images added to the HEAT Labs Images library"
+      ],
+      "changed": [
+        "Home page statistics updated",
+        "Agent, map, and tank index files updated with new state field",
+        "Main and legacy GSC export data refreshed",
+        "Changelog and daily commit log updated",
+        "GSC index data updated",
+        "All meme images reorganized into a dedicated folder",
+        "Development unified tools folder renamed for clarity",
+        ".gitignore updated for improved development workflow"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.3.110",
       "date": "2025-12-06",
       "author": "HEAT Labs Team",
