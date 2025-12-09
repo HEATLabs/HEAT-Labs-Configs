@@ -1,6 +1,43 @@
 {
   "updates": [
     {
+      "version": "0.3.144",
+      "date": "2025-12-08",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #227",
+      "description": "Full patch notes for Update v0.3.144 (#227), detailing all changes made on 08 December, 2025.",
+      "added": [
+        "New subreddit button added across footer sections in multiple services, including the changelog, mods, statistics, status, and main website pages",
+        "New Discord server and Reddit buttons added to the Socials page and development Socials page",
+        "New tracking pixel introduced into both the main pixel index and Views API",
+        "New index file created for the Discord bot help command",
+        "New /random command added to the Discord bot, including documentation and help output integration",
+        "SVG and GIF variants of the WoT: HEAT logo added, along with four new individual logo pieces",
+        "Random Page redirect easter egg implemented across both the main site and development environment",
+        "Complete README document added to the Brand Kit repository"
+      ],
+      "changed": [
+        "Map index file updated with missing slug fields",
+        "Changelog and daily commit log refreshed with new activity",
+        "Discord bot help command enhanced with smart pagination, improved descriptions, reorganized categories, and updated listings",
+        "Socials config updated to include the new subreddit URL",
+        "Socials CSS files updated with Reddit styling on both main and dev websites",
+        "Static JS and CSS files updated with missing social URLs and minor formatting improvements",
+        "Daily commit fetcher tool expanded to support an additional repository",
+        "Main and development websites updated with new Google indexing scripts for all news-type pages"
+      ],
+      "removed": [
+        "Unused CSS imports removed from specific pages on both main and development websites"
+      ],
+      "fixed": [
+        "Incorrect CSS and JS paths corrected across several main and development site pages",
+        "Data-page fields and formatting corrected on various main and dev pages",
+        "Code indentation issues resolved in several affected pages",
+        "Help command documentation path fixed in the Discord bot",
+        "One page relocated in both main and development environments to ensure proper routing"
+      ]
+    },
+    {
       "version": "0.3.122",
       "date": "2025-12-07",
       "author": "HEAT Labs Team",
