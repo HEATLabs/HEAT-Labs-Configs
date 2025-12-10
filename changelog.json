@@ -1,6 +1,40 @@
 {
   "updates": [
     {
+      "version": "0.3.163",
+      "date": "2025-12-09",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #228",
+      "description": "Full patch notes for Update v0.3.163 (#228), detailing all changes made on 09 December, 2025.",
+      "added": [
+        "Implemented the complete Android app structure, including all core files and initial configuration",
+        "Added a new /support command to the Discord bot, along with full command documentation and a placeholder support.json file",
+        "Introduced site-data, sitemap files, wrong-turn pages, robots.txt, and CNAME for the new mobile app subdomain",
+        "Added multiple new game-artwork images and a new banner to the images repository",
+        "Included a missing template file used for GitHub social share banners"
+      ],
+      "changed": [
+        "Updated home page statistics",
+        "Refreshed changelog and daily commit log",
+        "Updated page data files, GSC export data (both main and legacy), and GSC index data",
+        "Enhanced the Discord bot help index with the new /support command",
+        "Improved the Android mobile app branding colors and overall code formatting",
+        "Updated splash background resources and refined the WebView behavior by hiding the status bar",
+        "Bumped Gradle distribution to 8.11.1 and Gradle version to 8.9.1",
+        "Updated the site-data tools and commit fetcher to support the new mobile subdomain and repository structure"
+      ],
+      "removed": [
+        "Removed the deprecated progress bar from the mobile app",
+        "Removed an unused CSS file from the static assets",
+        "Removed unused CSS imports from the random endpoint in both main and development sites",
+        "Removed a deprecated function from the Android app codebase"
+      ],
+      "fixed": [
+        "Corrected missing footer social buttons in two blog posts on both the main and development websites",
+        "Fixed incomplete or outdated sections of the bot documentation in the development environment, including missing command entries"
+      ]
+    },
+    {
       "version": "0.3.144",
       "date": "2025-12-08",
       "author": "HEAT Labs Team",
