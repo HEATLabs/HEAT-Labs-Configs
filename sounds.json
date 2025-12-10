@@ -44275,20 +44275,6 @@
       ]
     },
     {
-      "categoryName": "Music",
-      "categoryDescription": "Sound files from music directory",
-      "categoryItems": [
-        {
-          "soundID": "music-1",
-          "soundType": "Music",
-          "soundSource": "Open Alpha Playtest #2",
-          "soundFile": "https://cdn3.heatlabs.net/sounds/OAT2/music/1.mp3",
-          "soundName": "Soundtrack #1",
-          "soundDescription": "Sound file from music directory"
-        }
-      ]
-    },
-    {
       "categoryName": "Map Objects",
       "categoryDescription": "Sound files from objects directory",
       "categoryItems": [
@@ -52011,6 +51997,28 @@
           "soundFile": "https://cdn3.heatlabs.net/sounds/OAT1/objects/99.mp3",
           "soundName": "Object Sound #99",
           "soundDescription": "Sound file from objects directory"
+        }
+      ]
+    },
+    {
+      "categoryName": "Music",
+      "categoryDescription": "Sound files from music directory",
+      "categoryItems": [
+        {
+          "soundID": "music-1",
+          "soundType": "Music",
+          "soundSource": "Open Alpha Playtest #1",
+          "soundFile": "https://cdn3.heatlabs.net/sounds/OAT1/music/1.mp3",
+          "soundName": "Garage OST",
+          "soundDescription": "Sound file from music directory"
+        },
+        {
+          "soundID": "music-2",
+          "soundType": "Music",
+          "soundSource": "Open Alpha Playtest #2",
+          "soundFile": "https://cdn3.heatlabs.net/sounds/OAT2/music/1.mp3",
+          "soundName": "Garage OST",
+          "soundDescription": "Sound file from music directory"
         }
       ]
     },
