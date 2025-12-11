@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 264,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-12-09T06:09:42.822086"
+    "export_timestamp": "2025-12-11T13:24:42.457320"
   },
   "pages": [
     {
@@ -127,7 +127,7 @@
     {
       "url": "https://heatlabs.net/agents/raketa",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -358,7 +358,7 @@
     {
       "url": "https://heatlabs.net/blog/meet-the-team-esmatty",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -442,7 +442,7 @@
     {
       "url": "https://heatlabs.net/blog/discovery-of-corex",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -743,7 +743,7 @@
     {
       "url": "https://heatlabs.net/maps/deserted",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -778,7 +778,7 @@
     {
       "url": "https://heatlabs.net/maps/harvest",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1861,9 +1861,9 @@
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 98,
+      "pending": 93,
       "not_indexed": 0,
-      "indexed": 157
+      "indexed": 162
     },
     "https_page_status": {
       "unknown": 231,
