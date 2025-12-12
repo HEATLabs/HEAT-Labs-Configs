@@ -1795,6 +1795,14 @@
       "html_title": "PWA App - HEAT Labs"
     },
     {
+      "page_name": "Mobile App",
+      "page_identifier": "//app.heatlabs.net",
+      "html_file": "//app.heatlabs.net",
+      "pixel_filename": "pcwstats-tracker-pixel-heat-labs-mobile-app.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-heat-labs-mobile-app.png",
+      "html_title": "Mobile App - HEAT Labs"
+    },
+    {
       "page_name": "Tank Roulette",
       "page_identifier": "roulette",
       "html_file": "playground/roulette",
