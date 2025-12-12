@@ -1,22 +1,55 @@
 {
   "updates": [
     {
-      "version": "0.3.171",
+      "version": "0.3.204",
       "date": "2025-12-11",
       "author": "HEAT Labs Team",
       "title": "Update Number #230",
-      "description": "Full patch notes for Update v0.3.171 (#230), detailing all changes made on 11 December, 2025.",
+      "description": "Full patch notes for Update v0.3.204 (#230), detailing all changes made on 11 December, 2025.",
       "added": [
-        "Nothing was added in this update"
+        "New tracking pixel entry added to the index file",
+        "Missing sitemap restored to GSC index data",
+        "Several new versions of the HEAT Labs Mobile App archived (v1.2 through v2.3)",
+        "Dedicated error pages introduced in the mobile app",
+        "New animation controls added for splash and loading screens",
+        "New loading spinner implemented for page transitions",
+        "Tracking pixel implemented in the mobile app",
+        "Missing colors and strings files added to values-night resources",
+        "New meme images added to the images library",
+        "New tracking pixel image added to the Views API"
       ],
       "changed": [
-        "Nothing was changed in this update"
+        "Page data files updated",
+        "Changelog refreshed",
+        "Main and legacy GSC export datasets updated",
+        "GSC index data updated to reflect new sitemap and recent changes",
+        "Gradle configuration cache enabled in mobile app",
+        "Mobile app bumped through multiple version updates (v1.3 through v2.3)",
+        "Target SDK, build settings, and dependencies updated to latest versions",
+        "Mobile app error pages improved with structured error code fields",
+        "Mobile app functions modernized to use KTX extension utilities",
+        "Mobile app splash screen configuration simplified",
+        "Mobile app loading phase refined to use splash screen during initialization",
+        "Layout files updated to remove hardcoded logo references",
+        "Code formatting improved across the mobile app",
+        "Linter configuration refined",
+        "Gradle version updated from 8.9.1 to 8.9.3"
       ],
       "removed": [
-        "Nothing was removed in this update"
+        "Unused targetApi fields removed from mobile app",
+        "Deprecated or outdated project comments removed",
+        "Redundant commented sections in extraction rules cleaned up",
+        "Unused imports removed from multiple mobile app files",
+        "Old animation controls removed from the mobile app"
       ],
       "fixed": [
-        "Nothing was fixed in this update"
+        "Corrected incorrect text in one soundboard entry",
+        "Fixed wrong filename reference in tracking pixel index file",
+        "Resolved multiple issues affecting GSC index integration",
+        "Corrected WebViewActivity error handling logic in mobile app",
+        "Fixed inconsistencies in archive version handling",
+        "Resolved issues caused by missing or mislocated resource files",
+        "Corrected minor pathing and reference issues within various app modules"
       ]
     },
     {
