@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 264,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-12-11T13:24:42.457320"
+    "export_timestamp": "2025-12-12T13:38:44.974333"
   },
   "pages": [
     {
@@ -379,7 +379,7 @@
     {
       "url": "https://heatlabs.net/blog/meet-the-team-ven0m",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1861,9 +1861,9 @@
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 93,
+      "pending": 92,
       "not_indexed": 0,
-      "indexed": 162
+      "indexed": 163
     },
     "https_page_status": {
       "unknown": 231,
