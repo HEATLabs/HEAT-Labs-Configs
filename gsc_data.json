@@ -1321,8 +1321,8 @@
   },
   "2025-12-10": {
     "breadcrumbs": {
-      "invalid": "N/A",
-      "valid": "N/A"
+      "invalid": 0,
+      "valid": 29
     },
     "coverage": {
       "not_indexed": "N/A",
@@ -1332,6 +1332,26 @@
     "https": {
       "non_https_urls": 0,
       "https_urls": 27
+    },
+    "video_indexing": {
+      "no_video_indexed": "N/A",
+      "video_indexed": "N/A",
+      "impressions": "N/A"
+    }
+  },
+  "2025-12-11": {
+    "breadcrumbs": {
+      "invalid": 0,
+      "valid": 29
+    },
+    "coverage": {
+      "not_indexed": "N/A",
+      "indexed": "N/A",
+      "impressions": "N/A"
+    },
+    "https": {
+      "non_https_urls": 0,
+      "https_urls": 29
     },
     "video_indexing": {
       "no_video_indexed": "N/A",
