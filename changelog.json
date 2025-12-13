@@ -1,6 +1,51 @@
 {
   "updates": [
     {
+      "version": "0.3.234",
+      "date": "2025-12-12",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #231",
+      "description": "Full patch notes for Update v0.3.234 (#231), detailing all changes made on 12 December, 2025.",
+      "added": [
+        "Brand-new Memes page added to the main and development websites",
+        "Initial meme index system introduced, including validation and tooling",
+        "Multiple new meme images added across the Images repositories",
+        "Easter Egg Friday #6 blog post published",
+        "Dedicated mobile app page completed and prepared ahead of release",
+        "New meme index checker tool added for internal use",
+        "Placeholder and final static CSS/JS assets added for the mobile app page",
+        "Mobile app version 2.4 added to the archive and set as current"
+      ],
+      "changed": [
+        "Credits page fully merged into the About Us page across all platforms",
+        "Sidebar navigation updated site-wide to remove legacy Credits links",
+        "Footer social icon styling updated globally to improve mobile usability",
+        "Search keyword index updated with new pages and blog posts",
+        "Tracking pixel index updated, including support for the mobile app page",
+        "Meme index file refined with improved naming and structure",
+        "Home page statistics refreshed",
+        "Playground page updated with the new mobile app card and naming",
+        "PWA app page wording refined",
+        "Changelog, daily commit log, and page data files updated",
+        "Google Search Console index and export data refreshed (main and legacy)",
+        "Development tools and generators updated with missing and corrected pages"
+      ],
+      "removed": [
+        "Standalone Credits page and associated CSS files",
+        "Credits page references from sitemap, sidebar menus, and tracking indexes",
+        "Deprecated meme and video meme assets"
+      ],
+      "fixed": [
+        "Twitter meta tag issue resolved on changelog pages",
+        "Incorrect path to the tank stats page fixed in the main agents page",
+        "Missing footer and metadata issues resolved on the mobile app page",
+        "Tracking pixel asset restored in the Views API",
+        "Layout and class inconsistencies fixed across CDN, redirect, and subdomain pages",
+        "Mobile UX issues addressed across website, CDN pages, and internal tools",
+        "Improved error handling and network state checks in the mobile app"
+      ]
+    },
+    {
       "version": "0.3.204",
       "date": "2025-12-11",
       "author": "HEAT Labs Team",
