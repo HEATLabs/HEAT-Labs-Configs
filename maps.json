@@ -3,6 +3,7 @@
     {
       "id": 1,
       "state": "displayed",
+      "status": "Available Now",
       "name": "Aircraft Carrier",
       "slug": "aircraft-carrier",
       "type": "Unknown Type",
@@ -12,7 +13,8 @@
     },
     {
       "id": 2,
-      "state": "displayed",
+      "state": "hidden",
+      "status": "To Be Released",
       "name": "Baikonur",
       "slug": "baikonur",
       "type": "Unknown Type",
@@ -23,6 +25,7 @@
     {
       "id": 3,
       "state": "displayed",
+      "status": "Available Now",
       "name": "Ballistic Range",
       "slug": "ballistic-range",
       "type": "Unknown Type",
@@ -33,6 +36,7 @@
     {
       "id": 4,
       "state": "displayed",
+      "status": "Available Now",
       "name": "Blossom Crash",
       "slug": "blossom-crash",
       "type": "Unknown Type",
@@ -42,7 +46,8 @@
     },
     {
       "id": 5,
-      "state": "displayed",
+      "state": "hidden",
+      "status": "To Be Released",
       "name": "Inferno",
       "slug": "inferno",
       "type": "Unknown Type",
@@ -52,7 +57,8 @@
     },
     {
       "id": 6,
-      "state": "displayed",
+      "state": "hidden",
+      "status": "To Be Released",
       "name": "Military Training",
       "slug": "military-training",
       "type": "Unknown Type",
@@ -62,7 +68,8 @@
     },
     {
       "id": 7,
-      "state": "displayed",
+      "state": "hidden",
+      "status": "To Be Released",
       "name": "Moonshot",
       "slug": "moonshot",
       "type": "Unknown Type",
@@ -73,6 +80,7 @@
     {
       "id": 8,
       "state": "displayed",
+      "status": "Available Now",
       "name": "Nexus Dam",
       "slug": "nexus-dam",
       "type": "Unknown Type",
@@ -83,6 +91,7 @@
     {
       "id": 9,
       "state": "displayed",
+      "status": "Available Now",
       "name": "Nord Oko",
       "slug": "nord-oko",
       "type": "Unknown Type",
@@ -93,6 +102,7 @@
     {
       "id": 10,
       "state": "displayed",
+      "status": "Available Now",
       "name": "Project Phoenix",
       "slug": "project-phoenix",
       "type": "Unknown Type",
@@ -102,7 +112,8 @@
     },
     {
       "id": 11,
-      "state": "displayed",
+      "state": "hidden",
+      "status": "To Be Released",
       "name": "Ring of Fury",
       "slug": "ring of-fury",
       "type": "Unknown Type",
@@ -113,6 +124,7 @@
     {
       "id": 12,
       "state": "displayed",
+      "status": "Available Now",
       "name": "Scarred City",
       "slug": "scarred-city",
       "type": "Unknown Type",
@@ -123,6 +135,7 @@
     {
       "id": 13,
       "state": "displayed",
+      "status": "Available Now",
       "name": "Sunstroke",
       "slug": "sunstroke",
       "type": "Unknown Type",
