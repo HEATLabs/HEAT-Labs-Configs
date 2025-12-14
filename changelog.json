@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "version": "0.3.251",
+      "date": "2025-12-13",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #232",
+      "description": "Full patch notes for Update v0.3.251 (#232), detailing all changes made on 13 December, 2025.",
+      "added": [
+        "New /memes command added to the HEAT Labs Discord Bot",
+        "Additional status entries introduced for the Discord Bot",
+        "11 new meme images added to the HEAT Labs meme collection"
+      ],
+      "changed": [
+        "Map index updated with missing status, size, and type fields",
+        "State updated for multiple maps to improve visibility handling",
+        "Several agents and specific vehicles set to hidden state",
+        "Meme index refined with renamed entries, updated naming consistency, and new additions",
+        "Home page counters updated to support the new state field",
+        "Maps page updated to fetch data directly from JSON sources",
+        "Agents, tanks, and maps pages updated to respect state-based visibility rules",
+        "Support Us page updated with corrected URLs",
+        "Discord Bot documentation and help index updated to include the new /memes command",
+        "Changelog and daily commit log updated"
+      ],
+      "removed": [
+        "Two outdated meme images removed from the meme index and image library"
+      ],
+      "fixed": [
+        "Corrected an incorrect slug in a map entry",
+        "Resolved missing or inconsistent map metadata in index files",
+        "Aligned website and development environments to use the updated state-aware data structure"
+      ]
+    },
+    {
       "version": "0.3.234",
       "date": "2025-12-12",
       "author": "HEAT Labs Team",
