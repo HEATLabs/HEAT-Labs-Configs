@@ -1,6 +1,48 @@
 {
   "updates": [
     {
+      "version": "0.3.278",
+      "date": "2025-12-14",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #233",
+      "description": "Full patch notes for Update v0.3.278 (#233), detailing all changes made on 14 December, 2025.",
+      "added": [
+        "Support links, social URLs, and an updated disclaimer added to the HEAT Labs GitHub organization README",
+        "New video thumbnail images added to the dedicated HEAT Labs Videos repository",
+        "Team member list added to the HEAT Labs Brand Kit",
+        "New solid and transparent logo variants added to the Brand Kit",
+        "New subdomain registered and indexed for the Discord Bot service",
+        "Multiple new status entries added to the Discord Bot status index",
+        "Initial and experimental implementation of the HEAT Labs Games subdomain, including full page structure, assets, configs, and documentation",
+        "Local copies of required images, sounds, site-data files, and configuration files added to the Games subdomain"
+      ],
+      "changed": [
+        "Google Search Console index, sitemap data, and export files updated (main and legacy)",
+        "Page data files refreshed across core configurations",
+        "Changelog and daily commit log updated",
+        "Video thumbnails reorganized between image and video repositories",
+        "Brand Kit updated with expanded visual asset coverage",
+        "Games subdomain header layout, spacing, sizing, and scaling refined",
+        "Games sitemap updated to include previously missing pages",
+        "Games pages reformatted for consistency and cleaner structure",
+        "Developer tools updated to recognize and process the new Games subdomain and repositories",
+        "Devs-only website page updated with new pages and cleaned up legacy entries"
+      ],
+      "removed": [
+        "Unused CSS, JS, modules, imports, variables, and redundant scripts from all Games subdomain pages",
+        "Tracking pixel and image protection scripts removed from the Games subdomain",
+        "Unused UI elements, buttons, and placeholder content removed from all game pages",
+        "Video thumbnails removed from the main Images CDN after migration to the Videos repository"
+      ],
+      "fixed": [
+        "Corrected invalid sitemap and manifest paths across all Games pages",
+        "Resolved incorrect local and remote asset paths throughout the Games subdomain",
+        "Fixed broken site-data references by migrating all Games pages to fully local paths",
+        "Cleaned and stabilized CSS and JS files in preparation for a full rewrite",
+        "Addressed formatting and path inconsistencies across HTML, CSS, and JS in all Games pages"
+      ]
+    },
+    {
       "version": "0.3.251",
       "date": "2025-12-13",
       "author": "HEAT Labs Team",
