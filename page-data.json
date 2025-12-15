@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 264,
+    "total_pages": 265,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-12-14T03:17:02.711112"
+    "export_timestamp": "2025-12-15T20:04:44.818871"
   },
   "pages": [
     {
@@ -244,6 +244,34 @@
       "breadcrumb_status": "VALID"
     },
     {
+      "url": "https://heatlabs.net/blog/alpha-2-fuel-crit-multiplier",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/damage-calculation",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/developer-guide-images",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/discovery-of-corex",
+      "gsc_status": "PENDING",
+      "g_api_status": "INDEXED",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/blog/easter-egg-friday-01",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -335,6 +363,20 @@
       "breadcrumb_status": "NOT NEEDED"
     },
     {
+      "url": "https://heatlabs.net/blog/exploring-animation-and-movement-desync",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/exploring-the-main-menu-garage",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/blog/from-pcwstats-to-heat-labs",
       "gsc_status": "PENDING",
       "g_api_status": "INDEXED",
@@ -345,6 +387,20 @@
       "url": "https://heatlabs.net/blog/heat-labs-application",
       "gsc_status": "PENDING",
       "g_api_status": "INDEXED",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/hunting-for-potential-hidden-servers",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/info-from-developers",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -372,7 +428,7 @@
     {
       "url": "https://heatlabs.net/blog/meet-the-team-sinewave",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -391,93 +447,16 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/blog/new-playground-features",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/blog/tournament-feature-blog",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/blog/views-api-outage",
-      "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/blog/website-plans-and-mission",
-      "gsc_status": "PENDING",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/blog/alpha-2-fuel-crit-multiplier",
-      "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/blog/damage-calculation",
-      "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/blog/developer-guide-images",
-      "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/blog/discovery-of-corex",
-      "gsc_status": "PENDING",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/blog/exploring-animation-and-movement-desync",
-      "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/blog/exploring-the-main-menu-garage",
-      "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/blog/hunting-for-potential-hidden-servers",
-      "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/blog/info-from-developers",
-      "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
       "url": "https://heatlabs.net/blog/mysterious-engine-picture",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/new-playground-features",
+      "gsc_status": "INDEXED",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -510,9 +489,30 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
+      "url": "https://heatlabs.net/blog/tournament-feature-blog",
+      "gsc_status": "INDEXED",
+      "g_api_status": "INDEXED",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/blog/unlocking-the-camera",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/views-api-outage",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/website-plans-and-mission",
+      "gsc_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -631,7 +631,7 @@
     {
       "url": "https://heatlabs.net/legal/terms-of-service",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1149,7 +1149,7 @@
     {
       "url": "https://heatlabs.net/news/balanced-and-reworked-maps",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1455,6 +1455,13 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
+      "url": "https://heatlabs.net/players",
+      "gsc_status": "PENDING",
+      "g_api_status": "INDEXED",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/playground",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -1520,7 +1527,7 @@
     {
       "url": "https://heatlabs.net/playground/wordle",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1856,22 +1863,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 67,
+      "pending": 68,
       "not_indexed": 0,
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 91,
+      "pending": 87,
       "not_indexed": 0,
-      "indexed": 166
+      "indexed": 171
     },
     "https_page_status": {
-      "unknown": 233,
+      "unknown": 234,
       "not_https": 0,
       "https": 24
     },
     "breadcrumb_status": {
-      "unknown": 233,
+      "unknown": 234,
       "invalid": 0,
       "valid": 24
     }
