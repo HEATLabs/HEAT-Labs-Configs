@@ -1,6 +1,48 @@
 {
   "updates": [
     {
+      "version": "0.3.305",
+      "date": "2025-12-15",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #234",
+      "description": "Full patch notes for Update v0.3.305 (#234), detailing all changes made on 15 December, 2025.",
+      "added": [
+        "Multiple new meme images added across the main images library and meme index",
+        "New Discord bot visuals, including activity-specific and command showcase images",
+        "Fully implemented Tierlist, Wordle, and Random Tank Selector games",
+        "New countdown page replacing the previous Alpha 3 playtest page",
+        "Discord Activity Rich Presence support across games pages",
+        "Experimental cards added to the main games overview page",
+        "Hide Chat notice added to all game headers"
+      ],
+      "changed": [
+        "Homepage statistics updated",
+        "Page data files refreshed",
+        "Main and legacy GSC export data updated",
+        "GSC index data updated",
+        "Changelog and daily commit log updated",
+        "Games layout adjusted to be more compact and consistent",
+        "Item sizing and spacing refined across multiple game pages",
+        "Notification behavior and modal formatting improved in the countdown experience",
+        "Meta tags and naming refined for better compatibility and clarity",
+        "JavaScript structure reorganized and consolidated for maintainability",
+        "Content-Security-Policy configuration iterated and finalized for games pages"
+      ],
+      "removed": [
+        "Unused game assets, including obsolete logos, sound files, and images",
+        "Unused and experimental JavaScript files and imports",
+        "Deprecated save, share, reset, and unranked-item UI elements in the Tierlist game",
+        "Legacy Discord RPC test files and metadata no longer in use"
+      ],
+      "fixed": [
+        "Resolved layout and z-index issues affecting multiple game components",
+        "Corrected meta URL handling on the countdown page",
+        "Fixed path inconsistencies across all games pages",
+        "Improved window size detection and refresh behavior",
+        "Stabilized Discord RPC integration after iterative testing and cleanup"
+      ]
+    },
+    {
       "version": "0.3.278",
       "date": "2025-12-14",
       "author": "HEAT Labs Team",
