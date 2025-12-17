@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 265,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-12-15T20:04:44.818871"
+    "export_timestamp": "2025-12-17T12:48:38.924666"
   },
   "pages": [
     {
@@ -365,7 +365,7 @@
     {
       "url": "https://heatlabs.net/blog/exploring-animation-and-movement-desync",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1868,9 +1868,9 @@
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 87,
+      "pending": 86,
       "not_indexed": 0,
-      "indexed": 171
+      "indexed": 172
     },
     "https_page_status": {
       "unknown": 234,
