@@ -1,6 +1,37 @@
 {
   "updates": [
     {
+      "version": "0.3.321",
+      "date": "2025-12-16",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #235",
+      "description": "Full patch notes for Update v0.3.321 (#235), detailing all changes made on 16 December, 2025.",
+      "added": [
+        "New Partners section introduced across footers on all HEAT Labs websites, CDNs, tools, and services",
+        "New /partners command added to the HEAT Labs Discord Bot",
+        "New partners configuration file added for Discord Bot command handling",
+        "HEAT Labs Partners section added to the Support Us page",
+        "One new meme image added to the images library"
+      ],
+      "changed": [
+        "Footer layout refined by adjusting grid sizing for improved consistency and spacing",
+        "Footer community credits entry updated to point to the Frequent Questions section",
+        "Discord Bot documentation updated to include the new partners command",
+        "Help command index updated to reflect newly added bot commands",
+        "Ad policy wording clarified and refined on the support pages",
+        "Meme index updated with newly added image",
+        "Changelog updated",
+        "Daily commit log updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Minor footer layout inconsistencies across multiple HEAT Labs services and subdomains",
+        "Documentation gaps related to newly added Discord Bot functionality"
+      ]
+    },
+    {
       "version": "0.3.305",
       "date": "2025-12-15",
       "author": "HEAT Labs Team",
