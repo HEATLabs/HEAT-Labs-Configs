@@ -1,6 +1,34 @@
 {
   "updates": [
     {
+      "version": "0.3.334",
+      "date": "2025-12-17",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #236",
+      "description": "Full patch notes for Update v0.3.334 (#236), detailing all changes made on 17 December, 2025.",
+      "added": [
+        "New meme image added to the HEAT Labs image collection",
+        "Additional mockup image assets introduced",
+        "Complete christmas.js module added to the static assets system",
+        "Complete christmas.js module added to the development website environment"
+      ],
+      "changed": [
+        "Main Google Search Console export data updated",
+        "Legacy Google Search Console export data refreshed",
+        "Meme index updated to include the newly added image",
+        "GSC index data updated",
+        "Page data files updated",
+        "Changelog updated",
+        "Daily commit log updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.3.321",
       "date": "2025-12-16",
       "author": "HEAT Labs Team",
