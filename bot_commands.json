@@ -1,0 +1,562 @@
+[
+  {
+    "id": "1428998650754760766",
+    "application_id": "1428996958776725504",
+    "version": "1428998650880852014",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "agent",
+    "description": "View detailed information about a specific HEAT Labs agent",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "options": [
+      {
+        "type": 3,
+        "name": "name",
+        "description": "The name of the agent you want to view",
+        "required": true,
+        "autocomplete": true
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1428998650754760767",
+    "application_id": "1428996958776725504",
+    "version": "1428998650880852015",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "agents",
+    "description": "View all available agents in HEAT Labs, filtered by status",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "options": [
+      {
+        "type": 3,
+        "name": "status",
+        "description": "Select agent status: All, Available, or Unreleased",
+        "choices": [
+          {
+            "name": "All",
+            "value": "All"
+          },
+          {
+            "name": "Available",
+            "value": "Available"
+          },
+          {
+            "name": "Unreleased",
+            "value": "Unreleased"
+          }
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1428998650754760768",
+    "application_id": "1428996958776725504",
+    "version": "1428998650880852016",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "contact",
+    "description": "Contact the HEAT Labs team for support, feedback, or to join our team",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1428998650754760769",
+    "application_id": "1428996958776725504",
+    "version": "1428998650880852017",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "contributors",
+    "description": "View all HEAT Labs contributors",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1428998650754760770",
+    "application_id": "1428996958776725504",
+    "version": "1428998651023200329",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "domains",
+    "description": "View all official HEAT Labs domains and services",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1428998650754760771",
+    "application_id": "1428996958776725504",
+    "version": "1447586376869744704",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "help",
+    "description": "View all available HEAT Labs bot commands",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "options": [
+      {
+        "type": 4,
+        "name": "page",
+        "description": "Page number to view (optional)",
+        "autocomplete": true
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1428998650754760772",
+    "application_id": "1428996958776725504",
+    "version": "1428998651023200331",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "map",
+    "description": "View detailed information about a specific HEAT Labs map",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "options": [
+      {
+        "type": 3,
+        "name": "name",
+        "description": "The name of the map you want to view",
+        "required": true,
+        "autocomplete": true
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1428998650754760773",
+    "application_id": "1428996958776725504",
+    "version": "1428998651023200332",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "maps",
+    "description": "View all available maps in HEAT Labs",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1428998650754760774",
+    "application_id": "1428996958776725504",
+    "version": "1428998651023200333",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "player",
+    "description": "Get detailed information about a specific player - Feature in development",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "options": [
+      {
+        "type": 3,
+        "name": "player_name",
+        "description": "Name of the player to look up",
+        "required": true
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1428998650754760775",
+    "application_id": "1428996958776725504",
+    "version": "1428998651023200334",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "players",
+    "description": "View all players - Feature in development",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1428998650880852008",
+    "application_id": "1428996958776725504",
+    "version": "1428998651023200335",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "socials",
+    "description": "View all official HEAT Labs social media and community links",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1428998650880852009",
+    "application_id": "1428996958776725504",
+    "version": "1428998651023200336",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "tank",
+    "description": "View detailed information about a specific HEAT Labs tank",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "options": [
+      {
+        "type": 3,
+        "name": "name",
+        "description": "The name of the tank you want to view",
+        "required": true,
+        "autocomplete": true
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1428998650880852010",
+    "application_id": "1428996958776725504",
+    "version": "1428998651023200337",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "tanks",
+    "description": "View all available tanks in HEAT Labs, filtered by nation",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "options": [
+      {
+        "type": 3,
+        "name": "nation",
+        "description": "Select a nation or 'All' to view all tanks",
+        "choices": [
+          {
+            "name": "All",
+            "value": "All"
+          },
+          {
+            "name": "USA",
+            "value": "USA"
+          },
+          {
+            "name": "Germany",
+            "value": "Germany"
+          },
+          {
+            "name": "USSR",
+            "value": "USSR"
+          },
+          {
+            "name": "UK",
+            "value": "UK"
+          },
+          {
+            "name": "China",
+            "value": "China"
+          },
+          {
+            "name": "France",
+            "value": "France"
+          }
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1428998650880852011",
+    "application_id": "1428996958776725504",
+    "version": "1428998651023200338",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "team",
+    "description": "View the HEAT Labs team members and their roles",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1428998650880852012",
+    "application_id": "1428996958776725504",
+    "version": "1428998651057016914",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "tournament",
+    "description": "View detailed information about a specific HEAT Labs tournament",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "options": [
+      {
+        "type": 3,
+        "name": "name",
+        "description": "The name of the tournament you want to view",
+        "required": true,
+        "autocomplete": true
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1428998650880852013",
+    "application_id": "1428996958776725504",
+    "version": "1428998651057016915",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "tournaments",
+    "description": "View all available tournaments in HEAT Labs",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1429002053711036433",
+    "application_id": "1428996958776725504",
+    "version": "1429002053711036434",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "debug",
+    "description": "Developer command for bot diagnostics",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1432075469909655562",
+    "application_id": "1428996958776725504",
+    "version": "1432075469909655563",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "ping",
+    "description": "Check the bot's response times and latency",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1432080007764643960",
+    "application_id": "1428996958776725504",
+    "version": "1432085370396217345",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "status",
+    "description": "Check the current status of HEAT Labs systems and services",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1433163541908815872",
+    "application_id": "1428996958776725504",
+    "version": "1433163541908815873",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "playground",
+    "description": "Explore all HEAT Labs playground features and experimental tools",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1444586387130159216",
+    "application_id": "1428996958776725504",
+    "version": "1444586387130159217",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "wotheat",
+    "description": "View all official World of Tanks: HEAT store pages and social media",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1444590971273871461",
+    "application_id": "1428996958776725504",
+    "version": "1444590971273871462",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "statistics",
+    "description": "View HEAT Labs statistics and metrics",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1446026104321081374",
+    "application_id": "1428996958776725504",
+    "version": "1446026104321081375",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "facts",
+    "description": "Get a random fun fact about HEAT Labs projects and vehicles",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1446032982430322728",
+    "application_id": "1428996958776725504",
+    "version": "1446048686277918730",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "dice-roll",
+    "description": "Roll the dice and guess the number! (1-10)",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "options": [
+      {
+        "type": 4,
+        "name": "guess",
+        "description": "Your guess between 1 and 10",
+        "required": true
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1446032982430322730",
+    "application_id": "1428996958776725504",
+    "version": "1446032982430322732",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "dice-rank",
+    "description": "Check your dice rolling ranks and leaderboards",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1447576229397135390",
+    "application_id": "1428996958776725504",
+    "version": "1447579257281708035",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "random",
+    "description": "Get a random tank, map, or agent suggestion",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "options": [
+      {
+        "type": 3,
+        "name": "type",
+        "description": "What would you like to get a random selection of?",
+        "required": true,
+        "choices": [
+          {
+            "name": "tank",
+            "value": "tank"
+          },
+          {
+            "name": "map",
+            "value": "map"
+          },
+          {
+            "name": "agent",
+            "value": "agent"
+          }
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1447847548286140516",
+    "application_id": "1428996958776725504",
+    "version": "1447847548286140517",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "support",
+    "description": "Support HEAT Labs development and help sustain our services",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1449310787662516287",
+    "application_id": "1428996958776725504",
+    "version": "1449310787662516288",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "memes",
+    "description": "Get a random HEAT Labs meme from our collection",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
+  }
+]
