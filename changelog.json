@@ -1,6 +1,33 @@
 {
   "updates": [
     {
+      "version": "0.3.346",
+      "date": "2025-12-18",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #237",
+      "description": "Full patch notes for Update v0.3.346 (#237), detailing all changes made on 18 December, 2025.",
+      "added": [
+        "New bot command index added",
+        "New bot command fetcher tool added",
+        "Christmas-themed WoT: HEAT logo GIF added to images library"
+      ],
+      "changed": [
+        "Footer updated across all pages and subdomains to feature the new UptimeRobot partner",
+        "Page data files, GSC index, and GSC export data refreshed",
+        "Daily commit log and changelog updated",
+        "Header titles shortened in Discord Bot documentation pages",
+        "Sound number sorter updated to reference CDN URLs instead of JsDelivr",
+        "Global hero module updated to hide paragraph tags on mobile devices",
+        "Removed leftover JsDelivr URLs from the development website"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected two incorrect URLs in the games sitemap"
+      ]
+    },
+    {
       "version": "0.3.334",
       "date": "2025-12-17",
       "author": "HEAT Labs Team",
