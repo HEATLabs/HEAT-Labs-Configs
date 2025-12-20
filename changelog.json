@@ -1,6 +1,45 @@
 {
   "updates": [
     {
+      "version": "0.3.370",
+      "date": "2025-12-19",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #238",
+      "description": "Full patch notes for Update v0.3.370 (#238), detailing all changes made on 19 December, 2025.",
+      "added": [
+        "Easter Egg Friday #7 blog post published on both main and development websites",
+        "New Steam news article added and published across all environments",
+        "Two new meme entries added to the memes collection",
+        "Additional meme images added to the image library",
+        "Multiple missing and new news article images added to the news image set",
+        "New news sitemap file introduced",
+        "New sitemap news generator tool added for internal use",
+        "New tracking pixel images added to the Views API"
+      ],
+      "changed": [
+        "Home page statistics updated",
+        "Search keyword index updated with Easter Egg Friday #7 and a new Steam news article",
+        "Tracking pixel index updated to include the latest Steam news post",
+        "GSC index data and files updated with newly generated sitemap files",
+        "Main news page updated with a new Steam news article card",
+        "News sitemap updated to include all available news posts",
+        "Support Us page updated with a new partner on both main and development websites",
+        "Partners index updated with a newly added partner",
+        "Discord bot footer updated to reflect the new UptimeRobot partner",
+        "UptimeRobot partner CTA text refined in the Discord bot",
+        "Configurator path updated in the mods showcase page",
+        "Changelog updated",
+        "Daily commit log updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Fixed a comment-related issue affecting a news article on both main and development websites",
+        "Added missing tracking pixel image for memes in the Views API"
+      ]
+    },
+    {
       "version": "0.3.346",
       "date": "2025-12-18",
       "author": "HEAT Labs Team",
