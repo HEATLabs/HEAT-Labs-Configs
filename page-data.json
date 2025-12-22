@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 265,
+    "total_pages": 266,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-12-19T01:17:56.709042"
+    "export_timestamp": "2025-12-22T23:19:34.019290"
   },
   "pages": [
     {
@@ -57,7 +57,7 @@
     {
       "url": "https://heatlabs.net/agents/arblast",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -92,14 +92,14 @@
     {
       "url": "https://heatlabs.net/agents/fantome",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/agents/hound",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1588,6 +1588,13 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
+      "url": "https://heatlabs.net/steam-news/heat-wrapped-2025-in-review",
+      "gsc_status": "PENDING",
+      "g_api_status": "INDEXED",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/steam-news/join-the-lodestar-program",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -1863,22 +1870,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 68,
+      "pending": 69,
       "not_indexed": 0,
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 82,
+      "pending": 79,
       "not_indexed": 0,
-      "indexed": 176
+      "indexed": 180
     },
     "https_page_status": {
-      "unknown": 234,
+      "unknown": 235,
       "not_https": 0,
       "https": 24
     },
     "breadcrumb_status": {
-      "unknown": 234,
+      "unknown": 235,
       "invalid": 0,
       "valid": 24
     }
