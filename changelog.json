@@ -1,6 +1,59 @@
 {
   "updates": [
     {
+      "version": "0.3.393",
+      "date": "2025-12-21",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #240",
+      "description": "Full patch notes for Update v0.3.393 (#240), detailing all changes made on 21 December, 2025.",
+      "added": [
+        "15 new meme images added to the HEAT Labs image library",
+        "Complete texture set added for the upcoming HEAT Labs camouflage mod"
+      ],
+      "changed": [
+        "Meme index updated to register newly added images",
+        "Tournament hero heading adjusted for improved readability on low-resolution devices",
+        "Tournament page formatting refined across main and development websites"
+      ],
+      "removed": [
+        "Leftover Community Credits button removed from the About Us page"
+      ],
+      "fixed": [
+        "Incorrect icon in the `Explore Source Code` button fixed across website and Discord bot",
+        "Incorrect Twitter profile link corrected on the status page",
+        "Tournament page issues resolved, including missing markup, incorrect data paths, and image preload links",
+        "Minor layout and structural issues fixed across both production and development environments"
+      ]
+    },
+    {
+      "version": "0.3.383",
+      "date": "2025-12-20",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #239",
+      "description": "Full patch notes for Update v0.3.383 (#239), detailing all changes made on 20 December, 2025.",
+      "added": [
+        "New meme image added to the HEAT Labs image collection",
+        "Partner disclaimer added to the Support Us page on both production and development websites",
+        "New image added to the Discord bot discovery page"
+      ],
+      "changed": [
+        "Home page statistics refreshed with updated data",
+        "Meme index updated with one new entry and improved naming for existing images",
+        "Main and legacy GSC export data updated",
+        "GSC index data refreshed",
+        "Daily commit log updated",
+        "Changelog updated",
+        "Discord bot /partners command updated to include a clear partner disclaimer",
+        "Placeholder mod page text revised for clarity and accuracy"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Incorrect URLs fixed on the placeholder mod page"
+      ]
+    },
+    {
       "version": "0.3.370",
       "date": "2025-12-19",
       "author": "HEAT Labs Team",
