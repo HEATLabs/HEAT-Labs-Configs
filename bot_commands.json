@@ -558,5 +558,20 @@
       0
     ],
     "nsfw": false
+  },
+  {
+    "id": "1451978442827370686",
+    "application_id": "1428996958776725504",
+    "version": "1451978442827370687",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "partners",
+    "description": "Check out exclusive offers and perks from HEAT Labs partners.",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
   }
 ]
