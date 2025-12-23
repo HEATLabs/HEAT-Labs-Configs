@@ -573,5 +573,20 @@
       0
     ],
     "nsfw": false
+  },
+  {
+    "id": "1453083005194207597",
+    "application_id": "1428996958776725504",
+    "version": "1453083005194207598",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "testers",
+    "description": "View all HEAT Labs testers",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
   }
 ]
