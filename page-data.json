@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 266,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-12-22T23:19:34.019290"
+    "export_timestamp": "2025-12-23T19:39:09.539466"
   },
   "pages": [
     {
@@ -315,10 +315,10 @@
     },
     {
       "url": "https://heatlabs.net/blog/easter-egg-friday-07",
-      "gsc_status": "NOT NEEDED",
-      "g_api_status": "NOT NEEDED",
-      "https_status": "NOT NEEDED",
-      "breadcrumb_status": "NOT NEEDED"
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/blog/easter-egg-friday-08",
@@ -519,7 +519,7 @@
     {
       "url": "https://heatlabs.net/blog/who-is-pcw-bug-hunters",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -673,7 +673,7 @@
     {
       "url": "https://heatlabs.net/maps/baikonur",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1870,22 +1870,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 69,
+      "pending": 70,
       "not_indexed": 0,
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 79,
+      "pending": 78,
       "not_indexed": 0,
-      "indexed": 180
+      "indexed": 182
     },
     "https_page_status": {
-      "unknown": 235,
+      "unknown": 236,
       "not_https": 0,
       "https": 24
     },
     "breadcrumb_status": {
-      "unknown": 235,
+      "unknown": 236,
       "invalid": 0,
       "valid": 24
     }
