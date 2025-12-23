@@ -1,6 +1,34 @@
 {
   "updates": [
     {
+      "version": "0.3.406",
+      "date": "2025-12-22",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #241",
+      "description": "Full patch notes for Update v0.3.406 (#241), detailing all changes made on 22 December, 2025.",
+      "added": [
+        "New HEAT Labs camouflage texture sets introduced, including V2, V3, and V4 variants",
+        "Dedicated folder created for V1 camouflage textures",
+        "Toggle option added to enable or disable the warning modal on static and development sites"
+      ],
+      "changed": [
+        "Existing camouflage textures renamed to clearly reflect their variant versions",
+        "High-resolution HEAT Labs camouflage texture updated",
+        "Page data files refreshed",
+        "GSC index data updated",
+        "Main and legacy GSC export files updated",
+        "Changelog updated",
+        "Daily commit log updated"
+      ],
+      "removed": [
+        "Deprecated high-resolution camouflage texture removed"
+      ],
+      "fixed": [
+        "Warning modal now disabled by default to prevent unnecessary interruptions",
+        "Improved consistency in how warning modal settings are applied across static and development environments"
+      ]
+    },
+    {
       "version": "0.3.393",
       "date": "2025-12-21",
       "author": "HEAT Labs Team",
