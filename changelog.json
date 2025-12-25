@@ -1,6 +1,52 @@
 {
   "updates": [
     {
+      "version": "0.3.422",
+      "date": "2025-12-24",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #243",
+      "description": "Full patch notes for Update v0.3.422 (#243), detailing all changes made on 24 December, 2025.",
+      "added": [
+        "Missing WoT: HEAT CM profile image restored",
+        "Festive variants of WoT: HEAT CM profile images added for the holiday season"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected pattern issues for camo V7 and V8 in the images repository"
+      ]
+    },
+    {
+      "version": "0.3.417",
+      "date": "2025-12-23",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #242",
+      "description": "Full patch notes for Update v0.3.417 (#242), detailing all changes made on 23 December, 2025.",
+      "added": [
+        "Introduced new /testers command to the Discord bot with corresponding help and documentation updates",
+        "Added new testers index file and included 1 new tester",
+        "New camo files added: V5, V6, V7, and V8",
+        "Sample honeycomb texture added to HEAT Labs Images library"
+      ],
+      "changed": [
+        "Bot command index updated to include missing /testers and /partners commands",
+        "Changelog and daily commit log refreshed",
+        "GSC index and export data updated (legacy and main)",
+        "Page data files updated across HEAT Labs services",
+        "Bot documentation updated in both main and development websites"
+      ],
+      "removed": [
+        "M60A3E2 Bot removed from random tank selector in Discord activity"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.3.406",
       "date": "2025-12-22",
       "author": "HEAT Labs Team",
