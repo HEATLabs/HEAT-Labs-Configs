@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 269,
+    "total_pages": 270,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-12-25T03:52:42.164979"
+    "export_timestamp": "2025-12-25T20:57:46.926611"
   },
   "pages": [
     {
@@ -387,6 +387,13 @@
       "url": "https://heatlabs.net/blog/from-pcwstats-to-heat-labs",
       "gsc_status": "PENDING",
       "g_api_status": "INDEXED",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/happy-holidays",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -876,7 +883,7 @@
     {
       "url": "https://heatlabs.net/maps/red-alert",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1891,22 +1898,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 72,
+      "pending": 73,
       "not_indexed": 0,
       "indexed": 190
     },
     "google_api_status": {
       "pending": 80,
       "not_indexed": 0,
-      "indexed": 182
+      "indexed": 183
     },
     "https_page_status": {
-      "unknown": 238,
+      "unknown": 239,
       "not_https": 0,
       "https": 24
     },
     "breadcrumb_status": {
-      "unknown": 238,
+      "unknown": 239,
       "invalid": 0,
       "valid": 24
     }
