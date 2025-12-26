@@ -1,6 +1,42 @@
 {
   "updates": [
     {
+      "version": "0.3.443",
+      "date": "2025-12-25",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #244",
+      "description": "Full patch notes for Update v0.3.443 (#244), detailing all changes made on 25 December, 2025.",
+      "added": [
+        "New HEAT Labs Store repository initialized with a complete README",
+        "New blog post published on both the main and development websites",
+        "Vector version of the sample honeycomb texture added to the image library",
+        "High-resolution variant of the sample honeycomb texture introduced",
+        "New tracking pixel image added for the store page",
+        "New tracking pixel image added for the latest blog post"
+      ],
+      "changed": [
+        "BreadcrumbList structured data updated with missing name properties across all major services, CDNs, and subdomains",
+        "Search keyword index expanded to include the new store subdomain and recently published blog post",
+        "Tracking pixel index updated with new store and blog entries",
+        "Sitemaps updated to register the newly published blog content",
+        "Project statistics refreshed",
+        "Page data files updated across the platform",
+        "Google Search Console index and export data updated (main and legacy)",
+        "Dev-only pages updated to include previously missing entries",
+        "Internal tooling updated to support the new store repository path",
+        "Blog article title refined for clarity and consistency",
+        "Changelog and daily commit log updated",
+        "Last update and last modification timestamps synchronized across all services"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Resolved missing BreadcrumbList name properties affecting structured data validation across websites, CDNs, APIs, and subdomains",
+        "Improved schema consistency for better search engine indexing and rich result eligibility"
+      ]
+    },
+    {
       "version": "0.3.422",
       "date": "2025-12-24",
       "author": "HEAT Labs Team",
