@@ -1,6 +1,37 @@
 {
   "updates": [
     {
+      "version": "0.3.486",
+      "date": "2025-12-27",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #246",
+      "description": "Full patch notes for Update v0.3.486 (#246), detailing all changes made on 27 December, 2025.",
+      "added": [
+        "Steam Group social button added across all HEAT Labs websites, CDNs, tools, and subdomains",
+        "Extensive new mockup images added for HEAT Labs Store products, including accessories, home items, stickers, patches, flags, towels, bottles, and blankets",
+        "Additional beta tester credited on the About Us page across main and development websites"
+      ],
+      "changed": [
+        "Footer social buttons standardized across all services and repositories",
+        "Search Console export data (main and legacy) updated",
+        "GSC index data refreshed",
+        "Page data files updated",
+        "Changelog and daily commit log updated",
+        "HEAT Labs Store image structure reorganized into dedicated collection and base folders",
+        "Multiple product folders renamed for consistency and clarity"
+      ],
+      "removed": [
+        "Redundant GitHub organization links removed from footer social buttons across all websites, CDNs, APIs, tools, and subdomains",
+        "Leftover or outdated credits links removed from sidebars and footers where applicable"
+      ],
+      "fixed": [
+        "Incorrect Open Graph URLs fixed on socials pages (production and development)",
+        "Incorrect Twitch URL formatting fixed in social links schema on development website",
+        "Broken About Us page link corrected on the game mods page",
+        "Minor footer and sidebar inconsistencies resolved across multiple HEAT Labs properties"
+      ]
+    },
+    {
       "version": "0.3.470",
       "date": "2025-12-26",
       "author": "HEAT Labs Team",
