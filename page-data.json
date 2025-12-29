@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 269,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2025-12-28T00:58:09.572549"
+    "export_timestamp": "2025-12-29T02:49:48.379992"
   },
   "pages": [
     {
@@ -568,7 +568,7 @@
     {
       "url": "https://heatlabs.net/guides/general-guides",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1513,7 +1513,7 @@
     {
       "url": "https://heatlabs.net/playground/roulette",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1896,9 +1896,9 @@
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 79,
+      "pending": 77,
       "not_indexed": 0,
-      "indexed": 184
+      "indexed": 186
     },
     "https_page_status": {
       "unknown": 236,
