@@ -1,6 +1,41 @@
 {
   "updates": [
     {
+      "version": "0.3.506",
+      "date": "2025-12-28",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #247",
+      "description": "Full patch notes for Update v0.3.506 (#247), detailing all changes made on 28 December, 2025.",
+      "added": [
+        "Five new videos added to the HEAT Labs video index and video showcase",
+        "New Easter Egg Friday blog images added to the blog image library",
+        "Merch store entry added to the Discord bot support command",
+        "Dozens of new product mockup images added across apparel, accessories, drinkware, stationery, home items, and bags",
+        "Placeholder description files added to all store product folders",
+        "New content creator added to the About Us page",
+        "New messages added to the /random endpoint on both main and development websites",
+        "New video added to the T-62AV tank page on main and development websites"
+      ],
+      "changed": [
+        "Project statistics updated to reflect the latest content counts",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Support command updated to gracefully handle missing support page URLs",
+        "Videos schema updated to include newly added videos",
+        "Multiple store folders renamed for improved structure and consistency"
+      ],
+      "removed": [
+        "Rate button removed from all tank, map, and agent pages",
+        "Several scrapped store products fully removed",
+        "Duplicate placeholder texts removed from multiple store description files"
+      ],
+      "fixed": [
+        "Resolved duplicate text issues in placeholder product descriptions",
+        "Corrected project statistics counter behavior after an unintended regression",
+        "General cleanup and consistency fixes across store assets and internal tooling"
+      ]
+    },
+    {
       "version": "0.3.486",
       "date": "2025-12-27",
       "author": "HEAT Labs Team",
