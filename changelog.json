@@ -1,6 +1,47 @@
 {
   "updates": [
     {
+      "version": "0.3.532",
+      "date": "2025-12-29",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #248",
+      "description": "Full patch notes for Update v0.3.532 (#248), detailing all changes made on 29 December, 2025.",
+      "added": [
+        "Placeholder fields for experience and credit cost added for all tank entries",
+        "Twelve previously missing images added to news cards",
+        "Ten missing announcement posts restored to the main news page",
+        "Complete system requirements specifications added for the HEAT Labs desktop app",
+        "Additional notes added to system requirements for clarity",
+        "Initial Steam store text placeholders created for future iterations",
+        "Structured sections added to the Steam About This Software placeholder",
+        "Capsule description placeholder updated with enforced character limits",
+        "Complete README file added for Steam assets repository",
+        "Initial Steam assets repository introduced"
+      ],
+      "changed": [
+        "Project statistics updated",
+        "Main and legacy Google Search Console export data refreshed",
+        "GSC index data updated",
+        "Page data files updated across the platform",
+        "Changelog and daily commit log updated",
+        "Footer website build date corrected to reflect the latest update",
+        "News cards updated with new data-patch filter groups",
+        "News cards reordered and cleaned up on the main news page",
+        "Desktop application files reformatted and re-indented for consistency",
+        "Desktop app comments cleaned up in preparation for Steam review",
+        "DevOps general runner tool updated to include a new repository",
+        "Daily commit fetcher tool updated to support the new repository"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Missing news card images across both production and development websites",
+        "Incomplete news listings on the main news page",
+        "Incorrect or outdated website build dates shown in the footer"
+      ]
+    },
+    {
       "version": "0.3.506",
       "date": "2025-12-28",
       "author": "HEAT Labs Team",
