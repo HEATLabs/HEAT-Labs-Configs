@@ -1,32 +1,12 @@
 {
-  "2025-09-30": {
-    "breadcrumbs": {
-      "invalid": "N/A",
-      "valid": "N/A"
-    },
-    "coverage": {
-      "not_indexed": 14,
-      "indexed": 88,
-      "impressions": 30
-    },
-    "https": {
-      "non_https_urls": 0,
-      "https_urls": 46
-    },
-    "video_indexing": {
-      "no_video_indexed": "N/A",
-      "video_indexed": "N/A",
-      "impressions": 0
-    }
-  },
   "2025-10-01": {
     "breadcrumbs": {
       "invalid": "N/A",
       "valid": "N/A"
     },
     "coverage": {
-      "not_indexed": 8,
-      "indexed": 119,
+      "not_indexed": "N/A",
+      "indexed": "N/A",
       "impressions": 52
     },
     "https": {
@@ -45,8 +25,8 @@
       "valid": "N/A"
     },
     "coverage": {
-      "not_indexed": 8,
-      "indexed": 119,
+      "not_indexed": "N/A",
+      "indexed": "N/A",
       "impressions": 61
     },
     "https": {
@@ -65,8 +45,8 @@
       "valid": "N/A"
     },
     "coverage": {
-      "not_indexed": 8,
-      "indexed": 119,
+      "not_indexed": "N/A",
+      "indexed": "N/A",
       "impressions": 87
     },
     "https": {
@@ -1754,9 +1734,9 @@
       "https_urls": 0
     },
     "video_indexing": {
-      "no_video_indexed": "N/A",
-      "video_indexed": "N/A",
-      "impressions": "N/A"
+      "no_video_indexed": 4,
+      "video_indexed": 0,
+      "impressions": 0
     }
   },
   "2025-12-27": {
@@ -1774,9 +1754,9 @@
       "https_urls": 0
     },
     "video_indexing": {
-      "no_video_indexed": "N/A",
-      "video_indexed": "N/A",
-      "impressions": "N/A"
+      "no_video_indexed": 4,
+      "video_indexed": 0,
+      "impressions": 0
     }
   },
   "2025-12-28": {
@@ -1794,8 +1774,28 @@
       "https_urls": 0
     },
     "video_indexing": {
-      "no_video_indexed": "N/A",
-      "video_indexed": "N/A",
+      "no_video_indexed": 4,
+      "video_indexed": 0,
+      "impressions": "N/A"
+    }
+  },
+  "2025-12-29": {
+    "breadcrumbs": {
+      "invalid": "N/A",
+      "valid": "N/A"
+    },
+    "coverage": {
+      "not_indexed": "N/A",
+      "indexed": "N/A",
+      "impressions": "N/A"
+    },
+    "https": {
+      "non_https_urls": 0,
+      "https_urls": 0
+    },
+    "video_indexing": {
+      "no_video_indexed": 4,
+      "video_indexed": 0,
       "impressions": "N/A"
     }
   }
