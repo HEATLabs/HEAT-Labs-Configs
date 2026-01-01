@@ -1,6 +1,48 @@
 {
   "updates": [
     {
+      "version": "0.3.576",
+      "date": "2025-12-31",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #250",
+      "description": "Full patch notes for Update v0.3.576 (#250), detailing all changes made on 31 December, 2025.",
+      "added": [
+        "External link warning modal fully integrated across all HEAT Labs platforms, CDNs, and subdomains",
+        "Global external link warning banner logic added to main static CDN and development website",
+        "New meme image added to the HEAT Labs image collection",
+        "Cloudflare data export files introduced for traffic analysis",
+        "Placeholder Cloudflare data file added for future expansion",
+        "New CF-Processor tool added for aggregating Cloudflare traffic statistics",
+        "Complete GSC chart generation tool added to internal tools",
+        "Complete Cloudflare traffic chart generation tool added",
+        "Placeholder files added for upcoming chart and analytics tools"
+      ],
+      "changed": [
+        "Project statistics updated across configuration files",
+        "Main and legacy Google Search Console export data refreshed",
+        "GSC index data updated",
+        "Page data files updated across multiple services",
+        "Cloudflare statistics file updated with complete traffic data",
+        "Meme index file updated with standardized name capitalization",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Homepage feature card updated from Check & Compare to Player Statistics on both production and development website home pages",
+        "Terms of Service expanded with more detailed clauses",
+        "Privacy Policy updated to include Cloudflare Web Analytics disclosures",
+        "Redundant labels removed from all legal pages",
+        "Development website 404 page updated with improved navigation and local asset paths"
+      ],
+      "removed": [
+        "Redundant labels from legal pages across production and development environments"
+      ],
+      "fixed": [
+        "Ensured consistent loading of external link warning modal assets across all websites, CDNs, APIs, and tools",
+        "Corrected missing sidebar options on development website 404 page",
+        "Updated development website 404 page to use local resources instead of CDN paths",
+        "Improved internal tooling configuration by excluding generated chart output directories from version control"
+      ]
+    },
+    {
       "version": "0.3.549",
       "date": "2025-12-30",
       "author": "HEAT Labs Team",
