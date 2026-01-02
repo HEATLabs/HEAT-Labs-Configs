@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 269,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-01-01T08:11:14.743766"
+    "export_timestamp": "2026-01-02T17:16:09.780472"
   },
   "pages": [
     {
@@ -336,8 +336,8 @@
     },
     {
       "url": "https://heatlabs.net/blog/easter-egg-friday-09",
-      "gsc_status": "NOT NEEDED",
-      "g_api_status": "NOT NEEDED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1891,12 +1891,12 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 73,
+      "pending": 74,
       "not_indexed": 0,
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 74,
+      "pending": 75,
       "not_indexed": 0,
       "indexed": 189
     },
