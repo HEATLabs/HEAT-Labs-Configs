@@ -1,6 +1,44 @@
 {
   "updates": [
     {
+      "version": "0.3.612",
+      "date": "2026-01-02",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #252",
+      "description": "Full patch notes for Update v0.3.612 (#252), detailing all changes made on 02 January, 2026.",
+      "added": [
+        "Printful added as an official partner across HEAT Labs platforms and services",
+        "Easter Egg Friday #9 blog post published on both main and development websites",
+        "New meme images added to the HEAT Labs media libraries",
+        "Additional mobile app artwork assets, including Play Store banner and screenshots",
+        "Temporary and placeholder screenshot images added for mobile app listings"
+      ],
+      "changed": [
+        "Partners section updated in footers across all websites, CDNs, APIs, tools, and redirect pages",
+        "Support Us page updated to reflect the new Printful partnership",
+        "Search keyword index updated with the latest blog post",
+        "Sitemap files refreshed to include newly published blog content",
+        "Project statistics updated",
+        "Cloudflare traffic data updated",
+        "GSC index file updated",
+        "Main and legacy GSC export data refreshed",
+        "Page data files updated",
+        "Changelog and daily commit log updated",
+        "Mobile app screenshot file names standardized",
+        "Android app versionCode bumped to 2"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Fixed missing Partners section in footer on blog and privacy policy pages",
+        "Corrected incorrect copyright year in the latest blog post",
+        "Resolved mobile app package name issue by standardizing it to com.heatlabs.app",
+        "Fixed Android compiler issues related to loading background drawable naming",
+        "Added missing fallback logo images for mobile app builds"
+      ]
+    },
+    {
       "version": "0.3.589",
       "date": "2026-01-01",
       "author": "HEAT Labs Team",
