@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 269,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-01-02T17:16:09.780472"
+    "export_timestamp": "2026-01-05T05:30:54.302732"
   },
   "pages": [
     {
@@ -379,7 +379,7 @@
     {
       "url": "https://heatlabs.net/blog/exploring-the-main-menu-garage",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1896,9 +1896,9 @@
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 75,
+      "pending": 74,
       "not_indexed": 0,
-      "indexed": 189
+      "indexed": 190
     },
     "https_page_status": {
       "unknown": 236,
