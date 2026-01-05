@@ -1,6 +1,39 @@
 {
   "updates": [
     {
+      "version": "0.3.639",
+      "date": "2026-01-04",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #254",
+      "description": "Full patch notes for Update v0.3.639 (#254), detailing all changes made on 04 January, 2026.",
+      "added": [
+        "IndexNow public token added to improve search engine indexing",
+        "Missing alt text added to multiple news card images to improve accessibility",
+        "Missing alt text added to tracking pixel image in a blog post",
+        "Missing social media links added to the footer section of a blog post"
+      ],
+      "changed": [
+        "Main and legacy Google Search Console export data updated",
+        "Google Search Console index data refreshed",
+        "Cloudflare traffic analytics data updated",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Development website synchronized with the main branch",
+        "Tournament configuration paths updated in development environment"
+      ],
+      "removed": [
+        "Redundant preload directive removed from tournament embed test page"
+      ],
+      "fixed": [
+        "Incorrect copyright year corrected in a blog post page",
+        "Broken changelog link URL fixed in the website navigation bar",
+        "Incorrect link class fixed, restoring proper blog view count display",
+        "Incorrect tournament configuration path resolved",
+        "Incorrect tournament header image paths corrected",
+        "Same fixes applied consistently across both production and development websites"
+      ]
+    },
+    {
       "version": "0.3.621",
       "date": "2026-01-03",
       "author": "HEAT Labs Team",
