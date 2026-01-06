@@ -1,6 +1,37 @@
 {
   "updates": [
     {
+      "version": "0.3.655",
+      "date": "2026-01-05",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #255",
+      "description": "Full patch notes for Update v0.3.655 (#255), detailing all changes made on 05 January, 2026.",
+      "added": [
+        "Expanded global website schema with new social and service links across all HEAT Labs platforms and services"
+      ],
+      "changed": [
+        "Updated meta descriptions across the main website, including all news-related pages",
+        "Refreshed meta descriptions on the socials and mobile app pages",
+        "Improved readability of the Steam About This Software description",
+        "Updated contact form URL and organization schema alignment on the development website",
+        "Reworked multiple CDN references on the development website to use direct GitHub URLs",
+        "Optimized website screenshots and selected news-related images",
+        "Renamed repository references in internal tools to reflect updated asset naming",
+        "Daily commit log updated with new repository names",
+        "Changelog data refreshed",
+        "Cloudflare traffic data updated",
+        "GSC index data and both legacy and main export files updated",
+        "Page data files updated across multiple services"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected incorrect base URLs affecting multiple pages on the development website",
+        "Resolved schema inconsistencies between development and production environments"
+      ]
+    },
+    {
       "version": "0.3.639",
       "date": "2026-01-04",
       "author": "HEAT Labs Team",
