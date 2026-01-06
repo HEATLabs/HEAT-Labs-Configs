@@ -588,5 +588,20 @@
       0
     ],
     "nsfw": false
+  },
+  {
+    "id": "1457934523345146024",
+    "application_id": "1428996958776725504",
+    "version": "1457934523864977451",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "supporters",
+    "description": "View all HEAT Labs supporters",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "nsfw": false
   }
 ]
