@@ -1,6 +1,49 @@
 {
   "updates": [
     {
+      "version": "0.3.683",
+      "date": "2026-01-06",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #256",
+      "description": "Full patch notes for Update v0.3.683 (#256), detailing all changes made on 06 January, 2026.",
+      "added": [
+        "New Steam achievements database with a complete achievement list and corresponding images",
+        "32 new gameplay metrics added to Steam statistics tracking",
+        "New Steam Achievement Fetcher tool introduced for automated data generation",
+        "Dedicated replay repository initialized with full documentation",
+        "Hourly member count tracking feature added to the Discord bot",
+        "New /supporters command added to the Discord bot with full documentation",
+        "Supporters section added to the About Us page on both main and development websites",
+        "New game data playground page added to the main and development websites",
+        "Additional meme images added to the HEAT Labs image library"
+      ],
+      "changed": [
+        "Meme index updated with new entries",
+        "Bot command index updated",
+        "Project statistics refreshed",
+        "Cloudflare traffic data updated",
+        "GSC index data and export files updated",
+        "Legacy GSC export data updated",
+        "Changelog and daily commit log updated",
+        "Replay files reorganized and migrated to a dedicated repository",
+        "Steam data timestamps refreshed and unused fields removed",
+        "Achievements database structure standardized and renamed for clarity",
+        "Game data logic updated to use CDN-based URLs",
+        "Playground images and feature cards updated for game data and mobile app sections",
+        "Replay and commit-fetching tools updated to support the new repository structure",
+        "Environment example files updated with new Steam configuration variables"
+      ],
+      "removed": [
+        "46 duplicated replay files removed during repository cleanup"
+      ],
+      "fixed": [
+        "Resolved timing issue in the Discord bot member counter feature",
+        "Corrected paths and placeholders in the new game data playground pages",
+        "Fixed inconsistencies in playground feature images and card assignments",
+        "Improved internal tooling output paths for achievement-related files"
+      ]
+    },
+    {
       "version": "0.3.655",
       "date": "2026-01-05",
       "author": "HEAT Labs Team",
