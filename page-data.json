@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 269,
+    "total_pages": 270,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-01-07T05:40:13.144775"
+    "export_timestamp": "2026-01-08T07:44:48.612447"
   },
   "pages": [
     {
@@ -1532,6 +1532,13 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
+      "url": "https://heatlabs.net/playground/tank-defense",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/playground/tierlist",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -1891,22 +1898,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 74,
+      "pending": 75,
       "not_indexed": 0,
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 73,
+      "pending": 74,
       "not_indexed": 0,
       "indexed": 191
     },
     "https_page_status": {
-      "unknown": 236,
+      "unknown": 237,
       "not_https": 0,
       "https": 32
     },
     "breadcrumb_status": {
-      "unknown": 236,
+      "unknown": 237,
       "invalid": 0,
       "valid": 32
     }
