@@ -1,6 +1,43 @@
 {
   "updates": [
     {
+      "version": "0.3.705",
+      "date": "2026-01-07",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #257",
+      "description": "Full patch notes for Update v0.3.705 (#257), detailing all changes made on 07 January, 2026.",
+      "added": [
+        "Initial tracking pixel support for the upcoming tank defense game",
+        "New placeholder and test assets for the WIP tank defense playground feature",
+        "Work-in-progress tank defense game added to the playground page on the development website",
+        "Player health bar added to the tank defense minigame",
+        "New team member images added to the HEAT Labs media library",
+        "Four new team members added to the About Us page (the cats of HEAT Labs)"
+      ],
+      "changed": [
+        "Tracking pixel index updated to include the new tank defense game",
+        "Project statistics refreshed with latest data",
+        "Cloudflare traffic data updated",
+        "Main and legacy GSC export data updated",
+        "GSC index data updated",
+        "Page data files updated",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Tank game UI controls refined for improved behaviour in development",
+        "Tank game header button labels adjusted for clarity"
+      ],
+      "removed": [
+        "Christmas seasonal effects disabled globally across the platform",
+        "Christmas seasonal effects disabled on the development website"
+      ],
+      "fixed": [
+        "Resolved an issue causing the Discord bot to send duplicated periodic statistics",
+        "Fixed an incorrect image path affecting a playground card",
+        "Improved internal structure of the tank defense page by moving animation logic from JavaScript to CSS",
+        "Added missing CSS definitions required for proper tank defense page rendering"
+      ]
+    },
+    {
       "version": "0.3.683",
       "date": "2026-01-06",
       "author": "HEAT Labs Team",
