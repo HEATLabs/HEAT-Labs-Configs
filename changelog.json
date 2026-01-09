@@ -1,6 +1,59 @@
 {
   "updates": [
     {
+      "version": "0.3.743",
+      "date": "2026-01-08",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #258",
+      "description": "Full patch notes for Update v0.3.743 (#258), detailing all changes made on 08 January, 2026.",
+      "added": [
+        "New Tank Defense game playground feature added to the main HEAT Labs website",
+        "Auto-fire mechanic introduced to the Tank Defense game",
+        "Fullscreen mode support added to the Tank Defense game",
+        "Health packs added as a new gameplay element in the Tank Defense game",
+        "New deny-mobile system introduced across HEAT Labs services to restrict unsupported mobile access",
+        "Deny-mobile modal added to selected playground cards",
+        "Four new fun statistic counters added to the home page",
+        "New Tank Defense game page added and indexed",
+        "Additional meme content added to the image library",
+        "New Steam assets added, including icons, screenshots, library images, store visuals, and legal disclosure files",
+        "AI-generated content disclosure and legal disclaimer added for Steam distribution",
+        "New statistics fields added to project statistics files",
+        "New meme entry added to the meme index",
+        "New stat counters for kills and health packs added to the Tank Defense game"
+      ],
+      "changed": [
+        "Search keyword index updated with the new Tank Defense game entry",
+        "Project statistics expanded with additional tracked data and Cloudflare traffic integration",
+        "Home page fun stats logic updated to support additional counters",
+        "Score system updated to use actual score values instead of derived kill counts",
+        "Enemy wave system updated with scaling difficulty and improved progression logic",
+        "Enemy spawning behavior adjusted so waves spawn simultaneously at wave start",
+        "Wave logic updated to carry over remaining enemies between waves",
+        "Gameplay balance tweaks applied, including increased rock size and enemy count",
+        "How-to-play section updated with improved layout and additional instructions",
+        "Meta descriptions updated with finalized text for the Tank Defense game",
+        "Steam screenshots standardized to consistent dimensions",
+        "Sitemap updated to include the new Tank Defense game page",
+        "Daily commit log, changelog data, and page data files updated",
+        "GSC index data and export files refreshed",
+        "Cloudflare traffic data updated"
+      ],
+      "removed": [
+        "Unused tank icon assets removed from image feature sets",
+        "Debug keybinds removed from the main website version",
+        "Restart button removed from the Tank Defense game",
+        "Fullscreen control timeout removed from the Tank Defense game",
+        "Rotation effects removed from rocks and health packs"
+      ],
+      "fixed": [
+        "Wave counting and enemy despawning issues resolved in the Tank Defense game",
+        "Grid layout issues fixed in the Tank Defense game how-to-play section",
+        "Multiple internal paths updated to correctly load the new deny-mobile module",
+        "Internal tools updated to correctly fetch and display project traffic statistics"
+      ]
+    },
+    {
       "version": "0.3.705",
       "date": "2026-01-07",
       "author": "HEAT Labs Team",
