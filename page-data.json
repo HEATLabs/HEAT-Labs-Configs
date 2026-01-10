@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 272,
+    "total_pages": 273,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-01-10T06:25:46.322206"
+    "export_timestamp": "2026-01-10T22:30:44.871916"
   },
   "pages": [
     {
@@ -417,6 +417,13 @@
       "g_api_status": "INDEXED",
       "https_status": "HTTPS",
       "breadcrumb_status": "VALID"
+    },
+    {
+      "url": "https://heatlabs.net/blog/heatlabs-coming-to-steam",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/blog/hunting-for-potential-hidden-servers",
@@ -1912,22 +1919,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 76,
+      "pending": 77,
       "not_indexed": 0,
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 75,
+      "pending": 76,
       "not_indexed": 0,
       "indexed": 191
     },
     "https_page_status": {
-      "unknown": 239,
+      "unknown": 240,
       "not_https": 0,
       "https": 32
     },
     "breadcrumb_status": {
-      "unknown": 239,
+      "unknown": 240,
       "invalid": 0,
       "valid": 32
     }
