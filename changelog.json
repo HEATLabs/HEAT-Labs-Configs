@@ -1,6 +1,35 @@
 {
   "updates": [
     {
+      "version": "0.3.757",
+      "date": "2026-01-09",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #259",
+      "description": "Full patch notes for Update v0.3.757 (#259), detailing all changes made on 09 January, 2026.",
+      "added": [
+        "Improved external link handling to ensure links open in a new tab or the device\u00e2\u20ac\u2122s default browser where applicable"
+      ],
+      "changed": [
+        "Updated all Discord server URLs across HEAT Labs to use direct links, resolving desktop app connection issues",
+        "Disabled access to the Common Builds page on mobile UI across all services and repositories",
+        "Refreshed project statistics data",
+        "Updated Google Search Console index data",
+        "Updated main and legacy GSC export files",
+        "Updated Cloudflare traffic analytics data",
+        "Changelog updated",
+        "Daily commit log updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Resolved Discord redirect path issues in the development website",
+        "Corrected external link behavior in static and development environments",
+        "Ensured mobile users cannot access unsupported Common Builds pages, including all tank-related pages",
+        "Applied consistent Discord link fixes across APIs, tools, databases, media repositories, and subdomains"
+      ]
+    },
+    {
       "version": "0.3.743",
       "date": "2026-01-08",
       "author": "HEAT Labs Team",
