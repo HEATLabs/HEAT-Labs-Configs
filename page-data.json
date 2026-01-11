@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 273,
+    "total_pages": 274,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-01-10T22:30:44.871916"
+    "export_timestamp": "2026-01-11T07:03:40.533629"
   },
   "pages": [
     {
@@ -1518,6 +1518,13 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
+      "url": "https://heatlabs.net/playground/game-data",
+      "gsc_status": "PENDING",
+      "g_api_status": "INDEXED",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/playground/game-servers",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -1919,22 +1926,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 77,
+      "pending": 78,
       "not_indexed": 0,
       "indexed": 190
     },
     "google_api_status": {
       "pending": 76,
       "not_indexed": 0,
-      "indexed": 191
+      "indexed": 192
     },
     "https_page_status": {
-      "unknown": 240,
+      "unknown": 241,
       "not_https": 0,
       "https": 32
     },
     "breadcrumb_status": {
-      "unknown": 240,
+      "unknown": 241,
       "invalid": 0,
       "valid": 32
     }
