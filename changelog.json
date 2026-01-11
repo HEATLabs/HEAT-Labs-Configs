@@ -1,6 +1,48 @@
 {
   "updates": [
     {
+      "version": "0.3.784",
+      "date": "2026-01-10",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #260",
+      "description": "Full patch notes for Update v0.3.784 (#260), detailing all changes made on 10 January, 2026.",
+      "added": [
+        "New Steam release blog post published on both main and development websites",
+        "Easter Egg Friday #10 blog post released",
+        "Initial set of Steam achievements introduced, including visit-based achievements",
+        "Additional Steam achievements added and existing ones expanded",
+        "New Steam broadcast-specific image assets",
+        "DLC-specific Steam text assets added",
+        "Tracking pixel added for the latest blog post"
+      ],
+      "changed": [
+        "Site data files updated across all HEAT Labs services and repositories to reflect the latest date",
+        "Page data files updated, including the addition of previously missing pages",
+        "Search keyword index expanded to include new pages and the latest Easter Egg Friday post",
+        "Tracking pixel index updated with a newly published page",
+        "Project statistics refreshed",
+        "Changelog and daily commit log updated",
+        "Google Search Console index data refreshed",
+        "Main and legacy GSC export datasets updated",
+        "Cloudflare traffic data updated",
+        "Steam asset structure reorganized with app-specific texts moved to dedicated folders",
+        "Steam library logo asset updated",
+        "Names of several Steam achievements refined",
+        "AI-generated content disclosure text expanded and formatting improved",
+        "Minor wording tweaks applied to the latest Easter Egg Friday blog post"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Resolved infinite number spinning issue affecting homepage statistics counters",
+        "Corrected incorrect blog post author attribution on a newly published blog card",
+        "Fixed incorrect schema dates for blog posts, including all Easter Egg Friday entries",
+        "Corrected an incorrect published date for Easter Egg Friday #9",
+        "Fixed minor grammar issues within Steam-related AI disclosure text"
+      ]
+    },
+    {
       "version": "0.3.757",
       "date": "2026-01-09",
       "author": "HEAT Labs Team",
