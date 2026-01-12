@@ -1,6 +1,59 @@
 {
   "updates": [
     {
+      "version": "0.3.822",
+      "date": "2026-01-11",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #261",
+      "description": "Full patch notes for Update v0.3.822 (#261), detailing all changes made on 11 January, 2026.",
+      "added": [
+        "Dedicated Tank Defense Game page with fully migrated base code",
+        "Main menu foundations for the Tank Defense Game",
+        "Enemy indicators and survival time tracking in the Tank Defense Game",
+        "Map borders and improved rock placement logic in the Tank Defense Game",
+        "Complete README documentation for the Tank Defense Game repository",
+        "Placeholder HTML, CSS, and JavaScript files for the dedicated Tank Defense Game setup",
+        "CNAME record for the dedicated Tank Defense Game",
+        "Additional missing pages added to the developers-only section"
+      ],
+      "changed": [
+        "All Steam URLs updated from the Steam group to the official Steam Store page across all HEAT Labs services and repositories",
+        "Project statistics refreshed",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Main and legacy GSC export data updated",
+        "Cloudflare traffic data updated",
+        "Page data files refreshed",
+        "GSC index data updated",
+        "Tank Defense Game configuration structure reorganized into dedicated files",
+        "Notification system refactored into a standalone module",
+        "Framerate normalization updated to be independent of movement and physics",
+        "Fullscreen behavior adjusted to always run in fullscreen on the dedicated Tank Defense Game page",
+        "Social buttons simplified in the Tank Defense Game main menu",
+        "Button styles refined for pause and game-over screens",
+        "Context menu handling updated to block all context menu types and shortcuts",
+        "Development tools updated to reference the new Tank Defense Game repository"
+      ],
+      "removed": [
+        "Unused and redundant CSS styles across the Tank Defense Game",
+        "Unused tooltip module from the Tank Defense Game",
+        "Theme loader logic and light theme styles from the dedicated Tank Defense Game",
+        "Redundant game naming in headers, version displays, and copyright sections",
+        "Debug keybinds prior to release",
+        "Unused JavaScript logic and redundant HTML code",
+        "Development tag from the dedicated Tank Defense Game page"
+      ],
+      "fixed": [
+        "Improved enemy AI behavior, including full turret rotation support",
+        "Fixed and refined enemy shooting mechanics",
+        "Resolved issues causing UI buttons to remain active after interaction",
+        "Corrected notification overlap issues in the Tank Defense Game",
+        "Ensured consistent spacing between rocks and map boundaries",
+        "Fixed incorrect import paths and file references across the Tank Defense Game",
+        "Stability and behavior fixes applied across both production and development environments"
+      ]
+    },
+    {
       "version": "0.3.784",
       "date": "2026-01-10",
       "author": "HEAT Labs Team",
