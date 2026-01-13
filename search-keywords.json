@@ -84,10 +84,22 @@
     "keywords": ["legal", "policies", "terms", "privacy", "policy", "license"]
   },
   {
+    "name": "Random",
+    "description": "There's a 50/50 chance you’ll end up back here",
+    "path": "https://heatlabs.net/random",
+    "keywords": ["random"]
+  },
+  {
     "name": "Playground",
     "description": "Random tank selector for fun gameplay",
     "path": "https://heatlabs.net/playground",
     "keywords": ["roulette", "random", "selector", "fun", "game", "chooser"]
+  },
+  {
+    "name": "Game Data",
+    "description": "Statistics, achievements, and detailed gameplay insights",
+    "path": "https://heatlabs.net/playground/game-data",
+    "keywords": ["data", "game data", "achievements"]
   },
   {
     "name": "Alpha 3 Playtest",
