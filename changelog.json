@@ -1,6 +1,36 @@
 {
   "updates": [
     {
+      "version": "0.3.837",
+      "date": "2026-01-12",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #262",
+      "description": "Full patch notes for Update v0.3.837 (#262), detailing all changes made on 12 January, 2026.",
+      "added": [
+        "Four previously missing Steam achievements added to the Steam assets library",
+        "Missing developer and publisher profile assets added for Steam distribution",
+        "Placeholder DLC screenshot images added for future Steam content"
+      ],
+      "changed": [
+        "Changelog and daily commit log updated",
+        "Cloudflare traffic statistics refreshed",
+        "Google Search Console index data updated",
+        "Main and legacy GSC export datasets updated",
+        "Homepage statistics refreshed with latest data",
+        "Steam achievement labels refined for clarity and consistency",
+        "Steam app screenshots renamed using clearer and more descriptive filenames",
+        "Bullet speeds adjusted for both players and enemies in the dedicated tank defense game",
+        "Particle systems and visual effects reworked on the tank defense game page",
+        "Go-To Easter Egg updated to include previously missing social pages across main and development sites"
+      ],
+      "removed": [
+        "Duplicate text files removed from the Steam assets repository"
+      ],
+      "fixed": [
+        "Incorrect file format corrected for the Steam System Requirements text file"
+      ]
+    },
+    {
       "version": "0.3.822",
       "date": "2026-01-11",
       "author": "HEAT Labs Team",
