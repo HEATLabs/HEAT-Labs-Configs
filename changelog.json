@@ -1,6 +1,39 @@
 {
   "updates": [
     {
+      "version": "0.3.855",
+      "date": "2026-01-13",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #263",
+      "description": "Full patch notes for Update v0.3.855 (#263), detailing all changes made on 13 January, 2026.",
+      "added": [
+        "Two previously missing pages added to the search keyword index",
+        "Multiple new meme images added to the meme index and images repository",
+        "Linux and SteamOS platform sections added to Steam System Requirements",
+        "Sound card compatibility field added to Steam System Requirements",
+        "VR support information added to Steam System Requirements"
+      ],
+      "changed": [
+        "Search keyword metadata corrected for the Playground page",
+        "Playground page description updated in the search keyword index",
+        "Project statistics refreshed with the latest internal data",
+        "Cloudflare traffic analytics updated",
+        "Changelog updated to reflect recent changes",
+        "Daily commit log updated",
+        "Google Search Console index data refreshed",
+        "Main and legacy GSC export datasets updated",
+        "DLC capsule description revised for clarity and consistency",
+        "Main Supporter Pack DLC image updated",
+        "DLC `About This Software` text updated"
+      ],
+      "removed": [
+        "Player content policy disclaimer removed from the DLC legal disclaimer"
+      ],
+      "fixed": [
+        "Resolved inconsistent reload timing caused by the auto-firing timer in the tank defense mini-game"
+      ]
+    },
+    {
       "version": "0.3.837",
       "date": "2026-01-12",
       "author": "HEAT Labs Team",
