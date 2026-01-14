@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 274,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-01-11T07:03:40.533629"
+    "export_timestamp": "2026-01-14T09:57:32.684150"
   },
   "pages": [
     {
@@ -876,7 +876,7 @@
     {
       "url": "https://heatlabs.net/maps/nord-oko",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1931,9 +1931,9 @@
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 76,
+      "pending": 75,
       "not_indexed": 0,
-      "indexed": 192
+      "indexed": 193
     },
     "https_page_status": {
       "unknown": 241,
