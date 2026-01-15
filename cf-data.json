@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "last_updated": "2026-01-14T10:19:19.351516",
+    "last_updated": "2026-01-15T13:32:25.568462",
     "total_records": 30,
     "date_range": {
       "start": "2025-12-01",
-      "end": "2026-01-13"
+      "end": "2026-01-14"
     },
-    "total_days": 44
+    "total_days": 45
   },
   "daily_data": [
     {
@@ -316,14 +316,21 @@
       "data_cached": 207365028,
       "total_requests": 13251,
       "unique_visitors": 810
+    },
+    {
+      "date_iso": "2026-01-14",
+      "total_data_served": 241471683,
+      "data_cached": 81248784,
+      "total_requests": 15593,
+      "unique_visitors": 992
     }
   ],
   "totals": {
     "all_time": {
-      "data_served_gb": 12.63,
-      "data_cached_gb": 4.81,
-      "total_requests": 600496,
-      "total_visitors": 48509
+      "data_served_gb": 12.87,
+      "data_cached_gb": 4.89,
+      "total_requests": 616089,
+      "total_visitors": 49501
     },
     "monthly": {
       "2025-12": {
@@ -333,10 +340,10 @@
         "visitors": 31449
       },
       "2026-01": {
-        "data_served_gb": 4.82,
-        "data_cached_gb": 2.15,
-        "requests": 245234,
-        "visitors": 17060
+        "data_served_gb": 5.06,
+        "data_cached_gb": 2.24,
+        "requests": 260827,
+        "visitors": 18052
       }
     }
   }
