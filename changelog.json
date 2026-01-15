@@ -1,6 +1,33 @@
 {
   "updates": [
     {
+      "version": "0.3.867",
+      "date": "2026-01-14",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #264",
+      "description": "Full patch notes for Update v0.3.867 (#264), detailing all changes made on 14 January, 2026.",
+      "added": [
+        "Desktop-specific pseudo-element introduced on both the main and development websites to improve layout consistency"
+      ],
+      "changed": [
+        "Project statistics updated with the latest internal metrics",
+        "Cloudflare traffic data refreshed",
+        "Main and legacy Google Search Console export data updated",
+        "GSC index data refreshed",
+        "Page data files updated across the site",
+        "Changelog updated",
+        "Daily commit log updated",
+        "One blog card image updated to load via CDN instead of a GitHub-hosted URL"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Resolved titlebar behavior issues in the desktop app where the titlebar could disappear and reappear unexpectedly",
+        "Fixed incorrect image paths in a blog post card on both the main and development websites"
+      ]
+    },
+    {
       "version": "0.3.855",
       "date": "2026-01-13",
       "author": "HEAT Labs Team",
