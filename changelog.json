@@ -1,6 +1,32 @@
 {
   "updates": [
     {
+      "version": "0.3.878",
+      "date": "2026-01-15",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #265",
+      "description": "Full patch notes for Update v0.3.878 (#265), detailing all changes made on 15 January, 2026.",
+      "added": [
+        "New Steam asset variants for the HEAT Labs Configurator app, including additional icons and shortcut images"
+      ],
+      "changed": [
+        "Project statistics updated with the latest internal metrics",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Cloudflare traffic data refreshed",
+        "Main and legacy Google Search Console export data updated",
+        "GSC index data updated",
+        "Existing Steam Configurator shortcut and icon assets renamed for clarity and consistency",
+        "Team member information updated on the About Us page across both main and development websites"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.3.867",
       "date": "2026-01-14",
       "author": "HEAT Labs Team",
