@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 274,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-01-14T09:57:32.684150"
+    "export_timestamp": "2026-01-17T10:04:22.383480"
   },
   "pages": [
     {
@@ -350,8 +350,8 @@
     },
     {
       "url": "https://heatlabs.net/blog/easter-egg-friday-11",
-      "gsc_status": "NOT NEEDED",
-      "g_api_status": "NOT NEEDED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -694,7 +694,7 @@
     {
       "url": "https://heatlabs.net/maps/aircraft-carrier",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1261,7 +1261,7 @@
     {
       "url": "https://heatlabs.net/news/friendship-dam-concept-art-1",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1926,14 +1926,14 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 78,
+      "pending": 79,
       "not_indexed": 0,
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 75,
+      "pending": 74,
       "not_indexed": 0,
-      "indexed": 193
+      "indexed": 195
     },
     "https_page_status": {
       "unknown": 241,
