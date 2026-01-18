@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 274,
+    "total_pages": 275,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-01-17T10:04:22.383480"
+    "export_timestamp": "2026-01-18T03:59:59.720780"
   },
   "pages": [
     {
@@ -560,6 +560,13 @@
     },
     {
       "url": "https://heatlabs.net/blog/wierd-pattern-images",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/wishlist-heatlabs-on-steam",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
@@ -1926,22 +1933,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 79,
+      "pending": 80,
       "not_indexed": 0,
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 74,
+      "pending": 75,
       "not_indexed": 0,
       "indexed": 195
     },
     "https_page_status": {
-      "unknown": 241,
+      "unknown": 242,
       "not_https": 0,
       "https": 32
     },
     "breadcrumb_status": {
-      "unknown": 241,
+      "unknown": 242,
       "invalid": 0,
       "valid": 32
     }
