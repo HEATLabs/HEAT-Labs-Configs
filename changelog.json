@@ -1,6 +1,33 @@
 {
   "updates": [
     {
+      "version": "0.3.907",
+      "date": "2026-01-17",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #267",
+      "description": "Full patch notes for Update v0.3.907 (#267), detailing all changes made on 17 January, 2026.",
+      "added": [
+        "New Steam store and library assets added to support multiple release branches",
+        "Missing Steam news images added to complete the Steam media repository"
+      ],
+      "changed": [
+        "Android mobile app version bumped to v3.0 (versionCode 4) for public rollout",
+        "Home page statistics refreshed with the latest data",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Page data files refreshed across the platform",
+        "Google Search Console index data updated",
+        "Main and legacy GSC export datasets updated",
+        "Cloudflare traffic analytics data refreshed"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.3.895",
       "date": "2026-01-16",
       "author": "HEAT Labs Team",
