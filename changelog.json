@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "version": "0.3.945",
+      "date": "2026-01-19",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #269",
+      "description": "Full patch notes for Update v0.3.945 (#269), detailing all changes made on 19 January, 2026.",
+      "added": [
+        "New blog post published across the main and development websites",
+        "Three new image sets added to Steam store assets",
+        "New tracking pixel image added for the latest blog post"
+      ],
+      "changed": [
+        "Project statistics updated",
+        "Page data updated to include one new page",
+        "Search keyword index updated with the latest blog content",
+        "Tracking pixel index updated for the new blog post",
+        "Sitemap files updated to reflect the newly published blog post",
+        "Changelog updated",
+        "Daily commit log updated",
+        "GSC index data refreshed",
+        "Main and legacy GSC export data updated",
+        "Cloudflare traffic statistics updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected an incorrect Google Play Store link for the mobile app",
+        "Fixed an incorrect Steam wishlist link in a blog post",
+        "Resolved an incorrect featured image used in one blog post"
+      ]
+    },
+    {
       "version": "0.3.928",
       "date": "2026-01-18",
       "author": "HEAT Labs Team",
