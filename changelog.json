@@ -1,6 +1,31 @@
 {
   "updates": [
     {
+      "version": "0.3.955",
+      "date": "2026-01-20",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #270",
+      "description": "Full patch notes for Update v0.3.955 (#270), detailing all changes made on 20 January, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Project-wide statistics refreshed with the latest data",
+        "Changelog updated to reflect recent internal updates",
+        "Daily commit log brought up to date",
+        "Google Search Console index data updated",
+        "Main Google Search Console export files refreshed",
+        "Legacy Google Search Console export data updated",
+        "Cloudflare traffic analytics data updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.3.945",
       "date": "2026-01-19",
       "author": "HEAT Labs Team",
