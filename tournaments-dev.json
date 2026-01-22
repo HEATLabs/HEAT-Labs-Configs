@@ -46,5 +46,21 @@
         "tournament-id": "DEV",
         "tournament-data": "https://cdn2.heatlabs.net/tournaments/OAT2.json",
         "tournament-views": ""
+    },
+    {
+        "id": 5,
+        "publish": true,
+        "name": "Dev Tournament: Bracket Test",
+        "slug": "tournament-bracket-test",
+        "description": "Dev Tournament Description: Bracket Test",
+        "start": "2025-02-22T14:00:00Z",
+        "end": "2099-02-24T14:00:00Z",
+        "date": "2099-02-22",
+        "mode": "Dev Mode",
+        "type": "Dev",
+        "image": "https://cdn5.heatlabs.net/contributors/VEN0M.webp",
+        "tournament-id": "DEV",
+        "tournament-data": "https://cdn2.heatlabs.net/tournaments/OAT2.json",
+        "tournament-views": ""
     }
 ]
