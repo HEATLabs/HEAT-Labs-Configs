@@ -1,6 +1,35 @@
 {
   "updates": [
     {
+      "version": "0.3.969",
+      "date": "2026-01-21",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #271",
+      "description": "Full patch notes for Update v0.3.969 (#271), detailing all changes made on 21 January, 2026.",
+      "added": [
+        "Full Steam achievement system integration for the HEAT Labs Desktop App",
+        "New achievements.json configuration file for Steam desktop achievement handling",
+        "Art assets added for 8 new Steam achievements",
+        "One new meme image added to the HEAT Labs image collection",
+        "Zoom and drag functionality added to the tournament bracket test page on the development website"
+      ],
+      "changed": [
+        "Project statistics updated with the latest internal data",
+        "Meme index refreshed to include the newly added image",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Google Search Console index data refreshed",
+        "Main and legacy GSC export datasets updated",
+        "Cloudflare traffic statistics updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.3.955",
       "date": "2026-01-20",
       "author": "HEAT Labs Team",
