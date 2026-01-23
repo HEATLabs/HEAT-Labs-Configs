@@ -1,0 +1,125 @@
+{
+  "items": {
+    "heat_labs_team": {
+      "name": "HEAT Labs Team Token",
+      "description": "Official recognition token for core HEAT Labs development team members.",
+      "appid": 4318510,
+      "contextid": "2",
+      "defindex": 7001,
+      "icon_url": "URL",
+      "icon_url_large": "URL",
+      "name_color": "FF8300",
+      "item_schema_type": "token",
+      "item_quality": 6,
+      "rarity": "Team",
+      "attributes": {
+        "account_bound": true,
+        "tradable": false,
+        "marketable": false,
+        "giftable": false,
+        "stackable": false
+      },
+      "flags": {
+        "restriction": "admin_controlled"
+      }
+    },
+    "heat_labs_supporters": {
+      "name": "HEAT Labs Supporter Token",
+      "description": "Awarded to valued supporters of HEAT Labs.",
+      "appid": 4318510,
+      "contextid": "2",
+      "defindex": 7002,
+      "icon_url": "URL",
+      "icon_url_large": "URL",
+      "name_color": "COLOR_HEX",
+      "item_schema_type": "token",
+      "item_quality": 5,
+      "rarity": "Supporter",
+      "attributes": {
+        "account_bound": true,
+        "tradable": false,
+        "marketable": false,
+        "giftable": false,
+        "stackable": false
+      },
+      "flags": {
+        "restriction": "admin_controlled"
+      }
+    },
+    "heat_labs_contributors": {
+      "name": "Contributor Token",
+      "description": "Granted to external HEAT Labs contributors for code, art, data or design.",
+      "appid": 4318510,
+      "contextid": "2",
+      "defindex": 7003,
+      "icon_url": "URL",
+      "icon_url_large": "URL",
+      "name_color": "COLOR_HEX",
+      "item_schema_type": "token",
+      "item_quality": 4,
+      "rarity": "Contributor",
+      "attributes": {
+        "account_bound": true,
+        "tradable": false,
+        "marketable": false,
+        "giftable": false,
+        "stackable": false
+      },
+      "flags": {
+        "restriction": "admin_controlled"
+      }
+    },
+    "heat_labs_testers": {
+      "name": "HEAT Labs Tester Token",
+      "description": "Issued to participants of official HEAT Labs beta and internal test programs.",
+      "appid": 4318510,
+      "contextid": "2",
+      "defindex": 7004,
+      "icon_url": "URL",
+      "icon_url_large": "URL",
+      "name_color": "COLOR_HEX",
+      "item_schema_type": "token",
+      "item_quality": 3,
+      "rarity": "Tester",
+      "attributes": {
+        "account_bound": true,
+        "tradable": false,
+        "marketable": false,
+        "giftable": false,
+        "stackable": false
+      },
+      "flags": {
+        "restriction": "admin_controlled"
+      }
+    },
+    "heat_labs_creators": {
+      "name": "HEAT Labs Creator Token",
+      "description": "Awarded to dedicated HEAT Labs content creators and community ambassadors.",
+      "appid": 4318510,
+      "contextid": "2",
+      "defindex": 7005,
+      "icon_url": "URL",
+      "icon_url_large": "URL",
+      "name_color": "COLOR_HEX",
+      "item_schema_type": "token",
+      "item_quality": 4,
+      "rarity": "Creator",
+      "attributes": {
+        "account_bound": true,
+        "tradable": false,
+        "marketable": false,
+        "giftable": false,
+        "stackable": false
+      },
+      "flags": {
+        "restriction": "admin_controlled"
+      }
+    }
+  },
+  "defaults": {
+    "appid": 4318510,
+    "contextid": "2",
+    "currency": "USD",
+    "item_schema_type": "token"
+  }
+}
