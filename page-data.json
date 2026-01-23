@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 276,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-01-23T02:12:33.265907"
+    "export_timestamp": "2026-01-23T14:08:54.902433"
   },
   "pages": [
     {
@@ -357,8 +357,8 @@
     },
     {
       "url": "https://heatlabs.net/blog/easter-egg-friday-12",
-      "gsc_status": "NOT NEEDED",
-      "g_api_status": "NOT NEEDED",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1940,12 +1940,12 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 81,
+      "pending": 82,
       "not_indexed": 0,
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 73,
+      "pending": 74,
       "not_indexed": 0,
       "indexed": 198
     },
