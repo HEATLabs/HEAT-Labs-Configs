@@ -1,6 +1,44 @@
 {
   "updates": [
     {
+      "version": "0.3.992",
+      "date": "2026-01-22",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #272",
+      "description": "Full patch notes for Update v0.3.992 (#272), detailing all changes made on 22 January, 2026.",
+      "added": [
+        "Two new meme images added to the HEAT Labs image and configuration indexes",
+        "New tournament bracket test page introduced for internal testing",
+        "Reset zoom button added to the tournament bracket viewer",
+        "Inventory logo added as a new Steam asset",
+        "Art assets added for 11 new Steam achievements",
+        "New visit-page Steam achievements added to the desktop app configuration",
+        "Page visit tracking implemented for page-specific Steam achievements"
+      ],
+      "changed": [
+        "Meme index updated to include newly added images",
+        "Project statistics refreshed",
+        "Changelog and daily commit log updated",
+        "Google Search Console index and export data updated (main and legacy)",
+        "Cloudflare traffic data updated",
+        "Steam Supporter Pack DLC description refined",
+        "Steam page-specific achievement detection logic improved",
+        "About Us page layout adjusted, moving the Beta Testers section above Content Creators",
+        "Tournament bracket test updated to support global dragging behavior"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected CDN path for the Team SMILE logo",
+        "Fixed missing Partners column and incorrect legal links in the footer across all legal pages",
+        "Resolved multiple path and preload issues affecting tournament pages (Alpha 1 and Alpha 2)",
+        "Fixed image and data path issues within tournament-related pages and viewers",
+        "Resolved tournament logo gallery blocking issue",
+        "Corrected several tank model viewer path issues in the development website"
+      ]
+    },
+    {
       "version": "0.3.969",
       "date": "2026-01-21",
       "author": "HEAT Labs Team",
