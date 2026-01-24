@@ -1,6 +1,39 @@
 {
   "updates": [
     {
+      "version": "0.4.010",
+      "date": "2026-01-23",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #273",
+      "description": "Full patch notes for Update v0.4.010 (#273), detailing all changes made on 23 January, 2026.",
+      "added": [
+        "Easter Egg Friday #12 blog post published on both main and development websites",
+        "Mock CM list data index introduced for internal testing and future expansion",
+        "Initial WIP Steam item index file added",
+        "Placeholder implementation added for the Steam item token issuer tool",
+        "Additional tracking pixel assets prepared for upcoming Easter Egg Friday blog posts"
+      ],
+      "changed": [
+        "Tracking pixel configuration updated with missing entries for future blog content",
+        "Page data files updated to include the latest Easter Egg Friday blog post",
+        "Search keyword index refreshed with new blog content",
+        "Project statistics updated",
+        "Sitemap files updated to register the new blog post",
+        "Tournament bracket updated with new controls and refreshed favicon paths",
+        "Daily commit log updated",
+        "Changelog updated",
+        "GSC index data refreshed",
+        "Main and legacy GSC export data updated",
+        "Cloudflare traffic data updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected incorrect file paths in six Bug Hunting blog posts across both production and development websites"
+      ]
+    },
+    {
       "version": "0.3.992",
       "date": "2026-01-22",
       "author": "HEAT Labs Team",
