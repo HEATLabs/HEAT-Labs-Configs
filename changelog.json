@@ -1,6 +1,45 @@
 {
   "updates": [
     {
+      "version": "0.4.044",
+      "date": "2026-01-25",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #275",
+      "description": "Full patch notes for Update v0.4.044 (#275), detailing all changes made on 25 January, 2026.",
+      "added": [
+        "36 new loading messages added to the random loading endpoint",
+        "New wrong-turn page support introduced for CDN16",
+        "Site-data files and CNAME configuration added for CDN16 Steam Assets",
+        "New artwork assets added for the Steam Supporter Pack DLC store page",
+        "Supporter tier image assets added to the Discord bot",
+        "Dedicated asset folder structure introduced for Discord bot resources",
+        "New player search development test tool added",
+        "Multi-region player search support added to the player search tool"
+      ],
+      "changed": [
+        "humans.txt last-modified dates updated across all HEAT Labs services, CDNs, subdomains, APIs, and applications",
+        "Project statistics refreshed with the latest data",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Google Search Console index and export data updated (main and legacy)",
+        "Cloudflare traffic analytics updated",
+        "Main website sitemap last-modified date updated",
+        "Alpha 3 countdown prediction date updated to 15 February",
+        "Alpha 3 countdown pages updated with new release and failed prediction messaging across main and development websites",
+        "Site-data updater tool updated to support the new CDN16 path",
+        ".gitignore updated to include new tool output directories"
+      ],
+      "removed": [
+        "Placeholder Bing index output file removed following tool deprecation",
+        "Sample preview output removed from deprecated data extraction tool",
+        "Placeholder file removed for the scrapped Bing index checker tool"
+      ],
+      "fixed": [
+        "Corrected an incorrect date comment within the Alpha 3 countdown JavaScript file",
+        "Minor consistency issues related to countdown messaging across CDN and development environments"
+      ]
+    },
+    {
       "version": "0.4.020",
       "date": "2026-01-24",
       "author": "HEAT Labs Team",
