@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 276,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-01-23T14:08:54.902433"
+    "export_timestamp": "2026-01-26T02:23:35.861719"
   },
   "pages": [
     {
@@ -1604,7 +1604,7 @@
     {
       "url": "https://heatlabs.net/resources/contact-us",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1945,9 +1945,9 @@
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 74,
+      "pending": 73,
       "not_indexed": 0,
-      "indexed": 198
+      "indexed": 199
     },
     "https_page_status": {
       "unknown": 243,
