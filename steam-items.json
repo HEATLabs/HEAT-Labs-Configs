@@ -2,7 +2,7 @@
   "items": {
     "heat_labs_team": {
       "name": "Team Token",
-      "description": "PLACEHOLDER",
+      "description": "Awarded to official team members who help build, maintain, and steer HEAT Labs. This token marks those directly involved in development, writing, content creation, and the long-term direction of HEAT Labs.",
       "appid": 4318510,
       "contextid": "2",
       "defindex": 7001,
@@ -25,7 +25,7 @@
     },
     "heat_labs_supporters": {
       "name": "Supporter Token",
-      "description": "PLACEHOLDER",
+      "description": "Granted to supporters and donors who help keep the project alive. This token recognizes those who contribute financially to HEAT Labs and allow us to keep doing what we do.",
       "appid": 4318510,
       "contextid": "2",
       "defindex": 7002,
@@ -48,7 +48,7 @@
     },
     "heat_labs_contributors": {
       "name": "Contributor Token",
-      "description": "PLACEHOLDER",
+      "description": "Awarded to contributors who provide meaningful input to HEAT Labs and its content. This token represents hands-on contributions that help improve and expand the project.",
       "appid": 4318510,
       "contextid": "2",
       "defindex": 7003,
@@ -71,7 +71,7 @@
     },
     "heat_labs_testers": {
       "name": "Tester Token",
-      "description": "PLACEHOLDER",
+      "description": "Given to testers who actively help identify bugs, issues, and other problems. This token honours those who put in time testing features before release.",
       "appid": 4318510,
       "contextid": "2",
       "defindex": 7004,
@@ -94,7 +94,7 @@
     },
     "heat_labs_creators": {
       "name": "Creator Token",
-      "description": "PLACEHOLDER",
+      "description": "Awarded to featured content creators whose work is showcased on HEAT Labs. This token recognizes creators who help grow the community through videos, streams, guides, or other media.",
       "appid": 4318510,
       "contextid": "2",
       "defindex": 7005,
