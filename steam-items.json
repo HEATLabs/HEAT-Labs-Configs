@@ -1,7 +1,7 @@
 {
   "items": {
     "heat_labs_team": {
-      "name": "HEAT Labs Team Token",
+      "name": "Team Token",
       "description": "Official recognition token for core HEAT Labs development team members.",
       "appid": 4318510,
       "contextid": "2",
@@ -24,7 +24,7 @@
       }
     },
     "heat_labs_supporters": {
-      "name": "HEAT Labs Supporter Token",
+      "name": "Supporter Token",
       "description": "Awarded to valued supporters of HEAT Labs.",
       "appid": 4318510,
       "contextid": "2",
@@ -70,7 +70,7 @@
       }
     },
     "heat_labs_testers": {
-      "name": "HEAT Labs Tester Token",
+      "name": "Tester Token",
       "description": "Issued to participants of official HEAT Labs beta and internal test programs.",
       "appid": 4318510,
       "contextid": "2",
@@ -93,7 +93,7 @@
       }
     },
     "heat_labs_creators": {
-      "name": "HEAT Labs Creator Token",
+      "name": "Creator Token",
       "description": "Awarded to dedicated HEAT Labs content creators and community ambassadors.",
       "appid": 4318510,
       "contextid": "2",
