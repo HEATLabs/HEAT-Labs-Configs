@@ -1,6 +1,35 @@
 {
   "updates": [
     {
+      "version": "0.4.058",
+      "date": "2026-01-26",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #276",
+      "description": "Full patch notes for Update v0.4.058 (#276), detailing all changes made on 26 January, 2026.",
+      "added": [
+        "Finalized item descriptions added to the Steam items configuration",
+        "Completed final descriptions for the Steam Supporter Pack DLC",
+        "Meta Ads archive added to the HEAT Labs archives repository"
+      ],
+      "changed": [
+        "Steam item names shortened for improved clarity and consistency",
+        "Item descriptions temporarily replaced with placeholders during restructuring",
+        "Contributor name updated for Calisota across both production and development websites",
+        "Project statistics refreshed",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Page data files updated",
+        "GSC index and export data refreshed, including legacy datasets",
+        "Cloudflare traffic analytics data updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.4.044",
       "date": "2026-01-25",
       "author": "HEAT Labs Team",
