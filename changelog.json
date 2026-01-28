@@ -1,6 +1,40 @@
 {
   "updates": [
     {
+      "version": "0.4.077",
+      "date": "2026-01-27",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #277",
+      "description": "Full patch notes for Update v0.4.077 (#277), detailing all changes made on 27 January, 2026.",
+      "added": [
+        "New placeholder Login with Wargaming.net ID button introduced across all HEAT Labs platforms",
+        "Initial WIP login modal module added to statics CDN and development environments",
+        "Placeholder profile button added to header actions across all websites, CDNs, APIs, and tools",
+        "New HTML import checker development tool added for internal use",
+        "Wargaming.net SVG logo added to the HEAT Labs images repository"
+      ],
+      "changed": [
+        "Login links replaced with a unified button-based login entry across all HEAT Labs services",
+        "Header modules updated to support the new login and profile button layout",
+        "Login modal CSS and JS paths registered across all websites, CDNs, APIs, and internal tools",
+        "Login modal behaviour adjusted to correctly handle the new button-based flow",
+        "Main and development blog pages updated to include required module imports",
+        "Project statistics, page data files, changelog data, and daily commit logs updated",
+        "GSC index data, main exports, legacy exports, and Cloudflare traffic data refreshed"
+      ],
+      "removed": [
+        "Duplicate JavaScript imports removed from multiple 404 pages",
+        "Redundant JavaScript and CSS imports cleaned up across main and development websites"
+      ],
+      "fixed": [
+        "Resolved duplicate JS and CSS imports across dozens of pages to reduce load overhead",
+        "Fixed missing module imports in several blog posts on both production and development sites",
+        "Corrected incorrect absolute paths on 32 development pages by switching to relative paths",
+        "Fixed login button state handling issues in development environments",
+        "Addressed multiple path and import inconsistencies across CDNs, APIs, redirects, and subdomains"
+      ]
+    },
+    {
       "version": "0.4.058",
       "date": "2026-01-26",
       "author": "HEAT Labs Team",
