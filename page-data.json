@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 277,
+    "total_pages": 278,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-01-29T19:49:42.272103"
+    "export_timestamp": "2026-01-30T00:46:01.716987"
   },
   "pages": [
     {
@@ -645,6 +645,13 @@
     {
       "url": "https://heatlabs.net/legal/code-of-conduct",
       "gsc_status": "INDEXED",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/legal/player-content-policy",
+      "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
@@ -1947,22 +1954,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 83,
+      "pending": 84,
       "not_indexed": 0,
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 72,
+      "pending": 73,
       "not_indexed": 0,
       "indexed": 201
     },
     "https_page_status": {
-      "unknown": 244,
+      "unknown": 245,
       "not_https": 0,
       "https": 32
     },
     "breadcrumb_status": {
-      "unknown": 244,
+      "unknown": 245,
       "invalid": 0,
       "valid": 32
     }
