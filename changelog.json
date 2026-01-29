@@ -1,6 +1,42 @@
 {
   "updates": [
     {
+      "version": "0.4.098",
+      "date": "2026-01-28",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #278",
+      "description": "Full patch notes for Update v0.4.098 (#278), detailing all changes made on 28 January, 2026.",
+      "added": [
+        "New meme entries added to the HEAT Labs meme index and image library",
+        "Tank Defense Game added to the Discord bot domain configuration",
+        "New art assets added for a Steam achievement",
+        "Schrodinger's achievement added to the desktop app Steam achievements list"
+      ],
+      "changed": [
+        "Project statistics updated with the latest internal data",
+        "Changelog, daily commit log, and page data files updated",
+        "Google Search Console index and export datasets refreshed (main and legacy)",
+        "Cloudflare traffic statistics updated",
+        "Discord bot status index list refined",
+        "Alpha 3 countdown page in Discord activity aligned with the main countdown end date",
+        "Steam supporter pack DLC screenshot asset updated",
+        "Tournament bracket updated with headers, dynamic naming, and revised default zoom levels",
+        "Website and development website assets merged and synchronized with main branch"
+      ],
+      "removed": [
+        "Unused bot static files removed from the main statics CDN"
+      ],
+      "fixed": [
+        "Corrected HTML formatting across all CDN pages, subdomains, and services",
+        "Fixed JavaScript formatting in configurator apps, statics CDN files, websites, and API pages",
+        "Fixed CSS formatting across statics CDN and development website files",
+        "Resolved Python formatting issues in multiple Discord bot commands and internal development tools",
+        "Corrected formatting issues across Discord redirects, mobile app pages, statistics pages, mods pages, and status pages",
+        "Fixed HTML and JS formatting across the Views API",
+        "Added missing GPLv3 license link to the Project License page on the development website"
+      ]
+    },
+    {
       "version": "0.4.077",
       "date": "2026-01-27",
       "author": "HEAT Labs Team",
