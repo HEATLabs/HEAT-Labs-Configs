@@ -1,6 +1,39 @@
 {
   "updates": [
     {
+      "version": "0.4.116",
+      "date": "2026-01-29",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #279",
+      "description": "Full patch notes for Update v0.4.116 (#279), detailing all changes made on 29 January, 2026.",
+      "added": [
+        "New Player Content Policy legal page added to both main and development websites",
+        "New Steam news post published across the website and development environment",
+        "Wishlist button added to the home page, linking directly to the game\u00e2\u20ac\u2122s Steam store page",
+        "Tracking pixel assets added for the new legal page and Steam news post",
+        "Placeholder and required images added for newly published legal and news content"
+      ],
+      "changed": [
+        "Page data files updated to support new legal and news pages",
+        "Search keyword index expanded to include new legal and Steam news content",
+        "Tracking pixel index updated with new entries",
+        "Project statistics refreshed",
+        "Homepage wishlist button updated to point to the official Steam page instead of the main website",
+        "Latest Steam news card updated to use the correct imagery",
+        "Sitemap files updated to include newly added legal and news pages",
+        "Changelog, daily commit log, and GSC index/export data updated",
+        "Cloudflare traffic data refreshed"
+      ],
+      "removed": [
+        "Placeholder Related Articles sidebar section removed from all game news posts"
+      ],
+      "fixed": [
+        "Navigation button icons for legal page cards made consistent across the website and development environment",
+        "Missing image assets for the latest Steam news post added",
+        "Missing external link to the game website added to the latest Steam news post"
+      ]
+    },
+    {
       "version": "0.4.098",
       "date": "2026-01-28",
       "author": "HEAT Labs Team",
