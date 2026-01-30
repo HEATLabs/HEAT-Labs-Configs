@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 278,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-01-30T00:46:01.716987"
+    "export_timestamp": "2026-01-30T02:06:36.749365"
   },
   "pages": [
     {
@@ -911,7 +911,7 @@
     {
       "url": "https://heatlabs.net/maps/project-phoenix",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1959,9 +1959,9 @@
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 73,
+      "pending": 72,
       "not_indexed": 0,
-      "indexed": 201
+      "indexed": 202
     },
     "https_page_status": {
       "unknown": 245,
