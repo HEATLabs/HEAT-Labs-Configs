@@ -1,11 +1,11 @@
 {
-    "id": "banner-2025-07-001",
+    "id": "banner-2026-02-001",
     "active": true,
-    "startDate": "2025-09-17T00:00:00Z",
-    "endDate": "2025-10-01T00:00:00Z",
-    "message": "<strong>Temporary Views API Outage</strong> Due to technical issues with our API system and Views Database, the Views API is currently unavailable. View counters across HEAT Labs may display 0, and the Website Statistics page will not function until service is restored.",
-    "ctaText": "Stay Updated",
-    "ctaUrl": "https://discord.heatlabs.net",
+    "startDate": "2026-02-02T10:00:00Z",
+    "endDate": "2026-02-09T10:00:00Z",
+    "message": "<strong>The HEAT Labs Desktop App is now available on Steam!</strong> Get all HEAT Labs tools in one powerful standalone application, with fast access to statistics, guides, and insights for everything related to World of Tanks: HEAT.",
+    "ctaText": "Install Now",
+    "ctaUrl": "https://store.steampowered.com/app/4318510/HEAT_Labs",
     "backgroundColor": "--bg-dark",
     "textColor": "--text-dark",
     "buttonColor": "--accent-color"
