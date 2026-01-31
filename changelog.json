@@ -1,6 +1,37 @@
 {
   "updates": [
     {
+      "version": "0.4.132",
+      "date": "2026-01-30",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #280",
+      "description": "Full patch notes for Update v0.4.132 (#280), detailing all changes made on 30 January, 2026.",
+      "added": [
+        "New Easter Egg Friday 13 blog post published on both main and development websites",
+        "New page card image added for the Player Content Policy page"
+      ],
+      "changed": [
+        "Project statistics updated",
+        "Main and legacy Google Search Console export data refreshed",
+        "Google Search Console index data updated",
+        "Cloudflare traffic analytics data updated",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Page data files updated",
+        "Sitemap files updated to include the latest Easter Egg Friday blog post",
+        "Riddle content updated within the Easter Egg Friday 13 blog post",
+        "Devs-only page updated to include previously missing pages",
+        "Page card image updated for the Code of Conduct page"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected blog post card images that were not properly loading from the CDN",
+        "Fixed incorrect alt text on Easter Egg Friday blog card images across both production and development sites"
+      ]
+    },
+    {
       "version": "0.4.116",
       "date": "2026-01-29",
       "author": "HEAT Labs Team",
