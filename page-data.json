@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 278,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-01-30T02:30:58.982006"
+    "export_timestamp": "2026-02-01T03:12:53.756779"
   },
   "pages": [
     {
@@ -155,7 +155,7 @@
     {
       "url": "https://heatlabs.net/agents/udarnik",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1674,7 +1674,7 @@
     {
       "url": "https://heatlabs.net/steam-news/the-source-of-heat",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1959,9 +1959,9 @@
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 73,
+      "pending": 71,
       "not_indexed": 0,
-      "indexed": 202
+      "indexed": 204
     },
     "https_page_status": {
       "unknown": 245,
