@@ -1,6 +1,40 @@
 {
   "updates": [
     {
+      "version": "0.4.153",
+      "date": "2026-01-31",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #281",
+      "description": "Full patch notes for Update v0.4.153 (#281), detailing all changes made on 31 January, 2026.",
+      "added": [
+        "Over 240 new soundboard texts contributed by SirBarett and legocity2000",
+        "New sound type labels added to improve soundboard organization",
+        "Promotional banner added for the upcoming HEAT Labs Desktop Steam release",
+        "WoT: HEAT microtrailer media added in GIF, WEBP, and WEBM formats",
+        "New playground card image added for the Tank Defense feature page"
+      ],
+      "changed": [
+        "Grammar and wording improved across multiple soundboard entries",
+        "Project statistics updated with the latest data",
+        "Changelog updated and encoding issues resolved",
+        "Daily commit log updated",
+        "Google Search Console index data refreshed",
+        "Main and legacy GSC export datasets updated",
+        "Cloudflare traffic analytics data updated",
+        "Background animation hardcoded into the Alpha 3 countdown page",
+        "Homepage hero subtitle text refined for clarity and grammar"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected non-standard image resolutions across all blog card categories, including Meet the Team, Feature Showcase, Developer Insights, and Easter Egg Friday",
+        "Fixed non-standard image resolutions for all playground feature cards",
+        "Resolved minor visual consistency issues in blog and feature imagery across the website",
+        "Applied the same fixes and improvements to both production and development environments"
+      ]
+    },
+    {
       "version": "0.4.134",
       "date": "2026-01-30",
       "author": "HEAT Labs Team",
