@@ -1,16 +1,18 @@
 {
   "updates": [
     {
-      "version": "0.4.132",
+      "version": "0.4.134",
       "date": "2026-01-30",
       "author": "HEAT Labs Team",
       "title": "Update Number #280",
-      "description": "Full patch notes for Update v0.4.132 (#280), detailing all changes made on 30 January, 2026.",
+      "description": "Full patch notes for Update v0.4.134 (#280), detailing all changes made on 30 January, 2026.",
       "added": [
         "New Easter Egg Friday 13 blog post published on both main and development websites",
         "New page card image added for the Player Content Policy page"
       ],
       "changed": [
+        "Page data files updated to include the latest Easter Egg Friday blog content",
+        "Search keyword index refreshed with new blog post data",
         "Project statistics updated",
         "Main and legacy Google Search Console export data refreshed",
         "Google Search Console index data updated",
