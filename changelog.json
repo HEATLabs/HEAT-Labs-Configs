@@ -1,6 +1,32 @@
 {
   "updates": [
     {
+      "version": "0.4.175",
+      "date": "2026-02-02",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #283",
+      "description": "Full patch notes for Update v0.4.175 (#283), detailing all changes made on 02 February, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Project statistics refreshed with the latest internal metrics",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Google Search Console index data updated",
+        "Main and legacy GSC export datasets refreshed",
+        "Cloudflare traffic data updated to reflect recent activity"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Investigated and addressed a potential stale filter cache issue within static assets",
+        "Applied and validated fixes for stale filter cache behavior across development and static environments",
+        "Safely reverted intermediary changes during cache fix testing to ensure system stability"
+      ]
+    },
+    {
       "version": "0.4.164",
       "date": "2026-02-01",
       "author": "HEAT Labs Team",
