@@ -1,32 +1,12 @@
 {
-  "2025-11-04": {
-    "breadcrumbs": {
-      "invalid": 0,
-      "valid": 105
-    },
-    "coverage": {
-      "not_indexed": 100,
-      "indexed": 203,
-      "impressions": 25
-    },
-    "https": {
-      "non_https_urls": 0,
-      "https_urls": 107
-    },
-    "video_indexing": {
-      "no_video_indexed": "N/A",
-      "video_indexed": "N/A",
-      "impressions": 0
-    }
-  },
   "2025-11-05": {
     "breadcrumbs": {
       "invalid": 0,
       "valid": 101
     },
     "coverage": {
-      "not_indexed": 102,
-      "indexed": 205,
+      "not_indexed": "N/A",
+      "indexed": "N/A",
       "impressions": 31
     },
     "https": {
@@ -45,8 +25,8 @@
       "valid": 95
     },
     "coverage": {
-      "not_indexed": 102,
-      "indexed": 205,
+      "not_indexed": "N/A",
+      "indexed": "N/A",
       "impressions": 34
     },
     "https": {
@@ -65,8 +45,8 @@
       "valid": 87
     },
     "coverage": {
-      "not_indexed": 102,
-      "indexed": 205,
+      "not_indexed": "N/A",
+      "indexed": "N/A",
       "impressions": 23
     },
     "https": {
@@ -1754,9 +1734,9 @@
       "https_urls": 28
     },
     "video_indexing": {
-      "no_video_indexed": "N/A",
-      "video_indexed": "N/A",
-      "impressions": "N/A"
+      "no_video_indexed": 20,
+      "video_indexed": 1,
+      "impressions": 0
     }
   },
   "2026-01-31": {
@@ -1774,9 +1754,9 @@
       "https_urls": 28
     },
     "video_indexing": {
-      "no_video_indexed": "N/A",
-      "video_indexed": "N/A",
-      "impressions": "N/A"
+      "no_video_indexed": 20,
+      "video_indexed": 1,
+      "impressions": 0
     }
   },
   "2026-02-01": {
@@ -1794,8 +1774,8 @@
       "https_urls": 28
     },
     "video_indexing": {
-      "no_video_indexed": "N/A",
-      "video_indexed": "N/A",
+      "no_video_indexed": 20,
+      "video_indexed": 1,
       "impressions": "N/A"
     }
   },
@@ -1814,8 +1794,8 @@
       "https_urls": 28
     },
     "video_indexing": {
-      "no_video_indexed": "N/A",
-      "video_indexed": "N/A",
+      "no_video_indexed": 20,
+      "video_indexed": 1,
       "impressions": "N/A"
     }
   }
