@@ -1,6 +1,45 @@
 {
   "updates": [
     {
+      "version": "0.4.209",
+      "date": "2026-02-04",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #285",
+      "description": "Full patch notes for Update v0.4.209 (#285), detailing all changes made on 04 February, 2026.",
+      "added": [
+        "Eight new long-playtime Steam achievements added to the HEAT Labs Desktop app",
+        "New Steam achievement artwork added for all newly introduced achievements",
+        "Four new official cat team members added to the About Us page across main and development websites",
+        "New meme images added to the main images CDN and meme index",
+        "New Matcha image added to the images repository",
+        "HEAT Labs camo files added to a dedicated mods folder within the game mods repository"
+      ],
+      "changed": [
+        "404 page GIF path updated consistently across all HEAT Labs services, subdomains, APIs, and CDNs",
+        "Project statistics updated",
+        "Cloudflare traffic data updated",
+        "Google Search Console index and export data refreshed (main and legacy)",
+        "Daily commit log updated and formatting refined for improved readability",
+        "Meme index updated with corrected image paths and new entries",
+        "Image paths updated across multiple Easter Egg pages and modules",
+        "Seasonal assets reorganized and paths updated across website static CDNs",
+        "Images in the misc folder reorganized into individual category directories",
+        "Memes folder moved to the root directory of the main images CDN",
+        "Internal tools updated to correctly handle new image and meme paths"
+      ],
+      "removed": [
+        "Schrodinger's Achievement removed from the Steam achievement index",
+        "Unused SVG asset removed from the images repository",
+        "Legacy HEAT Labs camo files removed from the miscellaneous images folder"
+      ],
+      "fixed": [
+        "Corrected Steam achievement ID ordering in the desktop application",
+        "Updated achievement module logic in the desktop app for new playtime milestones",
+        "Resolved incorrect image paths affecting Easter Egg content on both main and development websites",
+        "Fixed asset path inconsistencies across website statics, APIs, and supporting services"
+      ]
+    },
+    {
       "version": "0.4.185",
       "date": "2026-02-03",
       "author": "HEAT Labs Team",
