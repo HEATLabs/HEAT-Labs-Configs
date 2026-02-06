@@ -1,6 +1,32 @@
 {
   "updates": [
     {
+      "version": "0.4.220",
+      "date": "2026-02-05",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #286",
+      "description": "Full patch notes for Update v0.4.220 (#286), detailing all changes made on 05 February, 2026.",
+      "added": [
+        "Losers bracket section titles added to the tournament bracket layout"
+      ],
+      "changed": [
+        "Tournament bracket system revised to load sections dynamically for improved performance and flexibility",
+        "Camera view behavior adjusted and clamped within the tournament bracket interface",
+        "Project statistics updated",
+        "Changelog updated",
+        "Daily commit log updated",
+        "GSC index data refreshed",
+        "Main and legacy GSC export data updated",
+        "Cloudflare traffic statistics updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected an incorrect logo path on the tournament bracket page"
+      ]
+    },
+    {
       "version": "0.4.209",
       "date": "2026-02-04",
       "author": "HEAT Labs Team",
