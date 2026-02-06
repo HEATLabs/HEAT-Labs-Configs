@@ -1,24 +1,4 @@
 {
-  "2025-11-07": {
-    "breadcrumbs": {
-      "invalid": 0,
-      "valid": 87
-    },
-    "coverage": {
-      "not_indexed": "N/A",
-      "indexed": "N/A",
-      "impressions": 23
-    },
-    "https": {
-      "non_https_urls": 0,
-      "https_urls": 94
-    },
-    "video_indexing": {
-      "no_video_indexed": "N/A",
-      "video_indexed": "N/A",
-      "impressions": 0
-    }
-  },
   "2025-11-08": {
     "breadcrumbs": {
       "invalid": 0,
@@ -1767,7 +1747,7 @@
     "coverage": {
       "not_indexed": 314,
       "indexed": 223,
-      "impressions": "N/A"
+      "impressions": 76
     },
     "https": {
       "non_https_urls": 0,
@@ -1780,6 +1760,26 @@
     }
   },
   "2026-02-04": {
+    "breadcrumbs": {
+      "invalid": 0,
+      "valid": 28
+    },
+    "coverage": {
+      "not_indexed": "N/A",
+      "indexed": "N/A",
+      "impressions": "N/A"
+    },
+    "https": {
+      "non_https_urls": 0,
+      "https_urls": 28
+    },
+    "video_indexing": {
+      "no_video_indexed": "N/A",
+      "video_indexed": "N/A",
+      "impressions": "N/A"
+    }
+  },
+  "2026-02-05": {
     "breadcrumbs": {
       "invalid": "N/A",
       "valid": "N/A"
