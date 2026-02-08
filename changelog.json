@@ -1,6 +1,52 @@
 {
   "updates": [
     {
+      "version": "0.4.236",
+      "date": "2026-02-07",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #288",
+      "description": "Full patch notes for Update v0.4.236 (#288), detailing all changes made on 07 February, 2026.",
+      "added": [
+        "Nothing was removed in this update"
+      ],
+      "changed": [
+        "Improved the tournament bracket layout in the development environment with a properly centered view"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was removed in this update"
+      ]
+    },
+    {
+      "version": "0.4.232",
+      "date": "2026-02-06",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #287",
+      "description": "Full patch notes for Update v0.4.232 (#287), detailing all changes made on 06 February, 2026.",
+      "added": [
+        "Easter Egg Friday #14 blog post published on both the main and development websites"
+      ],
+      "changed": [
+        "Project statistics refreshed",
+        "Page data updated to register the new blog article",
+        "Search keyword index expanded with the latest content",
+        "Sitemap files updated",
+        "Changelog updated",
+        "Daily commit log updated",
+        "GSC index data refreshed",
+        "Primary and legacy GSC export datasets updated",
+        "Cloudflare traffic metrics refreshed"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.4.220",
       "date": "2026-02-05",
       "author": "HEAT Labs Team",
