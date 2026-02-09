@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 278,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-02-06T09:42:24.987306"
+    "export_timestamp": "2026-02-09T21:34:15.744351"
   },
   "pages": [
     {
@@ -50,7 +50,7 @@
     {
       "url": "https://heatlabs.net/agents/akira",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -855,7 +855,7 @@
     {
       "url": "https://heatlabs.net/maps/hydro",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1959,9 +1959,9 @@
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 72,
+      "pending": 70,
       "not_indexed": 0,
-      "indexed": 204
+      "indexed": 206
     },
     "https_page_status": {
       "unknown": 245,
