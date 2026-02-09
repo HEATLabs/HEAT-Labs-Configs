@@ -1,6 +1,31 @@
 {
   "updates": [
     {
+      "version": "0.4.246",
+      "date": "2026-02-08",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #289",
+      "description": "Full patch notes for Update v0.4.246 (#289), detailing all changes made on 08 February, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Project statistics refreshed with the latest metrics",
+        "Changelog updated",
+        "Daily commit log updated",
+        "GSC index data refreshed",
+        "Main GSC export data updated",
+        "Legacy GSC export data updated",
+        "Cloudflare traffic data updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected inaccurate entries present in the most recent changelog release"
+      ]
+    },
+    {
       "version": "0.4.236",
       "date": "2026-02-07",
       "author": "HEAT Labs Team",
