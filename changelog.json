@@ -1,6 +1,50 @@
 {
   "updates": [
     {
+      "version": "0.4.260",
+      "date": "2026-02-10",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #291",
+      "description": "Full patch notes for Update v0.4.260 (#291), detailing all changes made on 10 February, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.256",
+      "date": "2026-02-09",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #290",
+      "description": "Full patch notes for Update v0.4.256 (#290), detailing all changes made on 09 February, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Daily commit history synchronized and backfilled with previously missing records",
+        "Project statistics refreshed",
+        "Changelog updated",
+        "Cloudflare traffic metrics updated",
+        "Main and legacy Google Search Console export datasets refreshed",
+        "Page data files updated",
+        "GSC index data updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.4.246",
       "date": "2026-02-08",
       "author": "HEAT Labs Team",
