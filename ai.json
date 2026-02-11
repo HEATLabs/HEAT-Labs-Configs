@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "keywords": ["blitz", "emp", "rocket", "jam"],
+    "response": "Blitz's EMP rocket is a slow-moving guided missile that jams nearby electronics. Best used to disrupt campers or to push a choke point. Pro tip: manual detonation can catch enemies off guard."
+  },
+  {
+    "id": 2,
+    "keywords": ["anansi", "gunship", "ac-130", "spectre"],
+    "response": "Anansi calls in an AC-130H Spectre. The 40mm is for soft targets, but the 105mm can delete heavily armored tanks. Save the 105 for the big boys."
+  },
+  {
+    "id": 3,
+    "keywords": ["ember", "trophy", "turret", "intercept"],
+    "response": "Ember drops a Trophy turret that intercepts projectiles. Pair her with brawlers like the M60A3E2 to create an unstoppable push. She also gets a speed boost when rushing allies."
+  },
+  {
+    "id": 4,
+    "keywords": ["kent", "contracts", "strike", "aerial"],
+    "response": "Kent locks targets in his cone and calls ballistic strikes. His 'cursed luck' isn't just flavor—time your activation when enemies are clustered for multi-kills."
+  },
+  {
+    "id": 5,
+    "keywords": ["hound", "hunter", "mark", "weak spot", "critical"],
+    "response": "Hound reveals critical modules. This extends the mark duration. Great for coordinating with high-alpha DPM tanks. If you see a weak spot lit up, take the shot."
+  },
+  {
+    "id": 6,
+    "keywords": ["reaper", "execute", "finish", "420"],
+    "response": "Reaper executes any tank below 420 HP. His ability loads a clip of high-crit shells. Execute resets the clip. Time your push for the cleanup phase."
+  },
+  {
+    "id": 7,
+    "keywords": ["raketa", "scavenge", "scrap", "shotgun"],
+    "response": "Raketa heals and gets tokens on kills. Activate his ability for a rapid-fire shotgun. He excels in close quarters. Don't let his jokes fool you—he's deadly."
+  },
+  {
+    "id": 8,
+    "keywords": ["chopper", "bomber", "shock", "awe", "dazed"],
+    "response": "Chopper calls in a bomber that dazes enemies. Use it to reset fights or stall caps. He’s a bear of a man with a heart of gold... and a mean right hook."
+  },
+  {
+    "id": 9,
+    "keywords": ["aircraft carrier", "map", "shipyard"],
+    "response": "Aircraft Carrier has a moving barge and multiple flank routes. Control the high ground on the carrier itself for vision advantage."
+  },
+  {
+    "id": 10,
+    "keywords": ["nexus dam", "vertical", "choke"],
+    "response": "Nexus Dam offers vertical gameplay. Use the dam ridges to hull-down. Watch the side tunnels for flanks."
+  },
+  {
+    "id": 11,
+    "keywords": ["scarred city", "urban", "conquest"],
+    "response": "Scarred City supports Conquest and Plant & Defuse. The kite formation base layout favors mobile tanks. Don't get bogged down in the main street."
+  },
+  {
+    "id": 12,
+    "keywords": ["sunstroke", "desert", "flank"],
+    "response": "Sunstroke is a close-quarters desert map. Use the construction site to break line of sight. Light tanks excel here."
+  },
+  {
+    "id": 13,
+    "keywords": ["matcha", "ice", "grill"],
+    "response": "Matcha? You mean the community legend? Word on the street is he’s mentally stable now. Mostly. Don’t mention the barcode."
+  },
+  {
+    "id": 14,
+    "keywords": ["sinewave", "dev", "update"],
+    "response": "SINEWAVE hasn't pushed an update in 3 hours. We're starting to get worried. Someone check on him."
+  },
+  {
+    "id": 15,
+    "keywords": ["easter", "egg", "hidden"],
+    "response": "There's an easter egg on the Playground page. I've said too much."
+  },
+  {
+    "id": 16,
+    "keywords": ["default", "fallback"],
+    "response": "I'm just a HEAT AI shell script. I don't know much about that yet. Try asking about agents, maps, or the dev team."
+  }
+]
