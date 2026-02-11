@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-02-09T21:28:55.395341",
+  "generated_at": "2026-02-11T12:53:05.004327",
   "site_url": "sc-domain:heatlabs.net",
   "data_type": "all_time",
   "data": {
     "site_url": "sc-domain:heatlabs.net",
-    "last_checked": "2026-02-09T21:28:55.068203",
+    "last_checked": "2026-02-11T12:53:04.649558",
     "date_range": {
       "start_date": "2025-05-16",
-      "end_date": "2026-02-09"
+      "end_date": "2026-02-11"
     },
     "pages": [
       {
@@ -20,10 +20,10 @@
         "crawl_time": null,
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
-        "clicks": 174,
-        "impressions": 1062,
-        "ctr": 0.1638418079096045,
-        "position": 3.7429378531073447
+        "clicks": 176,
+        "impressions": 1071,
+        "ctr": 0.16433239962651727,
+        "position": 3.7282913165266107
       },
       {
         "url": "https://heatlabs.net/steam-news/join-the-lodestar-program",
@@ -36,9 +36,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 54,
-        "impressions": 540,
-        "ctr": 0.1,
-        "position": 5.627777777777778
+        "impressions": 553,
+        "ctr": 0.09764918625678119,
+        "position": 5.623869801084991
       },
       {
         "url": "https://heatlabs.net/tanks/alvt",
@@ -51,9 +51,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 16,
-        "impressions": 209,
-        "ctr": 0.07655502392344497,
-        "position": 4.779904306220096
+        "impressions": 213,
+        "ctr": 0.07511737089201878,
+        "position": 4.76056338028169
       },
       {
         "url": "https://heatlabs.net/blog/discovery-of-corex",
@@ -66,9 +66,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 11,
-        "impressions": 673,
-        "ctr": 0.01634472511144131,
-        "position": 4.729569093610698
+        "impressions": 674,
+        "ctr": 0.016320474777448073,
+        "position": 4.7373887240356085
       },
       {
         "url": "https://heatlabs.net/tournaments",
@@ -81,9 +81,24 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 7,
-        "impressions": 69,
-        "ctr": 0.10144927536231885,
-        "position": 8
+        "impressions": 70,
+        "ctr": 0.1,
+        "position": 7.985714285714286
+      },
+      {
+        "url": "https://heatlabs.net/tanks",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 5,
+        "impressions": 231,
+        "ctr": 0.021645021645021644,
+        "position": 9.316017316017316
       },
       {
         "url": "https://heatlabs.net/tanks/xm1-90",
@@ -96,24 +111,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 5,
-        "impressions": 98,
-        "ctr": 0.05102040816326531,
-        "position": 7.295918367346939
-      },
-      {
-        "url": "https://heatlabs.net/tanks",
-        "status": "indexed_and_served",
-        "last_crawled": null,
-        "indexing_state": "INDEXED",
-        "coverage_state": "VALID",
-        "discovery_date": null,
-        "crawl_time": null,
-        "robots_txt_state": "ALLOWED",
-        "user_agent": "DESKTOP",
-        "clicks": 4,
-        "impressions": 227,
-        "ctr": 0.01762114537444934,
-        "position": 9.325991189427313
+        "impressions": 102,
+        "ctr": 0.049019607843137254,
+        "position": 7.46078431372549
       },
       {
         "url": "https://heatlabs.net/blog",
@@ -126,9 +126,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 3,
-        "impressions": 71,
-        "ctr": 0.04225352112676056,
-        "position": 4.464788732394366
+        "impressions": 76,
+        "ctr": 0.039473684210526314,
+        "position": 4.394736842105264
       },
       {
         "url": "https://heatlabs.net/news",
@@ -141,9 +141,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 3,
-        "impressions": 107,
-        "ctr": 0.028037383177570093,
-        "position": 6.607476635514018
+        "impressions": 114,
+        "ctr": 0.02631578947368421,
+        "position": 6.482456140350878
       },
       {
         "url": "https://heatlabs.net/playground",
@@ -156,9 +156,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 3,
-        "impressions": 100,
-        "ctr": 0.03,
-        "position": 4.67
+        "impressions": 101,
+        "ctr": 0.0297029702970297,
+        "position": 4.663366336633663
       },
       {
         "url": "https://heatlabs.net/announcements/alpha-2-tournament",
@@ -186,9 +186,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 2,
-        "impressions": 174,
-        "ctr": 0.011494252873563218,
-        "position": 10.655172413793103
+        "impressions": 177,
+        "ctr": 0.011299435028248588,
+        "position": 10.564971751412429
       },
       {
         "url": "https://heatlabs.net/bug-hunting/discovery-of-corex",
@@ -231,9 +231,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 2,
-        "impressions": 19,
-        "ctr": 0.10526315789473684,
-        "position": 6.894736842105263
+        "impressions": 21,
+        "ctr": 0.09523809523809523,
+        "position": 6.714285714285714
       },
       {
         "url": "https://heatlabs.net/tanks/hstv-l",
@@ -246,9 +246,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 2,
-        "impressions": 532,
-        "ctr": 0.0037593984962406013,
-        "position": 14.725563909774436
+        "impressions": 534,
+        "ctr": 0.003745318352059925,
+        "position": 14.702247191011235
       },
       {
         "url": "https://heatlabs.net/agents/ember",
@@ -386,6 +386,36 @@
         "position": 9.090909090909092
       },
       {
+        "url": "https://heatlabs.net/news/agent-spotlight-akira",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 1,
+        "impressions": 3,
+        "ctr": 0.3333333333333333,
+        "position": 41
+      },
+      {
+        "url": "https://heatlabs.net/news/alpha-2-valentines-day",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 1,
+        "impressions": 3,
+        "ctr": 0.3333333333333333,
+        "position": 6
+      },
+      {
         "url": "https://heatlabs.net/news/happy-tanksgiving",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -471,9 +501,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 1,
-        "impressions": 94,
-        "ctr": 0.010638297872340425,
-        "position": 39.1063829787234
+        "impressions": 99,
+        "ctr": 0.010101010101010102,
+        "position": 37.58585858585859
       },
       {
         "url": "https://heatlabs.net/steam-news/fair-play-and-clear-value",
@@ -486,9 +516,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 1,
-        "impressions": 93,
-        "ctr": 0.010752688172043012,
-        "position": 16.043010752688172
+        "impressions": 94,
+        "ctr": 0.010638297872340425,
+        "position": 15.97872340425532
       },
       {
         "url": "https://heatlabs.net/steam-news/the-source-of-heat",
@@ -501,9 +531,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 1,
-        "impressions": 42,
-        "ctr": 0.023809523809523808,
-        "position": 8.214285714285715
+        "impressions": 50,
+        "ctr": 0.02,
+        "position": 7.44
       },
       {
         "url": "https://heatlabs.net/tanks/fv4030x",
@@ -821,6 +851,21 @@
         "position": 56
       },
       {
+        "url": "https://heatlabs.net/announcements/voreksis-introduction",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
         "url": "https://heatlabs.net/asset-gallery",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -831,9 +876,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 173,
+        "impressions": 183,
         "ctr": 0,
-        "position": 11.138728323699421
+        "position": 10.836065573770492
       },
       {
         "url": "https://heatlabs.net/blog/easter-egg-friday-02",
@@ -951,9 +996,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 321,
+        "impressions": 322,
         "ctr": 0,
-        "position": 6.317757009345795
+        "position": 6.329192546583851
       },
       {
         "url": "https://heatlabs.net/blog/looking-for-new-team-members",
@@ -1596,9 +1641,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 5,
+        "impressions": 11,
         "ctr": 0,
-        "position": 39.4
+        "position": 20.272727272727273
       },
       {
         "url": "https://heatlabs.net/maps/citadel",
@@ -2051,21 +2096,6 @@
         "position": 19
       },
       {
-        "url": "https://heatlabs.net/news/agent-spotlight-akira",
-        "status": "indexed_and_served",
-        "last_crawled": null,
-        "indexing_state": "INDEXED",
-        "coverage_state": "VALID",
-        "discovery_date": null,
-        "crawl_time": null,
-        "robots_txt_state": "ALLOWED",
-        "user_agent": "DESKTOP",
-        "clicks": 0,
-        "impressions": 2,
-        "ctr": 0,
-        "position": 58.5
-      },
-      {
         "url": "https://heatlabs.net/news/agent-spotlight-fantome",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -2426,21 +2456,6 @@
         "position": 33
       },
       {
-        "url": "https://heatlabs.net/news/alpha-2-valentines-day",
-        "status": "indexed_and_served",
-        "last_crawled": null,
-        "indexing_state": "INDEXED",
-        "coverage_state": "VALID",
-        "discovery_date": null,
-        "crawl_time": null,
-        "robots_txt_state": "ALLOWED",
-        "user_agent": "DESKTOP",
-        "clicks": 0,
-        "impressions": 2,
-        "ctr": 0,
-        "position": 4.5
-      },
-      {
         "url": "https://heatlabs.net/news/balanced-and-reworked-maps",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -2486,6 +2501,21 @@
         "position": 15.5
       },
       {
+        "url": "https://heatlabs.net/news/dev-questions-answers-design",
+        "status": "indexed_and_served",
+        "last_crawled": null,
+        "indexing_state": "INDEXED",
+        "coverage_state": "VALID",
+        "discovery_date": null,
+        "crawl_time": null,
+        "robots_txt_state": "ALLOWED",
+        "user_agent": "DESKTOP",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
+      },
+      {
         "url": "https://heatlabs.net/news/friendship-dam-concept-art-1",
         "status": "indexed_and_served",
         "last_crawled": null,
@@ -2511,9 +2541,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 8
+        "position": 5.5
       },
       {
         "url": "https://heatlabs.net/news/gun-dispersion-changes",
@@ -2646,9 +2676,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 57,
+        "impressions": 58,
         "ctr": 0,
-        "position": 14.43859649122807
+        "position": 14.775862068965518
       },
       {
         "url": "https://heatlabs.net/news/progression-and-social-changes",
@@ -2721,9 +2751,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 9,
+        "impressions": 10,
         "ctr": 0,
-        "position": 16.77777777777778
+        "position": 16
       },
       {
         "url": "https://heatlabs.net/news/who-are-they-1",
@@ -2901,9 +2931,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 169,
+        "impressions": 170,
         "ctr": 0,
-        "position": 3.7041420118343193
+        "position": 3.7294117647058824
       },
       {
         "url": "https://heatlabs.net/resources/contact-us",
@@ -2916,9 +2946,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 17,
+        "impressions": 20,
         "ctr": 0,
-        "position": 30.88235294117647
+        "position": 26.4
       },
       {
         "url": "https://heatlabs.net/resources/credits",
@@ -2961,9 +2991,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 56,
+        "impressions": 59,
         "ctr": 0,
-        "position": 5.339285714285714
+        "position": 5.11864406779661
       },
       {
         "url": "https://heatlabs.net/steam-news/heat-wrapped-2025-in-review",
@@ -2991,9 +3021,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 36,
+        "impressions": 41,
         "ctr": 0,
-        "position": 6.638888888888889
+        "position": 6.7560975609756095
       },
       {
         "url": "https://heatlabs.net/steam-news/join-the-lodestar-program#section-1",
@@ -3006,9 +3036,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 36,
+        "impressions": 41,
         "ctr": 0,
-        "position": 6.638888888888889
+        "position": 6.7560975609756095
       },
       {
         "url": "https://heatlabs.net/steam-news/join-the-lodestar-program#section-2",
@@ -3021,9 +3051,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 36,
+        "impressions": 41,
         "ctr": 0,
-        "position": 6.638888888888889
+        "position": 6.7560975609756095
       },
       {
         "url": "https://heatlabs.net/tanks/agds",
@@ -3036,9 +3066,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 19,
+        "impressions": 21,
         "ctr": 0,
-        "position": 7.473684210526316
+        "position": 7.333333333333333
       },
       {
         "url": "https://heatlabs.net/tanks/alvt.html",
@@ -3111,9 +3141,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 26,
+        "impressions": 27,
         "ctr": 0,
-        "position": 9.307692307692308
+        "position": 9.25925925925926
       },
       {
         "url": "https://heatlabs.net/tanks/leopard-2fk",
@@ -3156,9 +3186,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 36,
+        "impressions": 37,
         "ctr": 0,
-        "position": 6.805555555555555
+        "position": 7.378378378378378
       },
       {
         "url": "https://heatlabs.net/tanks/m3a1-bradley",
@@ -3186,9 +3216,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 11,
+        "impressions": 12,
         "ctr": 0,
-        "position": 4.909090909090909
+        "position": 4.833333333333334
       },
       {
         "url": "https://heatlabs.net/tanks/m60a3e2-bot",
@@ -3201,9 +3231,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 29,
+        "impressions": 30,
         "ctr": 0,
-        "position": 14.482758620689655
+        "position": 14.033333333333333
       },
       {
         "url": "https://heatlabs.net/tanks/m60e2",
@@ -3231,9 +3261,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 29,
+        "impressions": 32,
         "ctr": 0,
-        "position": 9.413793103448276
+        "position": 8.90625
       },
       {
         "url": "https://heatlabs.net/tanks/object-287",
@@ -3306,9 +3336,9 @@
         "robots_txt_state": "ALLOWED",
         "user_agent": "DESKTOP",
         "clicks": 0,
-        "impressions": 18,
+        "impressions": 20,
         "ctr": 0,
-        "position": 9.277777777777779
+        "position": 8.85
       },
       {
         "url": "https://heatlabs.net/tanks/t-64a",
@@ -3447,8 +3477,8 @@
       }
     ],
     "summary": {
-      "total_pages": 229,
-      "indexed_pages": 229,
+      "total_pages": 231,
+      "indexed_pages": 231,
       "not_indexed_pages": 0,
       "errors": 0
     },
@@ -3549,7 +3579,7 @@
         "is_pending": false,
         "is_sitemaps_index": false,
         "type": "sitemap",
-        "last_downloaded": "2026-02-05T23:48:10.799Z",
+        "last_downloaded": "2026-02-10T02:21:17.484Z",
         "warnings": "0",
         "errors": "0"
       },
@@ -3566,8 +3596,8 @@
     ]
   },
   "summary": {
-    "total_pages_found": 229,
-    "indexed_pages": 229,
+    "total_pages_found": 231,
+    "indexed_pages": 231,
     "errors": 0
   }
 }
