@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 278,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-02-09T21:34:15.744351"
+    "export_timestamp": "2026-02-11T12:55:20.053751"
   },
   "pages": [
     {
@@ -225,7 +225,7 @@
     {
       "url": "https://heatlabs.net/announcements/voreksis-introduction",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1268,7 +1268,7 @@
     {
       "url": "https://heatlabs.net/news/dev-questions-answers-design",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1959,9 +1959,9 @@
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 70,
+      "pending": 68,
       "not_indexed": 0,
-      "indexed": 206
+      "indexed": 208
     },
     "https_page_status": {
       "unknown": 245,
