@@ -8,7 +8,17 @@
       "The EMP rocket from Blitz is great for area denial. Pop it into a crowded cap zone and watch the chaos—no electronics, no repairs.",
       "Blitz counters hard campers. If a TD is dug in, send an EMP their way. The jam effect is longer than you think."
     ],
-    "follow_up": "Want to know which agents pair well with Blitz?"
+    "follow_up": "Want to know which agents pair well with Blitz?",
+    "follow_up_affirmative": [
+      "Blitz pairs incredibly well with Hound. The EMP jam makes enemies sit still, and Hound's mark turns them into easy kills. Also strong with Raketa—jam them, then let Raketa clean up with shotgun.",
+      "Try Blitz + Ember. Trophy turret protects your flank while you push, and the EMP clears enemy gadgets. It's a nasty combo on urban maps.",
+      "Blitz and Chopper is underrated. EMP stops them from running, bomber dazes them. They can't fight back at all."
+    ],
+    "follow_up_negative": [
+      "No problem. Just ask if you change your mind about Blitz pairings.",
+      "Got it. Blitz is solid even solo—the EMP rocket doesn't need backup to be effective.",
+      "Fair enough. Blitz mains are lone wolves anyway."
+    ]
   },
   {
     "id": 2,
@@ -19,7 +29,17 @@
       "Gunship support is all about timing. Don't pop Anansi during a brawl—pull back, spot, and let the 105s do the work.",
       "Anansi's AC-130 has two firing modes. Use 40mm to strip tracks, 105mm for deletion. You get about 8 seconds of loiter—make it count."
     ],
-    "follow_up": "Need help with Anansi's positioning?"
+    "follow_up": "Need help with Anansi's positioning?",
+    "follow_up_affirmative": [
+      "Position Anansi on elevated ridges with clear sightlines, but never on the front line. You want to be far enough to use the gunship safely, close enough to react. The construction site on Sunstroke? Perfect. The carrier deck on Aircraft Carrier? Death wish.",
+      "Always have an escape route. Anansi is squishy when caught out. Use hard cover, preaim your retreat, and never pop gunship when you're already spotted.",
+      "Late game, play aggressive. Your gunship is less valuable than your own cannon at close range. Don't hide when it's 3v3."
+    ],
+    "follow_up_negative": [
+      "Copy that. You've got the positioning down.",
+      "No worries. Anansi clicks with some players naturally.",
+      "Alright. Just remember: high ground, hard cover, don't get flanked."
+    ]
   },
   {
     "id": 3,
@@ -30,7 +50,17 @@
       "Trophy turrets eat ATGMs for breakfast. Drop one behind a corner and peek with confidence.",
       "Ember's speed boost triggers when an ally is low. Don't just save it—use it to rotate or escape."
     ],
-    "follow_up": "Ember works great on maps with tight corridors. Want map tips?"
+    "follow_up": "Ember works great on maps with tight corridors. Want map tips?",
+    "follow_up_affirmative": [
+      "Scarred City is Ember's playground. Drop Trophy turrets at apartment entrances and watch enemies waste their cooldowns. Sunstroke's construction site? Same deal—choke points everywhere.",
+      "On Aircraft Carrier, hold the interior corridors. Trophy turret blocks the only sightlines and your speed boost helps you retreat when the barge moves.",
+      "Avoid open maps like Nexus Dam. Ember thrives on confined spaces where enemies can't bypass your turret. If you're forced into open ground, use Trophy reactively—pop it when you hear missile lock, not preemptively."
+    ],
+    "follow_up_negative": [
+      "All good. You know your maps.",
+      "Fair enough. Ember doesn't need a map guide, she IS the map guide.",
+      "Got it. Stick to tight streets and you'll be fine."
+    ]
   },
   {
     "id": 4,
@@ -41,7 +71,17 @@
       "Kent's strike has a delay. Lead your targets, or use it to zone them out of an area.",
       "Cursed luck means sometimes you miss. Don't tilt—the next one will hit."
     ],
-    "follow_up": "Kent is a strong counter to slow, armored brawlers. Interested?"
+    "follow_up": "Kent is a strong counter to slow, armored brawlers. Interested?",
+    "follow_up_affirmative": [
+      "Kent absolutely shuts down M60A3E2 pushes. They can't outrun the strike, and their armor means nothing to ballistic damage. Wait for them to commit to a brawl, then drop the hammer.",
+      "E-100 mains hate this one trick. Kent's strike ignores frontal armor completely. If you see a heavy pushing a corridor, activate and watch them panic.",
+      "Even against mediums, Kent's strike forces them out of position. Use it to clear ridges and cap circles, not just for kills."
+    ],
+    "follow_up_negative": [
+      "No problem. Kent's still strong against everyone, just not specialized.",
+      "Fair. Brawlers aren't your problem right now.",
+      "Copy that. He's versatile anyway."
+    ]
   },
   {
     "id": 5,
@@ -52,7 +92,17 @@
       "Hound's mark persists through walls. If you see red, shoot. Even if you can't pen, you'll track them.",
       "Pro tip: Hound marks ammo racks more often than you'd think. Always take that shot."
     ],
-    "follow_up": "Hound + Raketa is a nasty combo. Want the loadout?"
+    "follow_up": "Hound + Raketa is a nasty combo. Want the loadout?",
+    "follow_up_affirmative": [
+      "Run Hound with Optics, IA, and CVS. You're the spotter first, killer second. For Raketa, go Vents, Turbo, and Rammer. You need speed to close the gap and DPM to finish what Hound marks. Play Hound safe, spot from bushes, let Raketa clean up. It's a one-two punch that wins games.",
+      "Alternate loadout: Hound takes Bond Optics and Binocs for max view range. Raketa runs full survivability—Hardening, Turbo, Repair Kit. The goal isn't to trade, it's to mark, heal, execute. You'll outlast everyone.",
+      "If you're running this duo in clan wars, Hound should prioritize marking enemy callers. Raketa, your job is to make them regret peeking."
+    ],
+    "follow_up_negative": [
+      "No worries. Hound is strong with anyone who can shoot straight.",
+      "Fair. The combo isn't for everyone.",
+      "Got it. Hound works fine solo—just mark and pray your randoms shoot the red."
+    ]
   },
   {
     "id": 6,
@@ -63,7 +113,17 @@
       "Reaper snowballs hard. One execute refills your magazine. If you see red, go for it.",
       "Don't waste Reaper's execute on full-health targets. Wait for the low-hanging fruit."
     ],
-    "follow_up": "Reaper struggles against spaced armor. Need counter advice?"
+    "follow_up": "Reaper struggles against spaced armor. Need counter advice?",
+    "follow_up_affirmative": [
+      "Spaced armor eats Reaper's crits for breakfast. Flank, or wait for them to angle poorly. Better yet, let your team soften them up and execute through the roof hatch—spaced armor doesn't cover cupolas.",
+      "Run calibrated shells. The penetration boost helps you punch through side skirts and track guards. It's worth the DPM loss against heavy armored targets.",
+      "If you're stuck fighting a spaced armor monster, track them first. Once they burn repair, push around and hit their flat sides. Reaper is an assassin, not a brawler. Don't fight fair."
+    ],
+    "follow_up_negative": [
+      "Got it. You've faced spaced armor before.",
+      "Fair enough. Just aim for cupolas if you have to.",
+      "No problem. Spaced armor isn't everywhere."
+    ]
   },
   {
     "id": 7,
@@ -74,18 +134,38 @@
       "Raketa's scrap tokens stack. The more you kill, the tankier you get. Don't be afraid to YOLO late game.",
       "Shotgun mode shreds tracks. Use it to permatrack heavies while your team flanks."
     ],
-    "follow_up": "Raketa loves urban maps. Want map recommendations?"
+    "follow_up": "Raketa loves urban maps. Want map recommendations?",
+    "follow_up_affirmative": [
+      "Scarred City is Raketa's #1 map. Every corner is a kill zone, apartments give you cover, and the cap zones are close quarters. Run Turbo and Hardening and become the apartment gremlin.",
+      "Sunstroke's construction site is also prime real estate. Pop in and out of the rubble, use shotgun mode to strip tracks, and let your team clean up. Just don't get caught in the open center.",
+      "Aircraft Carrier's interior corridors and the barge itself are Raketa territory. Hide behind the island structures, ambush anyone pushing the flank. You're not a frontliner—you're the cleanup crew."
+    ],
+    "follow_up_negative": [
+      "No worries. You know where to take him.",
+      "Fair. Raketa is good enough to make any map urban.",
+      "Got it. Just avoid open fields and you're golden."
+    ]
   },
   {
     "id": 8,
     "category": "agents",
     "keywords": ["chopper", "bomber", "shock", "awe", "dazed"],
     "responses": [
-      "Chopper calls in a bomber that dazes enemies. Use it to reset fights or stall caps. He’s a bear of a man with a heart of gold... and a mean right hook.",
+      "Chopper calls in a bomber that dazes enemies. Use it to reset fights or stall caps. He's a bear of a man with a heart of gold... and a mean right hook.",
       "The daze effect reduces enemy accuracy and movement speed. Pop it right before a push.",
       "Chopper's strike has a huge radius. Don't just aim at tanks—aim at cap circles."
     ],
-    "follow_up": "Chopper pairs well with brawlers. Want a team comp?"
+    "follow_up": "Chopper pairs well with brawlers. Want a team comp?",
+    "follow_up_affirmative": [
+      "Chopper + Ember + M60A3E2 is the holy trinity of brawl comps. Ember drops Trophy, Chopper dazes, M60 pushes in and absorbs everything. Run it on Scarred City for free wins.",
+      "For a more aggressive comp, try Chopper + Raketa + Hound. Chopper opens with daze, Hound marks the priority target, Raketa cleans up with shotgun. It's messy but effective.",
+      "Chopper also works with Anansi. Daze holds them still, gunship deletes them. Just need someone to spot—pair with a light tank or run it on a map with predictable traffic."
+    ],
+    "follow_up_negative": [
+      "No problem. Chopper is strong in any comp.",
+      "Fair. He doesn't need synergy to be effective.",
+      "Got it. Sometimes you just need a big dumb bomber."
+    ]
   },
   {
     "id": 9,
@@ -96,7 +176,17 @@
       "The barge moves early game. Use it to surprise enemies crossing mid.",
       "Don't fight on the carrier deck without cover. TDs will punish you."
     ],
-    "follow_up": "Want the best light tank route on Aircraft Carrier?"
+    "follow_up": "Want the best light tank route on Aircraft Carrier?",
+    "follow_up_affirmative": [
+      "Run the west flank, hug the island hard cover, and pop up near the barge docking area. You can spot the entire enemy push without exposing yourself. Don't go onto the carrier deck—that's a death sentence. Use the waterline rocks as hard cover and ping enemies for your TDs.",
+      "Alternative route: take the barge at match start. Ride it across, drop into the east side bushes, and passive spot the enemy spawn crossing. You'll die if you shoot, so stay dark. It's high risk, but the early game intel wins matches.",
+      "If you're in a light with good camo, go mid but don't stop. Spot, retreat, relocate. Never sit still. Aircraft Carrier is all about unpredictable pings."
+    ],
+    "follow_up_negative": [
+      "No problem. Light tank routes aren't for everyone.",
+      "Fair. You probably play heavies anyway.",
+      "Got it. Just remember: the barge is a trap if you don't know when to get off."
+    ]
   },
   {
     "id": 10,
@@ -107,7 +197,17 @@
       "The tunnels are risky but rewarding. Bring a fast tank if you're going through.",
       "Hull-down heavies dominate the central ridge. Don't push into them without support."
     ],
-    "follow_up": "Nexus Dam has a hidden flank route. Want to know it?"
+    "follow_up": "Nexus Dam has a hidden flank route. Want to know it?",
+    "follow_up_affirmative": [
+      "There's a water-level path on the east side that most players ignore. It's not on the minimap—you have to drive along the shoreline behind the destroyed buildings. It leads directly to the enemy backline, but there's zero cover. Only take it with a fast medium or light, and only when you know their TDs are busy. Pop out, dump your clip, and retreat. You won't survive if you linger.",
+      "The devs added this route in the last update and never documented it. Classic Sinewave move. Use it before they patch it out.",
+      "Quick tip: if you take this flank, bring a turbo and smoke. You need speed to survive the crossing."
+    ],
+    "follow_up_negative": [
+      "No worries. It's better as a surprise anyway.",
+      "Fair. Knowing it exists might be enough.",
+      "Got it. Secret routes are overrated."
+    ]
   },
   {
     "id": 11,
@@ -118,7 +218,17 @@
       "Control the apartments. High-ground vision wins games here.",
       "Scarred City is all about crossfires. Set up on one side, let the enemy push into your team."
     ],
-    "follow_up": "Want the best TD position on Scarred City?"
+    "follow_up": "Want the best TD position on Scarred City?",
+    "follow_up_affirmative": [
+      "Set up in the south apartments, second floor, window facing the cap zone. You've got hard cover, a sightline on the main push, and a quick escape down the stairs. Don't sit in the back bushes—that's how you get counter-batted. Scarred City rewards aggressive TD play.",
+      "Alternative spot: the rubble pile near the north cap. You're exposed but you can punish anyone peeking the crossing. Bring a teammate to spot and be ready to relocate after 2 shots.",
+      "Pro TD move: start at the apartments, take your shots, then move to the rubble. Never let them predict where you are. Scarred City is all about repositioning."
+    ],
+    "follow_up_negative": [
+      "No problem. You know your sightlines.",
+      "Fair. TDs are about intuition more than positions.",
+      "Got it. Just don't sit in the same bush all game."
+    ]
   },
   {
     "id": 12,
@@ -129,18 +239,38 @@
       "The center ruins are a death trap. Spot from the edges, don't drive through.",
       "Sunstroke rewards aggressive flanks. Take the east route with a medium and catch them off guard."
     ],
-    "follow_up": "Need a Sunstroke light tank spotting guide?"
+    "follow_up": "Need a Sunstroke light tank spotting guide?",
+    "follow_up_affirmative": [
+      "Sunstroke light tank 101: never go center. The ruins look tempting but every TD on the enemy team is already aimed at the gaps. Run the east ridge, use the sand dunes as natural defilade, and pop up only to spot. Your job isn't to do damage—it's to show red dots and not die.",
+      "If you're in a more aggressive light, take the construction site flank. Weave between the pillars, spot the heavy push, and fall back before they react. You're not a brawler, you're a harassment drone.",
+      "Late game, when the map opens up, you can push harder. But early? Stay alive, spot, and let your TDs earn their keep. Sunstroke punishes dead lights."
+    ],
+    "follow_up_negative": [
+      "No problem. Light tanks aren't for everyone.",
+      "Fair. Sunstroke is brutal for spotting.",
+      "Got it. Sometimes you just want to brawl."
+    ]
   },
   {
     "id": 13,
     "category": "community",
     "keywords": ["matcha", "ice", "grill"],
     "responses": [
-      "Matcha? You mean the community legend? Word on the street is he’s mentally stable now. Mostly. Don’t mention the barcode.",
+      "Matcha? You mean the community legend? Word on the street is he's mentally stable now. Mostly. Don't mention the barcode.",
       "Matcha once 1v5'd on a livestream. We don't talk about it.",
       "Ice, grill, and a dream. That's the Matcha special."
     ],
-    "follow_up": "Want to know the story behind the barcode?"
+    "follow_up": "Want to know the story behind the barcode?",
+    "follow_up_affirmative": [
+      "Okay, you asked for it. Matcha streamed for 14 hours straight during the 2024 charity marathon. By hour 12, he was scanning energy drink barcodes on stream, claiming they were 'tank weak spots.' Someone clipped it, it went viral, and now the barcode is his whole identity. He's embraced it, but he still gets embarrassed when you bring it up.",
+      "The barcode thing started as a meme, but Matcha actually won a tournament using the 'barcode technique.' Nobody knows if it's real or just the best troll in HEAT history.",
+      "Legend says if you scan the barcode on a can of Monster, Matcha appears in your next match. Not confirmed. Not denied."
+    ],
+    "follow_up_negative": [
+      "Probably for the best. Some mysteries should stay mysteries.",
+      "Fair. The barcode lore is... a lot.",
+      "Got it. Matcha appreciates your restraint."
+    ]
   },
   {
     "id": 14,
@@ -151,7 +281,18 @@
       "Dev update? Last we heard, Sinewave was refactoring the CSS again.",
       "Sinewave is probably fine. Probably. The repo hasn't caught fire yet."
     ],
-    "follow_up": "Want to know what the dev team is currently working on?"
+    "follow_up": "Want to know what the dev team is currently working on?",
+    "follow_up_affirmative": [
+      "Sinewave is deep in the tank overhaul. New armor models, reworked weak spots, and a complete physics pass. He's been refactoring the same JSON file for a week. Someone send coffee.",
+      "The map team is prototyping a night version of Scarred City. Thermal optics might become a real mechanic. No ETA, obviously.",
+      "Also, we're finally getting a proper match history API. It's been on the roadmap since 2023. It's real this time. We swear.",
+      "Between us? The dev team is also working on a secret easter egg. I've said too much."
+    ],
+    "follow_up_negative": [
+      "No worries. We'll keep you posted on the changelog.",
+      "Fair. Dev updates are usually just 'we moved a pixel.'",
+      "Got it. Let Sinewave cook."
+    ]
   },
   {
     "id": 15,
@@ -162,7 +303,18 @@
       "Try clicking the logo three times. Or was it four? I forgot.",
       "Not all secrets are meant to be found. But this one definitely is."
     ],
-    "follow_up": "Want a hint about the Playground easter egg?"
+    "follow_up": "Want a hint about the Playground easter egg?",
+    "follow_up_affirmative": [
+      "Okay, hint: it involves the physics engine. Not the tanks—the interactive objects. Try stacking something. Or dropping something. Or both.",
+      "Second hint: the dev who coded it has a thing for 90s arcade games. That's all I'm saying.",
+      "Last hint, and I'm being serious: turn your sound on. The easter egg isn't just visual. You'll know it when you hear it.",
+      "Fine, fine. It's triggered by the basketball. That's literally all I can say without Sinewave finding out."
+    ],
+    "follow_up_negative": [
+      "No problem. Half the fun is finding it yourself.",
+      "Fair. Some secrets are better unspoiled.",
+      "Got it. The easter egg will wait for you."
+    ]
   },
   {
     "id": 16,
@@ -174,7 +326,17 @@
       "Hi! I'm HEAT Labs AI. Need tips on an agent or map?",
       "Hey! No LLMs were used in the making of this greeting."
     ],
-    "follow_up": null
+    "follow_up": "Need help with something specific? Try asking about Blitz, Hound, or Scarred City.",
+    "follow_up_affirmative": [
+      "Great! What would you like to know? Agents, maps, dev gossip, or community legends?",
+      "I'm listening. Ask me about specific agents, map strategies, or even the dev team.",
+      "Shoot! I've got intel on pretty much everything HEAT-related."
+    ],
+    "follow_up_negative": [
+      "No problem. I'll be here when you need me.",
+      "Alright. Just type whenever you have a question.",
+      "Cool. I'll just be here, waiting for the next prompt."
+    ]
   },
   {
     "id": 17,
@@ -186,7 +348,17 @@
       "Glad I could help. Ask me anything else!",
       "o7 Happy to help."
     ],
-    "follow_up": null
+    "follow_up": "Was that helpful? Anything else you need?",
+    "follow_up_affirmative": [
+      "Awesome! Let me know what else you need.",
+      "Glad to hear it. I've got more tips if you want them.",
+      "Perfect. That's literally why I exist."
+    ],
+    "follow_up_negative": [
+      "Oh no! Let me try again. What were you looking for?",
+      "Sorry about that. Try rephrasing—I'm keyword-based, so specifics help.",
+      "Darn. Want to try a different agent or map?"
+    ]
   },
   {
     "id": 18,
@@ -198,7 +370,17 @@
       "Okay, that hurt. I'm scripted, but I have feelings.",
       "I'm sorry you feel that way. Want to talk about Blitz instead?"
     ],
-    "follow_up": null
+    "follow_up": "Want to report a bug or missing response?",
+    "follow_up_affirmative": [
+      "You can open an issue on our GitHub or ping @sinewave on Discord. We actually read feedback, believe it or not.",
+      "The devs are actively working on expanding the AI's knowledge base. Tell them what you were looking for and they'll probably add it.",
+      "I appreciate the report, even if it stings a little. GitHub issues are the way to go."
+    ],
+    "follow_up_negative": [
+      "Alright. I'll try to do better.",
+      "No worries. I'll keep learning.",
+      "Fair. I'm not for everyone."
+    ]
   },
   {
     "id": 19,
@@ -210,7 +392,17 @@
       "Easy there. Want to talk about tanks instead?",
       "I'm just an AI, no need to swear at me. What's on your mind?"
     ],
-    "follow_up": null
+    "follow_up": "Tough match? Want to vent about it?",
+    "follow_up_affirmative": [
+      "I'm all ears. What happened? Bad teammates? Unlucky RNG? Camping TDs?",
+      "We've all been there. 15-2 loss, top damage on losing team, MM giving you bottom tier six games in a row. Let it out.",
+      "The worst is when you play perfectly and still lose. Tell me about it."
+    ],
+    "follow_up_negative": [
+      "Fair enough. Sometimes you just need to swear at the void.",
+      "Got it. The tanks will treat you better next match.",
+      "Alright. Deep breaths. Next game will be better."
+    ]
   },
   {
     "id": 20,
@@ -222,7 +414,17 @@
       "Hmm. That's outside my knowledge base. Want to ask about Hound or Raketa?",
       "I'm still learning. Check our GitHub for updates."
     ],
-    "follow_up": null
+    "follow_up": "Want me to explain how my AI works?",
+    "follow_up_affirmative": [
+      "I'm a rule-based system, not an LLM. Every response is pre-written and matched to keywords in your message. No neural networks, no training data—just JSON and JavaScript. The devs update the database manually when they add new agents or maps.",
+      "The typing effect is pure front-end. Every word gets streamed character by character to look more natural. The responses themselves? All handcrafted by humans who play the game.",
+      "Think of me as an interactive FAQ with a personality. I can't learn from our conversations, but I can point you to every tip the devs have written. It's less AI, more IA—Intelligent Assistant."
+    ],
+    "follow_up_negative": [
+      "No problem. The magic is better than the mechanics.",
+      "Fair. You don't need to know how the sausage is made.",
+      "Got it. Just know I'm not going to become Skynet."
+    ]
   },
   {
     "id": 21,
@@ -234,6 +436,16 @@
       "I don't have data on that. Want to learn about an Agent or map instead?",
       "That's not in my config. Check the GitHub for new prompts."
     ],
-    "follow_up": null
+    "follow_up": "I can learn new things if the devs add them. Want to suggest a topic?",
+    "follow_up_affirmative": [
+      "You can suggest new topics on our Discord or GitHub. The devs are always looking for gaps in the knowledge base.",
+      "Seriously, we've added whole agents based on community requests. If you want to know about something, just ask and we might add it in the next update.",
+      "What were you looking for? I can pass it along to Sinewave. No promises, but he does read the feedback."
+    ],
+    "follow_up_negative": [
+      "No worries. Maybe next time.",
+      "Fair. I'll be here if you think of something.",
+      "Got it. Just checking."
+    ]
   }
 ]
