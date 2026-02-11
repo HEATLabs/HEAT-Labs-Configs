@@ -295,29 +295,331 @@
     ]
   },
   {
-    "id": 15,
-    "category": "eastereggs",
-    "keywords": ["easter", "egg", "hidden"],
+    "id": 27,
+    "category": "devteam",
+    "keywords": ["venom", "_ven0m", "ven0m", "frontend"],
     "responses": [
-      "There's an easter egg on the Playground page. I've said too much.",
-      "Try clicking the logo three times. Or was it four? I forgot.",
-      "Not all secrets are meant to be found. But this one definitely is."
+      "_VEN0M is our frontend wizard. If the UI feels smooth, that's them. If it's broken, that's also them. (Kidding, mostly.)",
+      "_VEN0M has been on a Tailwind kick lately. The CSS purists are worried.",
+      "Ask _VEN0M about the time they accidentally deployed a debug border on every div. We don't talk about it."
     ],
-    "follow_up": "Want a hint about the Playground easter egg?",
+    "follow_up": "Want to know which parts of the site _VEN0M built?",
     "follow_up_affirmative": [
-      "Okay, hint: it involves the physics engine. Not the tanks—the interactive objects. Try stacking something. Or dropping something. Or both.",
-      "Second hint: the dev who coded it has a thing for 90s arcade games. That's all I'm saying.",
-      "Last hint, and I'm being serious: turn your sound on. The easter egg isn't just visual. You'll know it when you hear it.",
-      "Fine, fine. It's triggered by the basketball. That's literally all I can say without Sinewave finding out."
+      "They did the entire tank comparison tool and the new search modal. Also responsible for making the sidebar not suck.",
+      "_VEN0M also coded the dark/light theme toggle. If your eyes aren't bleeding, thank them.",
+      "They're currently rewriting the asset gallery. Pray for their RAM."
     ],
     "follow_up_negative": [
-      "No problem. Half the fun is finding it yourself.",
-      "Fair. Some secrets are better unspoiled.",
-      "Got it. The easter egg will wait for you."
+      "No problem. Frontend work is invisible when it's good, anyway.",
+      "Fair. Just know they made this chat window look decent."
     ]
   },
   {
-    "id": 16,
+    "id": 28,
+    "category": "devteam",
+    "keywords": ["anuraen", "graphic", "design", "ui", "ux"],
+    "responses": [
+      "Anuraen is our graphic designer. They make the ugly stuff we code look presentable.",
+      "Anuraen designed the new logo. The old one was just Comic Sans in a trench coat.",
+      "If the website looks good, that's Anuraen. If it looks bad, we didn't listen to Anuraen."
+    ],
+    "follow_up": "Want to know what Anuraen is working on?",
+    "follow_up_affirmative": [
+      "They're designing a full set of agent ability icons. No ETA, but the concept art is gorgeous.",
+      "Anuraen is also redoing the mobile layout. They keep yelling at Sinewave about viewport units.",
+      "Secret project: a physical HEAT Labs sticker pack. Anuraen is very particular about the Pantone colors."
+    ],
+    "follow_up_negative": [
+      "All good. Design is one of those 'trust the process' things."
+    ]
+  },
+  {
+    "id": 29,
+    "category": "devteam",
+    "keywords": ["esmatty", "content", "writer", "words"],
+    "responses": [
+      "esmatty writes the community guides and patch notes. If it sounds coherent, that's them.",
+      "esmatty once wrote a 3,000-word guide on how to play the M60A3E2. It's pinned in Discord for a reason.",
+      "Fun fact: esmatty is actually a bot. Just kidding. Probably."
+    ],
+    "follow_up": "Want esmatty's most popular guide?",
+    "follow_up_affirmative": [
+      "The 'How Not To Suck At Scarred City' guide. 15k views and counting.",
+      "They also wrote the 'Beginner's Guide to Agent Synergies'. Required reading for new players.",
+      "esmatty's hidden gem is the 'Mental Health for Tankers' post. It's surprisingly deep."
+    ],
+    "follow_up_negative": [
+      "No worries. They're always writing something new."
+    ]
+  },
+  {
+    "id": 30,
+    "category": "devteam",
+    "keywords": ["shockwave", "__shockwave", "shock"],
+    "responses": [
+      "__Shockwave is a content writer, but he mostly just memes in the dev channel.",
+      "Shockwave's job title is 'Content Writer'. His actual job is keeping morale up with bad puns.",
+      "He wrote the April Fool's patch notes last year. We still get DMs about the 'Nerf Bat Mk. II'."
+    ],
+    "follow_up": "Want a sample of Shockwave's writing?",
+    "follow_up_affirmative": [
+      "\"The E-100 has been removed from the game. Just kidding. But you should still flank it.\" - Shockwave, probably.",
+      "He also writes the 'Tank of the Week' features. His ELC Even 90 article is legendary.",
+      "His best work is the changelog entry that just said 'Made the tanks tankier. You're welcome.'"
+    ],
+    "follow_up_negative": [
+      "Fair. His humor is an acquired taste."
+    ]
+  },
+  {
+    "id": 31,
+    "category": "devteam",
+    "keywords": ["iamedwards", "edwards", "game analyst", "balance"],
+    "responses": [
+      "IAmEdwards_ is our game analyst. If an agent feels balanced, blame him. If it feels broken, also blame him.",
+      "Edwards is the reason Blitz's EMP radius got nerfed. You're welcome.",
+      "He runs the internal playtests. Dude has 5,000 hours in HEAT. Touch grass, Edwards."
+    ],
+    "follow_up": "Want to know what Edwards is analyzing right now?",
+    "follow_up_affirmative": [
+      "He's crunching numbers on Reaper. Some folks think the execute threshold is too high.",
+      "Also looking at Anansi pick rates. The gunship might get a small duration buff.",
+      "Edwards is also tracking Hound's effectiveness in competitive play. Expect tweaks next patch."
+    ],
+    "follow_up_negative": [
+      "No problem. Balance discussions are eternal anyway."
+    ]
+  },
+  {
+    "id": 32,
+    "category": "devteam",
+    "keywords": ["antitank99", "antitank", "tank", "analyst"],
+    "responses": [
+      "antitank99 is the other half of our game analyst duo. He's the 'tank' to Edwards' 'gun'.",
+      "antitank specializes in armor profiles and weak spots. If you pens something weird, he knows why.",
+      "He once correctly predicted a meta shift three months in advance. We're pretty sure he's a wizard."
+    ],
+    "follow_up": "Want a random tank fact from antitank99?",
+    "follow_up_affirmative": [
+      "The M60A3E2's upper plate is autobounce at exactly 67 degrees. He knows this because he tried to pen it 400 times.",
+      "He hates the Object 907. Won't say why. Just makes a face.",
+      "antitank's favorite tank is the Leopard 1. 'No armor, best armor.'"
+    ],
+    "follow_up_negative": [
+      "Alright. He's got a million of them, so just ask later."
+    ]
+  },
+  {
+    "id": 33,
+    "category": "devteam",
+    "keywords": ["new members wanted", "sound curator", "sound library"],
+    "responses": [
+      "We're hiring a Sound Library Curator! If you've got a good ear and love tank noises, hit us up.",
+      "The Sound Library Curator position is still open. Applicants must be able to distinguish between an L7 and an M68 by sound alone.",
+      "Sinewave is reviewing applications for the Sound Curator role. So far, three people have submitted memes. It's going well."
+    ],
+    "follow_up": "Interested in applying for the Sound Curator role?",
+    "follow_up_affirmative": [
+      "DM @sinewave on Discord with your experience. Bonus points if you can identify tank engines blindfolded.",
+      "Seriously, we need someone who can organize 2,000+ sound files. It's a mess in there.",
+      "The role is volunteer for now, but we send merch and Steam gift cards. Also eternal glory."
+    ],
+    "follow_up_negative": [
+      "No problem. Know anyone who might be interested?"
+    ]
+  },
+  {
+    "id": 34,
+    "category": "devteam",
+    "keywords": ["new members wanted", "3d", "specialist", "modeling"],
+    "responses": [
+      "We're also looking for a 3D Content Specialist. Polygons? Textures? That's the gig.",
+      "3D Specialist opening: must love tanks, know Blender, and tolerate Sinewave's terrible sketches.",
+      "The 3D role is still open. We have so many tank models to build. Please send help."
+    ],
+    "follow_up": "Want to apply for the 3D Content Specialist role?",
+    "follow_up_affirmative": [
+      "Shoot your portfolio to @sinewave on Discord. Show us your tanks. Or your rocks. We need both.",
+      "We're specifically looking for someone to model environment assets. Scarred City needs more rubble.",
+      "This is also a volunteer role, but you get early access to everything and your name in the credits."
+    ],
+    "follow_up_negative": [
+      "Alright. We'll keep looking. Maybe Anuraen knows someone."
+    ]
+  },
+  {
+    "id": 35,
+    "category": "contributors",
+    "keywords": ["cazaira", "gun elevation", "depression"],
+    "responses": [
+      "Cazaira created the entire gun elevation and depression database. Every tank, every angle. Absolute legend.",
+      "Before Cazaira, we didn't know how far down the M60's gun could depress. Now we do. 10 degrees, by the way.",
+      "Cazaira spent 200 hours testing gun angles so you don't have to. o7"
+    ],
+    "follow_up": "Want to see Cazaira's handiwork?",
+    "follow_up_affirmative": [
+      "Check the Tank Statistics page. Every single gun depression angle is credited to them.",
+      "They also found a bug where one tank had -15 degrees depression. It was immediately patched.",
+      "Cazaira is the reason we have a 'Hull Down Score' on each tank profile."
+    ],
+    "follow_up_negative": [
+      "Alright. Just know that every ridgeline warrior owes them a debt."
+    ]
+  },
+  {
+    "id": 36,
+    "category": "contributors",
+    "keywords": ["legocity2000", "voice lines", "soundboard", "transcribed"],
+    "responses": [
+      "legocity2000 transcribed all the general voice lines for the Soundboard. That's thousands of 'Reloading!' and 'Enemy spotted!' clips.",
+      "They spent weeks with audio files and a text editor. True dedication.",
+      "If you've ever used the Soundboard, you've used legocity2000's work."
+    ],
+    "follow_up": "Also a tester?",
+    "follow_up_affirmative": [
+      "Yeah! They also helped test the Discord Activity. The man is everywhere.",
+      "legocity2000 found three critical bugs in the Soundboard beta. Absolute unit.",
+      "He's our most prolific tester and transcriber. We're not sure when he sleeps."
+    ],
+    "follow_up_negative": [
+      "Still a legend for the transcription work alone."
+    ]
+  },
+  {
+    "id": 37,
+    "category": "contributors",
+    "keywords": ["sirbarett", "german", "voice lines", "soundboard"],
+    "responses": [
+      "SirBarett transcribed all the German voice lines. Jawohl, Panzer vor!",
+      "German tank voices are his specialty. He knows the difference between a Tiger and a Panther just by the crew chatter.",
+      "SirBarett also corrected our grammar. Twice. Danke schön."
+    ],
+    "follow_up": "How many German voice lines did SirBarett do?",
+    "follow_up_affirmative": [
+      "Over 500 individual clips. Every nation-specific line for German tanks is his work.",
+      "He also recorded reference audio for some rare lines we couldn't find. The man has the voice of a panzer commander.",
+      "We owe him at least one beer. Or a schnitzel."
+    ],
+    "follow_up_negative": [
+      "Alright. Just know the German Soundboard section is his masterpiece."
+    ]
+  },
+  {
+    "id": 38,
+    "category": "contributors",
+    "keywords": ["i love lettuce", "lettuce", "utility", "sound files"],
+    "responses": [
+      "I_Love_Lettuce transcribed the utility sound files. Alarms, beeps, explosions—the boring but essential stuff.",
+      "They did 400+ UI sound effects. Every click, every ping, every 'mission accomplished'.",
+      "Lettuce is a sound editing wizard. Also, they really love lettuce."
+    ],
+    "follow_up": "What's the deal with the username?",
+    "follow_up_affirmative": [
+      "We asked. They just said 'lettuce is crispy.' We didn't press further.",
+      "Their profile pic is a head of romaine. Commitment to the bit.",
+      "Honestly, respect. Lettuce is pretty good."
+    ],
+    "follow_up_negative": [
+      "Fair. Some mysteries are best left unsolved."
+    ]
+  },
+  {
+    "id": 39,
+    "category": "contributors",
+    "keywords": ["pigeon pie", "replay", "123", "testing"],
+    "responses": [
+      "Pigeon_Pie contributed 123 replay files. That's over 20 hours of gameplay footage.",
+      "We used his replays to test armor models, shell penetration, and map collisions.",
+      "Dude has over 10,000 battles. He's seen some things."
+    ],
+    "follow_up": "What did we learn from Pigeon_Pie's replays?",
+    "follow_up_affirmative": [
+      "Found three map geometry bugs and a rare shell-trajectory glitch.",
+      "Also confirmed that the Object 907 is still bullshit. Thanks, Pigeon_Pie.",
+      "His replays are our primary source for testing weird edge cases. Incredibly valuable."
+    ],
+    "follow_up_negative": [
+      "No problem. His replays speak for themselves."
+    ]
+  },
+  {
+    "id": 40,
+    "category": "contributors",
+    "keywords": ["techtanker", "replay", "116"],
+    "responses": [
+      "TechTanker dropped 116 replays on us. All high-tier, all competitive.",
+      "He specializes in tournament play. His replays are how we balance for the sweaty lobbies.",
+      "TechTanker also annotated most of them with timestamps. Above and beyond."
+    ],
+    "follow_up": "What's TechTanker's favorite tank?",
+    "follow_up_affirmative": [
+      "STB-1. No contest. Dude has 3,000 battles in it.",
+      "His replays taught us that the STB-1 is borderline OP in the right hands.",
+      "We might have to nerf it. Sorry, TechTanker."
+    ],
+    "follow_up_negative": [
+      "Fair. Let's just say he's a medium tank enjoyer."
+    ]
+  },
+  {
+    "id": 41,
+    "category": "contributors",
+    "keywords": ["dema_gg_ua", "dema", "gg", "ua", "103"],
+    "responses": [
+      "dema_GG_UA submitted 103 replays. A true scholar of the game.",
+      "His replays focus heavily on map positioning. He's the reason we updated the Sunstroke guide.",
+      "dema also helped validate our spaced armor calculations. Huge help."
+    ],
+    "follow_up": "Is dema_GG_UA Ukrainian?",
+    "follow_up_affirmative": [
+      "Yeah, the UA tag is a giveaway. Proud representation in the HEAT community.",
+      "He submitted replays during some tough times. We're honored he took the time to help us.",
+      "We donated to a Ukrainian charity in his name. o7"
+    ],
+    "follow_up_negative": [
+      "Didn't mean to assume. Just know we appreciate him."
+    ]
+  },
+  {
+    "id": 42,
+    "category": "contributors",
+    "keywords": ["calisota", "replay", "17"],
+    "responses": [
+      "Calisota contributed 17 replays. Not the most, but quality over quantity.",
+      "His replays are all light tank gameplay. Dude is a spotting god.",
+      "We used his footage to rework the view range mechanics page."
+    ],
+    "follow_up": "What makes Calisota's replays special?",
+    "follow_up_affirmative": [
+      "He plays the ELC Even 90 like a possessed goblin. It's art.",
+      "His passive spotting positions are insane. He finds bushes we didn't even know existed.",
+      "We added three new spotting locations to the map guides because of him."
+    ],
+    "follow_up_negative": [
+      "No worries. Light tank mains are a different breed."
+    ]
+  },
+  {
+    "id": 43,
+    "category": "contributors",
+    "keywords": ["senorragequit", "replay", "2", "tester"],
+    "responses": [
+      "SenorRagequit only sent 2 replays, but they were both bangers.",
+      "Also helped test the HEAT Labs Android App. Found a critical memory leak.",
+      "The name is ironic. Dude has incredible patience."
+    ],
+    "follow_up": "What did SenorRagequit find in the Android app?",
+    "follow_up_affirmative": [
+      "A crash bug when viewing tank models with 4GB RAM devices. Fixed before launch.",
+      "Also suggested the 'night mode' toggle. That was all him.",
+      "He's the reason the app doesn't melt your phone. Genuine hero."
+    ],
+    "follow_up_negative": [
+      "Alright. Just know he punched way above his weight with those 2 replays."
+    ]
+  },
+  {
+    "id": 44,
     "category": "acknowledgments",
     "keywords": ["ok", "okay", "k", "kk", "alright", "got it", "gotcha", "copy", "copy that", "roger", "understood", "i see", "makes sense"],
     "responses": [
@@ -345,7 +647,7 @@
     ]
   },
   {
-    "id": 17,
+    "id": 45,
     "category": "acknowledgments",
     "keywords": ["nice", "cool", "awesome", "sweet", "dope", "epic", "great", "good", "perfect", "amazing", "fantastic"],
     "responses": [
@@ -371,7 +673,7 @@
     ]
   },
   {
-    "id": 18,
+    "id": 46,
     "category": "greetings",
     "keywords": ["hi", "hello", "hey", "sup", "howdy", "greetings", "yo", "what's up", "whats up", "wassup"],
     "responses": [
@@ -397,7 +699,7 @@
     ]
   },
   {
-    "id": 19,
+    "id": 47,
     "category": "gratitude",
     "keywords": ["thanks", "thank you", "appreciate", "ty", "thx", "tysm", "thank", "thnx", "appreciated", "much obliged"],
     "responses": [
@@ -424,7 +726,7 @@
     ]
   },
   {
-    "id": 20,
+    "id": 48,
     "category": "casual",
     "keywords": ["how are you", "how are ya", "how's it going", "hows it going", "how you doing", "you good", "you ok", "you alright"],
     "responses": [
@@ -450,7 +752,7 @@
     ]
   },
   {
-    "id": 21,
+    "id": 49,
     "category": "casual",
     "keywords": ["what's new", "whats new", "what's up", "whats up", "wassup", "anything new", "latest", "updates", "news"],
     "responses": [
@@ -475,7 +777,7 @@
     ]
   },
   {
-    "id": 22,
+    "id": 50,
     "category": "confusion",
     "keywords": ["what", "huh", "idk", "not sure", "confused", "explain", "dont understand", "don't understand", "unclear", "what do you mean"],
     "responses": [
@@ -500,7 +802,7 @@
     ]
   },
   {
-    "id": 23,
+    "id": 51,
     "category": "insults",
     "keywords": ["stupid", "dumb", "idiot", "useless", "suck", "trash", "bad ai", "garbage", "lame", "terrible", "awful"],
     "responses": [
@@ -526,7 +828,7 @@
     ]
   },
   {
-    "id": 24,
+    "id": 52,
     "category": "swears",
     "keywords": ["fuck", "shit", "ass", "damn", "hell", "crap", "bitch", "bastard", "piss", "dick", "cock", "pussy"],
     "responses": [
@@ -553,7 +855,7 @@
     ]
   },
   {
-    "id": 25,
+    "id": 53,
     "category": "farewell",
     "keywords": ["bye", "goodbye", "see ya", "later", "cya", "peace", "out", "gtg", "got to go", "have to go", "signing off"],
     "responses": [
@@ -569,7 +871,7 @@
     "follow_up": null
   },
   {
-    "id": 26,
+    "id": 54,
     "category": "default",
     "keywords": ["default", "fallback"],
     "responses": [
@@ -591,6 +893,41 @@
       "No worries. Maybe next time.",
       "Fair. I'll be here if you think of something.",
       "Got it. Just checking."
+    ]
+  },{
+    "id": 55,
+    "category": "eastereggs",
+    "keywords": ["easter", "egg", "hidden", "secret", "easter egg", "easter eggs", "secrets"],
+    "responses": [
+      "Oh, you want secrets? There are *dozens*. Some are in plain sight. Some require... rituals.",
+      "This website has more Easter eggs than a chocolate factory. Start clicking weirdly.",
+      "Not all secrets are meant to be found. But most of ours are. Start searching.",
+      "Sinewave hides something new every update. The community has only found like... one or two of them.",
+      "Easter eggs? I know a few. But half the fun is finding them yourself. Ask for a hint if you're stuck."
+    ],
+    "follow_up": "Want a hint about one of the Easter eggs?",
+    "follow_up_affirmative": [
+      "There's a fruit. It's a meme. It appears very, very slowly.",
+      "A certain cat-shaped folder holds a secret.",
+      "Some stations only play when you speak their language.",
+      "The tournament page rewards pure confusion.",
+      "Say the platform names. The door is listening.",
+      "A fast tank responds to an ancient code.",
+      "The toggle has limits. The devs have patience. You don't.",
+      "The changelog has a backstage. You just need the password.",
+      "The home screen has a terminal. Boot it up.",
+      "A tank's name. Seven clicks. A rhythm. A leak.",
+      "A single word flips the world upside down.",
+      "Two names. One home page. Whispers.",
+      "A bubble. Ten times. Three keys. Another site.",
+      "The address bar knows chaos. Try it.",
+      "Search for laughter. You'll find a collection."
+    ],
+    "follow_up_negative": [
+      "No problem. Half the fun is finding them yourself.",
+      "Fair. Some secrets are better unspoiled.",
+      "Got it. The eggs will wait for you.",
+      "Alright. Just know they're out there."
     ]
   }
 ]
