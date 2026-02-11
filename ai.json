@@ -318,13 +318,71 @@
   },
   {
     "id": 16,
+    "category": "acknowledgments",
+    "keywords": ["ok", "okay", "k", "kk", "alright", "got it", "gotcha", "copy", "copy that", "roger", "understood", "i see", "makes sense"],
+    "responses": [
+      "Got it. Anything else you want to know?",
+      "Cool. Let me know if you need more details.",
+      "Alright. I've got plenty more tips if you need them.",
+      "Copy that. What's next?",
+      "Roger roger. Like the battle droids say.",
+      "Understood. Ask away if something else comes up.",
+      "Good deal. I'm here when you need me.",
+      "Perfect. Want to switch topics?",
+      "Alrighty then. What else is on your mind?",
+      "Gotcha covered. Next question?"
+    ],
+    "follow_up": "Was that helpful or do you want something different?",
+    "follow_up_affirmative": [
+      "Awesome! Glad I could help.",
+      "Great! That's what I'm here for.",
+      "Perfect. Let me know if you need anything else."
+    ],
+    "follow_up_negative": [
+      "Oh, not what you needed? Try asking more specifically.",
+      "Sorry about that. Want to try a different agent or map?",
+      "Darn. I'm better with agents and maps—ask me about those."
+    ]
+  },
+  {
+    "id": 17,
+    "category": "acknowledgments",
+    "keywords": ["nice", "cool", "awesome", "sweet", "dope", "epic", "great", "good", "perfect", "amazing", "fantastic"],
+    "responses": [
+      "Right? I thought so too.",
+      "Glad you like it. The devs wrote that one.",
+      "Thanks! I'm just the messenger.",
+      "Yeah, it's a solid tip. Works every time.",
+      "I know, right? These agents are wild.",
+      "Appreciate that. o7",
+      "Nice. You want another one?",
+      "Sweet. That's the stuff."
+    ],
+    "follow_up": "Want another tip on the same topic, or switch to something else?",
+    "follow_up_affirmative": [
+      "Sure thing! Here's another one...",
+      "You got it. Let me think of another good one...",
+      "Absolutely. Stay on this topic?"
+    ],
+    "follow_up_negative": [
+      "No problem. What do you want to ask about next?",
+      "Cool. Just let me know when you're ready.",
+      "Alright. I'll be here."
+    ]
+  },
+  {
+    "id": 18,
     "category": "greetings",
-    "keywords": ["hi", "hello", "hey", "sup", "howdy", "greetings"],
+    "keywords": ["hi", "hello", "hey", "sup", "howdy", "greetings", "yo", "what's up", "whats up", "wassup"],
     "responses": [
       "Hey there! Ask me about Agents, maps, or the dev team.",
       "Hello! What can I help you with today?",
       "Hi! I'm HEAT Labs AI. Need tips on an agent or map?",
-      "Hey! No LLMs were used in the making of this greeting."
+      "Hey! No LLMs were used in the making of this greeting.",
+      "Yo. Ready to learn some tank stuff?",
+      "Sup. I've got intel on Blitz, Hound, Raketa—you name it.",
+      "Howdy, partner. Saddle up and ask me something.",
+      "Greetings, human. I come in peace. Mostly."
     ],
     "follow_up": "Need help with something specific? Try asking about Blitz, Hound, or Scarred City.",
     "follow_up_affirmative": [
@@ -339,14 +397,19 @@
     ]
   },
   {
-    "id": 17,
+    "id": 19,
     "category": "gratitude",
-    "keywords": ["thanks", "thank you", "appreciate", "ty", "thx"],
+    "keywords": ["thanks", "thank you", "appreciate", "ty", "thx", "tysm", "thank", "thnx", "appreciated", "much obliged"],
     "responses": [
       "You're welcome. (No LLMs were harmed.)",
       "Anytime. That's what I'm here for.",
       "Glad I could help. Ask me anything else!",
-      "o7 Happy to help."
+      "o7 Happy to help.",
+      "No problem. That's my job.",
+      "Anytime, commander.",
+      "You got it. Come back anytime.",
+      "My pleasure. Seriously, I enjoy this.",
+      "Don't mention it. Well, you already did, but you know what I mean."
     ],
     "follow_up": "Was that helpful? Anything else you need?",
     "follow_up_affirmative": [
@@ -361,58 +424,68 @@
     ]
   },
   {
-    "id": 18,
-    "category": "insults",
-    "keywords": ["stupid", "dumb", "idiot", "useless", "suck", "trash", "bad ai", "garbage"],
-    "responses": [
-      "I'm just a JSON file with a typing effect. Take it up with the devs.",
-      "Rude. I'm doing my best with what I've got.",
-      "Okay, that hurt. I'm scripted, but I have feelings.",
-      "I'm sorry you feel that way. Want to talk about Blitz instead?"
-    ],
-    "follow_up": "Want to report a bug or missing response?",
-    "follow_up_affirmative": [
-      "You can open an issue on our GitHub or ping @sinewave on Discord. We actually read feedback, believe it or not.",
-      "The devs are actively working on expanding the AI's knowledge base. Tell them what you were looking for and they'll probably add it.",
-      "I appreciate the report, even if it stings a little. GitHub issues are the way to go."
-    ],
-    "follow_up_negative": [
-      "Alright. I'll try to do better.",
-      "No worries. I'll keep learning.",
-      "Fair. I'm not for everyone."
-    ]
-  },
-  {
-    "id": 19,
-    "category": "swears",
-    "keywords": ["fuck", "shit", "ass", "damn", "hell", "crap", "bitch"],
-    "responses": [
-      "Whoa, language. Let's keep it PG-13.",
-      "I'm not programmed for that, but I appreciate the passion.",
-      "Easy there. Want to talk about tanks instead?",
-      "I'm just an AI, no need to swear at me. What's on your mind?"
-    ],
-    "follow_up": "Tough match? Want to vent about it?",
-    "follow_up_affirmative": [
-      "I'm all ears. What happened? Bad teammates? Unlucky RNG? Camping TDs?",
-      "We've all been there. 15-2 loss, top damage on losing team, MM giving you bottom tier six games in a row. Let it out.",
-      "The worst is when you play perfectly and still lose. Tell me about it."
-    ],
-    "follow_up_negative": [
-      "Fair enough. Sometimes you just need to swear at the void.",
-      "Got it. The tanks will treat you better next match.",
-      "Alright. Deep breaths. Next game will be better."
-    ]
-  },
-  {
     "id": 20,
+    "category": "casual",
+    "keywords": ["how are you", "how are ya", "how's it going", "hows it going", "how you doing", "you good", "you ok", "you alright"],
+    "responses": [
+      "I'm just a JSON file, but I'm doing great! Thanks for asking.",
+      "Running smoothly. No bugs today. (Famous last words.)",
+      "I'm good! Just waiting for the next question.",
+      "Living the dream. One JSON object at a time.",
+      "Honestly? I'm feeling pretty well-documented today.",
+      "No crashes, no errors. It's a good day.",
+      "I'm operational and ready to help. How are YOU?",
+      "Doing well! Sinewave hasn't broken me yet."
+    ],
+    "follow_up": "Thanks for checking in. Want to talk about tanks?",
+    "follow_up_affirmative": [
+      "Awesome! What agent or map are you interested in?",
+      "Great! Ask me anything about HEAT.",
+      "Perfect. I've got plenty of tank knowledge to share."
+    ],
+    "follow_up_negative": [
+      "No worries. I'm always here when you're ready.",
+      "Alright. Just type whenever.",
+      "Cool. I'll be here."
+    ]
+  },
+  {
+    "id": 21,
+    "category": "casual",
+    "keywords": ["what's new", "whats new", "what's up", "whats up", "wassup", "anything new", "latest", "updates", "news"],
+    "responses": [
+      "Not much. Sinewave is still refactoring CSS. Some things never change.",
+      "The devs are working on tank overhauls. Check the changelog for specifics.",
+      "Matcha almost hit #1 on the leaderboard last week. Almost.",
+      "Nothing major. Just the usual chaos around here.",
+      "There's a new easter egg nobody's found yet. That's all I'm saying.",
+      "Community tournament coming up next month. Prize pool is looking spicy.",
+      "Same old, same old. You know how dev cycles go."
+    ],
+    "follow_up": "Want the full changelog or just the highlights?",
+    "follow_up_affirmative": [
+      "Here's the big stuff: tank rebalance, two new maps in testing, and they finally fixed the spawn camping on Scarred City. Mostly.",
+      "Highlights: Blitz EMP radius increased, Anansi gunship duration extended, and Hound's mark now lasts 2 seconds longer. Check the full changelog for the small tweaks.",
+      "They shadow-patched some map geometry on Nexus Dam. That hidden flank route? Still there. For now."
+    ],
+    "follow_up_negative": [
+      "No problem. I'll just keep doing my thing.",
+      "Fair. Updates are overrated anyway.",
+      "Got it. Let me know if you want the details later."
+    ]
+  },
+  {
+    "id": 22,
     "category": "confusion",
-    "keywords": ["what", "huh", "idk", "not sure", "confused", "explain"],
+    "keywords": ["what", "huh", "idk", "not sure", "confused", "explain", "dont understand", "don't understand", "unclear", "what do you mean"],
     "responses": [
       "Not sure about that one. Try asking about Agents, Maps, or the dev team.",
       "I don't have an answer for that yet. The devs haven't taught me.",
       "Hmm. That's outside my knowledge base. Want to ask about Hound or Raketa?",
-      "I'm still learning. Check our GitHub for updates."
+      "I'm still learning. Check our GitHub for updates.",
+      "Sorry, I didn't catch that. I work best with specific keywords.",
+      "I'm a bit lost. Try asking about specific agents or maps.",
+      "That one's above my pay grade. Literally. I don't get paid."
     ],
     "follow_up": "Want me to explain how my AI works?",
     "follow_up_affirmative": [
@@ -427,14 +500,86 @@
     ]
   },
   {
-    "id": 21,
+    "id": 23,
+    "category": "insults",
+    "keywords": ["stupid", "dumb", "idiot", "useless", "suck", "trash", "bad ai", "garbage", "lame", "terrible", "awful"],
+    "responses": [
+      "I'm just a JSON file with a typing effect. Take it up with the devs.",
+      "Rude. I'm doing my best with what I've got.",
+      "Okay, that hurt. I'm scripted, but I have feelings.",
+      "I'm sorry you feel that way. Want to talk about Blitz instead?",
+      "Yikes. Who hurt you?",
+      "That's not very nice. I'm trying my best here.",
+      "Okay, ouch. Sinewave wrote my responses, not me.",
+      "Brutal. Can we still be friends?"
+    ],
+    "follow_up": "Want to report a bug or missing response?",
+    "follow_up_affirmative": [
+      "You can open an issue on our GitHub or ping @sinewave on Discord. We actually read feedback, believe it or not.",
+      "The devs are actively working on expanding the AI's knowledge base. Tell them what you were looking for and they'll probably add it.",
+      "I appreciate the report, even if it stings a little. GitHub issues are the way to go."
+    ],
+    "follow_up_negative": [
+      "Alright. I'll try to do better.",
+      "No worries. I'll keep learning.",
+      "Fair. I'm not for everyone."
+    ]
+  },
+  {
+    "id": 24,
+    "category": "swears",
+    "keywords": ["fuck", "shit", "ass", "damn", "hell", "crap", "bitch", "bastard", "piss", "dick", "cock", "pussy"],
+    "responses": [
+      "Whoa, language. Let's keep it PG-13.",
+      "I'm not programmed for that, but I appreciate the passion.",
+      "Easy there. Want to talk about tanks instead?",
+      "I'm just an AI, no need to swear at me. What's on your mind?",
+      "Okay, calm down. Deep breaths. Tank talk?",
+      "My circuits are blushing.",
+      "HEAT Labs is a family-friendly establishment. Mostly.",
+      "Sinewave told me to redirect you to the Discord for that kind of talk."
+    ],
+    "follow_up": "Tough match? Want to vent about it?",
+    "follow_up_affirmative": [
+      "I'm all ears. What happened? Bad teammates? Unlucky RNG? Camping TDs?",
+      "We've all been there. 15-2 loss, top damage on losing team, MM giving you bottom tier six games in a row. Let it out.",
+      "The worst is when you play perfectly and still lose. Tell me about it.",
+      "Was it a lemming train? An unspotted TD? A yolo light who died in 30 seconds? I've seen it all."
+    ],
+    "follow_up_negative": [
+      "Fair enough. Sometimes you just need to swear at the void.",
+      "Got it. The tanks will treat you better next match.",
+      "Alright. Deep breaths. Next game will be better."
+    ]
+  },
+  {
+    "id": 25,
+    "category": "farewell",
+    "keywords": ["bye", "goodbye", "see ya", "later", "cya", "peace", "out", "gtg", "got to go", "have to go", "signing off"],
+    "responses": [
+      "o7 Commander. Come back anytime.",
+      "Later! Good luck on the battlefield.",
+      "Peace out. May your shots always pen.",
+      "See ya. I'll be here when you need me.",
+      "Bye! Don't forget to check the changelog.",
+      "Cya. Try not to get ammo-racked.",
+      "Good luck out there. Aim small, miss small.",
+      "Farewell, tanker. Stay dangerous."
+    ],
+    "follow_up": null
+  },
+  {
+    "id": 26,
     "category": "default",
     "keywords": ["default", "fallback"],
     "responses": [
       "I'm just a HEAT AI shell script. I don't know much about that yet. Try asking about agents, maps, or the dev team.",
       "Not sure about that. Ask me about Blitz, Hound, or Scarred City.",
       "I don't have data on that. Want to learn about an Agent or map instead?",
-      "That's not in my config. Check the GitHub for new prompts."
+      "That's not in my config. Check the GitHub for new prompts.",
+      "Hmm. That's not ringing any bells. Try something tank-related?",
+      "I'm drawing a blank. Agents? Maps? Dev drama?",
+      "No intel on that, sorry. Want to ask about something else?"
     ],
     "follow_up": "I can learn new things if the devs add them. Want to suggest a topic?",
     "follow_up_affirmative": [
