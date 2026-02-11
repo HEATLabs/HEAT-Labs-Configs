@@ -1,82 +1,239 @@
 [
   {
     "id": 1,
+    "category": "agents",
     "keywords": ["blitz", "emp", "rocket", "jam"],
-    "response": "Blitz's EMP rocket is a slow-moving guided missile that jams nearby electronics. Best used to disrupt campers or to push a choke point. Pro tip: manual detonation can catch enemies off guard."
+    "responses": [
+      "Blitz's EMP rocket is a slow-moving guided missile that jams nearby electronics. Best used to disrupt campers or to push a choke point. Pro tip: manual detonation can catch enemies off guard.",
+      "The EMP rocket from Blitz is great for area denial. Pop it into a crowded cap zone and watch the chaos—no electronics, no repairs.",
+      "Blitz counters hard campers. If a TD is dug in, send an EMP their way. The jam effect is longer than you think."
+    ],
+    "follow_up": "Want to know which agents pair well with Blitz?"
   },
   {
     "id": 2,
+    "category": "agents",
     "keywords": ["anansi", "gunship", "ac-130", "spectre"],
-    "response": "Anansi calls in an AC-130H Spectre. The 40mm is for soft targets, but the 105mm can delete heavily armored tanks. Save the 105 for the big boys."
+    "responses": [
+      "Anansi calls in an AC-130H Spectre. The 40mm is for soft targets, but the 105mm can delete heavily armored tanks. Save the 105 for the big boys.",
+      "Gunship support is all about timing. Don't pop Anansi during a brawl—pull back, spot, and let the 105s do the work.",
+      "Anansi's AC-130 has two firing modes. Use 40mm to strip tracks, 105mm for deletion. You get about 8 seconds of loiter—make it count."
+    ],
+    "follow_up": "Need help with Anansi's positioning?"
   },
   {
     "id": 3,
+    "category": "agents",
     "keywords": ["ember", "trophy", "turret", "intercept"],
-    "response": "Ember drops a Trophy turret that intercepts projectiles. Pair her with brawlers like the M60A3E2 to create an unstoppable push. She also gets a speed boost when rushing allies."
+    "responses": [
+      "Ember drops a Trophy turret that intercepts projectiles. Pair her with brawlers like the M60A3E2 to create an unstoppable push. She also gets a speed boost when rushing allies.",
+      "Trophy turrets eat ATGMs for breakfast. Drop one behind a corner and peek with confidence.",
+      "Ember's speed boost triggers when an ally is low. Don't just save it—use it to rotate or escape."
+    ],
+    "follow_up": "Ember works great on maps with tight corridors. Want map tips?"
   },
   {
     "id": 4,
+    "category": "agents",
     "keywords": ["kent", "contracts", "strike", "aerial"],
-    "response": "Kent locks targets in his cone and calls ballistic strikes. His 'cursed luck' isn't just flavor—time your activation when enemies are clustered for multi-kills."
+    "responses": [
+      "Kent locks targets in his cone and calls ballistic strikes. His 'cursed luck' isn't just flavor—time your activation when enemies are clustered for multi-kills.",
+      "Kent's strike has a delay. Lead your targets, or use it to zone them out of an area.",
+      "Cursed luck means sometimes you miss. Don't tilt—the next one will hit."
+    ],
+    "follow_up": "Kent is a strong counter to slow, armored brawlers. Interested?"
   },
   {
     "id": 5,
+    "category": "agents",
     "keywords": ["hound", "hunter", "mark", "weak spot", "critical"],
-    "response": "Hound reveals critical modules. This extends the mark duration. Great for coordinating with high-alpha DPM tanks. If you see a weak spot lit up, take the shot."
+    "responses": [
+      "Hound reveals critical modules. This extends the mark duration. Great for coordinating with high-alpha DPM tanks. If you see a weak spot lit up, take the shot.",
+      "Hound's mark persists through walls. If you see red, shoot. Even if you can't pen, you'll track them.",
+      "Pro tip: Hound marks ammo racks more often than you'd think. Always take that shot."
+    ],
+    "follow_up": "Hound + Raketa is a nasty combo. Want the loadout?"
   },
   {
     "id": 6,
+    "category": "agents",
     "keywords": ["reaper", "execute", "finish", "420"],
-    "response": "Reaper executes any tank below 420 HP. His ability loads a clip of high-crit shells. Execute resets the clip. Time your push for the cleanup phase."
+    "responses": [
+      "Reaper executes any tank below 420 HP. His ability loads a clip of high-crit shells. Execute resets the clip. Time your push for the cleanup phase.",
+      "Reaper snowballs hard. One execute refills your magazine. If you see red, go for it.",
+      "Don't waste Reaper's execute on full-health targets. Wait for the low-hanging fruit."
+    ],
+    "follow_up": "Reaper struggles against spaced armor. Need counter advice?"
   },
   {
     "id": 7,
+    "category": "agents",
     "keywords": ["raketa", "scavenge", "scrap", "shotgun"],
-    "response": "Raketa heals and gets tokens on kills. Activate his ability for a rapid-fire shotgun. He excels in close quarters. Don't let his jokes fool you—he's deadly."
+    "responses": [
+      "Raketa heals and gets tokens on kills. Activate his ability for a rapid-fire shotgun. He excels in close quarters. Don't let his jokes fool you—he's deadly.",
+      "Raketa's scrap tokens stack. The more you kill, the tankier you get. Don't be afraid to YOLO late game.",
+      "Shotgun mode shreds tracks. Use it to permatrack heavies while your team flanks."
+    ],
+    "follow_up": "Raketa loves urban maps. Want map recommendations?"
   },
   {
     "id": 8,
+    "category": "agents",
     "keywords": ["chopper", "bomber", "shock", "awe", "dazed"],
-    "response": "Chopper calls in a bomber that dazes enemies. Use it to reset fights or stall caps. He’s a bear of a man with a heart of gold... and a mean right hook."
+    "responses": [
+      "Chopper calls in a bomber that dazes enemies. Use it to reset fights or stall caps. He’s a bear of a man with a heart of gold... and a mean right hook.",
+      "The daze effect reduces enemy accuracy and movement speed. Pop it right before a push.",
+      "Chopper's strike has a huge radius. Don't just aim at tanks—aim at cap circles."
+    ],
+    "follow_up": "Chopper pairs well with brawlers. Want a team comp?"
   },
   {
     "id": 9,
+    "category": "maps",
     "keywords": ["aircraft carrier", "map", "shipyard"],
-    "response": "Aircraft Carrier has a moving barge and multiple flank routes. Control the high ground on the carrier itself for vision advantage."
+    "responses": [
+      "Aircraft Carrier has a moving barge and multiple flank routes. Control the high ground on the carrier itself for vision advantage.",
+      "The barge moves early game. Use it to surprise enemies crossing mid.",
+      "Don't fight on the carrier deck without cover. TDs will punish you."
+    ],
+    "follow_up": "Want the best light tank route on Aircraft Carrier?"
   },
   {
     "id": 10,
+    "category": "maps",
     "keywords": ["nexus dam", "vertical", "choke"],
-    "response": "Nexus Dam offers vertical gameplay. Use the dam ridges to hull-down. Watch the side tunnels for flanks."
+    "responses": [
+      "Nexus Dam offers vertical gameplay. Use the dam ridges to hull-down. Watch the side tunnels for flanks.",
+      "The tunnels are risky but rewarding. Bring a fast tank if you're going through.",
+      "Hull-down heavies dominate the central ridge. Don't push into them without support."
+    ],
+    "follow_up": "Nexus Dam has a hidden flank route. Want to know it?"
   },
   {
     "id": 11,
+    "category": "maps",
     "keywords": ["scarred city", "urban", "conquest"],
-    "response": "Scarred City supports Conquest and Plant & Defuse. The kite formation base layout favors mobile tanks. Don't get bogged down in the main street."
+    "responses": [
+      "Scarred City supports Conquest and Plant & Defuse. The kite formation base layout favors mobile tanks. Don't get bogged down in the main street.",
+      "Control the apartments. High-ground vision wins games here.",
+      "Scarred City is all about crossfires. Set up on one side, let the enemy push into your team."
+    ],
+    "follow_up": "Want the best TD position on Scarred City?"
   },
   {
     "id": 12,
+    "category": "maps",
     "keywords": ["sunstroke", "desert", "flank"],
-    "response": "Sunstroke is a close-quarters desert map. Use the construction site to break line of sight. Light tanks excel here."
+    "responses": [
+      "Sunstroke is a close-quarters desert map. Use the construction site to break line of sight. Light tanks excel here.",
+      "The center ruins are a death trap. Spot from the edges, don't drive through.",
+      "Sunstroke rewards aggressive flanks. Take the east route with a medium and catch them off guard."
+    ],
+    "follow_up": "Need a Sunstroke light tank spotting guide?"
   },
   {
     "id": 13,
+    "category": "community",
     "keywords": ["matcha", "ice", "grill"],
-    "response": "Matcha? You mean the community legend? Word on the street is he’s mentally stable now. Mostly. Don’t mention the barcode."
+    "responses": [
+      "Matcha? You mean the community legend? Word on the street is he’s mentally stable now. Mostly. Don’t mention the barcode.",
+      "Matcha once 1v5'd on a livestream. We don't talk about it.",
+      "Ice, grill, and a dream. That's the Matcha special."
+    ],
+    "follow_up": "Want to know the story behind the barcode?"
   },
   {
     "id": 14,
+    "category": "devteam",
     "keywords": ["sinewave", "dev", "update"],
-    "response": "SINEWAVE hasn't pushed an update in 3 hours. We're starting to get worried. Someone check on him."
+    "responses": [
+      "SINEWAVE hasn't pushed an update in 3 hours. We're starting to get worried. Someone check on him.",
+      "Dev update? Last we heard, Sinewave was refactoring the CSS again.",
+      "Sinewave is probably fine. Probably. The repo hasn't caught fire yet."
+    ],
+    "follow_up": "Want to know what the dev team is currently working on?"
   },
   {
     "id": 15,
+    "category": "eastereggs",
     "keywords": ["easter", "egg", "hidden"],
-    "response": "There's an easter egg on the Playground page. I've said too much."
+    "responses": [
+      "There's an easter egg on the Playground page. I've said too much.",
+      "Try clicking the logo three times. Or was it four? I forgot.",
+      "Not all secrets are meant to be found. But this one definitely is."
+    ],
+    "follow_up": "Want a hint about the Playground easter egg?"
   },
   {
     "id": 16,
+    "category": "greetings",
+    "keywords": ["hi", "hello", "hey", "sup", "howdy", "greetings"],
+    "responses": [
+      "Hey there! Ask me about Agents, maps, or the dev team.",
+      "Hello! What can I help you with today?",
+      "Hi! I'm HEAT Labs AI. Need tips on an agent or map?",
+      "Hey! No LLMs were used in the making of this greeting."
+    ],
+    "follow_up": null
+  },
+  {
+    "id": 17,
+    "category": "gratitude",
+    "keywords": ["thanks", "thank you", "appreciate", "ty", "thx"],
+    "responses": [
+      "You're welcome. (No LLMs were harmed.)",
+      "Anytime. That's what I'm here for.",
+      "Glad I could help. Ask me anything else!",
+      "o7 Happy to help."
+    ],
+    "follow_up": null
+  },
+  {
+    "id": 18,
+    "category": "insults",
+    "keywords": ["stupid", "dumb", "idiot", "useless", "suck", "trash", "bad ai", "garbage"],
+    "responses": [
+      "I'm just a JSON file with a typing effect. Take it up with the devs.",
+      "Rude. I'm doing my best with what I've got.",
+      "Okay, that hurt. I'm scripted, but I have feelings.",
+      "I'm sorry you feel that way. Want to talk about Blitz instead?"
+    ],
+    "follow_up": null
+  },
+  {
+    "id": 19,
+    "category": "swears",
+    "keywords": ["fuck", "shit", "ass", "damn", "hell", "crap", "bitch"],
+    "responses": [
+      "Whoa, language. Let's keep it PG-13.",
+      "I'm not programmed for that, but I appreciate the passion.",
+      "Easy there. Want to talk about tanks instead?",
+      "I'm just an AI, no need to swear at me. What's on your mind?"
+    ],
+    "follow_up": null
+  },
+  {
+    "id": 20,
+    "category": "confusion",
+    "keywords": ["what", "huh", "idk", "not sure", "confused", "explain"],
+    "responses": [
+      "Not sure about that one. Try asking about Agents, Maps, or the dev team.",
+      "I don't have an answer for that yet. The devs haven't taught me.",
+      "Hmm. That's outside my knowledge base. Want to ask about Hound or Raketa?",
+      "I'm still learning. Check our GitHub for updates."
+    ],
+    "follow_up": null
+  },
+  {
+    "id": 21,
+    "category": "default",
     "keywords": ["default", "fallback"],
-    "response": "I'm just a HEAT AI shell script. I don't know much about that yet. Try asking about agents, maps, or the dev team."
+    "responses": [
+      "I'm just a HEAT AI shell script. I don't know much about that yet. Try asking about agents, maps, or the dev team.",
+      "Not sure about that. Ask me about Blitz, Hound, or Scarred City.",
+      "I don't have data on that. Want to learn about an Agent or map instead?",
+      "That's not in my config. Check the GitHub for new prompts."
+    ],
+    "follow_up": null
   }
 ]
