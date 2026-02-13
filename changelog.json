@@ -1,6 +1,30 @@
 {
   "updates": [
     {
+      "version": "0.4.293",
+      "date": "2026-02-12",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #293",
+      "description": "Full patch notes for Update v0.4.293 (#293), detailing all changes made on 12 February, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Project statistics refreshed",
+        "Changelog updated",
+        "Main and legacy GSC export datasets updated",
+        "Cloudflare traffic analytics refreshed",
+        "GSC index data updated",
+        "Daily commit log updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Rolled back an experimental adjustment related to mobile app path handling"
+      ]
+    },
+    {
       "version": "0.4.284",
       "date": "2026-02-11",
       "author": "HEAT Labs Team",
