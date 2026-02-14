@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-04T05:09:19.498738",
+  "last_updated": "2026-02-14T21:54:27.475908",
   "builds": {
     "World of Tanks: HEAT": {
       "39c08ff0c694c4f5caefc19ad539385e93191f666e6f49a3902b66d74d24ca1c": {
@@ -79,6 +79,42 @@
                 "size_formatted": "808.53 MB",
                 "unpacked_bytes": 0,
                 "unpacked_formatted": "0 B"
+              }
+            ]
+          }
+        ],
+        "delay_preload": false
+      },
+      "5d80fad546f6750dd738a66c47e88d13884e7954449f69484b1199e3373be507": {
+        "build_info": {
+          "content_hash": "5d80fad546f6750dd738a66c47e88d13884e7954449f69484b1199e3373be507",
+          "display_name": "World of Tanks: HEAT",
+          "build_date": "2026.02.13 15:35:04",
+          "version_name": "0.0.323",
+          "compressed_size": "0.00 GB",
+          "uncompressed_size": "0.00 GB",
+          "file_count": 1
+        },
+        "web_seeds": [
+          {
+            "url": "http://patches-dms.wargaming.net/cw/heat.ww.production/wds_default/patches/",
+            "threads": 4,
+            "protocol": ""
+          }
+        ],
+        "patches": [
+          {
+            "chain_type": "install",
+            "part": "client",
+            "version_to": "0.0.323.5842",
+            "files": [
+              {
+                "file_name": "0.0.323.5842/heat_0.0.323.5842_client.wgpkg",
+                "package": "heat_0.0.323.5842_client.wgpkg",
+                "size_bytes": 554,
+                "size_formatted": "554 B",
+                "unpacked_bytes": 478,
+                "unpacked_formatted": "478 B"
               }
             ]
           }
