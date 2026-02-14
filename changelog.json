@@ -1,6 +1,39 @@
 {
   "updates": [
     {
+      "version": "0.4.311",
+      "date": "2026-02-13",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #294",
+      "description": "Full patch notes for Update v0.4.311 (#294), detailing all changes made on 13 February, 2026.",
+      "added": [
+        "Valentines Day seasonal script deployed across all HEAT Labs properties, CDNs, tools, and subdomains",
+        "New Valentines Day module added to both static and development environments",
+        "Easter Egg Friday #15 blog post published on main and development websites",
+        "One new quote added to the quotes index",
+        "Profile image added for Moonlight"
+      ],
+      "changed": [
+        "Project statistics refreshed",
+        "Search keyword index expanded with the newest Easter Egg Friday article",
+        "Sitemap files updated to include the latest blog entry",
+        "Changelog records updated",
+        "Daily commit log updated",
+        "Page data files refreshed",
+        "Cloudflare traffic data updated",
+        "Main and legacy GSC index/export datasets refreshed",
+        "Sign-off text adjusted in the most recent Easter Egg Friday post",
+        "Gitignore updated with current work-in-progress files"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected invalid paths for Easter Egg Friday card imagery on the main website",
+        "Resolved blog card alt-text inconsistency in the development environment"
+      ]
+    },
+    {
       "version": "0.4.293",
       "date": "2026-02-12",
       "author": "HEAT Labs Team",
