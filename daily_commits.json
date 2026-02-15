@@ -1,4 +1,21 @@
 {
+  "2026-02-14": [
+    "[HEAT-Labs-Configs] updated game builds data with latest WG API details",
+    "[HEAT-Labs-Configs] updated project statistics",
+    "[HEAT-Labs-Configs] updated changelog",
+    "[HEAT-Labs-Configs] updated daily commit log",
+    "[HEAT-Labs-Configs] updated cloudflare traffic data",
+    "[HEAT-Labs-Configs] updated page data files",
+    "[HEAT-Labs-Configs] updated GSC index data",
+    "[HEAT-Labs-Configs] updated main GSC export data",
+    "[HEAT-Labs-Configs] updated legacy GSC export data",
+    "[HEAT-Labs-Static] added styles for closed sidebar margin to main statics CDN",
+    "[HEAT-Labs-Static] enabled valentines day seasonal effect module globally",
+    "[HEAT-Labs-Tools] updated game build checker tool with the latest WG API changes",
+    "[HEAT-Labs-Website-Development] fixed incorrect path to discord bot page in dev website",
+    "[HEAT-Labs-Website-Development] added styles for closed sidebar margin to dev website",
+    "[HEAT-Labs-Website-Development] enabled valentines day seasonal effect module in dev website"
+  ],
   "2026-02-13": [
     "[HEAT-Labs-Changelog] added valentines-day JS import to all changelog pages",
     "[HEAT-Labs-Configs] added valentines-day JS import to all CDN pages",
