@@ -391,7 +391,7 @@
         "Over 240 new soundboard texts contributed by SirBarett and legocity2000",
         "New sound type labels added to improve soundboard organization",
         "Promotional banner added for the upcoming HEAT Labs Desktop Steam release",
-        "WoT: HEAT microtrailer media added in GIF, WEBP, and WEBM formats",
+        "WoT: HEAT micro-trailer media added in GIF, WEBP, and WEBM formats",
         "New playground card image added for the Tank Defense feature page"
       ],
       "changed": [
@@ -1548,7 +1548,7 @@
         "Five new videos added to the HEAT Labs video index and video showcase",
         "New Easter Egg Friday blog images added to the blog image library",
         "Merch store entry added to the Discord bot support command",
-        "Dozens of new product mockup images added across apparel, accessories, drinkware, stationery, home items, and bags",
+        "Dozens of new product mockup images added across apparel, accessories, drink-ware, stationery, home items, and bags",
         "Placeholder description files added to all store product folders",
         "New content creator added to the About Us page",
         "New messages added to the /random endpoint on both main and development websites",
@@ -1943,7 +1943,7 @@
       "added": [
         "Multiple new meme images added across the main images library and meme index",
         "New Discord bot visuals, including activity-specific and command showcase images",
-        "Fully implemented Tierlist, Wordle, and Random Tank Selector games",
+        "Fully implemented Tier list, Wordle, and Random Tank Selector games",
         "New countdown page replacing the previous Alpha 3 playtest page",
         "Discord Activity Rich Presence support across games pages",
         "Experimental cards added to the main games overview page",
@@ -1965,7 +1965,7 @@
       "removed": [
         "Unused game assets, including obsolete logos, sound files, and images",
         "Unused and experimental JavaScript files and imports",
-        "Deprecated save, share, reset, and unranked-item UI elements in the Tierlist game",
+        "Deprecated save, share, reset, and unranked-item UI elements in the Tier list game",
         "Legacy Discord RPC test files and metadata no longer in use"
       ],
       "fixed": [
@@ -2345,7 +2345,7 @@
       ],
       "fixed": [
         "Corrected sitemap last-modified dates across multiple services",
-        "Fixed humans.txt last-update timestamps across all subsites and CDNs",
+        "Fixed humans.txt last-update timestamps across all sub-sites and CDNs",
         "Corrected bot documentation path in the website playground sidebar",
         "Tweaked various image assets to fix display inconsistencies",
         "Updated multiple documentation pages in dev and main environments to reflect new command icons and structure"
@@ -2454,7 +2454,7 @@
         "Page data files refreshed across multiple repositories",
         "Daily commit log updated",
         "Changelog updated, including addition of missing entries",
-        "Category heading refined from h1 to h2 in the Tierlist Creator page on both main and development websites",
+        "Category heading refined from h1 to h2 in the Tier list Creator page on both main and development websites",
         "Breadcrumb Schema updated across multiple blog posts to use correct URLs",
         "Blog post listings updated with corrected post paths",
         "Lodestar survey link updated to be clickable across both website environments"
