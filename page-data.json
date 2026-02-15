@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 279,
+    "total_pages": 280,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-02-15T02:03:23.341223"
+    "export_timestamp": "2026-02-16T01:12:27.553370"
   },
   "pages": [
     {
@@ -158,6 +158,13 @@
       "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/ai",
+      "gsc_status": "NOT NEEDED",
+      "g_api_status": "NOT NEEDED",
+      "https_status": "NOT NEEDED",
+      "breadcrumb_status": "NOT NEEDED"
     },
     {
       "url": "https://heatlabs.net/announcements/alpha-1-announcement-1",
@@ -1924,6 +1931,13 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
+      "url": "https://search.heatlabs.net",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://social.heatlabs.net",
       "gsc_status": "INDEXED",
       "g_api_status": "PENDING",
@@ -1950,33 +1964,26 @@
       "g_api_status": "NOT NEEDED",
       "https_status": "NOT NEEDED",
       "breadcrumb_status": "NOT NEEDED"
-    },
-    {
-      "url": "https://heatlabs.net/ai",
-      "gsc_status": "NOT NEEDED",
-      "g_api_status": "NOT NEEDED",
-      "https_status": "NOT NEEDED",
-      "breadcrumb_status": "NOT NEEDED"
     }
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 87,
+      "pending": 88,
       "not_indexed": 0,
       "indexed": 190
     },
     "google_api_status": {
-      "pending": 68,
+      "pending": 69,
       "not_indexed": 0,
       "indexed": 209
     },
     "https_page_status": {
-      "unknown": 245,
+      "unknown": 246,
       "not_https": 0,
       "https": 32
     },
     "breadcrumb_status": {
-      "unknown": 245,
+      "unknown": 246,
       "invalid": 0,
       "valid": 32
     }
