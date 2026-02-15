@@ -1,6 +1,34 @@
 {
   "updates": [
     {
+      "version": "0.4.324",
+      "date": "2026-02-14",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #295",
+      "description": "Full patch notes for Update v0.4.324 (#295), detailing all changes made on 14 February, 2026.",
+      "added": [
+        "Valentines Day seasonal visuals activated across the platform",
+        "Support styling introduced for improved layout when the sidebar is collapsed"
+      ],
+      "changed": [
+        "Game build definitions refreshed using the newest data from the WG API",
+        "Project statistics updated",
+        "Cloudflare traffic metrics refreshed",
+        "Search Console index data updated",
+        "Primary and legacy Search Console exports regenerated",
+        "Changelog brought up to date",
+        "Daily commit history updated",
+        "Page data files synchronized with the latest structure",
+        "Game build checker tool aligned with recent API adjustments"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected an invalid link routing to the Discord bot page within the development environment"
+      ]
+    },
+    {
       "version": "0.4.311",
       "date": "2026-02-13",
       "author": "HEAT Labs Team",
