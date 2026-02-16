@@ -1,6 +1,39 @@
 {
   "updates": [
     {
+      "version": "0.4.342",
+      "date": "2026-02-15",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #296",
+      "description": "Full patch notes for Update v0.4.342 (#296), detailing all changes made on 15 February, 2026.",
+      "added": [
+        "Tracking pixel asset introduced for the Search subdomain",
+        "Search subdomain integrated into bot and tooling domain indexes"
+      ],
+      "changed": [
+        "Page data updated to register the new Search subdomain",
+        "Tracking pixel index expanded to include Search",
+        "Search keyword index refreshed with Search coverage",
+        "Tournament schedule adjusted for development environments",
+        "Project statistics updated",
+        "Changelog entries normalized for consistent hyphenation and spacing",
+        "Changelog data updated",
+        "Daily commit log updated",
+        "Cloudflare traffic data refreshed",
+        "GSC index and export datasets updated, including legacy records",
+        "Internal developer tools updated to support the Search repository",
+        "Alpha 3 countdown prediction standardized to UTC",
+        "Wording refined in the failed prediction message on the countdown page"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Resolved inconsistencies caused by earlier timezone handling for the Alpha 3 prediction",
+        "General alignment fixes between configuration, website, and development environments"
+      ]
+    },
+    {
       "version": "0.4.324",
       "date": "2026-02-14",
       "author": "HEAT Labs Team",
