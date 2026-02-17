@@ -1,6 +1,41 @@
 {
   "updates": [
     {
+      "version": "0.4.362",
+      "date": "2026-02-16",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #297",
+      "description": "Full patch notes for Update v0.4.362 (#297), detailing all changes made on 16 February, 2026.",
+      "added": [
+        "New Favorite Tools section introduced to the Search subdomain",
+        "Complete development version of the redesigned Search page implemented",
+        "Temporary tournament match card added to the development website",
+        "New CSS and JavaScript logic for the Search page deployed to the statics CDN"
+      ],
+      "changed": [
+        "Search subdomain layout refined with improved vertical centering across all sections",
+        "Mobile margins adjusted across multiple Search page components for better responsiveness",
+        "Tools section styling optimized for mobile devices",
+        "Settings menu updated with shortened button labels for improved clarity",
+        "Clear Frequent Searches button styling simplified",
+        "Background variables updated for visual consistency",
+        "Three major sections of the Search page rewritten for improved styling and logic structure",
+        "Search page formatting refined",
+        "JavaScript import order reorganized for cleaner dependency handling",
+        "Search subdomain development version renamed to 'search-page'"
+      ],
+      "removed": [
+        "Unused transform styles removed from the Search subdomain",
+        "Unused imports removed from Search page boilerplate and related files"
+      ],
+      "fixed": [
+        "Duplicate project statistics entries consolidated",
+        "Search subdomain sitemap properly integrated into GSC index data",
+        "Project statistics, traffic analytics, and GSC export data refreshed",
+        "Changelog and daily commit log updated to reflect latest changes"
+      ]
+    },
+    {
       "version": "0.4.342",
       "date": "2026-02-15",
       "author": "HEAT Labs Team",
