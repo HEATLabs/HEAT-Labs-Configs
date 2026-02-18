@@ -1,6 +1,32 @@
 {
   "updates": [
     {
+      "version": "0.4.373",
+      "date": "2026-02-17",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #298",
+      "description": "Full patch notes for Update v0.4.373 (#298), detailing all changes made on 17 February, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Project statistics updated with the latest metrics",
+        "Cloudflare traffic data refreshed",
+        "Google Search Console index data updated",
+        "Main and legacy GSC export datasets refreshed",
+        "Search subdomain logic refined to enforce stricter limits on frequent search tag length (main and development environments)",
+        "Valentines Day seasonal effect disabled across all live and development pages",
+        "Changelog updated",
+        "Daily commit log updated"
+      ],
+      "removed": [
+        "Valentines Day seasonal visual effects from all environments"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.4.362",
       "date": "2026-02-16",
       "author": "HEAT Labs Team",
