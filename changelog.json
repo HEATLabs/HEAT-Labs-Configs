@@ -1,6 +1,54 @@
 {
   "updates": [
     {
+      "version": "0.4.402",
+      "date": "2026-02-20",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #301",
+      "description": "Full patch notes for Update v0.4.402 (#301), detailing all changes made on 20 February, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.398",
+      "date": "2026-02-19",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #300",
+      "description": "Full patch notes for Update v0.4.398 (#300), detailing all changes made on 19 February, 2026.",
+      "added": [
+        "Two new meme images added to the HEAT Labs image library",
+        "One new long-form video added to the HEAT Labs video archive",
+        "Two new thumbnail images introduced to the video archive"
+      ],
+      "changed": [
+        "Meme index updated to include newly added images",
+        "Project statistics refreshed with latest metrics",
+        "Video archive thumbnail filenames standardized for improved consistency",
+        "Cloudflare traffic data updated",
+        "Main GSC export data refreshed",
+        "Legacy GSC export data refreshed",
+        "GSC index data updated",
+        "Changelog updated",
+        "Daily commit log updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.4.384",
       "date": "2026-02-18",
       "author": "HEAT Labs Team",
