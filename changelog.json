@@ -1,6 +1,55 @@
 {
   "updates": [
     {
+      "version": "0.4.421",
+      "date": "2026-02-22",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #303",
+      "description": "Full patch notes for Update v0.4.421 (#303), detailing all changes made on 22 February, 2026.",
+      "added": [
+        "Integrated new bracket-viewer library into the development environment",
+        "Created dedicated test environment for tournament bracket rendering",
+        "Added structured database schema to support OAT2 bracket viewer testing",
+        "Introduced blank-slate test dataset for OAT2 bracket simulations"
+      ],
+      "changed": [
+        "Revised tournament bracket structure for improved rendering compatibility",
+        "Updated development branch with latest changes from main"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Resolved issue causing tournament data to fail during loading in development environment"
+      ]
+    },
+    {
+      "version": "0.4.413",
+      "date": "2026-02-21",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #302",
+      "description": "Full patch notes for Update v0.4.413 (#302), detailing all changes made on 21 February, 2026.",
+      "added": [
+        "Implemented automatic fallback to patch version number when version_name is not defined in footer version display (static and development environments)"
+      ],
+      "changed": [
+        "Project statistics refreshed with latest metrics",
+        "Cloudflare traffic analytics data updated",
+        "Main and legacy GSC export datasets updated",
+        "GSC index data refreshed",
+        "Game build metadata updated",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Updated .gitignore to reflect new testing tools directory structure"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Resolved footer version display issue when version_name field was empty"
+      ]
+    },
+    {
       "version": "0.4.402",
       "date": "2026-02-20",
       "author": "HEAT Labs Team",
