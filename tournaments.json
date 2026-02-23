@@ -13,6 +13,9 @@
         "image": "https://cdn13.heatlabs.net/tournaments/OAT1/Tournament_announcement-1.webp",
         "tournament-id": "OAT1",
         "tournament-data": "https://cdn2.heatlabs.net/tournaments/OAT1.json",
+        "tournament-brackets": {
+            "winner": "https://cdn2.heatlabs.net/tournaments/brackets/OAT1-bracket-winners.json"
+        },
         "tournament-views": "https://pcwstats-pixel-api.vercel.app/api/stats?image=pcwstats-tracker-pixel-open-alpha-2-tournament.png"
     },
     {
@@ -29,6 +32,10 @@
         "image": "https://cdn13.heatlabs.net/tournaments/OAT2/Tournament_announcement-2.webp",
         "tournament-id": "OAT2",
         "tournament-data": "https://cdn2.heatlabs.net/tournaments/OAT2.json",
+        "tournament-brackets": {
+            "winner": "https://cdn2.heatlabs.net/tournaments/brackets/OAT2-bracket-winners.json",
+            "loser": "https://cdn2.heatlabs.net/tournaments/brackets/OAT2-bracket-losers.json"
+        },
         "tournament-views": "https://pcwstats-pixel-api.vercel.app/api/stats?image=pcwstats-tracker-pixel-open-alpha-2-tournament.png"
     }
 ]
