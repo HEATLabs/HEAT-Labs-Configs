@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 280,
+    "total_pages": 281,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-02-18T04:15:13.820706"
+    "export_timestamp": "2026-02-25T02:00:36.327889"
   },
   "pages": [
     {
@@ -1408,14 +1408,14 @@
     {
       "url": "https://heatlabs.net/news/new-agents-1",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
       "url": "https://heatlabs.net/news/new-agents-2",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1532,16 +1532,16 @@
       "breadcrumb_status": "VALID"
     },
     {
-      "url": "https://heatlabs.net/playground/alpha-3-playtest",
+      "url": "https://heatlabs.net/playground/configurator",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/playground/configurator",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
+      "url": "https://heatlabs.net/playground/countdown",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1903,6 +1903,13 @@
       "breadcrumb_status": "VALID"
     },
     {
+      "url": "https://heatlabs.net/tournaments/brackets",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/tournaments/open-alpha-1-tournament",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -1968,22 +1975,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 88,
+      "pending": 90,
       "not_indexed": 0,
-      "indexed": 190
+      "indexed": 189
     },
     "google_api_status": {
       "pending": 68,
       "not_indexed": 0,
-      "indexed": 210
+      "indexed": 211
     },
     "https_page_status": {
-      "unknown": 246,
+      "unknown": 247,
       "not_https": 0,
       "https": 32
     },
     "breadcrumb_status": {
-      "unknown": 246,
+      "unknown": 247,
       "invalid": 0,
       "valid": 32
     }
