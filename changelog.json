@@ -1,6 +1,87 @@
 {
   "updates": [
     {
+      "version": "0.4.472",
+      "date": "2026-02-24",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #305",
+      "description": "Full patch notes for Update v0.4.472 (#305), detailing all changes made on 25 February, 2026.",
+      "added": [
+        "New WIP Brackets page published on both main and development websites",
+        "Dedicated CSS and JavaScript assets introduced for the WIP Brackets page",
+        "Tracking pixel integration added for the Countdown page",
+        "Forfeit flag field added to all tournament bracket match entries"
+      ],
+      "changed": [
+        "Global last modified and last update dates synchronized to 25 February, 2026 across all services, subdomains, CDN groups, and applications",
+        "Bracket match data updated with corrected Best-of counters across all entries",
+        "OAT2 winner and loser bracket descriptions refined for improved clarity",
+        "Countdown page prediction date updated across UI, metadata, and structured data",
+        "Countdown page filenames refactored and corresponding CDN static references updated",
+        "Search keyword index updated and refined, including improvements to the Countdown page entry",
+        "Sitemap updated to include the new WIP Brackets page and revised Countdown entry",
+        "Playground page card label updated to reflect the new Countdown naming",
+        "Dev-only page generator tool logic aligned with current site-data structure"
+      ],
+      "removed": [
+        "Prefetch tag removed from the WIP Brackets page",
+        "Built-in connection lines removed from the WIP Brackets implementation"
+      ],
+      "fixed": [
+        "Corrected a malformed search keyword index entry",
+        "Resolved inconsistencies in bracket data caused by missing forfeit flags",
+        "Fixed incorrect meta tag configurations on the WIP Brackets page",
+        "Improved bracket interaction logic to prevent unintended movement of non-bracket elements"
+      ]
+    },
+    {
+      "version": "0.4.453",
+      "date": "2026-02-23",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #304",
+      "description": "Full patch notes for Update v0.4.453 (#304), detailing all changes made on 23 February, 2026.",
+      "added": [
+        "Dedicated Brackets page introduced (development version with full local support)",
+        "Dynamic match details modal added to the Brackets page",
+        "Tournament selection dropdown implemented for bracket navigation",
+        "Dedicated bracket buttons added to tournament pages",
+        "URL parameter support enabled for bracket routing",
+        "Tracking pixel support added for the new Brackets page",
+        "OAT1 test bracket data added",
+        "1 new meme image added",
+        "4 new matcha-themed images added"
+      ],
+      "changed": [
+        "Bracket data fully restructured for OAT1 and OAT2 tournaments",
+        "OAT2 bracket data split into dedicated Winners and Losers bracket files",
+        "All bracket files moved to a dedicated directory structure",
+        "Bracket match data updated with missing details and placeholder description fields",
+        "Match statuses updated across all tournament brackets",
+        "Bracket round counts and bracket types refined for improved accuracy",
+        "Bracket page layout and rendering logic significantly improved",
+        "Brackets HTML, CSS, and JS files renamed and standardized",
+        "Brackets page optimized by stripping unused code and refining structure",
+        "Full-screen CSS support implemented for Brackets page",
+        "Tournament URL parameters refined for consistency",
+        "Project statistics, GSC index data, GSC export data (main & legacy), and Cloudflare traffic data updated",
+        "Meme index updated",
+        "Tracking pixel index updated",
+        "Changelog and daily commit log updated"
+      ],
+      "removed": [
+        "Unused bracket placeholder modules across tournament pages",
+        "Deprecated bracket module integrations from tournament pages",
+        "Unused VideoList schema from Brackets page",
+        "Redundant CSS classes and unused theme toggle styles",
+        "Obsolete meta tags and experimental connection-line fixes in development environment"
+      ],
+      "fixed": [
+        "Corrected multiple bracket data path inconsistencies",
+        "Resolved rendering inconsistencies in development Brackets page",
+        "Fixed tournament index path references in development environment"
+      ]
+    },
+    {
       "version": "0.4.421",
       "date": "2026-02-22",
       "author": "HEAT Labs Team",
