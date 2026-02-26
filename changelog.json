@@ -1,6 +1,51 @@
 {
   "updates": [
     {
+      "version": "0.4.502",
+      "date": "2026-02-25",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #306",
+      "description": "Full patch notes for Update v0.4.502 (#306), detailing all changes made on 25 February, 2026.",
+      "added": [
+        "New no-logo placeholder asset introduced for tournament teams",
+        "Image fields added to all teams within tournament bracket data",
+        "Brackets viewer library deployed to the main statics CDN",
+        "Grid background added to the brackets page for improved visual structure",
+        "Dedicated maintenance checker integrated into brackets page logic (development)",
+        "Team logos are now displayed directly within the brackets interface"
+      ],
+      "changed": [
+        "Project statistics updated",
+        "Main and legacy GSC export datasets refreshed",
+        "GSC index data updated",
+        "Cloudflare traffic analytics data updated",
+        "Page data files updated",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Tournament participant JSON formatting standardized for consistency",
+        "Final match structure refined in OAT2 winners bracket data",
+        "Team logos updated for select tournament entries",
+        "Brackets page CSS and JS improvements synced from development to production",
+        "Zoom behavior reworked for smoother interaction on the brackets page",
+        "Drag boundaries and movement logic refined for improved usability",
+        "General styling adjustments applied to the brackets page for a cleaner layout"
+      ],
+      "removed": [
+        "Unused PNG no-logo placeholder asset",
+        "Unused imports and redundant CSS classes from the brackets page",
+        "Transform origin property removed from brackets page styling",
+        "Match labels disabled in brackets view for a cleaner presentation"
+      ],
+      "fixed": [
+        "Corrected tracking pixel path across all tournament index files",
+        "Fixed incorrect tournament index file reference in brackets page",
+        "Resolved incorrect tournament data paths within brackets page logic",
+        "Fixed social share image metadata on multiple main and development pages, including brackets",
+        "Resolved drag issues when moving brackets over elements or outside the browser window",
+        "Fixed dropdown menu display issue in light mode on brackets page"
+      ]
+    },
+    {
       "version": "0.4.472",
       "date": "2026-02-24",
       "author": "HEAT Labs Team",
