@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 281,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-02-25T02:00:36.327889"
+    "export_timestamp": "2026-02-27T12:20:14.424369"
   },
   "pages": [
     {
@@ -1541,7 +1541,7 @@
     {
       "url": "https://heatlabs.net/playground/countdown",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1980,9 +1980,9 @@
       "indexed": 189
     },
     "google_api_status": {
-      "pending": 68,
+      "pending": 67,
       "not_indexed": 0,
-      "indexed": 211
+      "indexed": 212
     },
     "https_page_status": {
       "unknown": 247,
