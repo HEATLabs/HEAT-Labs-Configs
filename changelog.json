@@ -1,6 +1,71 @@
 {
   "updates": [
     {
+      "version": "0.4.574",
+      "date": "2026-03-03",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #312",
+      "description": "Full patch notes for Update v0.4.574 (#312), detailing all changes made on 03 March, 2026.",
+      "added": [
+        "New Bug Hunters blog post published on both main and development websites",
+        "One new meme image added to the HEAT Labs image library",
+        "Multiple new blog post images added, including required thumbnails and previously missing assets",
+        "Wargaming team logo added to the tournament assets",
+        "Tracking pixel integration added for the newly published blog post"
+      ],
+      "changed": [
+        "Tournament configuration updated with new bracket slug",
+        "Tournament bracket updated to include the latest team logo",
+        "Bracket hover color adjusted for improved visual feedback (development environment)",
+        "Bracket match formatting refined for better readability",
+        "Latest Bug Hunting blog post updated with additional event dates",
+        "Latest blog post wording refined for clarity and consistency",
+        "Latest blog post images migrated to CDN-based paths for improved delivery",
+        "Blog card thumbnail updated for the newest post",
+        "Missing blog card description added for the latest entry",
+        "Sitemap updated to register the newly published blog post",
+        "Search keyword index updated to include the new blog page",
+        "Tracking pixel index updated for the new blog page",
+        "Project statistics refreshed",
+        "Page data files updated",
+        "GSC index data updated",
+        "Main and legacy GSC export data refreshed",
+        "Cloudflare traffic data updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Resolved missing blog post images and thumbnail inconsistencies",
+        "Corrected minor formatting inconsistencies within tournament brackets"
+      ]
+    },
+    {
+      "version": "0.4.549",
+      "date": "2026-03-02",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #311",
+      "description": "Full patch notes for Update v0.4.549 (#311), detailing all changes made on 02 March, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Project statistics refreshed with the latest aggregated data",
+        "Cloudflare traffic analytics updated",
+        "Google Search Console index data synchronized",
+        "Main GSC export dataset updated",
+        "Legacy GSC export dataset updated",
+        "Changelog updated to reflect recent activity",
+        "Daily commit log updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.4.539",
       "date": "2026-03-01",
       "author": "HEAT Labs Team",
