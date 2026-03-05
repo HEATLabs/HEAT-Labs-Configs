@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 282,
+    "total_pages": 283,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-03-03T05:32:07.084942"
+    "export_timestamp": "2026-03-05T18:49:24.216138"
   },
   "pages": [
     {
@@ -1679,6 +1679,13 @@
       "breadcrumb_status": "VALID"
     },
     {
+      "url": "https://heatlabs.net/steam-news/human-machine-synergy",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/steam-news/join-the-lodestar-program",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -1982,22 +1989,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 91,
+      "pending": 92,
       "not_indexed": 0,
       "indexed": 189
     },
     "google_api_status": {
-      "pending": 68,
+      "pending": 69,
       "not_indexed": 0,
       "indexed": 212
     },
     "https_page_status": {
-      "unknown": 248,
+      "unknown": 249,
       "not_https": 0,
       "https": 32
     },
     "breadcrumb_status": {
-      "unknown": 248,
+      "unknown": 249,
       "invalid": 0,
       "valid": 32
     }
