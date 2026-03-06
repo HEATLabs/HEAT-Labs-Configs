@@ -1,44 +1,4 @@
 {
-  "2025-12-04": {
-    "breadcrumbs": {
-      "invalid": 0,
-      "valid": 25
-    },
-    "coverage": {
-      "not_indexed": "N/A",
-      "indexed": "N/A",
-      "impressions": 32
-    },
-    "https": {
-      "non_https_urls": 0,
-      "https_urls": 26
-    },
-    "video_indexing": {
-      "no_video_indexed": 24,
-      "video_indexed": 1,
-      "impressions": 0
-    }
-  },
-  "2025-12-05": {
-    "breadcrumbs": {
-      "invalid": 0,
-      "valid": 25
-    },
-    "coverage": {
-      "not_indexed": "N/A",
-      "indexed": "N/A",
-      "impressions": 29
-    },
-    "https": {
-      "non_https_urls": 0,
-      "https_urls": 25
-    },
-    "video_indexing": {
-      "no_video_indexed": 23,
-      "video_indexed": 1,
-      "impressions": 0
-    }
-  },
   "2025-12-06": {
     "breadcrumbs": {
       "invalid": 0,
@@ -54,8 +14,8 @@
       "https_urls": 25
     },
     "video_indexing": {
-      "no_video_indexed": 23,
-      "video_indexed": 1,
+      "no_video_indexed": "N/A",
+      "video_indexed": "N/A",
       "impressions": 0
     }
   },
@@ -74,8 +34,8 @@
       "https_urls": 25
     },
     "video_indexing": {
-      "no_video_indexed": 23,
-      "video_indexed": 1,
+      "no_video_indexed": "N/A",
+      "video_indexed": "N/A",
       "impressions": 0
     }
   },
@@ -1781,8 +1741,8 @@
   },
   "2026-03-03": {
     "breadcrumbs": {
-      "invalid": "N/A",
-      "valid": "N/A"
+      "invalid": 0,
+      "valid": 34
     },
     "coverage": {
       "not_indexed": "N/A",
@@ -1800,6 +1760,26 @@
     }
   },
   "2026-03-04": {
+    "breadcrumbs": {
+      "invalid": 0,
+      "valid": 35
+    },
+    "coverage": {
+      "not_indexed": "N/A",
+      "indexed": "N/A",
+      "impressions": "N/A"
+    },
+    "https": {
+      "non_https_urls": 0,
+      "https_urls": 35
+    },
+    "video_indexing": {
+      "no_video_indexed": "N/A",
+      "video_indexed": "N/A",
+      "impressions": "N/A"
+    }
+  },
+  "2026-03-05": {
     "breadcrumbs": {
       "invalid": "N/A",
       "valid": "N/A"
