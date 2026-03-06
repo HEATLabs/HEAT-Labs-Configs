@@ -1,6 +1,61 @@
 {
   "updates": [
     {
+      "version": "0.4.599",
+      "date": "2026-03-05",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #314",
+      "description": "Full patch notes for Update v0.4.599 (#314), detailing all changes made on 05 March, 2026.",
+      "added": [
+        "New Steam news post published on the main website",
+        "Corresponding Steam news post added to the development website",
+        "New tracking pixel created for the latest Steam news article",
+        "Two new meme images added to the HEAT Labs image library",
+        "New image asset added for the latest Steam news post"
+      ],
+      "changed": [
+        "Meme index updated to include newly added images",
+        "Page data files updated to register the new Steam news article",
+        "Search keyword index expanded with the latest Steam news page",
+        "Tracking pixel index updated to include the new article",
+        "Sitemap files refreshed to include the newly published news page"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected an incorrect image path affecting one news card on the development website"
+      ]
+    },
+    {
+      "version": "0.4.587",
+      "date": "2026-03-04",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #313",
+      "description": "Full patch notes for Update v0.4.587 (#313), detailing all changes made on 04 March, 2026.",
+      "added": [
+        "One new meme image added to the HEAT Labs media library",
+        "Three new global hero background images added to the features image collection"
+      ],
+      "changed": [
+        "Global hero image rotation pool expanded to 66 images across static and development environments",
+        "Meme index updated to include the newly added image",
+        "Project statistics refreshed",
+        "Managers index file updated",
+        "Cloudflare traffic analytics data updated",
+        "Google Search Console index data refreshed",
+        "Main and legacy GSC export datasets updated",
+        "Changelog updated",
+        "Daily commit log updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.4.574",
       "date": "2026-03-03",
       "author": "HEAT Labs Team",
