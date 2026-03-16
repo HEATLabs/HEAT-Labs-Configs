@@ -1,4 +1,56 @@
 {
+  "2026-03-12": [
+    "[HEAT-Labs-Static] Added DVD page easter egg files",
+    "[HEAT-Labs-Website] Created new DVD easter egg",
+    "[HEAT-Labs-Website-Development] Created new DVD easter-egg"
+  ],
+  "2026-03-11": [
+    "[HEAT-Labs-Database] Added missing WG logo in OAT1 bracket"
+  ],
+  "2026-03-10": [
+    "[HEAT-Labs-Database] Added OAT1 winner connector data",
+    "[HEAT-Labs-Database] Added OAT2 losers connector data",
+    "[HEAT-Labs-Database] Added OAT2 winners connector data",
+    "[HEAT-Labs-Static] Tweaked loser name color in bracket",
+    "[HEAT-Labs-Static] Updated bracket CSS to match dev",
+    "[HEAT-Labs-Static] Updated bracket logic to match dev",
+    "[HEAT-Labs-Website] Removed wip modal from bracket buttons",
+    "[HEAT-Labs-Website-Development] Tweaked loser name color in bracket",
+    "[HEAT-Labs-Website-Development] Fixed custom bracket line rendering",
+    "[HEAT-Labs-Website-Development] Revised bracket line logic",
+    "[HEAT-Labs-Website-Development] Added first iteration of custom bracket lines"
+  ],
+  "2026-03-09": [
+    "[HEAT-Labs-Website-Development] Fixed video list schema on video showcase"
+  ],
+  "2026-03-08": [
+    "[HEAT-Labs-Images] added 3 new meme images",
+    "[HEAT-Labs-Static] Added missing bracket styling",
+    "[HEAT-Labs-Website] Updated OAT1 interesting facts",
+    "[HEAT-Labs-Website-Development] Fixed parent issue on tournament embed page",
+    "[HEAT-Labs-Website-Development] Updated OAT1 interesting facts"
+  ],
+  "2026-03-07": [
+    "[HEAT-Labs-Images] fixed incorrect logo segment file",
+    "[HEAT-Labs-Images] updated 1 matcha video"
+  ],
+  "2026-03-06": [
+    "[HEAT-Labs-Configs] updated meme index with 2 new meme images",
+    "[HEAT-Labs-Configs] updated meme index with 3 new images",
+    "[HEAT-Labs-Configs] updated project statistics",
+    "[HEAT-Labs-Configs] updated changelog",
+    "[HEAT-Labs-Configs] updated daily commit log",
+    "[HEAT-Labs-Configs] updated GSC index data",
+    "[HEAT-Labs-Configs] updated main GSC export data",
+    "[HEAT-Labs-Configs] updated legacy GSC export data",
+    "[HEAT-Labs-Configs] updated cloudflare traffic data",
+    "[HEAT-Labs-Images] added 3 new meme images",
+    "[HEAT-Labs-Images] added 3 new meme images",
+    "[HEAT-Labs-Static] refactored meme gallery logic to fix loading issues",
+    "[HEAT-Labs-Website] tweaked names in 2 steam news articles in main website",
+    "[HEAT-Labs-Website-Development] refactored meme gallery logic to fix loading issues",
+    "[HEAT-Labs-Website-Development] tweaked names in 2 steam news articles in dev website"
+  ],
   "2026-03-05": [
     "[HEAT-Labs-Configs] updated meme index file with 2 new images",
     "[HEAT-Labs-Configs] updated page data files with 1 new steam news post",
