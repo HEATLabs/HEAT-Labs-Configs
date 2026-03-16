@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 283,
+    "total_pages": 284,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-03-16T13:13:11.292553"
+    "export_timestamp": "2026-03-16T14:06:48.953712"
   },
   "pages": [
     {
@@ -1658,6 +1658,13 @@
       "breadcrumb_status": "VALID"
     },
     {
+      "url": "https://heatlabs.net/steam-news/announcing-the-heat-creators-contest",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/steam-news/announcing-world-of-tanks-heat",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -1989,22 +1996,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 92,
+      "pending": 93,
       "not_indexed": 0,
       "indexed": 189
     },
     "google_api_status": {
-      "pending": 66,
+      "pending": 67,
       "not_indexed": 0,
       "indexed": 215
     },
     "https_page_status": {
-      "unknown": 249,
+      "unknown": 250,
       "not_https": 0,
       "https": 32
     },
     "breadcrumb_status": {
-      "unknown": 249,
+      "unknown": 250,
       "invalid": 0,
       "valid": 32
     }
