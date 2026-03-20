@@ -1,6 +1,211 @@
 {
   "updates": [
     {
+      "version": "0.4.654",
+      "date": "2026-03-15",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #324",
+      "description": "Full patch notes for Update v0.4.654 (#324), detailing all changes made on 15 March, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.650",
+      "date": "2026-03-14",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #323",
+      "description": "Full patch notes for Update v0.4.650 (#323), detailing all changes made on 14 March, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.646",
+      "date": "2026-03-13",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #322",
+      "description": "Full patch notes for Update v0.4.646 (#322), detailing all changes made on 13 March, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.642",
+      "date": "2026-03-12",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #321",
+      "description": "Full patch notes for Update v0.4.642 (#321), detailing all changes made on 12 March, 2026.",
+      "added": [
+        "New DVD-themed Easter Egg added across the main website and development environment",
+        "Supporting files for the DVD Easter Egg published to the Static resources page"
+      ],
+      "changed": [
+        "Website and development environment updated to include DVD Easter Egg content"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "No fixes were required in this update"
+      ]
+    },
+    {
+      "version": "0.4.637",
+      "date": "2026-03-11",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #320",
+      "description": "Full patch notes for Update v0.4.637 (#320), detailing all changes made on 11 March, 2026.",
+      "added": [
+        "Added missing WG logo in OAT1 bracket"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.633",
+      "date": "2026-03-10",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #319",
+      "description": "Full patch notes for Update v0.4.633 (#319), detailing all changes made on 10 March, 2026.",
+      "added": [
+        "OAT1 winner connector data added to the database",
+        "OAT2 winners and losers connector data added to the database",
+        "Initial implementation of custom bracket lines in development environment"
+      ],
+      "changed": [
+        "Bracket CSS updated to match development styling",
+        "Bracket logic revised to reflect latest dev environment behavior",
+        "Loser name color in brackets adjusted for clarity in both static and development websites"
+      ],
+      "removed": [
+        "WIP modal removed from bracket buttons on the main website"
+      ],
+      "fixed": [
+        "Custom bracket line rendering fixed in development environment",
+        "Bracket line logic revised to ensure accurate display of connections"
+      ]
+    },
+    {
+      "version": "0.4.624",
+      "date": "2026-03-09",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #318",
+      "description": "Full patch notes for Update v0.4.624 (#318), detailing all changes made on 09 March, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Fixed video list schema on video showcase"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.620",
+      "date": "2026-03-08",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #317",
+      "description": "Full patch notes for Update v0.4.620 (#317), detailing all changes made on 08 March, 2026.",
+      "added": [
+        "Three new meme images added to the HEAT Labs Images library"
+      ],
+      "changed": [
+        "Updated OAT1 interesting facts on both main and development websites"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected missing bracket styling in static content",
+        "Resolved parent reference issue on tournament embed page in the development website"
+      ]
+    },
+    {
+      "version": "0.4.615",
+      "date": "2026-03-07",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #316",
+      "description": "Full patch notes for Update v0.4.615 (#316), detailing all changes made on 07 March, 2026.",
+      "added": [
+        "1 new matcha video added to the Images repository"
+      ],
+      "changed": [
+        "Updated video content and associated metadata for better display in the Images library"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected an incorrect logo segment file in the Images repository"
+      ]
+    },
+    {
+      "version": "0.4.611",
+      "date": "2026-03-06",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #315",
+      "description": "Full patch notes for Update v0.4.611 (#315), detailing all changes made on 06 March, 2026.",
+      "added": [
+        "Six new meme images added to the HEAT Labs meme library"
+      ],
+      "changed": [
+        "Meme index updated to include newly added images",
+        "Project statistics refreshed with the latest repository data",
+        "Changelog updated with recent system changes",
+        "Daily commit log updated",
+        "Google Search Console index data updated",
+        "Main GSC export dataset refreshed",
+        "Legacy GSC export dataset refreshed",
+        "Cloudflare traffic analytics data updated",
+        "Minor name corrections applied to two Steam news articles on both the main and development websites"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Refactored meme gallery loading logic to resolve display and loading issues across the main and development websites"
+      ]
+    },
+    {
       "version": "0.4.599",
       "date": "2026-03-05",
       "author": "HEAT Labs Team",

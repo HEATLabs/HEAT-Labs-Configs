@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 283,
+    "total_pages": 284,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-03-05T18:49:24.216138"
+    "export_timestamp": "2026-03-16T14:06:48.953712"
   },
   "pages": [
     {
@@ -239,7 +239,7 @@
     {
       "url": "https://heatlabs.net/announcements/winter-wargames-tournament-1",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1506,7 +1506,7 @@
     {
       "url": "https://heatlabs.net/news/update-recap",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1658,6 +1658,13 @@
       "breadcrumb_status": "VALID"
     },
     {
+      "url": "https://heatlabs.net/steam-news/announcing-the-heat-creators-contest",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/steam-news/announcing-world-of-tanks-heat",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -1681,7 +1688,7 @@
     {
       "url": "https://heatlabs.net/steam-news/human-machine-synergy",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1989,22 +1996,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 92,
+      "pending": 93,
       "not_indexed": 0,
       "indexed": 189
     },
     "google_api_status": {
-      "pending": 69,
+      "pending": 67,
       "not_indexed": 0,
-      "indexed": 212
+      "indexed": 215
     },
     "https_page_status": {
-      "unknown": 249,
+      "unknown": 250,
       "not_https": 0,
       "https": 32
     },
     "breadcrumb_status": {
-      "unknown": 249,
+      "unknown": 250,
       "invalid": 0,
       "valid": 32
     }

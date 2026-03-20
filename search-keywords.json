@@ -54,6 +54,12 @@
     "keywords": ["tournaments", "tournament", "competitive", "esports", "events", "matches"]
   },
   {
+    "name": "Tournament Brackets",
+    "description": "Complete tournament brackets",
+    "path": "https://heatlabs.net/tournaments/brackets",
+    "keywords": ["tournaments", "brackets", "matches"]
+  },
+  {
     "name": "Game News",
     "description": "Latest news and announcements from Project CW developers",
     "path": "https://heatlabs.net/news",
@@ -1192,6 +1198,12 @@
     "description": "Agent skills meet vehicle mastery in our latest video.",
     "path": "https://heatlabs.net/steam-news/human-machine-synergy",
     "keywords": ["deep-dive", "introduction"]
+  },
+  {
+    "name": "Announcing the HEAT Creators Contest",
+    "description": "Your Content. Your Signal. #HEATCreators Contest Begins March 13",
+    "path": "https://heatlabs.net/steam-news/announcing-the-heat-creators-contest",
+    "keywords": ["contest", "creator", "prizes"]
   },
   {
     "name": "Alpha 1 Announcement 1",
