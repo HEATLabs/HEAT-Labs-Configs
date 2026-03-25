@@ -1585,6 +1585,34 @@
                     "image": "https://cdn9.heatlabs.net/asset-gallery/tank-classes/support_5.webp",
                     "name": "Support #5",
                     "description": "In-game icon used for the Support Class"
+                },
+                {
+                    "id": "Class-0021",
+                    "modalType": "standard",
+                    "image": "https://cdn9.heatlabs.net/asset-gallery/tank-classes/defender_1.webp",
+                    "name": "Defender #1",
+                    "description": "In-game icon used for the Defender Class"
+                },
+                {
+                    "id": "Class-0022",
+                    "modalType": "standard",
+                    "image": "https://cdn9.heatlabs.net/asset-gallery/tank-classes/defender_2.webp",
+                    "name": "Defender #2",
+                    "description": "In-game icon used for the Defender Class"
+                },
+                {
+                    "id": "Class-0023",
+                    "modalType": "standard",
+                    "image": "https://cdn9.heatlabs.net/asset-gallery/tank-classes/defender_3.webp",
+                    "name": "Defender #3",
+                    "description": "In-game icon used for the Defender Class"
+                },
+                {
+                    "id": "Class-0024",
+                    "modalType": "standard",
+                    "image": "https://cdn9.heatlabs.net/asset-gallery/tank-classes/defender_4.webp",
+                    "name": "Defender #4",
+                    "description": "In-game icon used for the Defender Class"
                 }
             ]
         },
