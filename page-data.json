@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 284,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-03-16T14:06:48.953712"
+    "export_timestamp": "2026-04-07T00:02:01.968333"
   },
   "pages": [
     {
@@ -442,7 +442,7 @@
     {
       "url": "https://heatlabs.net/blog/heatlabs-on-android",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -589,7 +589,7 @@
     {
       "url": "https://heatlabs.net/blog/wishlist-heatlabs-on-steam",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1240,7 +1240,7 @@
     {
       "url": "https://heatlabs.net/news/blossom-crash-concept-art-2",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -2001,9 +2001,9 @@
       "indexed": 189
     },
     "google_api_status": {
-      "pending": 67,
+      "pending": 64,
       "not_indexed": 0,
-      "indexed": 215
+      "indexed": 218
     },
     "https_page_status": {
       "unknown": 250,
