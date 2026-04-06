@@ -1,4 +1,76 @@
 {
+  "2026-04-06": [
+    "[HEAT-Labs-Static] Updated tournament page error",
+    "[HEAT-Labs-Website] Updated tournaments page with new IDs",
+    "[HEAT-Labs-Website-Development] Updated tournament page error"
+  ],
+  "2026-03-26": [
+    "[HEAT-Labs-Discord-Bot] Merge pull request #2 from HEATLabs/dependabot/pip/bot-files/pip-aa7cb66ac2",
+    "[HEAT-Labs-Discord-Bot] Bump requests in /bot-files in the pip group across 1 directory"
+  ],
+  "2026-03-25": [
+    "[HEAT-Labs-Configs] Updated gallery with new icons",
+    "[HEAT-Labs-Images-Gallery] Added missing Defender class icons",
+    "[HEAT-Labs-Static] Updated countdown prediction",
+    "[HEAT-Labs-Website-Development] Updated countdown prediction"
+  ],
+  "2026-03-21": [
+    "[HEAT-Labs-Images] Create matcha_leo.png"
+  ],
+  "2026-03-20": [
+    "[HEAT-Labs-Configs] fixed typo in class field of 2 tanks in tanks index file",
+    "[HEAT-Labs-Configs] tweaked status field for 1 missing tank in tank index file",
+    "[HEAT-Labs-Configs] tweaked status field for all tanks in tank index file",
+    "[HEAT-Labs-Configs] Merge branch 'main' of https://github.com/HEATLabs/HEAT-Labs-Configs",
+    "[HEAT-Labs-Configs] Updated tanks list with new tank images",
+    "[HEAT-Labs-Images-Tanks] Added tank images from Creator Contest",
+    "[HEAT-Labs-Static] Updated tanks page css",
+    "[HEAT-Labs-Website] Fixed CSS imports on 1 tank page",
+    "[HEAT-Labs-Website] Fixed broken links on 2 new tank pages",
+    "[HEAT-Labs-Website] Added 2 new tank pages",
+    "[HEAT-Labs-Website-Development] Fixed URL for asset gallery",
+    "[HEAT-Labs-Website-Development] Updated tanks page CSS",
+    "[HEAT-Labs-Website-Development] Created M60A2 and Marder pages"
+  ],
+  "2026-03-19": [
+    "[HEAT-Labs-Configs] updated quotes index with 1 new quote text",
+    "[HEAT-Labs-Configs] updated meme index with 1 new meme image",
+    "[HEAT-Labs-Images] added 1 new meme image"
+  ],
+  "2026-03-17": [
+    "[HEAT-Labs-Configs] fixed typo in 2 meme image names",
+    "[HEAT-Labs-Configs] updated meme index with 1 new image",
+    "[HEAT-Labs-Configs] added WIP news post index file",
+    "[HEAT-Labs-Configs] added WIP blog post index file",
+    "[HEAT-Labs-Images] added 1 new meme image"
+  ],
+  "2026-03-16": [
+    "[HEAT-Labs-Configs] fixed incorrect path in brackets page entry in search keyword index",
+    "[HEAT-Labs-Configs] updated project statistics",
+    "[HEAT-Labs-Configs] added missing brackets page to search keyword index",
+    "[HEAT-Labs-Configs] updated page data files with 1 new steam news post",
+    "[HEAT-Labs-Configs] updated tracking pixel index with 1 new steam news post",
+    "[HEAT-Labs-Configs] updated search keyword index with 1 new steam news post",
+    "[HEAT-Labs-Configs] updated project statistics",
+    "[HEAT-Labs-Configs] updated changelog",
+    "[HEAT-Labs-Configs] updated daily commit log",
+    "[HEAT-Labs-Configs] updated meme index file with 7 new images",
+    "[HEAT-Labs-Configs] updated page data files",
+    "[HEAT-Labs-Configs] updated GSC index data",
+    "[HEAT-Labs-Configs] updated main GSC export data",
+    "[HEAT-Labs-Configs] updated legacy GSC export data",
+    "[HEAT-Labs-Configs] updated cloudflare traffic data",
+    "[HEAT-Labs-Images] added 5 new meme images",
+    "[HEAT-Labs-Images-News] added image for 1 new steam news post",
+    "[HEAT-Labs-Website] fixed incorrect paths for 2 news posts in sitemap news file",
+    "[HEAT-Labs-Website] updated sitemap files with 1 new steam news post",
+    "[HEAT-Labs-Website] added 1 new steam news post",
+    "[HEAT-Labs-Website] fixed typo in 1 steam news post",
+    "[HEAT-Labs-Website-Development] updated news card for latest steam news post to use dev URL instead of CDN for image",
+    "[HEAT-Labs-Website-Development] added 1 new steam news post",
+    "[HEAT-Labs-Website-Development] fixed typo in 1 steam news post",
+    "[ThatSINEWAVE/HEAT-Labs-Views-API] added tracking pixel image for new steam news post"
+  ],
   "2026-03-12": [
     "[HEAT-Labs-Static] Added DVD page easter egg files",
     "[HEAT-Labs-Website] Created new DVD easter egg",
