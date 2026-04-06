@@ -1,6 +1,457 @@
 {
   "updates": [
     {
+      "version": "0.4.775",
+      "date": "2026-04-06",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #346",
+      "description": "Full patch notes for Update v0.4.775 (#346), detailing all changes made on 06 April, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Tournament pages updated with newly structured and consistent ID mappings across the main website"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Resolved rendering and configuration issues affecting tournament pages across static and development environments"
+      ]
+    },
+    {
+      "version": "0.4.771",
+      "date": "2026-04-05",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #345",
+      "description": "Full patch notes for Update v0.4.771 (#345), detailing all changes made on 05 April, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.767",
+      "date": "2026-04-04",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #344",
+      "description": "Full patch notes for Update v0.4.767 (#344), detailing all changes made on 04 April, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.763",
+      "date": "2026-04-03",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #343",
+      "description": "Full patch notes for Update v0.4.763 (#343), detailing all changes made on 03 April, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.759",
+      "date": "2026-04-02",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #342",
+      "description": "Full patch notes for Update v0.4.759 (#342), detailing all changes made on 02 April, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.755",
+      "date": "2026-04-01",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #341",
+      "description": "Full patch notes for Update v0.4.755 (#341), detailing all changes made on 01 April, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.751",
+      "date": "2026-03-31",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #340",
+      "description": "Full patch notes for Update v0.4.751 (#340), detailing all changes made on 31 March, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.747",
+      "date": "2026-03-30",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #339",
+      "description": "Full patch notes for Update v0.4.747 (#339), detailing all changes made on 30 March, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.743",
+      "date": "2026-03-29",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #338",
+      "description": "Full patch notes for Update v0.4.743 (#338), detailing all changes made on 29 March, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.739",
+      "date": "2026-03-28",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #337",
+      "description": "Full patch notes for Update v0.4.739 (#337), detailing all changes made on 28 March, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.735",
+      "date": "2026-03-27",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #336",
+      "description": "Full patch notes for Update v0.4.735 (#336), detailing all changes made on 27 March, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.731",
+      "date": "2026-03-26",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #335",
+      "description": "Full patch notes for Update v0.4.731 (#335), detailing all changes made on 26 March, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Updated Discord Bot dependencies",
+        "Upgraded the 'requests' library to a newer version for improved stability and compatibility"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.726",
+      "date": "2026-03-25",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #334",
+      "description": "Full patch notes for Update v0.4.726 (#334), detailing all changes made on 25 March, 2026.",
+      "added": [
+        "Missing Defender class icons added to the gallery image set"
+      ],
+      "changed": [
+        "Gallery updated with new and improved icon assets",
+        "Countdown prediction adjusted across static assets",
+        "Development website countdown prediction brought in sync with latest updates"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.720",
+      "date": "2026-03-24",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #333",
+      "description": "Full patch notes for Update v0.4.720 (#333), detailing all changes made on 24 March, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.716",
+      "date": "2026-03-23",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #332",
+      "description": "Full patch notes for Update v0.4.716 (#332), detailing all changes made on 23 March, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.712",
+      "date": "2026-03-22",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #331",
+      "description": "Full patch notes for Update v0.4.712 (#331), detailing all changes made on 22 March, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.708",
+      "date": "2026-03-21",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #330",
+      "description": "Full patch notes for Update v0.4.708 (#330), detailing all changes made on 21 March, 2026.",
+      "added": [
+        "1 new meme"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.704",
+      "date": "2026-03-20",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #329",
+      "description": "Full patch notes for Update v0.4.704 (#329), detailing all changes made on 20 March, 2026.",
+      "added": [
+        "Two new tank pages introduced: M60A2 and Marder",
+        "New tank images added from the Creator Contest",
+        "Expanded tank image library integrated into the tanks index"
+      ],
+      "changed": [
+        "Tank index updated with improved status values across all entries",
+        "Adjusted classification and status data for greater accuracy in tank listings",
+        "Tanks page styling updated for improved layout and consistency",
+        "Development environment updated with matching tanks page styling improvements"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected typos in tank classification data",
+        "Resolved missing or incorrect status entries in the tank index",
+        "Fixed broken links affecting newly added tank pages",
+        "Corrected CSS import issues on specific tank pages",
+        "Resolved incorrect asset gallery URL in the development environment"
+      ]
+    },
+    {
+      "version": "0.4.691",
+      "date": "2026-03-19",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #328",
+      "description": "Full patch notes for Update v0.4.691 (#328), detailing all changes made on 19 March, 2026.",
+      "added": [
+        "New meme image added to the HEAT Labs image library"
+      ],
+      "changed": [
+        "Quotes index updated with a new entry",
+        "Meme index updated to include the latest image"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.686",
+      "date": "2026-03-18",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #327",
+      "description": "Full patch notes for Update v0.4.686 (#327), detailing all changes made on 18 March, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.682",
+      "date": "2026-03-17",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #326",
+      "description": "Full patch notes for Update v0.4.682 (#326), detailing all changes made on 17 March, 2026.",
+      "added": [
+        "New meme image added to the HEAT Labs Images library",
+        "Work-in-progress news post index file introduced",
+        "Work-in-progress blog post index file introduced"
+      ],
+      "changed": [
+        "Meme index updated to include the latest image"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected typos in two meme image filenames"
+      ]
+    },
+    {
+      "version": "0.4.676",
+      "date": "2026-03-16",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #325",
+      "description": "Full patch notes for Update v0.4.676 (#325), detailing all changes made on 16 March, 2026.",
+      "added": [
+        "New Steam news post published across main and development websites",
+        "Brackets page added to the search keyword index",
+        "New tracking pixel entry created for the latest Steam news post",
+        "New image asset added for the Steam news article",
+        "Additional meme images added to the platform (multiple new entries)"
+      ],
+      "changed": [
+        "Search keyword index updated with the latest Steam news content",
+        "Tracking pixel index updated to reflect new content",
+        "Page data files refreshed with new and updated entries",
+        "Sitemap files updated to include the latest news post",
+        "Project statistics recalculated and updated",
+        "Meme index file expanded with newly added images",
+        "Google Search Console (GSC) index data refreshed",
+        "Main and legacy GSC export datasets updated",
+        "Cloudflare traffic analytics data updated",
+        "Changelog updated",
+        "Daily commit log updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Resolved incorrect path issue for the brackets page in the search keyword index",
+        "Fixed incorrect sitemap paths affecting multiple news entries",
+        "Corrected minor typo in the latest Steam news post across environments",
+        "Adjusted development environment news card to correctly reference local image paths instead of CDN",
+        "General consistency fixes across indexing, tracking, and content references"
+      ]
+    },
+    {
       "version": "0.4.654",
       "date": "2026-03-15",
       "author": "HEAT Labs Team",
