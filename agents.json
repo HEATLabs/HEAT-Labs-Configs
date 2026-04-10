@@ -61,8 +61,8 @@
       "slug": "kent",
       "status": "Available Now",
       "image": "https://cdn7.heatlabs.net/agents/Kent-NewBG.webp",
-      "specialty": "Contracts",
-      "description": "Lock as many opponents as possible in the cone view, activate the ability, and watch as enemies get blasted by aerial strikes",
+      "specialty": "Contracted Strike",
+      "description": "Lock on to enemies in front of the vehicle for a missile strike. A short lock fires Hydra rockets, while an extended lock launches a homing Hellfire missile for much heavier damage.",
       "story": "A hitman that makes no target safe. Once he has intel on your location, you'll face ballistic strikes unless you move. A dapper, bright, and ambitious lad, Kent exudes confidence in spades. But don't be fooled by the charm, his promising career crashed after a major incident, whether his fault or not. Talented but tarnished, joining the Agents is his last shot at redemption. He's buried his past failures deep, but he's terrified they'll surface at any minute, so he's a bit of a show off with his peculiar skill: cursed with extraordinary luck, he knows who to hit and when.",
       "compatibleTanks": [
         {
@@ -84,8 +84,8 @@
       "slug": "hound",
       "status": "Available Now",
       "image": "https://cdn7.heatlabs.net/agents/Hound-NewBG.webp",
-      "specialty": "Hunter's Mark",
-      "description": "After activation, looking at any enemy tank will reveal the location of its critical modules to both Hound and his team. Aiming at any revealed critical zone and penetrating the tank is enough for hitting it while the Hunters Mark is on the opponent. Critical damage on a marked tank will extend the duration",
+      "specialty": "Hunting Time",
+      "description": "Launches a TV missile that destroys marked lower-HP enemies and Traces others. Each destruction recharges the Ultimate for a short time.",
       "story": "A hunter who spots enemy weak points and reveals them to the team. He grew up on a remote Arctic research outpost, honing his observational skills. His world was shattered at the age of 12, when a clandestine military unit kidnapped his parents and destroyed the station, launching Hound's lifelong pursuit of the perpetrators. This led him to black ops, where he moves like a ghost across the battlefield, trusting no one and suspecting everyone. He's a kind of a Cassandra character; no one believes his paranoia. But guess who will eventually be proven right!",
       "compatibleTanks": [
         {
@@ -107,8 +107,8 @@
       "slug": "reaper",
       "status": "Available Now",
       "image": "https://cdn7.heatlabs.net/agents/Reaper-NewBG.webp",
-      "specialty": "Execute",
-      "description": "Reaper can always sense weakness in his opponents and strike hard against it. Any opponent that has less than 420 HP left is killed immediately when Reaper manages to deal damage to the target vehicle. When you activate the ability, Reaper loads a clip of shells that can deal increased critical damage and execute opponents more easily. The clip is automatically reloaded when Reaper executes an opponent.",
+      "specialty": "Napalm in the Morning",
+      "description": "Calls in an F-4 Phantom and places a napalm strike from an aerial targeting view.",
       "story": "A bold fighter who excels at close range, striking swiftly to finish off wounded enemies. A quiet artist with ancient warrior blood, Reaper is a man of few words but deadly moves. He often ignores orders to follow his gut feelings, and somehow it's always the right call. He never rushes, moving with calm grace, like he already knows what's coming next. You'll rarely catch his eye, but when you do, he stares right through you with unnerving confidence. From quick sketches in his notebook to perfect shots at enemies, not a single movement is wasted.",
       "compatibleTanks": [
         {
@@ -176,8 +176,8 @@
       "slug": "raketa",
       "status": "Available Now",
       "image": "https://cdn7.heatlabs.net/agents/Raketa-NewBG.webp",
-      "specialty": "Scavenge",
-      "description": "When you destroy the enemy, you gain a token out of them and recover some health, this works as a passive ability. When the ability is available, you can activate it, and Raketa will load collected scrap, using a rapid-fire shotgun to destroy enemies even faster.",
+      "specialty": "Rampage",
+      "description": "Brings on a destructive rage, firing faster and surviving any hit with at least 1 HP.",
       "story": "A scavenger who uses enemy scrap to create deadly close-range weapons. He never shuts up, always cracking bad jokes and failing miserably at flirting with every woman in sight, but his real talent is turning random junk into deadly weapons. He lives for thrills and chaos, but stays ice-cold when things get rough. Don't be fooled by his jokes and games: he'll gladly sneak up on foes and stab them in the back, it's his specialty. He has done some nasty things in the past, all in the name of getting results, and he is not ashamed to admit it.",
       "compatibleTanks": [
         {
@@ -222,8 +222,8 @@
       "slug": "twister",
       "status": "Available Now",
       "image": "https://cdn7.heatlabs.net/agents/Twister-NewBG.webp",
-      "specialty": "Unknown Ability",
-      "description": "Unknown Ability Description",
+      "specialty": " Lights Out",
+      "description": "Deploys an EMP bomb via drone. Pulses Slow enemies before the final detonation Jams and damages them.",
       "story": "This agent is not yet available. Statistics, details, and player feedback will be added once it's officially released.",
       "compatibleTanks": [
         {
@@ -245,8 +245,8 @@
       "slug": "fuzzer",
       "status": "Available Now",
       "image": "https://cdn7.heatlabs.net/agents/Fuzzer-NewBG.webp",
-      "specialty": "Unknown Ability",
-      "description": "Unknown Ability Description",
+      "specialty": "Strike Laser",
+      "description": "Calls in an aircraft and takes control of its targeting camera to lock on to an enemy vehicle. The aircraft points a laser that emits damaging pulses.",
       "story": "This agent is not yet available. Statistics, details, and player feedback will be added once it's officially released.",
       "compatibleTanks": [
         {
