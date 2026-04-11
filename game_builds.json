@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21T12:48:12.665167",
+  "last_updated": "2026-04-11T14:45:48.601697",
   "builds": {
     "World of Tanks: HEAT": {
       "39c08ff0c694c4f5caefc19ad539385e93191f666e6f49a3902b66d74d24ca1c": {
@@ -151,6 +151,82 @@
                 "size_formatted": "554 B",
                 "unpacked_bytes": 478,
                 "unpacked_formatted": "478 B"
+              }
+            ]
+          }
+        ],
+        "delay_preload": false
+      },
+      "c803f19e4037331221b9c2b5fac39ad82399f67d9fd8d1de84fa1d260da8ea72": {
+        "build_info": {
+          "content_hash": "c803f19e4037331221b9c2b5fac39ad82399f67d9fd8d1de84fa1d260da8ea72",
+          "display_name": "World of Tanks: HEAT",
+          "build_date": "2026.04.10 09:35:36",
+          "version_name": "0.0.331.5974",
+          "compressed_size": "19.74 GB",
+          "uncompressed_size": "24.01 GB",
+          "file_count": 6
+        },
+        "web_seeds": [
+          {
+            "url": "http://patches-dms.wargaming.net/cw/cw.ltdemo.production/{secret}/patches/",
+            "threads": 4,
+            "protocol": ""
+          }
+        ],
+        "patches": [
+          {
+            "chain_type": "install",
+            "part": "client",
+            "version_to": "0.0.336.5974",
+            "files": [
+              {
+                "file_name": "0.0.336.5974/cw_0.0.336.5974_client.wgpkg.001",
+                "package": "cw_0.0.336.5974_client.wgpkg.001",
+                "size_bytes": 4194304000,
+                "size_formatted": "3.91 GB",
+                "unpacked_bytes": 25781686814,
+                "unpacked_formatted": "24.01 GB"
+              },
+              {
+                "file_name": "0.0.336.5974/cw_0.0.336.5974_client.wgpkg.002",
+                "package": "cw_0.0.336.5974_client.wgpkg.002",
+                "size_bytes": 4194304000,
+                "size_formatted": "3.91 GB",
+                "unpacked_bytes": 0,
+                "unpacked_formatted": "0 B"
+              },
+              {
+                "file_name": "0.0.336.5974/cw_0.0.336.5974_client.wgpkg.003",
+                "package": "cw_0.0.336.5974_client.wgpkg.003",
+                "size_bytes": 4194304000,
+                "size_formatted": "3.91 GB",
+                "unpacked_bytes": 0,
+                "unpacked_formatted": "0 B"
+              },
+              {
+                "file_name": "0.0.336.5974/cw_0.0.336.5974_client.wgpkg.004",
+                "package": "cw_0.0.336.5974_client.wgpkg.004",
+                "size_bytes": 4194304000,
+                "size_formatted": "3.91 GB",
+                "unpacked_bytes": 0,
+                "unpacked_formatted": "0 B"
+              },
+              {
+                "file_name": "0.0.336.5974/cw_0.0.336.5974_client.wgpkg.005",
+                "package": "cw_0.0.336.5974_client.wgpkg.005",
+                "size_bytes": 4194304000,
+                "size_formatted": "3.91 GB",
+                "unpacked_bytes": 0,
+                "unpacked_formatted": "0 B"
+              },
+              {
+                "file_name": "0.0.336.5974/cw_0.0.336.5974_client.wgpkg.006",
+                "package": "cw_0.0.336.5974_client.wgpkg.006",
+                "size_bytes": 228828987,
+                "size_formatted": "218.23 MB",
+                "unpacked_bytes": 0,
+                "unpacked_formatted": "0 B"
               }
             ]
           }
