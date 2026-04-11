@@ -1,22 +1,126 @@
 {
   "updates": [
     {
-      "version": "0.4.775",
-      "date": "2026-04-06",
+      "version": "0.4.819",
+      "date": "2026-04-10",
       "author": "HEAT Labs Team",
-      "title": "Update Number #346",
-      "description": "Full patch notes for Update v0.4.775 (#346), detailing all changes made on 06 April, 2026.",
+      "title": "Update Number #350",
+      "description": "Full patch notes for Update v0.4.819 (#350), detailing all changes made on 10 April, 2026.",
       "added": [
-        "Nothing was added in this update"
+        "Ability visuals added for HSTV-L",
+        "Ability visuals added for ALVT"
       ],
       "changed": [
-        "Tournament pages updated with newly structured and consistent ID mappings across the main website"
+        "Agent configurations updated with new abilities",
+        "Multiple tank abilities updated and refined in the database",
+        "Specific agent abilities revised for improved consistency and functionality",
+        "Development website updated with refreshed 'last updated' timestamps for several tanks"
       ],
       "removed": [
         "Nothing was removed in this update"
       ],
       "fixed": [
-        "Resolved rendering and configuration issues affecting tournament pages across static and development environments"
+        "Resolved missing or incorrect paths related to tank ability assets"
+      ]
+    },
+    {
+      "version": "0.4.811",
+      "date": "2026-04-09",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #349",
+      "description": "Full patch notes for Update v0.4.811 (#349), detailing all changes made on 09 April, 2026.",
+      "added": [
+        "New homepage button added to both main and development websites",
+        "Six new global hero images introduced across the platform",
+        "New Agent-related images added to the tanks and database systems",
+        "Additional meme content added, including new themed assets",
+        "New matcha-themed asset added to the image library"
+      ],
+      "changed": [
+        "Agent configuration updated to use new image assets",
+        "Agent database updated with latest data and visuals",
+        "Global hero module updated to use newly added image set across all environments",
+        "Tanks page updated to use a default filter configuration",
+        "Agent styling (CSS) refined for improved visual consistency",
+        "Maintenance page dates corrected for accuracy",
+        "Search and config structures refined, including missing tank type definitions",
+        "Development environment modules adjusted, including localhost handling"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Resolved path typo in agents configuration",
+        "Fixed incorrect Agent ID reference on the Twister page",
+        "Addressed modal flashing issue during maintenance mode",
+        "Improved stability of maintenance mode handling and redirects",
+        "Corrected inconsistencies caused during maintenance mode testing and reverts"
+      ]
+    },
+    {
+      "version": "0.4.792",
+      "date": "2026-04-08",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #348",
+      "description": "Full patch notes for Update v0.4.792 (#348), detailing all changes made on 08 April, 2026.",
+      "added": [
+        "Two new agent pages introduced on both the main and development websites"
+      ],
+      "changed": [
+        "Agents database updated with the latest information",
+        "Configuration files refined with corrected agent-related data"
+      ],
+      "removed": [
+        "Deprecated agent pages removed from both main and development environments"
+      ],
+      "fixed": [
+        "Resolved minor typos in agents configuration files"
+      ]
+    },
+    {
+      "version": "0.4.787",
+      "date": "2026-04-07",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #347",
+      "description": "Full patch notes for Update v0.4.787 (#347), detailing all changes made on 07 April, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.783",
+      "date": "2026-04-06",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #346",
+      "description": "Full patch notes for Update v0.4.783 (#346), detailing all changes made on 06 April, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Project statistics updated with the latest data",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Page data files refreshed",
+        "GSC index data updated",
+        "Main and legacy GSC export data refreshed",
+        "Cloudflare traffic analytics updated",
+        "Tournament pages updated with new ID structure",
+        "Tournament page handling improved across main and development environments"
+      ],
+      "removed": [
+        "AI warning removed from tank pages across both main and development websites"
+      ],
+      "fixed": [
+        "Resolved issues affecting tournament page errors in both production and development environments"
       ]
     },
     {
