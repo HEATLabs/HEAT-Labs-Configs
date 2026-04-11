@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "last_updated": "2026-04-06T23:49:06.367384",
+    "last_updated": "2026-04-11T14:43:35.490621",
     "total_records": 30,
     "date_range": {
       "start": "2025-12-01",
-      "end": "2026-04-05"
+      "end": "2026-04-10"
     },
-    "total_days": 126
+    "total_days": 131
   },
   "daily_data": [
     {
@@ -890,14 +890,49 @@
       "data_cached": 117902956,
       "total_requests": 16653,
       "unique_visitors": 1225
+    },
+    {
+      "date_iso": "2026-04-06",
+      "total_data_served": 394923471,
+      "data_cached": 139713141,
+      "total_requests": 25995,
+      "unique_visitors": 1180
+    },
+    {
+      "date_iso": "2026-04-07",
+      "total_data_served": 315739253,
+      "data_cached": 107768669,
+      "total_requests": 16872,
+      "unique_visitors": 1324
+    },
+    {
+      "date_iso": "2026-04-08",
+      "total_data_served": 380181255,
+      "data_cached": 140573752,
+      "total_requests": 23185,
+      "unique_visitors": 1304
+    },
+    {
+      "date_iso": "2026-04-09",
+      "total_data_served": 725263218,
+      "data_cached": 304709604,
+      "total_requests": 33493,
+      "unique_visitors": 1471
+    },
+    {
+      "date_iso": "2026-04-10",
+      "total_data_served": 708413852,
+      "data_cached": 234244714,
+      "total_requests": 32899,
+      "unique_visitors": 1642
     }
   ],
   "totals": {
     "all_time": {
-      "data_served_gb": 47.46,
-      "data_cached_gb": 17.96,
-      "total_requests": 2206665,
-      "total_visitors": 161088
+      "data_served_gb": 49.99,
+      "data_cached_gb": 18.88,
+      "total_requests": 2339109,
+      "total_visitors": 168009
     },
     "monthly": {
       "2025-12": {
@@ -925,10 +960,10 @@
         "visitors": 44031
       },
       "2026-04": {
-        "data_served_gb": 1.69,
-        "data_cached_gb": 0.66,
-        "requests": 87099,
-        "visitors": 6561
+        "data_served_gb": 4.21,
+        "data_cached_gb": 1.58,
+        "requests": 219543,
+        "visitors": 13482
       }
     }
   }
