@@ -1768,5 +1768,17 @@
     "description": "Learn everything about Akira",
     "path": "https://heatlabs.net/agents/akira",
     "keywords": ["akira"]
+  },
+  {
+    "name": "Twister",
+    "description": "Learn everything about Twister",
+    "path": "https://heatlabs.net/agents/twister",
+    "keywords": ["twister"]
+  },
+  {
+    "name": "Fuzzer",
+    "description": "Learn everything about Fuzzer",
+    "path": "https://heatlabs.net/agents/fuzzer",
+    "keywords": ["fuzzer"]
   }
 ]
