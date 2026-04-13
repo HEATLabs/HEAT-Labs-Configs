@@ -9,6 +9,8 @@
       "image": "https://cdn7.heatlabs.net/agents/Blitz.webp",
       "specialty": "EMP Rakete",
       "description": "Launches a slow-moving rocket system that can be controlled like any other guided missile. When the missile confronts any object, it will slow down and jam nearby opponents. The rocket deals electrical damage as it moves and after coming into contact with an obstacle will detonate with a short delay, or it can be manually triggered.",
+      "trait": "Unknown Trait",
+      "trait_description": "Trait Description Unavailable",
       "story": "A tech expert who jams enemy electronics and strikes hard from a distance. A tech-obsessed rule follower, Blitz would rather solve problems with gadgets than people skills, he swears the future belongs to robots and remote warfare, mocking anyone stuck in the old ways. Maximum efficiency but little empathy; he's ruthlessly smart and honest to a fault, with a laser focus that gets results. Blitz claims he's too busy for friends or dating, truth is, he's terrible at both but would never admit it.",
       "compatibleTanks": [
         {
@@ -27,6 +29,8 @@
       "image": "https://cdn7.heatlabs.net/agents/Anansi.webp",
       "specialty": "Spectre Gunship",
       "description": "Call in the assistance of an AC-130H Spectre gunship with a 40mm autocannon and a limited amount of ammunition for its precision 105mm gun",
+      "trait": "Unknown Trait",
+      "trait_description": "Trait Description Unavailable",
       "story": "A battlefield control specialist with a gunship providing backup fire. A tough cool kid from a Carribean mix of cultures, Anansi grew up watching her seamstress mom work miracles with a needle and thread. Now she's working her own kind of miracles, making money for her family and avoiding bad company. She's all laughs and stories at the bar, but ask anything personal and she clams right up, that's none of your business. And don't gamble with her unless you want to lose your shirt.",
       "compatibleTanks": [
         {
@@ -45,6 +49,8 @@
       "image": "https://cdn7.heatlabs.net/agents/Ember-NewBG.webp",
       "specialty": "Grand Slam",
       "description": "Calls in a massive bomb strike after a delay. The bomb penetrates objects and detonates underground, creating a seismic blast wave that pushes enemies back.",
+      "trait": "Juggernaut",
+      "trait_description": "Ensures safe movement through hazardous environments such as minefields and napalm, while also clearing through map physics objects and pushing players in or out of danger",
       "story": "A vanguard supporter who protects allies in combat, using her turret to intercept enemy fire. She's annoyingly flawless: a suburban poster girl, she shines everywhere, a prom queen, a softball captain, and now an Agent showing up for her team right when they need her. Always ready for action with military precision and athletic grace, she's the first to jump in. But there's something vulnerable beneath that polished exterior, so be there for her, and you might learn her secrets.",
       "compatibleTanks": [
         {
@@ -63,6 +69,8 @@
       "image": "https://cdn7.heatlabs.net/agents/Kent-NewBG.webp",
       "specialty": "Contracted Strike",
       "description": "Lock on to enemies in front of the vehicle for a missile strike. A short lock fires Hydra rockets, while an extended lock launches a homing Hellfire missile for much heavier damage.",
+      "trait": "Rising Tempo",
+      "trait_description": "Increases base reload time, but landing hits on enemies progressively reduces it.",
       "story": "A hitman that makes no target safe. Once he has intel on your location, you'll face ballistic strikes unless you move. A dapper, bright, and ambitious lad, Kent exudes confidence in spades. But don't be fooled by the charm, his promising career crashed after a major incident, whether his fault or not. Talented but tarnished, joining the Agents is his last shot at redemption. He's buried his past failures deep, but he's terrified they'll surface at any minute, so he's a bit of a show off with his peculiar skill: cursed with extraordinary luck, he knows who to hit and when.",
       "compatibleTanks": [
         {
@@ -86,6 +94,8 @@
       "image": "https://cdn7.heatlabs.net/agents/Hound-NewBG.webp",
       "specialty": "Hunting Time",
       "description": "Launches a TV missile that destroys marked lower-HP enemies and Traces others. Each destruction recharges the Ultimate for a short time.",
+      "trait": "Hunter's Eye",
+      "trait_description": "Aiming at an enemy for a short time reveals their critical zones.",
       "story": "A hunter who spots enemy weak points and reveals them to the team. He grew up on a remote Arctic research outpost, honing his observational skills. His world was shattered at the age of 12, when a clandestine military unit kidnapped his parents and destroyed the station, launching Hound's lifelong pursuit of the perpetrators. This led him to black ops, where he moves like a ghost across the battlefield, trusting no one and suspecting everyone. He's a kind of a Cassandra character; no one believes his paranoia. But guess who will eventually be proven right!",
       "compatibleTanks": [
         {
@@ -109,6 +119,8 @@
       "image": "https://cdn7.heatlabs.net/agents/Reaper-NewBG.webp",
       "specialty": "Napalm in the Morning",
       "description": "Calls in an F-4 Phantom and places a napalm strike from an aerial targeting view.",
+      "trait": "Relentless",
+      "trait_description": "Protects the vehicle from being destroyed with a single shot, provided it has sufficient HP.",
       "story": "A bold fighter who excels at close range, striking swiftly to finish off wounded enemies. A quiet artist with ancient warrior blood, Reaper is a man of few words but deadly moves. He often ignores orders to follow his gut feelings, and somehow it's always the right call. He never rushes, moving with calm grace, like he already knows what's coming next. You'll rarely catch his eye, but when you do, he stares right through you with unnerving confidence. From quick sketches in his notebook to perfect shots at enemies, not a single movement is wasted.",
       "compatibleTanks": [
         {
@@ -132,6 +144,8 @@
       "image": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
       "specialty": "Unknown Ability",
       "description": "Unknown Ability Description",
+      "trait": "Unknown Trait",
+      "trait_description": "Trait Description Unavailable",
       "story": "This agent is not yet available. Statistics, details, and player feedback will be added once it's officially released.",
       "compatibleTanks": [
         {
@@ -155,6 +169,8 @@
       "image": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
       "specialty": "Unknown Ability",
       "description": "Unknown Ability Description",
+      "trait": "Unknown Trait",
+      "trait_description": "Trait Description Unavailable",
       "story": "This agent is not yet available. Statistics, details, and player feedback will be added once it's officially released.",
       "compatibleTanks": [
         {
@@ -178,6 +194,8 @@
       "image": "https://cdn7.heatlabs.net/agents/Raketa-NewBG.webp",
       "specialty": "Rampage",
       "description": "Brings on a destructive rage, firing faster and surviving any hit with at least 1 HP.",
+      "trait": "Scavenger",
+      "trait_description": "Destroying enemy vehicles makes them drop Scrap Tokens, which can be picked up for temporary HP.",
       "story": "A scavenger who uses enemy scrap to create deadly close-range weapons. He never shuts up, always cracking bad jokes and failing miserably at flirting with every woman in sight, but his real talent is turning random junk into deadly weapons. He lives for thrills and chaos, but stays ice-cold when things get rough. Don't be fooled by his jokes and games: he'll gladly sneak up on foes and stab them in the back, it's his specialty. He has done some nasty things in the past, all in the name of getting results, and he is not ashamed to admit it.",
       "compatibleTanks": [
         {
@@ -201,6 +219,8 @@
       "image": "https://cdn7.heatlabs.net/agents/Chopper-NewBG.webp",
       "specialty": "Creeping Barrage",
       "description": "Calls in a moving artillery strike with HE shells to clear positions and support allied pushes.",
+      "trait": "Stubborn",
+      "trait_description": "Provides damage mitigation and grants stackable extra protection while holding or contesting objectives.",
       "story": "A frontline fighter who calls in air support to hold the line. He is a bear of a man on his chrome-plated bike, but appearances deceive. Big personality, heart of gold: devoted to friends, lethal to enemies. A father figure to many Agents, he's a down-to-earth family man who signed up to provide for his kids' education, yet this practical soul has a literary quote ready for any moment. But cross this bear at your own peril.",
       "compatibleTanks": [
         {
@@ -224,6 +244,8 @@
       "image": "https://cdn7.heatlabs.net/agents/Twister-NewBG.webp",
       "specialty": " Lights Out",
       "description": "Deploys an EMP bomb via drone. Pulses Slow enemies before the final detonation Jams and damages them.",
+      "trait": "Daredevil",
+      "trait_description": "Reloads faster while boosting, charges Boost Energy while drifting, and takes less fall damage.",
       "story": "This agent is not yet available. Statistics, details, and player feedback will be added once it's officially released.",
       "compatibleTanks": [
         {
@@ -247,6 +269,8 @@
       "image": "https://cdn7.heatlabs.net/agents/Fuzzer-NewBG.webp",
       "specialty": "Strike Laser",
       "description": "Calls in an aircraft and takes control of its targeting camera to lock on to an enemy vehicle. The aircraft points a laser that emits damaging pulses.",
+      "trait": "NBC Protection",
+      "trait_description": "A decontamination system that removes all status effects from the vehicle.",
       "story": "This agent is not yet available. Statistics, details, and player feedback will be added once it's officially released.",
       "compatibleTanks": [
         {
