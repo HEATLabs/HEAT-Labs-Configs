@@ -1,6 +1,283 @@
 {
   "updates": [
     {
+      "version": "0.4.901",
+      "date": "2026-04-23",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #363",
+      "description": "Full patch notes for Update v0.4.901 (#363), detailing all changes made on 23 April, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.897",
+      "date": "2026-04-22",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #362",
+      "description": "Full patch notes for Update v0.4.897 (#362), detailing all changes made on 22 April, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.893",
+      "date": "2026-04-21",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #361",
+      "description": "Full patch notes for Update v0.4.893 (#361), detailing all changes made on 21 April, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.889",
+      "date": "2026-04-20",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #360",
+      "description": "Full patch notes for Update v0.4.889 (#360), detailing all changes made on 20 April, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.885",
+      "date": "2026-04-19",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #359",
+      "description": "Full patch notes for Update v0.4.885 (#359), detailing all changes made on 19 April, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.881",
+      "date": "2026-04-18",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #358",
+      "description": "Full patch notes for Update v0.4.881 (#358), detailing all changes made on 18 April, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.877",
+      "date": "2026-04-17",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #357",
+      "description": "Full patch notes for Update v0.4.877 (#357), detailing all changes made on 17 April, 2026.",
+      "added": [
+        "New CBT tank ability icons added to the images library"
+      ],
+      "changed": [
+        "Tank ability paths updated in the database for improved consistency and accuracy"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.873",
+      "date": "2026-04-16",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #356",
+      "description": "Full patch notes for Update v0.4.873 (#356), detailing all changes made on 16 April, 2026.",
+      "added": [
+        "New ability images introduced for Raketa tanks",
+        "Reaper tank ability images added",
+        "Additional ability visuals added for multiple tanks",
+        "New placeholder ability images prepared for future content"
+      ],
+      "changed": [
+        "Several tanks updated to use newly added ability images",
+        "Tank data refined with updated trait configurations",
+        "Multiple tanks adjusted to use placeholder visuals where needed",
+        "Countdown page updated with a new keyword across static and development environments",
+        "Countdown page briefly switched to detailed mode before being reverted for stability"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected typo in T62AV ability path",
+        "Fixed incorrect ability image paths affecting multiple tanks",
+        "Resolved inconsistencies in tank ability and trait references"
+      ]
+    },
+    {
+      "version": "0.4.860",
+      "date": "2026-04-15",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #355",
+      "description": "Full patch notes for Update v0.4.860 (#355), detailing all changes made on 15 April, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.856",
+      "date": "2026-04-14",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #354",
+      "description": "Full patch notes for Update v0.4.856 (#354), detailing all changes made on 14 April, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Improved and refined the Configurator Easter Egg experience across multiple environments"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Resolved incorrect sound path issue within the Easter Egg on the development website"
+      ]
+    },
+    {
+      "version": "0.4.852",
+      "date": "2026-04-13",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #353",
+      "description": "Full patch notes for Update v0.4.852 (#353), detailing all changes made on 13 April, 2026.",
+      "added": [
+        "Agent trait system introduced across the platform",
+        "Agent traits added to tank pages for improved data depth",
+        "Agent traits integrated into agent cards",
+        "Dedicated trait sections added to agent pages"
+      ],
+      "changed": [
+        "Countdown timers updated to reflect the official Beta start date",
+        "Agent trait rendering system implemented across static and development environments"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.4.844",
+      "date": "2026-04-12",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #352",
+      "description": "Full patch notes for Update v0.4.844 (#352), detailing all changes made on 12 April, 2026.",
+      "added": [
+        "New tank gallery images added across both main and development websites"
+      ],
+      "changed": [
+        "Tournament tank imagery updated within the database",
+        "Tank gallery structure refined with repositioned images",
+        "Link checker configuration updated to ignore gallery thumbnail assets",
+        "Agent and tank entries updated with more accurate release and update dates"
+      ],
+      "removed": [
+        "AI placeholder warning removed from all agent pages"
+      ],
+      "fixed": [
+        "Resolved inconsistencies in agent update timestamps",
+        "Corrected inaccuracies in tank update dates"
+      ]
+    },
+    {
+      "version": "0.4.836",
+      "date": "2026-04-11",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #351",
+      "description": "Full patch notes for Update v0.4.836 (#351), detailing all changes made on 11 April, 2026.",
+      "added": [
+        "Two new news pages published on both main and development websites",
+        "New images added to support the latest news posts",
+        "Additional entries added to the meme index",
+        "Tracking pixel support implemented for newly added pages in the Views API",
+        "Three new game codes added to the game build checker tool"
+      ],
+      "changed": [
+        "Project statistics updated with latest data",
+        "Search keyword index expanded with new and previously missing pages",
+        "Tracking pixel index updated to include newly added pages",
+        "GSC index and export data refreshed (including legacy datasets)",
+        "Game build version updated across configs",
+        "Cloudflare traffic data updated",
+        "Sitemap updated to include latest news content",
+        "Changelog and daily commit log updated"
+      ],
+      "removed": [
+        "Removed an incorrect entry from the meme index"
+      ],
+      "fixed": [
+        "Corrected M3E1 agent ability data in the database",
+        "Fixed incorrect patch tag in a news post",
+        "Resolved incorrect tracking pixel configuration in a news post"
+      ]
+    },
+    {
       "version": "0.4.819",
       "date": "2026-04-10",
       "author": "HEAT Labs Team",
