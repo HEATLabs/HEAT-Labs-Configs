@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 284,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-04-07T00:02:01.968333"
+    "export_timestamp": "2026-04-24T20:30:57.046904"
   },
   "pages": [
     {
@@ -379,7 +379,7 @@
     {
       "url": "https://heatlabs.net/blog/easter-egg-friday-13",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1268,7 +1268,7 @@
     {
       "url": "https://heatlabs.net/news/content-creator-impressions",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -2001,9 +2001,9 @@
       "indexed": 189
     },
     "google_api_status": {
-      "pending": 64,
+      "pending": 62,
       "not_indexed": 0,
-      "indexed": 218
+      "indexed": 220
     },
     "https_page_status": {
       "unknown": 250,
