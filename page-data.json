@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 284,
+    "total_pages": 285,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-04-24T20:30:57.046904"
+    "export_timestamp": "2026-05-20T01:47:55.142719"
   },
   "pages": [
     {
@@ -622,6 +622,13 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
+      "url": "https://heatlabs.net/guides/general-guides/shell-crit-cone-mechanic",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/guides/map-guides",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -666,7 +673,7 @@
     {
       "url": "https://heatlabs.net/legal/player-content-policy",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1254,7 +1261,7 @@
     {
       "url": "https://heatlabs.net/news/concept-art-1",
       "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1429,7 +1436,7 @@
     {
       "url": "https://heatlabs.net/news/new-agents-3",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1926,7 +1933,7 @@
     {
       "url": "https://heatlabs.net/tournaments/brackets",
       "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
+      "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1996,22 +2003,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 93,
+      "pending": 94,
       "not_indexed": 0,
       "indexed": 189
     },
     "google_api_status": {
-      "pending": 62,
+      "pending": 59,
       "not_indexed": 0,
-      "indexed": 220
+      "indexed": 224
     },
     "https_page_status": {
-      "unknown": 250,
+      "unknown": 251,
       "not_https": 0,
       "https": 32
     },
     "breadcrumb_status": {
-      "unknown": 250,
+      "unknown": 251,
       "invalid": 0,
       "valid": 32
     }
