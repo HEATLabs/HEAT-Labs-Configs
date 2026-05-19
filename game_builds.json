@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T20:35:23.323247",
+  "last_updated": "2026-05-20T01:51:13.812703",
   "builds": {
     "World of Tanks: HEAT": {
       "39c08ff0c694c4f5caefc19ad539385e93191f666e6f49a3902b66d74d24ca1c": {
@@ -349,6 +349,118 @@
         },
         "web_seeds": [],
         "patches": [],
+        "delay_preload": false
+      },
+      "5501242d9eac9dd26a876eede48c72853f3222ec43abfca23899c52c5e48d6f6": {
+        "build_info": {
+          "content_hash": "5501242d9eac9dd26a876eede48c72853f3222ec43abfca23899c52c5e48d6f6",
+          "display_name": "World of Tanks: HEAT",
+          "build_date": "2026.04.22 11:16:08",
+          "version_name": "0.0.347.6004",
+          "compressed_size": "0.00 GB",
+          "uncompressed_size": "0.00 GB",
+          "file_count": 1
+        },
+        "web_seeds": [
+          {
+            "url": "http://patches-dms.wargaming.net/cw/heat.ww.production/wds_default/patches/",
+            "threads": 4,
+            "protocol": ""
+          }
+        ],
+        "patches": [
+          {
+            "chain_type": "install",
+            "part": "client",
+            "version_to": "0.0.347.6004",
+            "files": [
+              {
+                "file_name": "0.0.347.6004/heat_0.0.347.6004_client.wgpkg",
+                "package": "heat_0.0.347.6004_client.wgpkg",
+                "size_bytes": 672,
+                "size_formatted": "672 B",
+                "unpacked_bytes": 830,
+                "unpacked_formatted": "830 B"
+              }
+            ]
+          }
+        ],
+        "delay_preload": false
+      },
+      "fe97d09a920b294a353add375205790a24f9b763a05d6d86a5e089894f674c00": {
+        "build_info": {
+          "content_hash": "fe97d09a920b294a353add375205790a24f9b763a05d6d86a5e089894f674c00",
+          "display_name": "World of Tanks: HEAT",
+          "build_date": "2026.04.22 11:29:01",
+          "version_name": "0.0.351.6029",
+          "compressed_size": "20.52 GB",
+          "uncompressed_size": "24.93 GB",
+          "file_count": 6
+        },
+        "web_seeds": [
+          {
+            "url": "http://patches-dms.wargaming.net/cw/cw.ltdemo.production/{secret}/patches/",
+            "threads": 4,
+            "protocol": ""
+          }
+        ],
+        "patches": [
+          {
+            "chain_type": "install",
+            "part": "client",
+            "version_to": "0.0.351.6029",
+            "files": [
+              {
+                "file_name": "0.0.351.6029/cw_0.0.351.6029_client.wgpkg.001",
+                "package": "cw_0.0.351.6029_client.wgpkg.001",
+                "size_bytes": 4194304000,
+                "size_formatted": "3.91 GB",
+                "unpacked_bytes": 26771960323,
+                "unpacked_formatted": "24.93 GB"
+              },
+              {
+                "file_name": "0.0.351.6029/cw_0.0.351.6029_client.wgpkg.002",
+                "package": "cw_0.0.351.6029_client.wgpkg.002",
+                "size_bytes": 4194304000,
+                "size_formatted": "3.91 GB",
+                "unpacked_bytes": 0,
+                "unpacked_formatted": "0 B"
+              },
+              {
+                "file_name": "0.0.351.6029/cw_0.0.351.6029_client.wgpkg.003",
+                "package": "cw_0.0.351.6029_client.wgpkg.003",
+                "size_bytes": 4194304000,
+                "size_formatted": "3.91 GB",
+                "unpacked_bytes": 0,
+                "unpacked_formatted": "0 B"
+              },
+              {
+                "file_name": "0.0.351.6029/cw_0.0.351.6029_client.wgpkg.004",
+                "package": "cw_0.0.351.6029_client.wgpkg.004",
+                "size_bytes": 4194304000,
+                "size_formatted": "3.91 GB",
+                "unpacked_bytes": 0,
+                "unpacked_formatted": "0 B"
+              },
+              {
+                "file_name": "0.0.351.6029/cw_0.0.351.6029_client.wgpkg.005",
+                "package": "cw_0.0.351.6029_client.wgpkg.005",
+                "size_bytes": 4194304000,
+                "size_formatted": "3.91 GB",
+                "unpacked_bytes": 0,
+                "unpacked_formatted": "0 B"
+              },
+              {
+                "file_name": "0.0.351.6029/cw_0.0.351.6029_client.wgpkg.006",
+                "package": "cw_0.0.351.6029_client.wgpkg.006",
+                "size_bytes": 1062792834,
+                "size_formatted": "1013.56 MB",
+                "unpacked_bytes": 0,
+                "unpacked_formatted": "0 B"
+              }
+            ]
+          }
+        ],
         "delay_preload": false
       }
     }
