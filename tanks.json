@@ -39,7 +39,7 @@
         "details": "https://cdn2.heatlabs.net/tanks/alvt/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/alvt/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/alvt/abilities.json",
-        "model": "https://cdn4.heatlabs.net/alvt/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/glb-test-models/alvt-module-placeholder.glb"
     },
     {
         "id": 3,
@@ -81,7 +81,7 @@
         "details": "https://cdn2.heatlabs.net/tanks/fv4030x/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/fv4030x/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/fv4030x/abilities.json",
-        "model": "https://cdn4.heatlabs.net/fv4030x/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/glb-test-models/fv4030x-module-placeholder.glb"
     },
     {
         "id": 5,
@@ -102,7 +102,7 @@
         "details": "https://cdn2.heatlabs.net/tanks/hstv-l/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/hstv-l/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/hstv-l/abilities.json",
-        "model": "https://cdn4.heatlabs.net/hstv-l/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/glb-test-models/hstv-l-module-placeholder.glb"
     },
     {
         "id": 6,
@@ -249,7 +249,7 @@
         "details": "https://cdn2.heatlabs.net/tanks/m3a1-bradley/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/m3a1-bradley/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/m3a1-bradley/abilities.json",
-        "model": "https://cdn4.heatlabs.net/m3a1-bradley/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/glb-test-models/m3a1-module-placeholder.glb"
     },
     {
         "id": 13,
@@ -312,7 +312,7 @@
         "details": "https://cdn2.heatlabs.net/tanks/m60e2/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/m60e2/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/m60e2/abilities.json",
-        "model": "https://cdn4.heatlabs.net/m60e2/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/glb-test-models/m60a1-module-placeholder.glb"
     },
     {
         "id": 16,
@@ -333,7 +333,7 @@
         "details": "https://cdn2.heatlabs.net/tanks/xm551/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/xm551/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/xm551/abilities.json",
-        "model": "https://cdn4.heatlabs.net/xm551/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/glb-test-models/xm551-module-placeholder.glb"
     },
     {
         "id": 17,
@@ -564,7 +564,7 @@
         "details": "https://cdn2.heatlabs.net/tanks/xm1-v/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/xm1-v/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/xm1-v/abilities.json",
-        "model": "https://cdn4.heatlabs.net/xm1-v/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/glb-test-models/xm1-v-module-placeholder.glb"
     },
     {
         "id": 28,
@@ -606,7 +606,7 @@
         "details": "https://cdn2.heatlabs.net/tanks/amx-10-rc/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/amx-10-rc/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/amx-10-rc/abilities.json",
-        "model": "https://cdn4.heatlabs.net/amx-10-rc/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/glb-test-models/axm-10-rc-module-placeholder.glb"
     },
     {
         "id": 30,
@@ -627,7 +627,7 @@
         "details": "https://cdn2.heatlabs.net/tanks/m60a2/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/m60a2/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/m60a2/abilities.json",
-        "model": "https://cdn4.heatlabs.net/m60a2/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/glb-test-models/m60a2-module-placeholder.glb"
     },
     {
         "id": 31,
@@ -648,6 +648,6 @@
         "details": "https://cdn2.heatlabs.net/tanks/marder-1a3/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/marder-1a3/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/marder-1a3/abilities.json",
-        "model": "https://cdn4.heatlabs.net/marder-1a3/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/glb-test-models/marder-1a3-module-placeholder.glb"
     }
 ]
