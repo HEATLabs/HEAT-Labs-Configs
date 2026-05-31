@@ -1,11 +1,71 @@
 {
+  "2026-05-31": [
+    "[HEAT-Labs-Configs] Merge branch 'main' of https://github.com/HEATLabs/HEAT-Labs-Configs",
+    "[HEAT-Labs-Configs] updated path names for 2 tanks in main configs CDN",
+    "[HEAT-Labs-Database] updated path names for 2 tanks in database CDN",
+    "[HEAT-Labs-Images-Tanks] updated path names for 2 tanks in images CDN",
+    "[HEAT-Labs-Static] updated tierlist logic to only display available tanks, maps and agents in main website",
+    "[HEAT-Labs-Website] updated path names for 2 tanks in main website",
+    "[HEAT-Labs-Website-Development] updated tierlist logic to only display available tanks, maps and agents in dev website",
+    "[HEAT-Labs-Website-Development] Merge branch 'main' of https://github.com/HEATLabs/HEAT-Labs-Website-Development",
+    "[HEAT-Labs-Website-Development] updated path names for 2 tanks in dev website"
+  ],
+  "2026-05-30": [
+    "[.github] Update CONTRIBUTING.md"
+  ],
+  "2026-05-29": [
+    "[HEAT-Labs-Configs] updated game build metadata"
+  ],
+  "2026-05-26": [
+    "[HEAT-Labs-Configs] Merge branch 'main' of https://github.com/HEATLabs/HEAT-Labs-Configs",
+    "[HEAT-Labs-Configs] updated cloudflare traffic data",
+    "[HEAT-Labs-Configs] Merge branch 'main' of https://github.com/HEATLabs/HEAT-Labs-Configs",
+    "[HEAT-Labs-Configs] Updated banner info",
+    "[HEAT-Labs-Configs] updated game build metadata",
+    "[HEAT-Labs-Static] final tweak to countdown page for release",
+    "[HEAT-Labs-Static] updated countdown page to force detailed mode",
+    "[HEAT-Labs-Static] disabled warning modal on all pages",
+    "[HEAT-Labs-Website-Development] final tweak to countdown page for release",
+    "[HEAT-Labs-Website-Development] updated countdown page to force detailed mode",
+    "[HEAT-Labs-Website-Development] disabled warning modal on all dev pages"
+  ],
+  "2026-05-25": [
+    "[HEAT-Labs-Configs] Updated tank model paths",
+    "[HEAT-Labs-Models] Updated M1E1 model",
+    "[HEAT-Labs-Models] Add several model placeholders",
+    "[HEAT-Labs-Static] Updated countdown word",
+    "[HEAT-Labs-Website-Development] Updated countdown word"
+  ],
+  "2026-05-20": [
+    "[HEAT-Labs-Models] Removed electronics from models",
+    "[HEAT-Labs-Static] Added missing CSS color",
+    "[HEAT-Labs-Website-Development] Merge branch 'main' of https://github.com/HEATLabs/HEAT-Labs-Website-Development",
+    "[HEAT-Labs-Website-Development] Fixed incorrect tournament bracket path"
+  ],
   "2026-05-19": [
+    "[HEAT-Labs-Configs] updated project statistics",
+    "[HEAT-Labs-Configs] updated cloudflare traffic data",
+    "[HEAT-Labs-Configs] updated meme index with 1 new image",
+    "[HEAT-Labs-Configs] updated changelog",
+    "[HEAT-Labs-Configs] updated daily commit log",
+    "[HEAT-Labs-Configs] removed legacy GSC export data file",
+    "[HEAT-Labs-Configs] sorted meme index file",
+    "[HEAT-Labs-Configs] updated game build version",
+    "[HEAT-Labs-Configs] updated main GSC export data",
+    "[HEAT-Labs-Configs] removed legacy GSC export data",
+    "[HEAT-Labs-Configs] updated page data files",
+    "[HEAT-Labs-Configs] updated GSC index data",
     "[HEAT-Labs-Configs] updated tracking pixel index with 1 new guide page",
+    "[HEAT-Labs-Images] add 1 new matcha meme",
+    "[HEAT-Labs-Images] added 1 new matcha image",
     "[HEAT-Labs-Images-Guides] Add crit cone guide images",
     "[HEAT-Labs-Static] Updated countdown to launch date",
+    "[HEAT-Labs-Website] added Tmc_388 to content creator list",
+    "[HEAT-Labs-Website] updated sitemap with latest guide page",
     "[HEAT-Labs-Website] added tracking pixel for latest guide page, fixed incorrect canonical URLs in latest guide page",
     "[HEAT-Labs-Website] Add Tmc's Crit Cone Guide",
     "[HEAT-Labs-Website] Updated countdown to launch date",
+    "[HEAT-Labs-Website-Development] added Tmc_388 to content creator list",
     "[HEAT-Labs-Website-Development] added tracking pixel for latest guide page, fixed incorrect canonical URLs in latest guide page",
     "[HEAT-Labs-Website-Development] Add Tmc's Crit Cone Guide",
     "[HEAT-Labs-Website-Development] Updated countdown to launch date",
