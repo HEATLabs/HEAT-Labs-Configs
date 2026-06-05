@@ -1,6 +1,119 @@
 {
   "updates": [
     {
+      "version": "0.5.132",
+      "date": "2026-06-04",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #404",
+      "description": "Full patch notes for Update v0.5.132 (#404), detailing all changes made on 04 June, 2026.",
+      "added": [
+        "Added Lego's quote to the main HEAT Labs website",
+        "Added Lego's quote to the HEAT Labs development website"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.5.127",
+      "date": "2026-06-03",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #403",
+      "description": "Full patch notes for Update v0.5.127 (#403), detailing all changes made on 03 June, 2026.",
+      "added": [
+        "Added a placeholder entry for the upcoming M3A1 Bradley vehicle model"
+      ],
+      "changed": [
+        "Updated configuration references for the M3A1 vehicle model",
+        "Refined the Leopard 1A6A1 vehicle model",
+        "Updated the FV4030X vehicle model",
+        "Updated the T-62 vehicle model"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.5.120",
+      "date": "2026-06-02",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #402",
+      "description": "Full patch notes for Update v0.5.120 (#402), detailing all changes made on 02 June, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Homepage navigation streamlined by removing pre-release access buttons from both the main and development websites",
+        "Website repositories synchronized with the latest upstream changes"
+      ],
+      "removed": [
+        "Pre-release buttons previously displayed on the homepage"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.5.115",
+      "date": "2026-06-01",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #401",
+      "description": "Full patch notes for Update v0.5.115 (#401), detailing all changes made on 01 June, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.5.111",
+      "date": "2026-05-31",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #400",
+      "description": "Full patch notes for Update v0.5.111 (#400), detailing all changes made on 31 May, 2026.",
+      "added": [
+        "Added a new team member to the HEAT Labs team directory and contributor listings",
+        "Added a new image asset for legocity2000",
+        "Added the missing Ember trait section to the development website"
+      ],
+      "changed": [
+        "Updated project statistics and analytics data",
+        "Updated game build data",
+        "Updated Cloudflare traffic statistics",
+        "Refreshed GSC index and export data",
+        "Updated search keyword index entries for two tank pages",
+        "Updated path naming and routing for two tank entries across website, database, image, and configuration systems",
+        "Updated About Us pages across both main and development websites",
+        "Updated humans.txt across all HEAT Labs services and repositories",
+        "Updated changelog and daily commit log records"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Improved view counter logic across website systems",
+        "Corrected agent configuration path handling in the development website",
+        "Updated tier list logic to only display tanks, maps, and agents that are currently available",
+        "Resolved content and configuration inconsistencies related to tank path references across multiple platforms"
+      ]
+    },
+    {
       "version": "0.5.094",
       "date": "2026-05-30",
       "author": "HEAT Labs Team",
