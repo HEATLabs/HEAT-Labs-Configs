@@ -18,7 +18,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/agds/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/agds/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/agds/abilities.json",
-        "model": "https://cdn4.heatlabs.net/agds/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/agds/model/model.fbx",
+        "statistics": {
+            "lethality": 65,
+            "mobility": 35,
+            "survivability": 20,
+            "utility": 10
+        }
     },
     {
         "id": 2,
@@ -39,7 +45,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/alvt/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/alvt/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/alvt/abilities.json",
-        "model": "https://cdn4.heatlabs.net/alvt/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/alvt/model/model.fbx",
+        "statistics": {
+            "lethality": 85,
+            "mobility": 30,
+            "survivability": 50,
+            "utility": 65
+        }
     },
     {
         "id": 3,
@@ -60,7 +72,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/bat-4m/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/bat-4m/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/bat-4m/abilities.json",
-        "model": "https://cdn4.heatlabs.net/bat-4m/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/bat-4m/model/model.fbx",
+        "statistics": {
+            "lethality": 40,
+            "mobility": 45,
+            "survivability": 65,
+            "utility": 10
+        }
     },
     {
         "id": 4,
@@ -81,7 +99,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/fv4030x/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/fv4030x/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/fv4030x/abilities.json",
-        "model": "https://cdn4.heatlabs.net/fv4030x/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/fv4030x/model/model.fbx",
+        "statistics": {
+            "lethality": 0,
+            "mobility": 0,
+            "survivability": 0,
+            "utility": 0
+        }
     },
     {
         "id": 5,
@@ -102,7 +126,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/hstv-l/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/hstv-l/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/hstv-l/abilities.json",
-        "model": "https://cdn4.heatlabs.net/hstv-l/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/hstv-l/model/model.fbx",
+        "statistics": {
+            "lethality": 60,
+            "mobility": 70,
+            "survivability": 30,
+            "utility": 10
+        }
     },
     {
         "id": 6,
@@ -123,7 +153,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/leopard-1a1b/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/leopard-1a1b/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/leopard-1a1b/abilities.json",
-        "model": "https://cdn4.heatlabs.net/glb-test-models/leopard-1a1-module-placeholder.glb"
+        "model": "https://cdn4.heatlabs.net/glb-test-models/leopard-1a1-module-placeholder.glb",
+        "statistics": {
+            "lethality": 26,
+            "mobility": 50,
+            "survivability": 45,
+            "utility": 65
+        }
     },
     {
         "id": 7,
@@ -144,7 +180,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/leopard-1a6a1/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/leopard-1a6a1/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/leopard-1a6a1/abilities.json",
-        "model": "https://cdn4.heatlabs.net/glb-test-models/leopard-1a6a1-module-placeholder.glb"
+        "model": "https://cdn4.heatlabs.net/glb-test-models/leopard-1a6a1-module-placeholder.glb",
+        "statistics": {
+            "lethality": 62,
+            "mobility": 48,
+            "survivability": 32,
+            "utility": 42
+        }
     },
     {
         "id": 8,
@@ -165,7 +207,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/leopard-2k14/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/leopard-2k14/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/leopard-2k14/abilities.json",
-        "model": "https://cdn4.heatlabs.net/leopard-2k14/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/leopard-2k14/model/model.fbx",
+        "statistics": {
+            "lethality": 70,
+            "mobility": 60,
+            "survivability": 35,
+            "utility": 10
+        }
     },
     {
         "id": 9,
@@ -186,7 +234,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/leopard-2fk/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/leopard-2fk/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/leopard-2fk/abilities.json",
-        "model": "https://cdn4.heatlabs.net/leopard-2fk/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/leopard-2fk/model/model.fbx",
+        "statistics": {
+            "lethality": 75,
+            "mobility": 60,
+            "survivability": 30,
+            "utility": 40
+        }
     },
     {
         "id": 10,
@@ -207,7 +261,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/m1-railgun/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/m1-railgun/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/m1-railgun/abilities.json",
-        "model": "https://cdn4.heatlabs.net/m1-railgun/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/m1-railgun/model/model.fbx",
+        "statistics": {
+            "lethality": 80,
+            "mobility": 20,
+            "survivability": 60,
+            "utility": 44
+        }
     },
     {
         "id": 11,
@@ -228,7 +288,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/m1e1/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/m1e1/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/m1e1/abilities.json",
-        "model": "https://cdn4.heatlabs.net/glb-test-models/m1e1-module-placeholder.glb"
+        "model": "https://cdn4.heatlabs.net/glb-test-models/m1e1-module-placeholder.glb",
+        "statistics": {
+            "lethality": 43,
+            "mobility": 38,
+            "survivability": 50,
+            "utility": 45
+        }
     },
     {
         "id": 12,
@@ -249,7 +315,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/m3a1-bradley/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/m3a1-bradley/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/m3a1-bradley/abilities.json",
-        "model": "https://cdn4.heatlabs.net/glb-test-models/m3a1-bradley-module-placeholder.glb"
+        "model": "https://cdn4.heatlabs.net/glb-test-models/m3a1-bradley-module-placeholder.glb",
+        "statistics": {
+            "lethality": 37,
+            "mobility": 55,
+            "survivability": 47,
+            "utility": 42
+        }
     },
     {
         "id": 13,
@@ -270,7 +342,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/m60a3e2/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/m60a3e2/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/m60a3e2/abilities.json",
-        "model": "https://cdn4.heatlabs.net/m60a3e2/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/m60a3e2/model/model.fbx",
+        "statistics": {
+            "lethality": 0,
+            "mobility": 0,
+            "survivability": 0,
+            "utility": 0
+        }
     },
     {
         "id": 14,
@@ -291,7 +369,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/m60a3e2-bot/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/m60a3e2-bot/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/m60a3e2-bot/abilities.json",
-        "model": "https://cdn4.heatlabs.net/m60a3e2-bot/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/m60a3e2-bot/model/model.fbx",
+        "statistics": {
+            "lethality": 0,
+            "mobility": 0,
+            "survivability": 0,
+            "utility": 0
+        }
     },
     {
         "id": 15,
@@ -312,7 +396,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/m60a1/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/m60a1/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/m60a1/abilities.json",
-        "model": "https://cdn4.heatlabs.net/m60a1/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/m60a1/model/model.fbx",
+        "statistics": {
+            "lethality": 65,
+            "mobility": 40,
+            "survivability": 45,
+            "utility": 10
+        }
     },
     {
         "id": 16,
@@ -333,7 +423,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/m551a1/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/m551a1/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/m551a1/abilities.json",
-        "model": "https://cdn4.heatlabs.net/m551a1/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/m551a1/model/model.fbx",
+        "statistics": {
+            "lethality": 60,
+            "mobility": 80,
+            "survivability": 30,
+            "utility": 30
+        }
     },
     {
         "id": 17,
@@ -354,7 +450,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/object-279/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/object-279/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/object-279/abilities.json",
-        "model": "https://cdn4.heatlabs.net/object-279/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/object-279/model/model.fbx",
+        "statistics": {
+            "lethality": 55,
+            "mobility": 65,
+            "survivability": 40,
+            "utility": 20
+        }
     },
     {
         "id": 18,
@@ -375,7 +477,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/object-287/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/object-287/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/object-287/abilities.json",
-        "model": "https://cdn4.heatlabs.net/object-287/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/object-287/model/model.fbx",
+        "statistics": {
+            "lethality": 44,
+            "mobility": 60,
+            "survivability": 25,
+            "utility": 50
+        }
     },
     {
         "id": 19,
@@ -396,7 +504,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/ptz89c/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/ptz89c/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/ptz89c/abilities.json",
-        "model": "https://cdn4.heatlabs.net/ptz89c/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/ptz89c/model/model.fbx",
+        "statistics": {
+            "lethality": 0,
+            "mobility": 0,
+            "survivability": 0,
+            "utility": 0
+        }
     },
     {
         "id": 20,
@@ -417,7 +531,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/t-62av/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/t-62av/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/t-62av/abilities.json",
-        "model": "https://cdn4.heatlabs.net/glb-test-models/t-62av-module-placeholder.glb"
+        "model": "https://cdn4.heatlabs.net/glb-test-models/t-62av-module-placeholder.glb",
+        "statistics": {
+            "lethality": 51,
+            "mobility": 67,
+            "survivability": 29,
+            "utility": 32
+        }
     },
     {
         "id": 21,
@@ -438,7 +558,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/t-64a/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/t-64a/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/t-64a/abilities.json",
-        "model": "https://cdn4.heatlabs.net/t-64a/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/t-64a/model/model.fbx",
+        "statistics": {
+            "lethality": 0,
+            "mobility": 0,
+            "survivability": 0,
+            "utility": 0
+        }
     },
     {
         "id": 22,
@@ -459,7 +585,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/t-62ms/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/t-62ms/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/t-62ms/abilities.json",
-        "model": "https://cdn4.heatlabs.net/t-62ms/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/t-62ms/model/model.fbx",
+        "statistics": {
+            "lethality": 80,
+            "mobility": 20,
+            "survivability": 40,
+            "utility": 40
+        }
     },
     {
         "id": 23,
@@ -480,7 +612,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/t-72au/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/t-72au/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/t-72au/abilities.json",
-        "model": "https://cdn4.heatlabs.net/t-72au/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/t-72au/model/model.fbx",
+        "statistics": {
+            "lethality": 0,
+            "mobility": 0,
+            "survivability": 0,
+            "utility": 0
+        }
     },
     {
         "id": 24,
@@ -501,7 +639,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/t-72b/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/t-72b/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/t-72b/abilities.json",
-        "model": "https://cdn4.heatlabs.net/t-72b/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/t-72b/model/model.fbx",
+        "statistics": {
+            "lethality": 0,
+            "mobility": 0,
+            "survivability": 0,
+            "utility": 0
+        }
     },
     {
         "id": 25,
@@ -522,7 +666,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/t-55-enigma/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/t-55-enigma/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/t-55-enigma/abilities.json",
-        "model": "https://cdn4.heatlabs.net/t-55-enigma/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/t-55-enigma/model/model.fbx",
+        "statistics": {
+            "lethality": 0,
+            "mobility": 0,
+            "survivability": 0,
+            "utility": 0
+        }
     },
     {
         "id": 26,
@@ -543,7 +693,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/xm1-90/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/xm1-90/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/xm1-90/abilities.json",
-        "model": "https://cdn4.heatlabs.net/xm1-90/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/xm1-90/model/model.fbx",
+        "statistics": {
+            "lethality": 70,
+            "mobility": 35,
+            "survivability": 40,
+            "utility": 50
+        }
     },
     {
         "id": 27,
@@ -564,7 +720,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/xm1-v/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/xm1-v/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/xm1-v/abilities.json",
-        "model": "https://cdn4.heatlabs.net/xm1-v/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/xm1-v/model/model.fbx",
+        "statistics": {
+            "lethality": 0,
+            "mobility": 0,
+            "survivability": 0,
+            "utility": 0
+        }
     },
     {
         "id": 28,
@@ -585,7 +747,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/xm808-twister/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/xm808-twister/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/xm808-twister/abilities.json",
-        "model": "https://cdn4.heatlabs.net/xm808-twister/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/xm808-twister/model/model.fbx",
+        "statistics": {
+            "lethality": 0,
+            "mobility": 0,
+            "survivability": 0,
+            "utility": 0
+        }
     },
     {
         "id": 29,
@@ -606,7 +774,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/amx-10-rc/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/amx-10-rc/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/amx-10-rc/abilities.json",
-        "model": "https://cdn4.heatlabs.net/amx-10-rc/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/amx-10-rc/model/model.fbx",
+        "statistics": {
+            "lethality": 0,
+            "mobility": 0,
+            "survivability": 0,
+            "utility": 0
+        }
     },
     {
         "id": 30,
@@ -627,7 +801,13 @@
         "details": "https://cdn2.heatlabs.net/tanks/m60a2/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/m60a2/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/m60a2/abilities.json",
-        "model": "https://cdn4.heatlabs.net/m60a2/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/m60a2/model/model.fbx",
+        "statistics": {
+            "lethality": 33,
+            "mobility": 29,
+            "survivability": 62,
+            "utility": 45
+        }
     },
     {
         "id": 31,
@@ -648,6 +828,12 @@
         "details": "https://cdn2.heatlabs.net/tanks/marder-1a3/details.json",
         "builds": "https://cdn2.heatlabs.net/tanks/marder-1a3/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/marder-1a3/abilities.json",
-        "model": "https://cdn4.heatlabs.net/marder-1a3/model/model.fbx"
+        "model": "https://cdn4.heatlabs.net/marder-1a3/model/model.fbx",
+        "statistics": {
+            "lethality": 43,
+            "mobility": 60,
+            "survivability": 39,
+            "utility": 67
+        }
     }
 ]
