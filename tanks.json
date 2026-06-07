@@ -776,10 +776,10 @@
         "abilities": "https://cdn2.heatlabs.net/tanks/amx-10-rc/abilities.json",
         "model": "https://cdn4.heatlabs.net/amx-10-rc/model/model.fbx",
         "statistics": {
-            "lethality": 0,
-            "mobility": 0,
-            "survivability": 0,
-            "utility": 0
+            "lethality": 70,
+            "mobility": 35,
+            "survivability": 40,
+            "utility": 50
         }
     },
     {
