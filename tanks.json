@@ -344,10 +344,10 @@
         "abilities": "https://cdn2.heatlabs.net/tanks/m60a3e2/abilities.json",
         "model": "https://cdn4.heatlabs.net/m60a3e2/model/model.fbx",
         "statistics": {
-            "lethality": 0,
-            "mobility": 0,
-            "survivability": 0,
-            "utility": 0
+            "lethality": 33,
+            "mobility": 29,
+            "survivability": 62,
+            "utility": 45
         }
     },
     {
@@ -371,10 +371,10 @@
         "abilities": "https://cdn2.heatlabs.net/tanks/m60a3e2-bot/abilities.json",
         "model": "https://cdn4.heatlabs.net/m60a3e2-bot/model/model.fbx",
         "statistics": {
-            "lethality": 0,
-            "mobility": 0,
-            "survivability": 0,
-            "utility": 0
+            "lethality": 33,
+            "mobility": 29,
+            "survivability": 62,
+            "utility": 45
         }
     },
     {
