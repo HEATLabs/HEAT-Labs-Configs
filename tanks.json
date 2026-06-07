@@ -101,10 +101,10 @@
         "abilities": "https://cdn2.heatlabs.net/tanks/fv4030x/abilities.json",
         "model": "https://cdn4.heatlabs.net/fv4030x/model/model.fbx",
         "statistics": {
-            "lethality": 0,
-            "mobility": 0,
-            "survivability": 0,
-            "utility": 0
+            "lethality": 50,
+            "mobility": 10,
+            "survivability": 60,
+            "utility": 45
         }
     },
     {
@@ -506,10 +506,10 @@
         "abilities": "https://cdn2.heatlabs.net/tanks/ptz89c/abilities.json",
         "model": "https://cdn4.heatlabs.net/ptz89c/model/model.fbx",
         "statistics": {
-            "lethality": 0,
-            "mobility": 0,
-            "survivability": 0,
-            "utility": 0
+            "lethality": 75,
+            "mobility": 15,
+            "survivability": 70,
+            "utility": 44
         }
     },
     {
@@ -722,10 +722,10 @@
         "abilities": "https://cdn2.heatlabs.net/tanks/xm1-v/abilities.json",
         "model": "https://cdn4.heatlabs.net/xm1-v/model/model.fbx",
         "statistics": {
-            "lethality": 0,
-            "mobility": 0,
-            "survivability": 0,
-            "utility": 0
+            "lethality": 55,
+            "mobility": 20,
+            "survivability": 48,
+            "utility": 35
         }
     },
     {
