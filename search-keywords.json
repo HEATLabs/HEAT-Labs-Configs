@@ -720,24 +720,6 @@
     "keywords": ["zenith", "map", "unreleased", "overview"]
   },
   {
-    "name": "General Guides",
-    "description": "Broad tips and strategies for improving overall gameplay",
-    "path": "https://heatlabs.net/guides/general",
-    "keywords": ["guides", "general", "strategy", "tips", "overview"]
-  },
-  {
-    "name": "Map Guides",
-    "description": "Detailed strategies and route planning for each map",
-    "path": "https://heatlabs.net/guides/maps",
-    "keywords": ["map guides", "maps", "strategy", "tactics", "zones"]
-  },
-  {
-    "name": "Tank Guides",
-    "description": "In-depth analysis of tank roles, builds, and combat tips",
-    "path": "https://heatlabs.net/guides/tanks",
-    "keywords": ["tank guides", "tanks", "builds", "combat", "roles", "strategy"]
-  },
-  {
     "name": "Agent Spotlight Akira",
     "description": "Article: Agent Spotlight Akira",
     "path": "https://heatlabs.net/news/agent-spotlight-akira",
@@ -1494,18 +1476,6 @@
     "keywords": ["milestone", "feedback"]
   },
   {
-    "name": "Esmatty's XM1-V Guide",
-    "description": "Guide for the XM1-V tank by Esmatty",
-    "path": "https://heatlabs.net/guides/tanks/esmattys-xm1-v-guide",
-    "keywords": ["guide", "xm1-v", "tank", "esmatty", "strategy", "build"]
-  },
-  {
-    "name": "ALVT Player's Guide",
-    "description": "Guide for the ALVT tank by MarkusKruber",
-    "path": "https://heatlabs.net/guides/tanks/alvt-players-guide",
-    "keywords": ["guide", "alvt", "tank", "strategy", "build"]
-  },
-  {
     "name": "Long Time No See",
     "description": "News update after a period of inactivity",
     "path": "https://heatlabs.net/news/long-time-no-see",
@@ -1642,6 +1612,12 @@
     "description": "Build guide for the XM1-V tank",
     "path": "https://heatlabs.net/guides/tank-guides/xm1-v-build-guide",
     "keywords": ["xm1-v", "build", "guide", "tank", "strategy"]
+  },
+  {
+    "name": "ALVT Player's Guide",
+    "description": "Guide for the ALVT tank by MarkusKruber",
+    "path": "https://heatlabs.net/guides/tank-guides/alvt-players-guide",
+    "keywords": ["guide", "alvt", "tank", "strategy", "build"]
   },
   {
     "name": "Project CW Debrief 1",
