@@ -835,5 +835,59 @@
             "survivability": 39,
             "utility": 67
         }
+    },
+    {
+        "id": 32,
+        "state": "displayed",
+        "name": "M1150 ABV",
+        "slug": "m1150-abv",
+        "nation": "USA",
+        "type": "Defender",
+        "class": "To Be Released",
+        "experience": "0",
+        "credits": "0",
+        "image": "https://cdn7.heatlabs.net/tanks/m1150-abv/m1150-abv.webp",
+        "stock": "https://cdn2.heatlabs.net/tanks/m1150-abv/stock.json",
+        "upgrades": "https://cdn2.heatlabs.net/tanks/m1150-abv/upgrades.json",
+        "consumables": "https://cdn2.heatlabs.net/tanks/m1150-abv/consumables.json",
+        "perks": "https://cdn2.heatlabs.net/tanks/m1150-abv/perks.json",
+        "agents": "https://cdn2.heatlabs.net/tanks/m1150-abv/agents.json",
+        "details": "https://cdn2.heatlabs.net/tanks/m1150-abv/details.json",
+        "builds": "https://cdn2.heatlabs.net/tanks/m1150-abv/builds.json",
+        "abilities": "https://cdn2.heatlabs.net/tanks/m1150-abv/abilities.json",
+        "model": "https://cdn4.heatlabs.net/m1150-abv/model/model.fbx",
+        "statistics": {
+            "lethality": 35,
+            "mobility": 38,
+            "survivability": 60,
+            "utility": 40
+        }
+    },
+    {
+        "id": 33,
+        "state": "displayed",
+        "name": "T-72SH",
+        "slug": "t-72sh",
+        "nation": "USSR",
+        "type": "Defender",
+        "class": "To Be Released",
+        "experience": "0",
+        "credits": "0",
+        "image": "https://cdn7.heatlabs.net/tanks/t-72sh/t-72sh.webp",
+        "stock": "https://cdn2.heatlabs.net/tanks/t-72sh/stock.json",
+        "upgrades": "https://cdn2.heatlabs.net/tanks/t-72sh/upgrades.json",
+        "consumables": "https://cdn2.heatlabs.net/tanks/t-72sh/consumables.json",
+        "perks": "https://cdn2.heatlabs.net/tanks/t-72sh/perks.json",
+        "agents": "https://cdn2.heatlabs.net/tanks/t-72sh/agents.json",
+        "details": "https://cdn2.heatlabs.net/tanks/t-72sh/details.json",
+        "builds": "https://cdn2.heatlabs.net/tanks/t-72sh/builds.json",
+        "abilities": "https://cdn2.heatlabs.net/tanks/t-72sh/abilities.json",
+        "model": "https://cdn4.heatlabs.net/t-72sh/model/model.fbx",
+        "statistics": {
+            "lethality": 0,
+            "mobility": 0,
+            "survivability": 0,
+            "utility": 0
+        }
     }
 ]
