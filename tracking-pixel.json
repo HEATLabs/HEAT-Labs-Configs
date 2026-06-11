@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-07T06:10:42.585883",
+  "generated_at": "2026-06-11T09:59:29.491366",
   "base_cdn_url": "https://views.heatlabs.net/api/track",
   "pixels": [
     {
@@ -2329,6 +2329,22 @@
       "pixel_filename": "pcwstats-tracker-pixel-tournament-maintenance.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-tournament-maintenance.png",
       "html_title": "Tournament Maintenance - HEAT Labs"
+    },
+    {
+      "page_name": "M1150 ABV",
+      "page_identifier": "m1150-abv",
+      "html_file": "tanks/m1150-abv.html",
+      "pixel_filename": "pcwstats-tracker-pixel-m1150-abv.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-m1150-abv.png",
+      "html_title": "M1150 ABV - HEAT Labs"
+    },
+    {
+      "page_name": "M1150 ABV",
+      "page_identifier": "t-72sh",
+      "html_file": "tanks/t-72sh.html",
+      "pixel_filename": "pcwstats-tracker-pixel-t-72sh.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-t-72sh.png",
+      "html_title": "M1150 ABV - HEAT Labs"
     }
   ]
 }
