@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 285,
+    "total_pages": 289,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-05-20T01:47:55.142719"
+    "export_timestamp": "2026-06-14T02:50:40.116680"
   },
   "pages": [
     {
@@ -629,6 +629,13 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
+      "url": "https://heatlabs.net/guides/general-guides/shell-crit-cone-mechanic",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/guides/map-guides",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -639,6 +646,13 @@
       "url": "https://heatlabs.net/guides/tank-guides",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/guides/tank-guides/alvt-players-guide",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1798,6 +1812,13 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
+      "url": "https://heatlabs.net/tanks/m1150-abv",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/tanks/m1e1",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -1892,6 +1913,13 @@
       "url": "https://heatlabs.net/tanks/t-72b",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/tanks/t-72sh",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -2003,22 +2031,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 94,
+      "pending": 98,
       "not_indexed": 0,
       "indexed": 189
     },
     "google_api_status": {
-      "pending": 59,
+      "pending": 63,
       "not_indexed": 0,
       "indexed": 224
     },
     "https_page_status": {
-      "unknown": 251,
+      "unknown": 255,
       "not_https": 0,
       "https": 32
     },
     "breadcrumb_status": {
-      "unknown": 251,
+      "unknown": 255,
       "invalid": 0,
       "valid": 32
     }
