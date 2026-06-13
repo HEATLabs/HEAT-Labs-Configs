@@ -1,11 +1,74 @@
 {
   "updates": [
     {
-      "version": "0.3.414",
+      "version": "0.5.280",
+      "date": "2026-06-13",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #413",
+      "description": "Full patch notes for Update v0.5.280 (#413), detailing all changes made on 13 June, 2026.",
+      "added": [
+        "Moonshot map status updated to Available Now",
+        "Three pre-order charm collectibles added to the gallery",
+        "Founder skin gallery entries added",
+        "Ability video support added across all tank pages",
+        "Additional ALVT-specific ability videos added",
+        "New community FV4030/X build added",
+        "M3E1 module icon set added",
+        "New M1150 ability-related icons added",
+        "New matcha image added to the media collection"
+      ],
+      "changed": [
+        "Tank statistics updated for FV4030, HSTVL and M1150ABV",
+        "M1150 agent abilities updated",
+        "T-72SH ability naming standardized",
+        "Extraction utility upgraded with simple and detailed export modes",
+        "HSTVL page content revised to reflect the latest game information",
+        "Gallery updated with new cosmetic content and associated assets"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected multiple charm icon paths and filenames",
+        "Fixed naming inconsistencies in community tank builds",
+        "Corrected a perk naming typo",
+        "Resolved several spelling, grammar and readability issues across tank pages",
+        "Fixed an incorrect roulette configuration path in the development website",
+        "Improved content accuracy and presentation on the HSTVL page"
+      ]
+    },
+    {
+      "version": "0.5.258",
+      "date": "2026-06-12",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #412",
+      "description": "Full patch notes for Update v0.5.258 (#412), detailing all changes made on 12 June, 2026.",
+      "added": [
+        "New community build for the M1E1 tank added to the database"
+      ],
+      "changed": [
+        "GitHub issue templates refreshed and improved across project repositories",
+        "Project statistics updated",
+        "Changelog data updated",
+        "Daily commit log updated",
+        "GSC index data refreshed",
+        "Meme index expanded with four newly added images",
+        "Multiple tank icons updated to use release-quality artwork",
+        "Tank ability icon assets updated for improved visual consistency"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Various usability and formatting improvements made to GitHub issue reporting workflows"
+      ]
+    },
+    {
+      "version": "0.5.247",
       "date": "2026-06-11",
       "author": "HEAT Labs Team",
-      "title": "Update Number #414",
-      "description": "Full patch notes for Update v0.3.414 (#414), detailing all changes made on 11 June, 2026.",
+      "title": "Update Number #411",
+      "description": "Full patch notes for Update v0.5.247 (#411), detailing all changes made on 11 June, 2026.",
       "added": [
         "New video indexing system introduced",
         "Initial video index batches added to the platform",
@@ -25,11 +88,11 @@
       ]
     },
     {
-      "version": "0.3.413",
+      "version": "0.5.238",
       "date": "2026-06-10",
       "author": "HEAT Labs Team",
-      "title": "Update Number #413",
-      "description": "Full patch notes for Update v0.3.413 (#413), detailing all changes made on 10 June, 2026.",
+      "title": "Update Number #410",
+      "description": "Full patch notes for Update v0.5.238 (#410), detailing all changes made on 10 June, 2026.",
       "added": [
         "Two new tanks added to the database and website",
         "Raw tank stat sheets integrated into the database",
@@ -69,11 +132,11 @@
       ]
     },
     {
-      "version": "0.3.412",
+      "version": "0.5.209",
       "date": "2026-06-09",
       "author": "HEAT Labs Team",
-      "title": "Update Number #412",
-      "description": "Full patch notes for Update v0.3.412 (#412), detailing all changes made on 9 June, 2026.",
+      "title": "Update Number #409",
+      "description": "Full patch notes for Update v0.5.209 (#409), detailing all changes made on 09 June, 2026.",
       "added": [
         "Utility statistics category added to the new tank stat format",
         "Two new tank pages prepared for upcoming releases",
@@ -95,11 +158,11 @@
       ]
     },
     {
-      "version": "0.3.411",
+      "version": "0.5.198",
       "date": "2026-06-08",
       "author": "HEAT Labs Team",
-      "title": "Update Number #411",
-      "description": "Full patch notes for Update v0.3.411 (#411), detailing all changes made on 8 June, 2026.",
+      "title": "Update Number #408",
+      "description": "Full patch notes for Update v0.5.198 (#408), detailing all changes made on 08 June, 2026.",
       "added": [
         "New tank guide published on the website",
         "Guide artwork and supporting assets added",
@@ -124,11 +187,11 @@
       ]
     },
     {
-      "version": "0.3.032",
+      "version": "0.5.184",
       "date": "2026-06-07",
       "author": "HEAT Labs Team",
-      "title": "Update Number #222",
-      "description": "Full patch notes for Update v0.3.032 (#222), detailing all changes made on 7 June, 2026.",
+      "title": "Update Number #407",
+      "description": "Full patch notes for Update v0.5.184 (#407), detailing all changes made on 07 June, 2026.",
       "added": [
         "Added statistical bar data for six previously incomplete tanks",
         "Added a new ALVT vehicle build to the database",
@@ -155,11 +218,11 @@
       ]
     },
     {
-      "version": "0.3.029",
+      "version": "0.5.168",
       "date": "2026-06-06",
       "author": "HEAT Labs Team",
       "title": "Update Number #406",
-      "description": "Full patch notes for Update v0.3.029 (#406), detailing all changes made on 6 June, 2026.",
+      "description": "Full patch notes for Update v0.5.168 (#406), detailing all changes made on 06 June, 2026.",
       "added": [
         "New M60A2 community build submitted by Nimbus added to the database",
         "M60A2 module image set added to the tank image library",
@@ -181,43 +244,43 @@
       ]
     },
     {
-      "version": "0.3.029",
+      "version": "0.5.157",
       "date": "2026-06-05",
       "author": "HEAT Labs Team",
-      "title": "Update Number #406",
-      "description": "Full patch notes for Update v0.3.029 (#406), detailing all changes made on 05 June, 2026.",
+      "title": "Update Number #405",
+      "description": "Full patch notes for Update v0.5.157 (#405), detailing all changes made on 05 June, 2026.",
       "added": [
-      "New FV4030/X community build added to the database",
-      "New FV4030/X module imagery added to the tank image library",
-      "Equipment and agent perk image collections added for supported vehicles",
-      "Template tank images added for future content development",
-      "New meme image added to the HEAT Labs image collection",
-      "Additional XM1-90 module images added"
+        "New FV4030/X community build added to the database",
+        "New FV4030/X module imagery added to the tank image library",
+        "Equipment and agent perk image collections added for supported vehicles",
+        "Template tank images added for future content development",
+        "New meme image added to the HEAT Labs image collection",
+        "Additional XM1-90 module images added"
       ],
       "changed": [
-      "Homepage statistics refreshed with updated project metrics and contributor information",
-      "Game build version updated across platform data files",
-      "Cloudflare traffic analytics data refreshed",
-      "GSC index and export data updated",
-      "Meme index updated to include newly added content",
-      "FV4030/X build data refined with updated authors, equipment, perks, and visual assets",
-      "XM1-V and XM1-90 vehicle descriptions, strengths, and weaknesses revised to better reflect release gameplay",
-      "Team member quotes updated on both production and development websites",
-      "Discord bot contributor, tester, and team member data refreshed",
-      "Discord bot data commands updated to display only currently available tanks, maps, and agents",
-      "Placeholder and module icons updated across tank asset libraries"
+        "Homepage statistics refreshed with updated project metrics and contributor information",
+        "Game build version updated across platform data files",
+        "Cloudflare traffic analytics data refreshed",
+        "GSC index and export data updated",
+        "Meme index updated to include newly added content",
+        "FV4030/X build data refined with updated authors, equipment, perks, and visual assets",
+        "XM1-V and XM1-90 vehicle descriptions, strengths, and weaknesses revised to better reflect release gameplay",
+        "Team member quotes updated on both production and development websites",
+        "Discord bot contributor, tester, and team member data refreshed",
+        "Discord bot data commands updated to display only currently available tanks, maps, and agents",
+        "Placeholder and module icons updated across tank asset libraries"
       ],
       "removed": [
-      "Duplicate XM1-90 module image removed from the tank image library",
-      "Two Leo 1A1B builds hidden from public listings"
+        "Duplicate XM1-90 module image removed from the tank image library",
+        "Two Leo 1A1B builds hidden from public listings"
       ],
       "fixed": [
-      "Corrected equipment image paths in affected build entries",
-      "Fixed perk image references in build data",
-      "Resolved image path issues affecting multiple Discord bot modules",
-      "Corrected data path handling for Discord bot agent commands",
-      "Fixed minor command text and spelling issues within the Discord bot",
-      "Addressed several content inconsistencies across vehicle and build pages"
+        "Corrected equipment image paths in affected build entries",
+        "Fixed perk image references in build data",
+        "Resolved image path issues affecting multiple Discord bot modules",
+        "Corrected data path handling for Discord bot agent commands",
+        "Fixed minor command text and spelling issues within the Discord bot",
+        "Addressed several content inconsistencies across vehicle and build pages"
       ]
     },
     {
