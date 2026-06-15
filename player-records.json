@@ -1,26 +1,86 @@
 [
   {
-    "Total Deaths": {
-      "number": 1,
+    "Total Vehicles Destroyed": {
+      "number": 20,
       "vehicle": "ALVT",
-      "agent": "Chopper",
-      "proof_image": "https://cdn6.heatlabs.net/player-records/test.png",
-      "player_name": "SINEWAVE",
-      "map": "Nord Oko"
+      "agent": "Kent",
+      "proof_image": "https://cdn6.heatlabs.net/player-records/manager218.png",
+      "player_name": "manager218",
+      "map": "Sunstroke"
     },
-    "timestamp": "2026-06-15 05:25:26 UTC",
+    "timestamp": "2026-06-15 06:33:57 UTC",
     "entry_id": 1
   },
   {
     "Total Deaths": {
-      "number": 4,
+      "number": 9,
       "vehicle": "ALVT",
-      "agent": "Chopper",
-      "proof_image": "https://cdn6.heatlabs.net/player-records/test.png",
-      "player_name": "SINEWAVE",
-      "map": "Nord Oko"
+      "agent": "Kent",
+      "proof_image": "https://cdn6.heatlabs.net/player-records/manager218.png",
+      "player_name": "manager218",
+      "map": "Sunstroke"
     },
-    "timestamp": "2026-06-15 05:55:26 UTC",
+    "timestamp": "2026-06-15 06:34:52 UTC",
     "entry_id": 2
+  },
+  {
+    "Total Assists": {
+      "number": 12,
+      "vehicle": "ALVT",
+      "agent": "Kent",
+      "proof_image": "https://cdn6.heatlabs.net/player-records/manager218.png",
+      "player_name": "manager218",
+      "map": "Sunstroke"
+    },
+    "timestamp": "2026-06-15 06:35:55 UTC",
+    "entry_id": 3
+  },
+  {
+    "Total Damage Caused": {
+      "number": 85600,
+      "vehicle": "ALVT",
+      "agent": "Kent",
+      "proof_image": "https://cdn6.heatlabs.net/player-records/manager218.png",
+      "player_name": "manager218",
+      "map": "Sunstroke"
+    },
+    "timestamp": "2026-06-15 06:36:37 UTC",
+    "entry_id": 4
+  },
+  {
+    "Total Damage Blocked": {
+      "number": 8000,
+      "vehicle": "ALVT",
+      "agent": "Kent",
+      "proof_image": "https://cdn6.heatlabs.net/player-records/manager218.png",
+      "player_name": "manager218",
+      "map": "Sunstroke"
+    },
+    "timestamp": "2026-06-15 06:37:29 UTC",
+    "entry_id": 5
+  },
+  {
+    "Total Currency": {
+      "number": 6035,
+      "vehicle": "ALVT",
+      "agent": "Kent",
+      "proof_image": "https://cdn6.heatlabs.net/player-records/manager218.png",
+      "player_name": "manager218",
+      "map": "Sunstroke"
+    },
+    "timestamp": "2026-06-15 06:37:55 UTC",
+    "entry_id": 6
+  },
+  {
+    "Total Tech Coins": {
+      "number": 50,
+      "vehicle": "ALVT",
+      "agent": "Kent",
+      "proof_image": "https://cdn6.heatlabs.net/player-records/manager218.png",
+      "player_name": "manager218",
+      "map": "Sunstroke"
+    },
+    "timestamp": "2026-06-15 06:38:16 UTC",
+    "entry_id": 7
   }
 ]
