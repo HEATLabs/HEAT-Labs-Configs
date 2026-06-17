@@ -6,8 +6,18 @@
         "creator": "HEAT Labs",
         "category": "Gameplay",
         "status": "Available Now",
-        "gameVersion": "1.0.0+",
+        "gameVersion": "1.0.0.1",
         "description": "Configure your World of Tanks: HEAT instance with advanced settings and customization options.",
-        "image": "https://cdn6.heatlabs.net/playground/GameConfigurator.webp"
+        "image": "https://cdn6.heatlabs.net/mods/GameConfigurator.webp"
+    },{
+        "id": 2,
+        "name": "FUSE",
+        "slug": "https://github.com/AET9RNAL/HEAT-FUSE",
+        "creator": "AET9RNAL",
+        "category": "Interface",
+        "status": "Available Now",
+        "gameVersion": "1.0.0.1",
+        "description": "A powerful modding runtime for creating overlays, UI reskins, and gameplay-enhancing tools.",
+        "image": "https://cdn6.heatlabs.net/mods/Fuse.webp"
     }
 ]
