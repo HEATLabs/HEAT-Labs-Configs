@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T07:16:03.847704",
+  "last_updated": "2026-06-18T05:01:16.759215",
   "builds": {
     "World of Tanks: HEAT": {
       "39c08ff0c694c4f5caefc19ad539385e93191f666e6f49a3902b66d74d24ca1c": {
@@ -590,6 +590,74 @@
                 "file_name": "0.0.366.6075/heat_0.0.366.6075_client.wgpkg.005",
                 "package": "heat_0.0.366.6075_client.wgpkg.005",
                 "size_bytes": 1816891594,
+                "size_formatted": "1.69 GB",
+                "unpacked_bytes": 0,
+                "unpacked_formatted": "0 B"
+              }
+            ]
+          }
+        ],
+        "delay_preload": false
+      },
+      "a28615e1456f5767ba443bf3b41cd5b7ae2e0a12930e31f5a47c2f2a8927fd64": {
+        "build_info": {
+          "content_hash": "a28615e1456f5767ba443bf3b41cd5b7ae2e0a12930e31f5a47c2f2a8927fd64",
+          "display_name": "World of Tanks: HEAT",
+          "build_date": "2026.05.26 18:04:08",
+          "version_name": "1.0.3",
+          "compressed_size": "17.32 GB",
+          "uncompressed_size": "21.98 GB",
+          "file_count": 5
+        },
+        "web_seeds": [
+          {
+            "url": "http://dl-cw-gc.wargaming.net/heat.ww.production/wds_default/patches/",
+            "threads": 4,
+            "protocol": ""
+          }
+        ],
+        "patches": [
+          {
+            "chain_type": "install",
+            "part": "client",
+            "version_to": "0.0.372.6088",
+            "files": [
+              {
+                "file_name": "0.0.372.6088/heat_0.0.372.6088_client.wgpkg.001",
+                "package": "heat_0.0.372.6088_client.wgpkg.001",
+                "size_bytes": 4194304000,
+                "size_formatted": "3.91 GB",
+                "unpacked_bytes": 23596507934,
+                "unpacked_formatted": "21.98 GB"
+              },
+              {
+                "file_name": "0.0.372.6088/heat_0.0.372.6088_client.wgpkg.002",
+                "package": "heat_0.0.372.6088_client.wgpkg.002",
+                "size_bytes": 4194304000,
+                "size_formatted": "3.91 GB",
+                "unpacked_bytes": 0,
+                "unpacked_formatted": "0 B"
+              },
+              {
+                "file_name": "0.0.372.6088/heat_0.0.372.6088_client.wgpkg.003",
+                "package": "heat_0.0.372.6088_client.wgpkg.003",
+                "size_bytes": 4194304000,
+                "size_formatted": "3.91 GB",
+                "unpacked_bytes": 0,
+                "unpacked_formatted": "0 B"
+              },
+              {
+                "file_name": "0.0.372.6088/heat_0.0.372.6088_client.wgpkg.004",
+                "package": "heat_0.0.372.6088_client.wgpkg.004",
+                "size_bytes": 4194304000,
+                "size_formatted": "3.91 GB",
+                "unpacked_bytes": 0,
+                "unpacked_formatted": "0 B"
+              },
+              {
+                "file_name": "0.0.372.6088/heat_0.0.372.6088_client.wgpkg.005",
+                "package": "heat_0.0.372.6088_client.wgpkg.005",
+                "size_bytes": 1816882869,
                 "size_formatted": "1.69 GB",
                 "unpacked_bytes": 0,
                 "unpacked_formatted": "0 B"
