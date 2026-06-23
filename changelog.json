@@ -1,6 +1,237 @@
 {
   "updates": [
     {
+      "version": "0.5.361",
+      "date": "2026-06-23",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #423",
+      "description": "Full patch notes for Update v0.5.361 (#423), detailing all changes made on 23 June, 2026.",
+      "added": [
+        "New Weekend Chase Event Statistics page added to the platform",
+        "Weekend Chase statistics page added to the Playground section",
+        "Additional event data file added to support event analytics",
+        "Thirteen previously missing event-data shards added to the event dataset",
+        "New image placeholders added for upcoming Playground pages",
+        "Tracking support added for the new statistics page"
+      ],
+      "changed": [
+        "Event data delivery migrated to Cloudflare CDN infrastructure",
+        "Weekend Chase statistics experience completely reworked",
+        "Event data indexing updated and optimized for improved data access",
+        "Weekend Chase statistics logic updated to support revised day column naming",
+        "Weekend Chase page styling and frontend logic refined",
+        "Event analysis dataset expanded with complete event records"
+      ],
+      "removed": [
+        "Player ID fields removed from the Weekend Chase statistics page",
+        "Player Records page removed from the main Playground section",
+        "Legacy event-data CDN dependency removed from statistics lookups"
+      ],
+      "fixed": [
+        "Improved event data reliability by restoring missing shard records",
+        "Cleaned and standardized Weekend Chase statistics page scripts and formatting",
+        "Resolved inconsistencies in event data indexing and retrieval"
+      ]
+    },
+    {
+      "version": "0.5.343",
+      "date": "2026-06-22",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #422",
+      "description": "Full patch notes for Update v0.5.343 (#422), detailing all changes made on 22 June, 2026.",
+      "added": [
+        "Configurator information buttons added across all configuration tabs",
+        "New XM1-V community build added to the database",
+        "Two new meme images added to the media library",
+        "Interactive map overview mode added to map pages"
+      ],
+      "changed": [
+        "Configurator updated to version 1.2.5",
+        "Map pages enhanced with interactive overview functionality",
+        "Meme index updated with newly added images"
+      ],
+      "removed": [
+        "One XM1-V community build hidden from public listings"
+      ],
+      "fixed": [
+        "Corrected a tank agent perk naming issue",
+        "Corrected an equipment naming typo"
+      ]
+    },
+    {
+      "version": "0.5.333",
+      "date": "2026-06-21",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #421",
+      "description": "Full patch notes for Update v0.5.333 (#421), detailing all changes made on 21 June, 2026.",
+      "added": [
+        "Profile saving functionality added to the Configurator",
+        "Profile editing options expanded within the Configurator",
+        "Protection added to prevent simultaneous editing of multiple profiles",
+        "New HSTV-L community build added",
+        "New Easter Egg loading message added to the Builds page",
+        "Navigation controls added to the HEAT Labs Desktop application"
+      ],
+      "changed": [
+        "Configurator upgraded through multiple releases to version 1.2.4",
+        "Main Configurator logic reorganized and refined",
+        "Desktop application dependencies updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Resolved share URL issues affecting the Builds page"
+      ]
+    },
+    {
+      "version": "0.5.322",
+      "date": "2026-06-20",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #420",
+      "description": "Full patch notes for Update v0.5.322 (#420), detailing all changes made on 20 June, 2026.",
+      "added": [
+        "New community builds added for the M1E1, Object 287 and Leopard 1A6",
+        "Upgrade placeholder assets added across all tank files"
+      ],
+      "changed": [
+        "Tank, map and agent listings now sort alphabetically while prioritizing featured content",
+        "Tank page filtering refined for improved browsing",
+        "Multiple tank pages updated with release-accurate descriptions and summaries",
+        "Placeholder module assets adjusted for improved visual consistency"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected metadata issues on the M1150 ABV page",
+        "Corrected metadata issues on the T-72SH page",
+        "Resolved multiple text, formatting and content accuracy issues across tank pages"
+      ]
+    },
+    {
+      "version": "0.5.312",
+      "date": "2026-06-19",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #419",
+      "description": "Full patch notes for Update v0.5.312 (#419), detailing all changes made on 19 June, 2026.",
+      "added": [
+        "Top-down tactical image added for the Moonshot map"
+      ],
+      "changed": [
+        "Moonshot map pages updated with the new overview image"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.5.308",
+      "date": "2026-06-18",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #418",
+      "description": "Full patch notes for Update v0.5.308 (#418), detailing all changes made on 18 June, 2026.",
+      "added": [
+        "New Agents page added to navigation across all HEAT Labs services and platforms",
+        "Agents page support added to internal page generation tools"
+      ],
+      "changed": [
+        "Sidebar navigation refreshed across the entire HEAT Labs ecosystem",
+        "Game build version information updated",
+        "Build version history revised to reflect the latest release information",
+        "Footer version display updated with dynamic version toggles"
+      ],
+      "removed": [
+        "Video schema removed from the Video Showcase page"
+      ],
+      "fixed": [
+        "Corrected WIP labels associated with new navigation entries",
+        "Updated sidebar icon assignments for improved visual clarity",
+        "Fixed incorrect mod index paths",
+        "Corrected search keyword index entries",
+        "Resolved redirect issues affecting the Mods page"
+      ]
+    },
+    {
+      "version": "0.5.296",
+      "date": "2026-06-17",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #417",
+      "description": "Full patch notes for Update v0.5.296 (#417), detailing all changes made on 17 June, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.5.292",
+      "date": "2026-06-16",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #416",
+      "description": "Full patch notes for Update v0.5.292 (#416), detailing all changes made on 16 June, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.5.288",
+      "date": "2026-06-15",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #415",
+      "description": "Full patch notes for Update v0.5.288 (#415), detailing all changes made on 15 June, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.5.284",
+      "date": "2026-06-14",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #414",
+      "description": "Full patch notes for Update v0.5.284 (#414), detailing all changes made on 14 June, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.5.280",
       "date": "2026-06-13",
       "author": "HEAT Labs Team",
