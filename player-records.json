@@ -809,6 +809,26 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/22062026_Dutch_Elephant-3.png"
                 }
+            ],
+            "Mehmed35": [
+                {
+                    "captures": 0,
+                    "destroyed": 21,
+                    "deaths": 2,
+                    "assists": 19,
+                    "damage_caused": 81600,
+                    "damage_blocked": 60,
+                    "credits": 6873,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 13745,
+                    "agent": "Hound",
+                    "vehicle": "Leo 1A6A1",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/25062026_Mehmed35.png"
+                }
             ]
         },
         "hardpoint": {
@@ -1263,6 +1283,27 @@
                     "map": "Moonshot",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/22062026_legocity2000-2.png"
+                }
+            ],
+            "Dutch_Elephant": [
+                {
+                    "confirms": 5,
+                    "denies": 3,
+                    "destroyed": 13,
+                    "deaths": 13,
+                    "assists": 16,
+                    "damage_caused": 50400,
+                    "damage_blocked": 0,
+                    "credits": 5019,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 10030,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Defeat",
+                    "map": "Blossom Crash",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/25062026_Dutch_Elephant.png"
                 }
             ]
         }
