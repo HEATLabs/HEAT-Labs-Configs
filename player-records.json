@@ -1,6 +1,13 @@
 {
     "records": {
-        "ROOT": {},
+        "ROOT": {
+            "last_updated": {
+                "conquest": "2026-06-26T00:00:00Z",
+                "control": "2026-06-26T00:00:00Z",
+                "hardpoint": "2026-06-26T00:00:00Z",
+                "kill-confirmed": "2026-06-26T00:00:00Z"
+            }
+        },
         "conquest": {
             "IAmEdWards_": [
                 {
