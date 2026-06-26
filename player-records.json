@@ -255,6 +255,44 @@
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/26062026_Darkburrow.webp"
                 }
+            ],
+            "XM8_Jaeger": [
+                {
+                    "captures": 0,
+                    "destroyed": 13,
+                    "deaths": 6,
+                    "assists": 6,
+                    "damage_caused": 35700,
+                    "damage_blocked": 9200,
+                    "credits": 3552,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 6705,
+                    "agent": "Kent",
+                    "vehicle": "XM1-90",
+                    "outcome": "Victory",
+                    "map": "Nexus Dam",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/26062026_XM8_Jaeger-1.webp"
+                },
+                {
+                    "captures": 4,
+                    "destroyed": 18,
+                    "deaths": 6,
+                    "assists": 7,
+                    "damage_caused": 48000,
+                    "damage_blocked": 8000,
+                    "credits": 5600,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 10800,
+                    "agent": "Raketa",
+                    "vehicle": "T-62AV",
+                    "outcome": "Victory",
+                    "map": "Nexus Dam",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/26062026_XM8_Jaeger-2.webp"
+                }
             ]
         },
         "control": {
