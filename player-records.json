@@ -235,6 +235,26 @@
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/26062026_seabass.webp"
                 }
+            ],
+            "Darkburrow": [
+                {
+                    "captures": 5,
+                    "destroyed": 12,
+                    "deaths": 2,
+                    "assists": 4,
+                    "damage_caused": 24100,
+                    "damage_blocked": 9800,
+                    "credits": 3698,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 6995,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/26062026_Darkburrow.webp"
+                }
             ]
         },
         "control": {
@@ -1413,6 +1433,25 @@
                     "map": "Blossom Crash",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/24062026_XM8_Jaeger.webp"
+                },
+                {
+                    "confirms": 8,
+                    "denies": 0,
+                    "destroyed": 12,
+                    "deaths": 2,
+                    "assists": 10,
+                    "damage_caused": 29700,
+                    "damage_blocked": 0,
+                    "credits": 2975,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 5940,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Victory",
+                    "map": "Nord Oko",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/26052026_XM8_Jaeger.webp"
                 }
             ],
             "surgical_steel_ger": [
