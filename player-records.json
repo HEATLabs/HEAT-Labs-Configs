@@ -38,6 +38,24 @@
                     "map": "Project Phoenix",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/06062026_IAmEdWards_-2.webp"
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 7,
+                    "deaths": 2,
+                    "assists": 3,
+                    "damage_caused": 20500,
+                    "damage_blocked": 12000,
+                    "credits": 3722,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 7045,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Project Phoenix",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/26062026_IAmEdWards_.webp"
                 }
             ],
             "Ioreen2S": [
@@ -924,6 +942,66 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/26062026__FORTYN4_.webp"
+                }
+            ],
+            "AET3RNAL": [
+                {
+                    "captures": 2,
+                    "destroyed": 20,
+                    "deaths": 8,
+                    "assists": 15,
+                    "damage_caused": 70500,
+                    "damage_blocked": 1200,
+                    "credits": 7818,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 15635,
+                    "agent": "Fuzzer",
+                    "vehicle": "Marder 1A3",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/26062026_AET3RNAL.webp"
+                }
+            ],
+            "robben7891": [
+                {
+                    "captures": 3,
+                    "destroyed": 11,
+                    "deaths": 7,
+                    "assists": 18,
+                    "damage_caused": 54100,
+                    "damage_blocked": 1200,
+                    "credits": 5728,
+                    "tech": 75,
+                    "intel": 40,
+                    "XP": 11455,
+                    "agent": "Twister",
+                    "vehicle": "HSTV-L",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/26062026_robben7891.webp"
+                }
+            ],
+            "SINEWAVE_": [
+                {
+                    "captures": 2,
+                    "destroyed": 8,
+                    "deaths": 3,
+                    "assists": 7,
+                    "damage_caused": 16900,
+                    "damage_blocked": 891,
+                    "credits": 1229,
+                    "tech": 38,
+                    "intel": 180,
+                    "XP": 4915,
+                    "agent": "Reaper",
+                    "vehicle": "M60A2",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/26062026_SINEWAVE_.webp"
                 }
             ]
         },
