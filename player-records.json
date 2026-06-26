@@ -62,7 +62,25 @@
                     "outcome": "Victory",
                     "map": "Project Phoenix",
                     "mode": "Conquest",
-                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/26062026_IAmEdWards_.webp"
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/26062026_IAmEdWards_-1.webp"
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 3,
+                    "deaths": 2,
+                    "assists": 9,
+                    "damage_caused": 22500,
+                    "damage_blocked": 14700,
+                    "credits": 3715,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 7050,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Defeat",
+                    "map": "Aircraft Carrier",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/26062026_IAmEdWards_-2.webp"
                 }
             ],
             "Ioreen2S": [
@@ -299,6 +317,24 @@
                     "map": "Nexus Dam",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/26062026_XM8_Jaeger-2.webp"
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 5,
+                    "deaths": 4,
+                    "assists": 5,
+                    "damage_caused": 18400,
+                    "damage_blocked": 12800,
+                    "credits": 2380,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 4575,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Defeat",
+                    "map": "Aircraft Carrier",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/26062026_XM8_Jaeger-3.webp"
                 }
             ]
         },
@@ -1068,6 +1104,46 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/26062026_SINEWAVE_.webp"
                 }
+            ],
+            "_Keito": [
+                {
+                    "captures": 3,
+                    "destroyed": 16,
+                    "deaths": 7,
+                    "assists": 16,
+                    "damage_caused": 59600,
+                    "damage_blocked": 13600,
+                    "credits": 5943,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 11885,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/26062026__Keito.webp"
+                }
+            ],
+            "Seronimos": [
+                {
+                    "captures": 2,
+                    "destroyed": 14,
+                    "deaths": 5,
+                    "assists": 7,
+                    "damage_caused": 43000,
+                    "damage_blocked": 11400,
+                    "credits": 3820,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 7640,
+                    "agent": "Reaper",
+                    "vehicle": "M60A1",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/26062026_Seronimos.webp"
+                }
             ]
         },
         "hardpoint": {
@@ -1205,6 +1281,46 @@
                     "map": "Nexus Dam",
                     "mode": "Hardpoint",
                     "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/07062026_Pasta_Boi.webp"
+                }
+            ],
+            "Dutch_Elephant": [
+                {
+                    "captures": 1,
+                    "destroyed": 5,
+                    "deaths": 2,
+                    "assists": 6,
+                    "damage_caused": 17700,
+                    "damage_blocked": 3200,
+                    "credits": 2060,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 3320,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/26062026_Dutch_Elephant.webp"
+                }
+            ],
+            "Tmc_338": [
+                {
+                    "captures": 6,
+                    "destroyed": 18,
+                    "deaths": 3,
+                    "assists": 9,
+                    "damage_caused": 49900,
+                    "damage_blocked": 11200,
+                    "credits": 6732,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 12665,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Victory",
+                    "map": "Nexus Dam",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/26062026_Tmc_338.webp"
                 }
             ]
         },
@@ -1581,6 +1697,27 @@
                     "map": "Blossom Crash",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/25062026_Dutch_Elephant.webp"
+                }
+            ],
+            "Tmc_338": [
+                {
+                    "confirms": 3,
+                    "denies": 1,
+                    "destroyed": 14,
+                    "deaths": 2,
+                    "assists": 11,
+                    "damage_caused": 55600,
+                    "damage_blocked": 0,
+                    "credits": 3754,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 7500,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Defeat",
+                    "map": "Nord Oko",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/26052026_Tmc_338.webp"
                 }
             ]
         }
