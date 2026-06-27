@@ -179,6 +179,42 @@
                     "map": "Blossom Crash",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/07062026_Dutch_Elephant-1.webp"
+                },
+                {
+                    "captures": 5,
+                    "destroyed": 13,
+                    "deaths": 8,
+                    "assists": 9,
+                    "damage_caused": 40900,
+                    "damage_blocked": 9600,
+                    "credits": 5055,
+                    "tech": 60,
+                    "intel": 50,
+                    "XP": 9710,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Victory",
+                    "map": "Nord Oko",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/27062026_Dutch_Elephant-1.webp"
+                },
+                {
+                    "captures": 1,
+                    "destroyed": 14,
+                    "deaths": 9,
+                    "assists": 2,
+                    "damage_caused": 43600,
+                    "damage_blocked": 7600,
+                    "credits": 3855,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 7350,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Defeat",
+                    "map": "Nord Oko",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/27062026_Dutch_Elephant-2.webp"
                 }
             ],
             "legocity2000": [
@@ -335,6 +371,84 @@
                     "map": "Aircraft Carrier",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/26062026_XM8_Jaeger-3.webp"
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 16,
+                    "deaths": 3,
+                    "assists": 6,
+                    "damage_caused": 49100,
+                    "damage_blocked": 5300,
+                    "credits": 4868,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 9335,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Project Phoenix",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/27062026_XM8_Jaeger.webp"
+                }
+            ],
+            "esmatty": [
+                {
+                    "captures": 4,
+                    "destroyed": 5,
+                    "deaths": 6,
+                    "assists": 1,
+                    "damage_caused": 20800,
+                    "damage_blocked": 11800,
+                    "credits": 2855,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 5630,
+                    "agent": "Ember",
+                    "vehicle": "XM1-V",
+                    "outcome": "Defeat",
+                    "map": "Nexus Dam",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/27062026_esmatty.webp"
+                }
+            ],
+            "Xevareth": [
+                {
+                    "captures": 3,
+                    "destroyed": 16,
+                    "deaths": 6,
+                    "assists": 7,
+                    "damage_caused": 52100,
+                    "damage_blocked": 6000,
+                    "credits": 5140,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 9880,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Victory",
+                    "map": "Nexus Dam",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/27062026_Xevareth.webp"
+                }
+            ],
+            "xUncleD": [
+                {
+                    "captures": 2,
+                    "destroyed": 18,
+                    "deaths": 7,
+                    "assists": 19,
+                    "damage_caused": 75500,
+                    "damage_blocked": 12600,
+                    "credits": 7500,
+                    "tech": 60,
+                    "intel": 160,
+                    "XP": 15000,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/27062026_xUncleD.webp"
                 }
             ]
         },
@@ -1143,6 +1257,26 @@
                     "map": "Blossom Crash",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/26062026_Seronimos.webp"
+                }
+            ],
+            "dionXsot": [
+                {
+                    "captures": 5,
+                    "destroyed": 8,
+                    "deaths": 4,
+                    "assists": 9,
+                    "damage_caused": 30900,
+                    "damage_blocked": 1800,
+                    "credits": 4863,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 9725,
+                    "agent": "Fuzzer",
+                    "vehicle": "Bradley M3A1",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/27062026_dionXsot.webp"
                 }
             ]
         },
