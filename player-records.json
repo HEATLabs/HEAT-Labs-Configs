@@ -540,6 +540,26 @@
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/27062026_xUncleD.webp"
                 }
+            ],
+            "fishmanisnice": [
+                {
+                    "captures": 0,
+                    "destroyed": 12,
+                    "deaths": 2,
+                    "assists": 10,
+                    "damage_caused": 44700,
+                    "damage_blocked": 1700,
+                    "credits": 7938,
+                    "tech": 40,
+                    "intel": 80,
+                    "XP": 15620,
+                    "agent": "Hound",
+                    "vehicle": "Leo 1A6A1",
+                    "outcome": "Defeat",
+                    "map": "Project Phoenix",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/28062026_fishmanisnice.webp"
+                }
             ]
         },
         "control": {
@@ -1660,6 +1680,44 @@
                     "mode": "Hardpoint",
                     "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/26062026_Tmc_338.webp"
                 }
+            ],
+            "SINEWAVE_": [
+                {
+                    "captures": 2,
+                    "destroyed": 8,
+                    "deaths": 2,
+                    "assists": 5,
+                    "damage_caused": 25800,
+                    "damage_blocked": 1100,
+                    "credits": 4108,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 7415,
+                    "agent": "Hound",
+                    "vehicle": "Leo 1A6A1",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/28062026_SINEWAVE_-1.webp"
+                },
+                {
+                    "captures": 1,
+                    "destroyed": 10,
+                    "deaths": 3,
+                    "assists": 6,
+                    "damage_caused": 25700,
+                    "damage_blocked": 1400,
+                    "credits": 3858,
+                    "tech": 75,
+                    "intel": 40,
+                    "XP": 6915,
+                    "agent": "Hound",
+                    "vehicle": "Leo 1A6A1",
+                    "outcome": "Victory",
+                    "map": "Project Phoenix",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/28062026_SINEWAVE_-2.webp"
+                }
             ]
         },
         "kill-confirmed": {
@@ -2178,6 +2236,27 @@
                     "map": "Scarred City",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/28062026_seabass.webp"
+                }
+            ],
+            "manager218": [
+                {
+                    "confirms": 5,
+                    "denies": 0,
+                    "destroyed": 24,
+                    "deaths": 6,
+                    "assists": 15,
+                    "damage_caused": 77000,
+                    "damage_blocked": 0,
+                    "credits": 8704,
+                    "tech": 50,
+                    "intel": 120,
+                    "XP": 17400,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Defeat",
+                    "map": "Scarred City",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/28062026_manager218.webp"
                 }
             ]
         }
