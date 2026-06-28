@@ -215,6 +215,96 @@
                     "map": "Nord Oko",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/27062026_Dutch_Elephant-2.webp"
+                },
+                {
+                    "captures": 1,
+                    "destroyed": 14,
+                    "deaths": 9,
+                    "assists": 2,
+                    "damage_caused": 43600,
+                    "damage_blocked": 7600,
+                    "credits": 3855,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 7350,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Defeat",
+                    "map": "Nord Oko",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/27062026_Dutch_Elephant-3.webp"
+                },
+                {
+                    "captures": 8,
+                    "destroyed": 9,
+                    "deaths": 2,
+                    "assists": 6,
+                    "damage_caused": 30200,
+                    "damage_blocked": 5800,
+                    "credits": 5042,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 9685,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Victory",
+                    "map": "Nexus Dam",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/27062026_Dutch_Elephant-4.webp"
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 6,
+                    "deaths": 2,
+                    "assists": 1,
+                    "damage_caused": 18900,
+                    "damage_blocked": 12700,
+                    "credits": 2885,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 5370,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/27062026_Dutch_Elephant-5.webp"
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 5,
+                    "deaths": 4,
+                    "assists": 4,
+                    "damage_caused": 25700,
+                    "damage_blocked": 15700,
+                    "credits": 3390,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 6470,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Defeat",
+                    "map": "Aircraft Carrier",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/27062026_Dutch_Elephant-6.webp"
+                },
+                {
+                    "captures": 8,
+                    "destroyed": 7,
+                    "deaths": 5,
+                    "assists": 2,
+                    "damage_caused": 15500,
+                    "damage_blocked": 2300,
+                    "credits": 3028,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 5655,
+                    "agent": "Raketa",
+                    "vehicle": "T-62AV",
+                    "outcome": "Victory",
+                    "map": "Project Phoenix",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/28062026_Dutch_Elephant.webp"
                 }
             ],
             "legocity2000": [
@@ -1278,6 +1368,102 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/27062026_dionXsot.webp"
                 }
+            ],
+            "RenaKyn": [
+                {
+                    "captures": 3,
+                    "destroyed": 7,
+                    "deaths": 5,
+                    "assists": 7,
+                    "damage_caused": 30700,
+                    "damage_blocked": 3800,
+                    "credits": 3133,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 6265,
+                    "agent": "Hound",
+                    "vehicle": "Leo 1A6A1",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/27062026_RenaKyn.webp"
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 6,
+                    "deaths": 4,
+                    "assists": 10,
+                    "damage_caused": 32400,
+                    "damage_blocked": 3000,
+                    "credits": 3718,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 7435,
+                    "agent": "Hound",
+                    "vehicle": "Leo 1A6A1",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/28062026_RenaKyn.webp"
+                }
+            ],
+            "seabass": [
+                {
+                    "captures": 4,
+                    "destroyed": 16,
+                    "deaths": 6,
+                    "assists": 16,
+                    "damage_caused": 47800,
+                    "damage_blocked": 6300,
+                    "credits": 5843,
+                    "tech": 60,
+                    "intel": 200,
+                    "XP": 11685,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/27062026_seabass.webp"
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 20,
+                    "deaths": 2,
+                    "assists": 11,
+                    "damage_caused": 45800,
+                    "damage_blocked": 4300,
+                    "credits": 5310,
+                    "tech": 60,
+                    "intel": 360,
+                    "XP": 10620,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/28062026_seabass.webp"
+                }
+            ],
+            "Tmc_338": [
+                {
+                    "captures": 5,
+                    "destroyed": 15,
+                    "deaths": 11,
+                    "assists": 12,
+                    "damage_caused": 55300,
+                    "damage_blocked": 19500,
+                    "credits": 6658,
+                    "tech": 50,
+                    "intel": 0,
+                    "XP": 13315,
+                    "agent": "Raketa",
+                    "vehicle": "Object 287",
+                    "outcome": "Draw",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/27062026_Tmc_338.webp"
+                }
             ]
         },
         "hardpoint": {
@@ -1435,6 +1621,24 @@
                     "map": "Scarred City",
                     "mode": "Hardpoint",
                     "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/26062026_Dutch_Elephant.webp"
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 11,
+                    "deaths": 7,
+                    "assists": 8,
+                    "damage_caused": 40800,
+                    "damage_blocked": 10400,
+                    "credits": 4374,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 8040,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/27062026_Dutch_Elephant.webp"
                 }
             ],
             "Tmc_338": [
@@ -1582,7 +1786,7 @@
                     "outcome": "Victory",
                     "map": "Project Phoenix",
                     "mode": "Kill Confirmed",
-                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/Claudia-Leroch-04062026.webp"
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/04062026_Claudia-Leroch.webp"
                 }
             ],
             "Ioreen2S-1": [
@@ -1852,6 +2056,67 @@
                     "map": "Nord Oko",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/26052026_Tmc_338.webp"
+                },
+                {
+                    "confirms": 19,
+                    "denies": 1,
+                    "destroyed": 16,
+                    "deaths": 7,
+                    "assists": 8,
+                    "damage_caused": 42900,
+                    "damage_blocked": 0,
+                    "credits": 4472,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 8935,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Victory",
+                    "map": "Moonshot",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/28062026_Tmc_338.webp"
+                }
+            ],
+            "dionXsot": [
+                {
+                    "confirms": 6,
+                    "denies": 0,
+                    "destroyed": 7,
+                    "deaths": 4,
+                    "assists": 9,
+                    "damage_caused": 28400,
+                    "damage_blocked": 0,
+                    "credits": 2408,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 4805,
+                    "agent": "Twister",
+                    "vehicle": "HSTV-L",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/28062026_dionXsot.webp"
+                }
+            ],
+            "RenaKyn": [
+                {
+                    "confirms": 3,
+                    "denies": 1,
+                    "destroyed": 3,
+                    "deaths": 5,
+                    "assists": 14,
+                    "damage_caused": 25800,
+                    "damage_blocked": 0,
+                    "credits": 1765,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 3520,
+                    "agent": "Hound",
+                    "vehicle": "Leo 1A6A1",
+                    "outcome": "Victory",
+                    "map": "Nord Oko",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/28062026_RenaKyn.webp"
                 }
             ]
         }
