@@ -1484,6 +1484,26 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/27062026_Tmc_338.webp"
                 }
+            ],
+            "ngu_fighter": [
+                {
+                    "captures": 1,
+                    "destroyed": 10,
+                    "deaths": 6,
+                    "assists": 9,
+                    "damage_caused": 42100,
+                    "damage_blocked": 13300,
+                    "credits": 4713,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 9425,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Defeat",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/28062026_ngu_fighter.webp"
+                }
             ]
         },
         "hardpoint": {
@@ -2257,6 +2277,27 @@
                     "map": "Scarred City",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/28062026_manager218.webp"
+                }
+            ],
+            "Speed": [
+                {
+                    "confirms": 17,
+                    "denies": 3,
+                    "destroyed": 13,
+                    "deaths": 2,
+                    "assists": 8,
+                    "damage_caused": 33200,
+                    "damage_blocked": 0,
+                    "credits": 3840,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 7670,
+                    "agent": "Raketa",
+                    "vehicle": "Object 287",
+                    "outcome": "Victory",
+                    "map": "Moonshot",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/28062026_Speed.webp"
                 }
             ]
         }
