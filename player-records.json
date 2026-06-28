@@ -1829,6 +1829,25 @@
                     "map": "Blossom Crash",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/15062026_IAmEdWards_-3.webp"
+                },
+                {
+                    "confirms": 1,
+                    "denies": 1,
+                    "destroyed": 17,
+                    "deaths": 5,
+                    "assists": 12,
+                    "damage_caused": 56700,
+                    "damage_blocked": 0,
+                    "credits": 7950,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 15890,
+                    "agent": "Fuzzer",
+                    "vehicle": "Bradley M3A1",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/28062026_IAmEdWards_.webp"
                 }
             ],
             "Avenging_Angel_40": [
@@ -2117,6 +2136,48 @@
                     "map": "Nord Oko",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/28062026_RenaKyn.webp"
+                }
+            ],
+            "Umi_Bozu": [
+                {
+                    "confirms": 0,
+                    "denies": 0,
+                    "destroyed": 13,
+                    "deaths": 2,
+                    "assists": 20,
+                    "damage_caused": 62200,
+                    "damage_blocked": 0,
+                    "credits": 8336,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 16665,
+                    "agent": "Fuzzer",
+                    "vehicle": "Marder 1A3",
+                    "outcome": "Defeat",
+                    "map": "Scarred City",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/28062026_Umi_Bozu.webp"
+                }
+            ],
+            "seabass": [
+                {
+                    "confirms": 16,
+                    "denies": 2,
+                    "destroyed": 15,
+                    "deaths": 7,
+                    "assists": 5,
+                    "damage_caused": 39700,
+                    "damage_blocked": 0,
+                    "credits": 4668,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 9325,
+                    "agent": "Reaper",
+                    "vehicle": "M60A1",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/28062026_seabass.webp"
                 }
             ]
         }
