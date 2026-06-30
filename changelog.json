@@ -1,36 +1,193 @@
 {
   "updates": [
     {
-      "version": "0.5.361",
+      "version": "0.5.428",
+      "date": "2026-06-29",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #429",
+      "description": "Full patch notes for Update v0.5.428 (#429), detailing all changes made on 29 June, 2026.",
+      "added": [
+        "New Discord bot command introduced for accessing player records",
+        "Five new banner variants added to the HEAT Labs Brand Kit",
+        "Initial work-in-progress Python version of the Record Keeper tool added"
+      ],
+      "changed": [
+        "Discord bot documentation updated to include the new command",
+        "Help command index refreshed with the latest command reference",
+        "Development website bot documentation synchronized with the latest command documentation"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.5.420",
+      "date": "2026-06-28",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #428",
+      "description": "Full patch notes for Update v0.5.420 (#428), detailing all changes made on 28 June, 2026.",
+      "added": [
+        "Twenty-four new Player Record proofs added",
+        "First batch of non-standard Player Record proofs introduced"
+      ],
+      "changed": [
+        "Player Records index expanded with twenty-four new entries",
+        "All blog images optimized",
+        "All feature images optimized",
+        "All guide images optimized",
+        "All map images optimized",
+        "All news images optimized",
+        "All tank and agent images optimized"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected dates for multiple Player Record proofs",
+        "Corrected an incorrectly named player in the records database",
+        "Fixed an incorrectly named Player Record proof",
+        "Resolved an issue affecting one Player Record entry"
+      ]
+    },
+    {
+      "version": "0.5.406",
+      "date": "2026-06-27",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #427",
+      "description": "Full patch notes for Update v0.5.406 (#427), detailing all changes made on 27 June, 2026.",
+      "added": [
+        "Seven new Player Records added",
+        "Global Confirmed and Denied leaderboards introduced to the Player Records page",
+        "Player profile shortcut button added"
+      ],
+      "changed": [
+        "Player Records now display only each player's highest record",
+        "Player Records index updated with the latest submissions"
+      ],
+      "removed": [
+        "Duplicate lower-ranking records are now hidden from the primary records view"
+      ],
+      "fixed": [
+        "Improved Player Records page logic for cleaner record presentation"
+      ]
+    },
+    {
+      "version": "0.5.399",
+      "date": "2026-06-26",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #426",
+      "description": "Full patch notes for Update v0.5.399 (#426), detailing all changes made on 26 June, 2026.",
+      "added": [
+        "Twenty new Player Record entries and proof images added",
+        "New Sheridan community build added"
+      ],
+      "changed": [
+        "Player Records index expanded with the latest submissions",
+        "Player Records root metadata updated with last-updated information",
+        "Tank filtering system improved across tank pages",
+        "Sheridan community build updated"
+      ],
+      "removed": [
+        "Obsolete Game Data page removed from the website"
+      ],
+      "fixed": [
+        "General improvements to Player Records data organization and indexing"
+      ]
+    },
+    {
+      "version": "0.5.391",
+      "date": "2026-06-25",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #425",
+      "description": "Full patch notes for Update v0.5.391 (#425), detailing all changes made on 25 June, 2026.",
+      "added": [
+        "New Player Records page released",
+        "Player Records page added to the Playground",
+        "Dedicated CSS and JavaScript assets added for the new records system",
+        "Five new Player Record entries added",
+        "Five new Player Record proof images added",
+        "New Playground artwork added for the Player Records page",
+        "New meme image added"
+      ],
+      "changed": [
+        "All Player Record proofs migrated to optimized WEBP format",
+        "Player Record proof paths updated to use optimized assets",
+        "Player Records now sort by statistic value and proof submission date",
+        "Dedicated display names added for all supported game modes",
+        "Dedicated Kill Confirmed counters added to the Player Records page"
+      ],
+      "removed": [
+        "Legacy PNG Player Record proof images replaced with optimized WEBP versions"
+      ],
+      "fixed": [
+        "Corrected metadata URL issues affecting two agent pages"
+      ]
+    },
+    {
+      "version": "0.5.377",
+      "date": "2026-06-24",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #424",
+      "description": "Full patch notes for Update v0.5.377 (#424), detailing all changes made on 24 June, 2026.",
+      "added": [
+        "Initial Player Records data set added",
+        "New Record Keeper tool introduced",
+        "Three new Matcha images added"
+      ],
+      "changed": [
+        "Player Records data migrated to a new index format",
+        "Player Record proof paths updated to use CDN links",
+        "Player Record proof naming standardized",
+        "Player Record proofs organized by game mode",
+        "About Us section refreshed with updated content",
+        "Playground artwork updated for the Weekend Chase page",
+        "Preparation completed for the next-generation Player Records system"
+      ],
+      "removed": [
+        "One incorrectly added Player Record proof removed"
+      ],
+      "fixed": [
+        "Reset the Player Records page in preparation for its complete redesign",
+        "Standardized Player Record proof image formatting across the entire collection"
+      ]
+    },
+    {
+      "version": "0.5.364",
       "date": "2026-06-23",
       "author": "HEAT Labs Team",
       "title": "Update Number #423",
-      "description": "Full patch notes for Update v0.5.361 (#423), detailing all changes made on 23 June, 2026.",
+      "description": "Full patch notes for Update v0.5.364 (#423), detailing all changes made on 23 June, 2026.",
       "added": [
-        "New Weekend Chase Event Statistics page added to the platform",
-        "Weekend Chase statistics page added to the Playground section",
-        "Additional event data file added to support event analytics",
-        "Thirteen previously missing event-data shards added to the event dataset",
-        "New image placeholders added for upcoming Playground pages",
-        "Tracking support added for the new statistics page"
+        "New Weekend Chase Event Statistics page added to the website",
+        "Weekend Chase page added to the Playground section",
+        "Complete event data set imported for analysis",
+        "Thirteen previously missing event data shards added",
+        "Additional event data file added",
+        "New placeholder artwork added for upcoming Playground features",
+        "Tracking support added for the new page"
       ],
       "changed": [
+        "Weekend Chase statistics page completely reworked with improved layout and functionality",
         "Event data delivery migrated to Cloudflare CDN infrastructure",
-        "Weekend Chase statistics experience completely reworked",
-        "Event data indexing updated and optimized for improved data access",
-        "Weekend Chase statistics logic updated to support revised day column naming",
-        "Weekend Chase page styling and frontend logic refined",
-        "Event analysis dataset expanded with complete event records"
+        "Event data index expanded and optimized",
+        "Weekend Chase page styling and scripts refined",
+        "Home page statistics updated",
+        "Game build information updated",
+        "Cloudflare traffic statistics refreshed",
+        "GSC index and export data updated",
+        "Changelog updated",
+        "Daily commit log updated"
       ],
       "removed": [
-        "Player ID fields removed from the Weekend Chase statistics page",
-        "Player Records page removed from the main Playground section",
-        "Legacy event-data CDN dependency removed from statistics lookups"
+        "Player ID display removed from the Weekend Chase statistics page",
+        "Player Records page removed from the Playground while redevelopment continues"
       ],
       "fixed": [
-        "Improved event data reliability by restoring missing shard records",
-        "Cleaned and standardized Weekend Chase statistics page scripts and formatting",
-        "Resolved inconsistencies in event data indexing and retrieval"
+        "Improved formatting and readability across the Weekend Chase statistics page",
+        "Updated event data routing to improve data loading reliability"
       ]
     },
     {
@@ -4071,7 +4228,7 @@
       "title": "Update Number #259",
       "description": "Full patch notes for Update v0.3.757 (#259), detailing all changes made on 09 January, 2026.",
       "added": [
-        "Improved external link handling to ensure links open in a new tab or the device\u00e2\u20ac\u2122s default browser where applicable"
+        "Improved external link handling to ensure links open in a new tab or the device\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2s default browser where applicable"
       ],
       "changed": [
         "Updated all Discord server URLs across HEAT Labs to use direct links, resolving desktop app connection issues",
@@ -5365,7 +5522,7 @@
         "Deprecated internal tools moved to a new archive directory"
       ],
       "fixed": [
-        "Updated footer disclaimers across all HEAT Labs services, CDNs, redirect pages, APIs, and websites to comply with Wargaming\u00e2\u20ac\u2122s Player Content Policy",
+        "Updated footer disclaimers across all HEAT Labs services, CDNs, redirect pages, APIs, and websites to comply with Wargaming\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2s Player Content Policy",
         "Corrected and aligned disclaimers on the main website, development site, statistics page, status page, Discord pages, social redirects, image CDNs, video CDNs, mods, archives, models, sounds, and more",
         "Updated footer disclaimer within the changelog and CDN pages for consistency",
         "Reordered various contributor lists to maintain consistency across platforms"
@@ -7403,7 +7560,7 @@
         "Tracking pixel index with Akira agent page",
         "Search keyword index with five new agent pages",
         "Home page statistics and fun facts",
-        "Soundboard index file format (WAV \u00e2\u2020\u2019 MP3)",
+        "Soundboard index file format (WAV \u00c3\u00a2\u00e2\u20ac\u00a0\u00e2\u20ac\u2122 MP3)",
         "JsDelivr CDN index and data index with latest URLs",
         "Changelog",
         "Daily commit log",
