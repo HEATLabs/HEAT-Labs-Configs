@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 289,
+    "total_pages": 294,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-06-14T02:50:40.116680"
+    "export_timestamp": "2026-06-30T05:22:19.637896"
   },
   "pages": [
     {
@@ -100,6 +100,13 @@
       "url": "https://heatlabs.net/agents/fantome",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/agents/flair",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -853,6 +860,13 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
+      "url": "https://heatlabs.net/maps/eden",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/maps/evergreen",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -1595,6 +1609,13 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
+      "url": "https://heatlabs.net/playground/player-records",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/playground/roulette",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -1626,6 +1647,13 @@
       "url": "https://heatlabs.net/playground/tierlist",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/playground/weekend-chase-stats",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1794,6 +1822,13 @@
       "url": "https://heatlabs.net/tanks/leopard-2fk",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/tanks/leopard-2k-st",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -2031,22 +2066,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 98,
+      "pending": 103,
       "not_indexed": 0,
       "indexed": 189
     },
     "google_api_status": {
-      "pending": 63,
+      "pending": 68,
       "not_indexed": 0,
       "indexed": 224
     },
     "https_page_status": {
-      "unknown": 255,
+      "unknown": 260,
       "not_https": 0,
       "https": 32
     },
     "breadcrumb_status": {
-      "unknown": 255,
+      "unknown": 260,
       "invalid": 0,
       "valid": 32
     }
