@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T09:59:29.491366",
+  "generated_at": "2026-06-19T22:57:17.767259",
   "base_cdn_url": "https://views.heatlabs.net/api/track",
   "pixels": [
     {
@@ -297,6 +297,30 @@
       "pixel_filename": "pcwstats-tracker-pixel-ray.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-ray.png",
       "html_title": "Ray - HEAT Labs"
+    },
+    {
+      "page_name": "Flair",
+      "page_identifier": "flair",
+      "html_file": "agents/flair",
+      "pixel_filename": "pcwstats-tracker-pixel-flair.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-flair.png",
+      "html_title": "Flair - HEAT Labs"
+    },
+    {
+      "page_name": "Fuzzer",
+      "page_identifier": "fuzzer",
+      "html_file": "agents/fuzzer",
+      "pixel_filename": "pcwstats-tracker-pixel-fuzzer.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-fuzzer.png",
+      "html_title": "Fuzzer - HEAT Labs"
+    },
+    {
+      "page_name": "Twister",
+      "page_identifier": "twister",
+      "html_file": "agents/twister",
+      "pixel_filename": "pcwstats-tracker-pixel-twister.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-twister.png",
+      "html_title": "Twister - HEAT Labs"
     },
     {
       "page_name": "Reaper",
@@ -937,6 +961,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-player-content-policy.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-player-content-policy.png",
       "html_title": "Player Content Policy - HEAT Labs"
+    },
+    {
+      "page_name": "Eden",
+      "page_identifier": "eden",
+      "html_file": "maps/eden",
+      "pixel_filename": "pcwstats-tracker-pixel-eden.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-eden.png",
+      "html_title": "Eden - HEAT Labs"
     },
     {
       "page_name": "Afghanistan 2",
@@ -1867,6 +1899,14 @@
       "html_title": "Player Records - HEAT Labs"
     },
     {
+      "page_name": "Weekend Chase Stats",
+      "page_identifier": "weekend-chase-stats",
+      "html_file": "playground/weekend-chase-stats",
+      "pixel_filename": "pcwstats-tracker-pixel-weekend-chase-stats.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-weekend-chase-stats.png",
+      "html_title": "Weekend Chase Stats - HEAT Labs"
+    },
+    {
       "page_name": "Alpha 3 Playtest",
       "page_identifier": "alpha-3-playtest",
       "html_file": "playground/alpha-3-playtest",
@@ -2161,6 +2201,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-leopard-2k14.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-leopard-2k14.png",
       "html_title": "Leopard 2K14 - HEAT Labs"
+    },
+    {
+      "page_name": "Leopard 2K-ST",
+      "page_identifier": "leopard-2k-st",
+      "html_file": "tanks/leopard-2k-st",
+      "pixel_filename": "pcwstats-tracker-pixel-leopard-2k-st.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-leopard-2k-st.png",
+      "html_title": "Leopard 2K-ST - HEAT Labs"
     },
     {
       "page_name": "M1 Railgun",
