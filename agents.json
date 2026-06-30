@@ -6,6 +6,7 @@
       "name": "Blitz",
       "slug": "blitz",
       "status": "Available Now",
+      "featured": false,
       "image": "https://cdn7.heatlabs.net/agents/Blitz.webp",
       "specialty": "EMP Rakete",
       "description": "Launches a slow-moving rocket system that can be controlled like any other guided missile. When the missile confronts any object, it will slow down and jam nearby opponents. The rocket deals electrical damage as it moves and after coming into contact with an obstacle will detonate with a short delay, or it can be manually triggered.",
@@ -26,6 +27,7 @@
       "name": "Anansi",
       "slug": "anansi",
       "status": "Available Now",
+      "featured": false,
       "image": "https://cdn7.heatlabs.net/agents/Anansi.webp",
       "specialty": "Spectre Gunship",
       "description": "Call in the assistance of an AC-130H Spectre gunship with a 40mm autocannon and a limited amount of ammunition for its precision 105mm gun",
@@ -46,6 +48,7 @@
       "name": "Ember",
       "slug": "ember",
       "status": "Available Now",
+      "featured": false,
       "image": "https://cdn7.heatlabs.net/agents/Ember-NewBG.webp",
       "specialty": "Grand Slam",
       "description": "Calls in a massive bomb strike after a delay. The bomb penetrates objects and detonates underground, creating a seismic blast wave that pushes enemies back.",
@@ -66,6 +69,7 @@
       "name": "Kent",
       "slug": "kent",
       "status": "Available Now",
+      "featured": false,
       "image": "https://cdn7.heatlabs.net/agents/Kent-NewBG.webp",
       "specialty": "Contracted Strike",
       "description": "Lock on to enemies in front of the vehicle for a missile strike. A short lock fires Hydra rockets, while an extended lock launches a homing Hellfire missile for much heavier damage.",
@@ -91,6 +95,7 @@
       "name": "Hound",
       "slug": "hound",
       "status": "Available Now",
+      "featured": false,
       "image": "https://cdn7.heatlabs.net/agents/Hound-NewBG.webp",
       "specialty": "Hunting Time",
       "description": "Launches a TV missile that destroys marked lower-HP enemies and Traces others. Each destruction recharges the Ultimate for a short time.",
@@ -116,6 +121,7 @@
       "name": "Reaper",
       "slug": "reaper",
       "status": "Available Now",
+      "featured": false,
       "image": "https://cdn7.heatlabs.net/agents/Reaper-NewBG.webp",
       "specialty": "Napalm in the Morning",
       "description": "Calls in an F-4 Phantom and places a napalm strike from an aerial targeting view.",
@@ -141,6 +147,7 @@
       "name": "Ray",
       "slug": "ray",
       "status": "To Be Released",
+      "featured": false,
       "image": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
       "specialty": "Unknown Ability",
       "description": "Unknown Ability Description",
@@ -166,6 +173,7 @@
       "name": "Udarnik",
       "slug": "udarnik",
       "status": "To Be Released",
+      "featured": false,
       "image": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
       "specialty": "Unknown Ability",
       "description": "Unknown Ability Description",
@@ -191,6 +199,7 @@
       "name": "Raketa",
       "slug": "raketa",
       "status": "Available Now",
+      "featured": false,
       "image": "https://cdn7.heatlabs.net/agents/Raketa-NewBG.webp",
       "specialty": "Rampage",
       "description": "Brings on a destructive rage, firing faster and surviving any hit with at least 1 HP.",
@@ -216,6 +225,7 @@
       "name": "Chopper",
       "slug": "chopper",
       "status": "Available Now",
+      "featured": false,
       "image": "https://cdn7.heatlabs.net/agents/Chopper-NewBG.webp",
       "specialty": "Creeping Barrage",
       "description": "Calls in a moving artillery strike with HE shells to clear positions and support allied pushes.",
@@ -241,6 +251,7 @@
       "name": "Twister",
       "slug": "twister",
       "status": "Available Now",
+      "featured": false,
       "image": "https://cdn7.heatlabs.net/agents/Twister-NewBG.webp",
       "specialty": " Lights Out",
       "description": "Deploys an EMP bomb via drone. Pulses Slow enemies before the final detonation Jams and damages them.",
@@ -266,6 +277,7 @@
       "name": "Fuzzer",
       "slug": "fuzzer",
       "status": "Available Now",
+      "featured": false,
       "image": "https://cdn7.heatlabs.net/agents/Fuzzer-NewBG.webp",
       "specialty": "Strike Laser",
       "description": "Calls in an aircraft and takes control of its targeting camera to lock on to an enemy vehicle. The aircraft points a laser that emits damaging pulses.",
@@ -282,6 +294,32 @@
           "name": "Marder 1A3",
           "image": "https://cdn7.heatlabs.net/tanks/marder-1a3/Marder_1A3.webp",
           "slug": "marder-1a3"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "state": "displayed",
+      "name": "Flair",
+      "slug": "flair",
+      "status": "Available Now",
+      "featured": true,
+      "image": "https://cdn7.heatlabs.net/agents/Flair-NewBG.webp",
+      "specialty": "Echo Proxy",
+      "description": "Deploy a proxy of your tank with identical parameters and modules, and switch between the two to throw enemies off scent.",
+      "trait": "Signature Masking",
+      "trait_description": "Exceeding an Energy threshold recodes the vehicle's electronic signature, hiding it from enemy HUDs until you fire.",
+      "story": "This agent is not yet available. Statistics, details, and player feedback will be added once it's officially released.",
+      "compatibleTanks": [
+        {
+          "name": "Leopard 2FK",
+          "image": "https://cdn7.heatlabs.net/tanks/leopard-2fk/leopard-2fk.webp",
+          "slug": "leopard-2fk"
+        },
+        {
+          "name": "Leopard 2K-ST",
+          "image": "https://cdn7.heatlabs.net/tanks/leopard-2k-st/leopard-2k-st.webp",
+          "slug": "leopard-2k-st"
         }
       ]
     }
