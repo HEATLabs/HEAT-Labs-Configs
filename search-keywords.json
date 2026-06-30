@@ -114,6 +114,18 @@
     "keywords": ["timer", "countdown"]
   },
   {
+    "name": "Weekend Chase Stats",
+    "description": "Analyze your Weekend Chase statistics",
+    "path": "https://heatlabs.net/playground/weekend-chase-stats",
+    "keywords": ["weekend chase", "leaderboard"]
+  },
+  {
+    "name": "Player Records",
+    "description": "Explore the greatest achievements in World of Tanks: HEAT",
+    "path": "https://heatlabs.net/playground/player-records",
+    "keywords": ["player records", "leaderboard"]
+  },
+  {
     "name": "Tank Roulette",
     "description": "Random tank selector for fun gameplay",
     "path": "https://heatlabs.net/playground/roulette",
@@ -298,6 +310,12 @@
     "description": "Detailed statistics for Leopard 2K14",
     "path": "https://heatlabs.net/tanks/leopard-2k14",
     "keywords": ["leopard 2k14"]
+  },
+  {
+    "name": "Leopard 2K-ST",
+    "description": "Detailed statistics for Leopard 2K-ST",
+    "path": "https://heatlabs.net/tanks/leopard-2k-st",
+    "keywords": ["leopard 2k-st"]
   },
   {
     "name": "M1 Railgun",
@@ -742,6 +760,12 @@
     "description": "Tactical overview and key areas of the Zenith map",
     "path": "https://heatlabs.net/maps/zenith",
     "keywords": ["zenith", "map", "unreleased", "overview"]
+  },
+  {
+    "name": "Eden",
+    "description": "Tactical overview and key areas of the Eden map",
+    "path": "https://heatlabs.net/maps/eden",
+    "keywords": ["eden", "map", "unreleased", "overview"]
   },
   {
     "name": "Agent Spotlight Akira",
@@ -1792,5 +1816,11 @@
     "description": "Learn everything about Fuzzer",
     "path": "https://heatlabs.net/agents/fuzzer",
     "keywords": ["fuzzer"]
+  },
+  {
+    "name": "Flair",
+    "description": "Learn everything about Flair",
+    "path": "https://heatlabs.net/agents/flair",
+    "keywords": ["flair"]
   }
 ]
