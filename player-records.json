@@ -4,7 +4,7 @@
             "last_updated": {
                 "conquest": "2026-06-30T12:09:08Z",
                 "control": "2026-06-26T00:00:00Z",
-                "hardpoint": "2026-06-26T00:00:00Z",
+                "hardpoint": "2026-06-30T12:48:18Z",
                 "kill-confirmed": "2026-06-26T00:00:00Z"
             }
         },
@@ -1257,7 +1257,360 @@
             ]
         },
         "control": {},
-        "hardpoint": {},
+        "hardpoint": {
+            "Kematok": [
+                {
+                    "captures": 3,
+                    "destroyed": 8,
+                    "deaths": 6,
+                    "assists": 5,
+                    "damage_caused": 29600,
+                    "damage_blocked": 3300,
+                    "credits": 3285,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 5910,
+                    "agent": "Raketa",
+                    "vehicle": "T-62AV",
+                    "outcome": "Defeat",
+                    "map": "Nexus Dam",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/03062026_Kematok.webp"
+                }
+            ],
+            "mr1pixel": [
+                {
+                    "captures": 3,
+                    "destroyed": 11,
+                    "deaths": 5,
+                    "assists": 0,
+                    "damage_caused": 23300,
+                    "damage_blocked": 2100,
+                    "credits": 2702,
+                    "tech": 40,
+                    "intel": 120,
+                    "XP": 4980,
+                    "agent": "Raketa",
+                    "vehicle": "T-62AV",
+                    "outcome": "Defeat",
+                    "map": "Project Phoenix",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/04062026_mr1pixel.webp"
+                }
+            ],
+            "Ioreen2S": [
+                {
+                    "captures": 2,
+                    "destroyed": 4,
+                    "deaths": 1,
+                    "assists": 5,
+                    "damage_caused": 18300,
+                    "damage_blocked": 20700,
+                    "credits": 3682,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 6565,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/05062026_Ioreen2S-2.webp"
+                },
+                {
+                    "captures": 5,
+                    "destroyed": 8,
+                    "deaths": 3,
+                    "assists": 9,
+                    "damage_caused": 36100,
+                    "damage_blocked": 9900,
+                    "credits": 5025,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 9255,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Project Phoenix",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/06062026_Ioreen2S.webp"
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 14,
+                    "deaths": 3,
+                    "assists": 6,
+                    "damage_caused": 29600,
+                    "damage_blocked": 2200,
+                    "credits": 2730,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 4660,
+                    "agent": "Reaper",
+                    "vehicle": "M60A1",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/09062026_Ioreen2S.webp"
+                }
+            ],
+            "TechTanker": [
+                {
+                    "captures": 7,
+                    "destroyed": 19,
+                    "deaths": 2,
+                    "assists": 4,
+                    "damage_caused": 40100,
+                    "damage_blocked": 9600,
+                    "credits": 3254,
+                    "tech": 30,
+                    "intel": 100,
+                    "XP": 12215,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Nexus Dam",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/05062026_TechTanker.webp"
+                }
+            ],
+            "Pasta_Boi": [
+                {
+                    "captures": 4,
+                    "destroyed": 10,
+                    "deaths": 3,
+                    "assists": 5,
+                    "damage_caused": 23000,
+                    "damage_blocked": 16800,
+                    "credits": 4098,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 7660,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Defeat",
+                    "map": "Nexus Dam",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/07062026_Pasta_Boi.webp"
+                }
+            ],
+            "ROGER": [
+                {
+                    "captures": 2,
+                    "destroyed": 9,
+                    "deaths": 3,
+                    "assists": 7,
+                    "damage_caused": 30900,
+                    "damage_blocked": 8400,
+                    "credits": 3278,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 5755,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Nexus Dam",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/09062026_ROGER.webp"
+                }
+            ],
+            "howitzer11": [
+                {
+                    "captures": 4,
+                    "destroyed": 11,
+                    "deaths": 6,
+                    "assists": 6,
+                    "damage_caused": 33800,
+                    "damage_blocked": 2300,
+                    "credits": 3878,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 6960,
+                    "agent": "Raketa",
+                    "vehicle": "T-62AV",
+                    "outcome": "Defeat",
+                    "map": "Moonshot",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/13062026_howitzer11.webp"
+                }
+            ],
+            "WorldSp0wn": [
+                {
+                    "captures": 5,
+                    "destroyed": 15,
+                    "deaths": 4,
+                    "assists": 8,
+                    "damage_caused": 40200,
+                    "damage_blocked": 13100,
+                    "credits": 5605,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 10410,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/19062026_WorldSp0wn.webp"
+                }
+            ],
+            "Maestro": [
+                {
+                    "captures": 0,
+                    "destroyed": 10,
+                    "deaths": 0,
+                    "assists": 21,
+                    "damage_caused": 53500,
+                    "damage_blocked": 0,
+                    "credits": 5936,
+                    "tech": 20,
+                    "intel": 0,
+                    "XP": 23025,
+                    "agent": "Hound",
+                    "vehicle": "AMX 10 RC",
+                    "outcome": "Defeat",
+                    "map": "Nexus Dam",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/25062026_Maestro.webp"
+                }
+            ],
+            "Dutch_Elephant": [
+                {
+                    "captures": 1,
+                    "destroyed": 5,
+                    "deaths": 2,
+                    "assists": 6,
+                    "damage_caused": 17700,
+                    "damage_blocked": 3200,
+                    "credits": 2060,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 3320,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/26062026_Dutch_Elephant-2.webp"
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 11,
+                    "deaths": 7,
+                    "assists": 8,
+                    "damage_caused": 40100,
+                    "damage_blocked": 10400,
+                    "credits": 4374,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 8040,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Defeat",
+                    "map": "Blossom Crash",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/27062026_Dutch_Elephant-5.webp"
+                }
+            ],
+            "Tmc_338": [
+                {
+                    "captures": 6,
+                    "destroyed": 18,
+                    "deaths": 3,
+                    "assists": 9,
+                    "damage_caused": 49900,
+                    "damage_blocked": 11200,
+                    "credits": 6732,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 12665,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Victory",
+                    "map": "Nexus Dam",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/26062026_Tmc_338-1.webp"
+                }
+            ],
+            "SINEWAVE_": [
+                {
+                    "captures": 2,
+                    "destroyed": 8,
+                    "deaths": 2,
+                    "assists": 5,
+                    "damage_caused": 25800,
+                    "damage_blocked": 1100,
+                    "credits": 4105,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 7415,
+                    "agent": "Hound",
+                    "vehicle": "Leo 1A6A1",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/28062026_SINEWAVE_-1.webp"
+                },
+                {
+                    "captures": 1,
+                    "destroyed": 10,
+                    "deaths": 3,
+                    "assists": 6,
+                    "damage_caused": 25700,
+                    "damage_blocked": 1400,
+                    "credits": 3858,
+                    "tech": 75,
+                    "intel": 40,
+                    "XP": 6915,
+                    "agent": "Hound",
+                    "vehicle": "Leo 1A6A1",
+                    "outcome": "Victory",
+                    "map": "Project Phoenix",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/28062026_SINEWAVE_-2.webp"
+                }
+            ],
+            "seabass": [
+                {
+                    "captures": 5,
+                    "destroyed": 8,
+                    "deaths": 2,
+                    "assists": 10,
+                    "damage_caused": 39100,
+                    "damage_blocked": 12100,
+                    "credits": 5220,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 9640,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/29062026_seabass-2.webp"
+                }
+            ],
+            "theblackcrowttv": [
+                {
+                    "captures": 2,
+                    "destroyed": 8,
+                    "deaths": 0,
+                    "assists": 3,
+                    "damage_caused": 17300,
+                    "damage_blocked": 2700,
+                    "credits": 2886,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 3315,
+                    "agent": "Reaper",
+                    "vehicle": "M60A2",
+                    "outcome": "Victory",
+                    "map": "Moonshot",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/31052026_theblackcrowttv.webp"
+                }
+            ]
+        },
         "kill-confirmed": {}
     }
 }
