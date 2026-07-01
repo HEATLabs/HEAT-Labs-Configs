@@ -26,36 +26,15 @@
   {
     "id": "1428998650754760767",
     "application_id": "1428996958776725504",
-    "version": "1428998650880852015",
+    "version": "1521156297242972163",
     "default_member_permissions": null,
     "type": 1,
     "name": "agents",
-    "description": "View all available agents in HEAT Labs, filtered by status",
+    "description": "View all available agents in HEAT Labs",
     "dm_permission": true,
     "contexts": null,
     "integration_types": [
       0
-    ],
-    "options": [
-      {
-        "type": 3,
-        "name": "status",
-        "description": "Select agent status: All, Available, or Unreleased",
-        "choices": [
-          {
-            "name": "All",
-            "value": "All"
-          },
-          {
-            "name": "Available",
-            "value": "Available"
-          },
-          {
-            "name": "Unreleased",
-            "value": "Unreleased"
-          }
-        ]
-      }
     ],
     "nsfw": false
   },
@@ -601,6 +580,99 @@
     "contexts": null,
     "integration_types": [
       0
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1521156297242972161",
+    "application_id": "1428996958776725504",
+    "version": "1521159790301020202",
+    "default_member_permissions": null,
+    "type": 1,
+    "name": "records",
+    "description": "View top player records filtered by game mode and category",
+    "dm_permission": true,
+    "contexts": null,
+    "integration_types": [
+      0
+    ],
+    "options": [
+      {
+        "type": 3,
+        "name": "mode",
+        "description": "Select a game mode or 'global' for all modes combined",
+        "required": true,
+        "choices": [
+          {
+            "name": "Global - All modes combined",
+            "value": "global"
+          },
+          {
+            "name": "Conquest",
+            "value": "conquest"
+          },
+          {
+            "name": "Control",
+            "value": "control"
+          },
+          {
+            "name": "Hardpoint",
+            "value": "hardpoint"
+          },
+          {
+            "name": "Kill Confirmed",
+            "value": "kill-confirmed"
+          }
+        ]
+      },
+      {
+        "type": 3,
+        "name": "category",
+        "description": "Select the stat category to view",
+        "required": true,
+        "choices": [
+          {
+            "name": "Damage Dealt",
+            "value": "damage_caused"
+          },
+          {
+            "name": "Kills",
+            "value": "destroyed"
+          },
+          {
+            "name": "Assists",
+            "value": "assists"
+          },
+          {
+            "name": "Experience",
+            "value": "XP"
+          },
+          {
+            "name": "Captures",
+            "value": "captures"
+          },
+          {
+            "name": "Damage Blocked",
+            "value": "damage_blocked"
+          },
+          {
+            "name": "Credits Earned",
+            "value": "credits"
+          },
+          {
+            "name": "Intel",
+            "value": "intel"
+          },
+          {
+            "name": "Confirms",
+            "value": "confirms"
+          },
+          {
+            "name": "Denies",
+            "value": "denies"
+          }
+        ]
+      }
     ],
     "nsfw": false
   }
