@@ -3,7 +3,7 @@
         "ROOT": {
             "last_updated": {
                 "conquest": "2026-07-01T06:50:53Z",
-                "control": "2026-07-01T06:57:56Z",
+                "control": "2026-07-01T07:05:00Z",
                 "hardpoint": "2026-07-01T06:54:49Z",
                 "kill-confirmed": "2026-06-26T00:00:00Z"
             }
@@ -3961,6 +3961,26 @@
                     "map": "Scarred City",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/30062026_xevareth-2.webp"
+                }
+            ],
+            "_VEN0M": [
+                {
+                    "captures": 2,
+                    "destroyed": 21,
+                    "deaths": 9,
+                    "assists": 8,
+                    "damage_caused": 50800,
+                    "damage_blocked": 24,
+                    "credits": 4335,
+                    "tech": 50,
+                    "intel": 200,
+                    "XP": 8670,
+                    "agent": "Twister",
+                    "vehicle": "HSTV-L",
+                    "outcome": "Draw",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/01072026__VEN0M.webp"
                 }
             ]
         },
