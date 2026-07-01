@@ -2,9 +2,9 @@
     "records": {
         "ROOT": {
             "last_updated": {
-                "conquest": "2026-06-30T12:09:08Z",
-                "control": "2026-07-01T06:38:28Z",
-                "hardpoint": "2026-06-30T12:48:18Z",
+                "conquest": "2026-07-01T06:50:53Z",
+                "control": "2026-07-01T06:57:56Z",
+                "hardpoint": "2026-07-01T06:54:49Z",
                 "kill-confirmed": "2026-06-26T00:00:00Z"
             }
         },
@@ -1211,6 +1211,24 @@
                     "map": "Nord Oko",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/26062026_seabss.webp"
+                },
+                {
+                    "captures": 0,
+                    "destroyed": 22,
+                    "deaths": 5,
+                    "assists": 5,
+                    "damage_caused": 59500,
+                    "damage_blocked": 7600,
+                    "credits": 3788,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 7235,
+                    "agent": "Reaper",
+                    "vehicle": "M60A1",
+                    "outcome": "Defeat",
+                    "map": "Nord Oko",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/26062026_seabass.webp"
                 }
             ],
             "ch3ms_": [
@@ -1251,6 +1269,26 @@
                     "map": "Sunstroke",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/30062026_Umi_Bozu.webp"
+                }
+            ],
+            "xevareth": [
+                {
+                    "captures": 4,
+                    "destroyed": 14,
+                    "deaths": 6,
+                    "assists": 9,
+                    "damage_caused": 45300,
+                    "damage_blocked": 6200,
+                    "credits": 3952,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 7505,
+                    "agent": "Kent",
+                    "vehicle": "XM1-90",
+                    "outcome": "Victory",
+                    "map": "Nexus Dam",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/30062026_xevareth.webp"
                 }
             ]
         },
@@ -3181,6 +3219,24 @@
                     "map": "Aircraft Carrier",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/30052026_AET3RNAL.webp"
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 19,
+                    "deaths": 6,
+                    "assists": 16,
+                    "damage_caused": 67900,
+                    "damage_blocked": 3600,
+                    "credits": 6623,
+                    "tech": 50,
+                    "intel": 40,
+                    "XP": 13245,
+                    "agent": "Twister",
+                    "vehicle": "HSTV-L",
+                    "outcome": "Draw",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/01072026_AET3RNAL.webp"
                 }
             ],
             "backseat_admiral_12": [
@@ -3788,6 +3844,124 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/29062026_WwolkW.webp"
                 }
+            ],
+            "Ordealius": [
+                {
+                    "captures": 5,
+                    "destroyed": 7,
+                    "deaths": 4,
+                    "assists": 9,
+                    "damage_caused": 30700,
+                    "damage_blocked": 1100,
+                    "credits": 4200,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 8400,
+                    "agent": "Twister",
+                    "vehicle": "M551A1",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/01072026_Ordealius.webp"
+                }
+            ],
+            "Speed": [
+                {
+                    "captures": 4,
+                    "destroyed": 15,
+                    "deaths": 13,
+                    "assists": 12,
+                    "damage_caused": 45100,
+                    "damage_blocked": 9600,
+                    "credits": 5120,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 10240,
+                    "agent": "Raketa",
+                    "vehicle": "Object 287",
+                    "outcome": "Defeat",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/01072026_Speed.webp"
+                }
+            ],
+            "lsay_10l": [
+                {
+                    "captures": 5,
+                    "destroyed": 11,
+                    "deaths": 4,
+                    "assists": 13,
+                    "damage_caused": 46100,
+                    "damage_blocked": 7900,
+                    "credits": 6233,
+                    "tech": 75,
+                    "intel": 40,
+                    "XP": 12465,
+                    "agent": "Fuzzer",
+                    "vehicle": "Bradley M3A1",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/30062026_lsay_10l.webp"
+                }
+            ],
+            "TeeKup": [
+                {
+                    "captures": 1,
+                    "destroyed": 10,
+                    "deaths": 4,
+                    "assists": 7,
+                    "damage_caused": 34300,
+                    "damage_blocked": 2000,
+                    "credits": 2798,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 5595,
+                    "agent": "Twister",
+                    "vehicle": "HSTV-L",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/30062026_TeeKup.webp"
+                }
+            ],
+            "xevareth": [
+                {
+                    "captures": 2,
+                    "destroyed": 12,
+                    "deaths": 15,
+                    "assists": 11,
+                    "damage_caused": 44600,
+                    "damage_blocked": 9600,
+                    "credits": 4180,
+                    "tech": 50,
+                    "intel": 160,
+                    "XP": 8360,
+                    "agent": "Raketa",
+                    "vehicle": "Object 287",
+                    "outcome": "Draw",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/30062026_xevareth-1.webp"
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 20,
+                    "deaths": 7,
+                    "assists": 9,
+                    "damage_caused": 51500,
+                    "damage_blocked": 9500,
+                    "credits": 5250,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 10500,
+                    "agent": "Raketa",
+                    "vehicle": "Object 287",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/30062026_xevareth-2.webp"
+                }
             ]
         },
         "hardpoint": {
@@ -4141,6 +4315,26 @@
                     "map": "Moonshot",
                     "mode": "Hardpoint",
                     "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/31052026_theblackcrowttv.webp"
+                }
+            ],
+            "XM8_Jaeger": [
+                {
+                    "captures": 3,
+                    "destroyed": 10,
+                    "deaths": 5,
+                    "assists": 12,
+                    "damage_caused": 37800,
+                    "damage_blocked": 6200,
+                    "credits": 4048,
+                    "tech": 60,
+                    "intel": 340,
+                    "XP": 7295,
+                    "agent": "Kent",
+                    "vehicle": "XM1-90",
+                    "outcome": "Victory",
+                    "map": "Moonshot",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/01072026_XM8_Jaeger.webp"
                 }
             ]
         },
