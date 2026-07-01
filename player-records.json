@@ -2,10 +2,10 @@
     "records": {
         "ROOT": {
             "last_updated": {
-                "conquest": "2026-07-01T06:50:53Z",
-                "control": "2026-07-01T07:59:56Z",
+                "conquest": "2026-07-01T15:09:03Z",
+                "control": "2026-07-01T15:12:26Z",
                 "hardpoint": "2026-07-01T06:54:49Z",
-                "kill-confirmed": "2026-07-01T09:19:09Z"
+                "kill-confirmed": "2026-07-01T15:13:21Z"
             }
         },
         "conquest": {
@@ -649,6 +649,24 @@
                     "map": "Nord Oko",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/29062026_legocity2000.webp"
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 5,
+                    "deaths": 4,
+                    "assists": 3,
+                    "damage_caused": 22700,
+                    "damage_blocked": 6300,
+                    "credits": 2712,
+                    "tech": 60,
+                    "intel": 320,
+                    "XP": 5025,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Victory",
+                    "map": "Project Phoenix",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/01072026_legocity2000.webp"
                 }
             ],
             "ROGER": [
@@ -1521,6 +1539,24 @@
                     "map": "Blossom Crash",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/27052026_TechTanker.webp"
+                },
+                {
+                    "captures": 4,
+                    "destroyed": 11,
+                    "deaths": 2,
+                    "assists": 16,
+                    "damage_caused": 48900,
+                    "damage_blocked": 10300,
+                    "credits": 3536,
+                    "tech": 30,
+                    "intel": 180,
+                    "XP": 14145,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/01072026_TechTanker.webp"
                 }
             ],
             "Adamantium": [
@@ -2147,6 +2183,24 @@
                     "map": "Scarred City",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/07062026_ChiefKillian.webp"
+                },
+                {
+                    "captures": 4,
+                    "destroyed": 17,
+                    "deaths": 1,
+                    "assists": 9,
+                    "damage_caused": 49200,
+                    "damage_blocked": 2000,
+                    "credits": 4523,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 9045,
+                    "agent": "Flair",
+                    "vehicle": "Leo 2FK",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/01072026_ChiefKillian.webp"
                 }
             ],
             "xX_Quban_Xx": [
@@ -4000,6 +4054,46 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/01072026__VEN0M.webp"
                 }
+            ],
+            "Kkolibry": [
+                {
+                    "captures": 6,
+                    "destroyed": 18,
+                    "deaths": 6,
+                    "assists": 14,
+                    "damage_caused": 65100,
+                    "damage_blocked": 13400,
+                    "credits": 8318,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 16635,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/01072026_Kkolibry.webp"
+                }
+            ],
+            "wettyblack": [
+                {
+                    "captures": 1,
+                    "destroyed": 8,
+                    "deaths": 3,
+                    "assists": 10,
+                    "damage_caused": 40000,
+                    "damage_blocked": 6600,
+                    "credits": 3390,
+                    "tech": 40,
+                    "intel": 80,
+                    "XP": 6780,
+                    "agent": "Flair",
+                    "vehicle": "Leo 2KST",
+                    "outcome": "Defeat",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/01072026_wettyblack.webp"
+                }
             ]
         },
         "hardpoint": {
@@ -5697,6 +5791,27 @@
                     "map": "Aircraft Carrier",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/31052026_slenko.webp"
+                }
+            ],
+            "Riansyaputra": [
+                {
+                    "confirms": 14,
+                    "denies": 2,
+                    "destroyed": 11,
+                    "deaths": 5,
+                    "assists": 6,
+                    "damage_caused": 22400,
+                    "damage_blocked": 0,
+                    "credits": 2602,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 5195,
+                    "agent": "Kent",
+                    "vehicle": "XM1-90",
+                    "outcome": "Victory",
+                    "map": "Eden",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/01072026_Riansyaputra.webp"
                 }
             ]
         }
