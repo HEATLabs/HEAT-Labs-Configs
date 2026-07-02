@@ -2,10 +2,10 @@
     "records": {
         "ROOT": {
             "last_updated": {
-                "conquest": "2026-07-02T07:46:02Z",
-                "control": "2026-07-02T07:53:46Z",
+                "conquest": "2026-07-02T15:42:21Z",
+                "control": "2026-07-02T15:45:20Z",
                 "hardpoint": "2026-07-02T07:43:33Z",
-                "kill-confirmed": "2026-07-02T07:57:03Z"
+                "kill-confirmed": "2026-07-02T15:46:07Z"
             }
         },
         "conquest": {
@@ -685,6 +685,42 @@
                     "map": "Eden",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/01072026_legocity2000-2.webp"
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 9,
+                    "deaths": 7,
+                    "assists": 11,
+                    "damage_caused": 30400,
+                    "damage_blocked": 2400,
+                    "credits": 3610,
+                    "tech": 40,
+                    "intel": 120,
+                    "XP": 6835,
+                    "agent": "Fuzzer",
+                    "vehicle": "Marder 1A3",
+                    "outcome": "Defeat",
+                    "map": "Nord Oko",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/02072026_legocity2000-1.webp"
+                },
+                {
+                    "captures": 7,
+                    "destroyed": 5,
+                    "deaths": 3,
+                    "assists": 5,
+                    "damage_caused": 15600,
+                    "damage_blocked": 768,
+                    "credits": 2690,
+                    "tech": 40,
+                    "intel": 80,
+                    "XP": 5025,
+                    "agent": "Twister",
+                    "vehicle": "HSTV-L",
+                    "outcome": "Defeat",
+                    "map": "Scarred City",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/02072026_legocity2000-2.webp"
                 }
             ],
             "ROGER": [
@@ -4087,6 +4123,24 @@
                     "map": "Blossom Crash",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/01072026_Speed.webp"
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 6,
+                    "deaths": 8,
+                    "assists": 9,
+                    "damage_caused": 28900,
+                    "damage_blocked": 20300,
+                    "credits": 3945,
+                    "tech": 50,
+                    "intel": 40,
+                    "XP": 7890,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Draw",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/02072026_Speed.webp"
                 }
             ],
             "lsay_10l": [
@@ -4323,6 +4377,42 @@
                     "map": "Aircraft Carrier",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/02072026_legocity2000.webp"
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 11,
+                    "deaths": 7,
+                    "assists": 11,
+                    "damage_caused": 35100,
+                    "damage_blocked": 612,
+                    "credits": 4465,
+                    "tech": 40,
+                    "intel": 420,
+                    "XP": 8930,
+                    "agent": "Fuzzer",
+                    "vehicle": "Marder 1A3",
+                    "outcome": "Defeat",
+                    "map": "Aircraft Carrier",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/02072026_legocity2000-1.webp"
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 5,
+                    "deaths": 4,
+                    "assists": 9,
+                    "damage_caused": 28200,
+                    "damage_blocked": 253,
+                    "credits": 2088,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 4175,
+                    "agent": "Flair",
+                    "vehicle": "Leo 2FK",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/02072026_legocity2000-2.webp"
                 }
             ],
             "pupyi727": [
@@ -4363,6 +4453,26 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/02072026_Stryker.webp"
+                }
+            ],
+            "cjnuss": [
+                {
+                    "captures": 2,
+                    "destroyed": 35,
+                    "deaths": 3,
+                    "assists": 12,
+                    "damage_caused": 92800,
+                    "damage_blocked": 4500,
+                    "credits": 7980,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 15960,
+                    "agent": "Flair",
+                    "vehicle": "Leo 2KST",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/02072026_cjnuss.webp"
                 }
             ]
         },
@@ -6184,6 +6294,27 @@
                     "map": "Blossom Crash",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/02072026_Seronimos.webp"
+                }
+            ],
+            "Satoshi": [
+                {
+                    "confirms": 20,
+                    "denies": 2,
+                    "destroyed": 16,
+                    "deaths": 3,
+                    "assists": 4,
+                    "damage_caused": 33800,
+                    "damage_blocked": 0,
+                    "credits": 3498,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 6985,
+                    "agent": "Reaper",
+                    "vehicle": "M60A1",
+                    "outcome": "Victory",
+                    "map": "Moonshot",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/02072026_Satoshi.webp"
                 }
             ]
         }
