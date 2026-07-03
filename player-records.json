@@ -2,8 +2,8 @@
     "records": {
         "ROOT": {
             "last_updated": {
-                "conquest": "2026-07-02T15:42:21Z",
-                "control": "2026-07-02T15:45:20Z",
+                "conquest": "2026-07-03T04:56:28Z",
+                "control": "2026-07-03T04:57:55Z",
                 "hardpoint": "2026-07-02T07:43:33Z",
                 "kill-confirmed": "2026-07-02T15:46:07Z"
             }
@@ -1300,7 +1300,43 @@
                     "outcome": "Defeat",
                     "map": "Sunstroke",
                     "mode": "Conquest",
-                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/02072026_seabass.webp"
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/02072026_seabass-1.webp"
+                },
+                {
+                    "captures": 0,
+                    "destroyed": 3,
+                    "deaths": 2,
+                    "assists": 12,
+                    "damage_caused": 25800,
+                    "damage_blocked": 21800,
+                    "credits": 2700,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 5000,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/02072026_seabass-2.webp"
+                },
+                {
+                    "captures": 4,
+                    "destroyed": 14,
+                    "deaths": 3,
+                    "assists": 9,
+                    "damage_caused": 45300,
+                    "damage_blocked": 3200,
+                    "credits": 4195,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 7990,
+                    "agent": "Flair",
+                    "vehicle": "Leo 2KST",
+                    "outcome": "Victory",
+                    "map": "Nexus Dam",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/03072026_seabass.webp"
                 }
             ],
             "ch3ms_": [
@@ -3711,6 +3747,24 @@
                     "map": "Blossom Crash",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/29062026_seabass-3.webp"
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 14,
+                    "deaths": 1,
+                    "assists": 9,
+                    "damage_caused": 47000,
+                    "damage_blocked": 8500,
+                    "credits": 5500,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 11000,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/03072026_seabass.webp"
                 }
             ],
             "Tmc_338": [
@@ -4219,6 +4273,24 @@
                     "map": "Scarred City",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/30062026_xevareth-2.webp"
+                },
+                {
+                    "captures": 5,
+                    "destroyed": 16,
+                    "deaths": 8,
+                    "assists": 16,
+                    "damage_caused": 53600,
+                    "damage_blocked": 5400,
+                    "credits": 5515,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 11030,
+                    "agent": "Flair",
+                    "vehicle": "Leo 2FK",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/02072026_xevareth.webp"
                 }
             ],
             "_VEN0M": [
