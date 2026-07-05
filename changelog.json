@@ -1,6 +1,133 @@
 {
   "updates": [
     {
+      "version": "0.5.518",
+      "date": "2026-07-04",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #434",
+      "description": "Full patch notes for Update v0.5.518 (#434), detailing all changes made on 04 July, 2026.",
+      "added": [
+        "Initial PvE filter introduced for the player records page",
+        "Agent tags added to all tank cards",
+        "Price badges added to tank pages and tank cards",
+        "Twenty-two new player records added",
+        "Twenty-two new player record proof images published",
+        "Ten new meme images added to the media library",
+        "Eight new Discord bot statuses added to the rotation",
+        "Version history displayed on community build pages",
+        "Tank pages now display their associated agent",
+        "Tank index updated with WIP agent flags",
+        "New tank skin icon added to the gallery"
+      ],
+      "changed": [
+        "Stock statistics updated for three tanks",
+        "Build database updated with version tracking",
+        "Importer sheet refreshed with the latest statistics",
+        "Tank pricing information updated",
+        "Roulette now only selects currently available tanks",
+        "Tier list logic and presentation improved",
+        "Mobile experience enhanced across the Maps, Tanks and Agents sections",
+        "Player records database expanded",
+        "Meme index updated"
+      ],
+      "removed": [
+        "Unused player scoreboard index removed from the database",
+        "Prizes section removed from the roulette page",
+        "Legacy deny-mobile restriction removed from the common builds page across all HEAT Labs services",
+        "Test agent field removed from the main tank dataset"
+      ],
+      "fixed": [
+        "Corrected incorrect agent slugs in tank configuration data",
+        "Resolved logic issues affecting the Include PvE option",
+        "Various mobile usability improvements across the platform"
+      ]
+    },
+    {
+      "version": "0.5.491",
+      "date": "2026-07-03",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #433",
+      "description": "Full patch notes for Update v0.5.491 (#433), detailing all changes made on 03 July, 2026.",
+      "added": [
+        "Five new player records added",
+        "Additional tank skin icons added for the T-62AV, Object 287, XM1-90 and ALVT",
+        "New meme image added to the media library"
+      ],
+      "changed": [
+        "Compatible tank list updated for Gambit's build",
+        "Tank skin asset paths updated",
+        "Last update information refreshed for multiple tank pages"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected a typo in one tank skin name",
+        "Corrected last updated dates on three tank pages"
+      ]
+    },
+    {
+      "version": "0.5.482",
+      "date": "2026-07-02",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #432",
+      "description": "Full patch notes for Update v0.5.482 (#432), detailing all changes made on 02 July, 2026.",
+      "added": [
+        "Thirty new player record entries added",
+        "Thirty new player record proof images published",
+        "Three new meme images added to the media library",
+        "Ability artwork added for the M60A3E2 and T-72SH"
+      ],
+      "changed": [
+        "Player records index expanded",
+        "Meme index updated",
+        "Tank ability data updated for the M60A3E2 and T-72SH",
+        "Statistics importer tool updated to support two additional tanks"
+      ],
+      "removed": [
+        "One duplicate player record index entry removed"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.5.472",
+      "date": "2026-07-01",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #431",
+      "description": "Full patch notes for Update v0.5.472 (#431), detailing all changes made on 01 July, 2026.",
+      "added": [
+        "Large backlog of player records imported into the database",
+        "Complete relogged player record datasets added for Control and Kill Confirmed",
+        "Six newly verified player records published",
+        "Two new meme images added to the media library",
+        "M60A1 module icons added",
+        "Initial work started on the upcoming merchandise store page"
+      ],
+      "changed": [
+        "Game build metadata updated",
+        "Meme page enhanced with a copy button for every meme",
+        "Player record charts refined for improved readability",
+        "Discord bot command set simplified",
+        "Discord bot facts database reset",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Importer tools adjusted to allow additional empty fields"
+      ],
+      "removed": [
+        "Deprecated Discord status command removed",
+        "Discord socials command removed",
+        "Duplicate player records and proof entries removed"
+      ],
+      "fixed": [
+        "Corrected an incorrect map entry",
+        "Fixed an incorrect player record proof location",
+        "Resolved an OCR error affecting one player record proof",
+        "Optimized M60A1 module icon assets"
+      ]
+    },
+    {
       "version": "0.5.451",
       "date": "2026-06-30",
       "author": "HEAT Labs Team",
