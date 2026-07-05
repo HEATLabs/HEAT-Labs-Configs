@@ -3,7 +3,7 @@
         "ROOT": {
             "last_updated": {
                 "conquest": "2026-07-05T10:58:06Z",
-                "control": "2026-07-05T11:04:58Z",
+                "control": "2026-07-05T11:15:55Z",
                 "hardpoint": "2026-07-05T09:12:05Z",
                 "kill-confirmed": "2026-07-05T11:10:55Z"
             }
@@ -5027,6 +5027,46 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/04072026_LazGogolak.webp"
+                }
+            ],
+            "ROGER": [
+                {
+                    "captures": 2,
+                    "destroyed": 7,
+                    "deaths": 1,
+                    "assists": 5,
+                    "damage_caused": 19900,
+                    "damage_blocked": 2900,
+                    "credits": 2150,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 4300,
+                    "agent": "Kent",
+                    "vehicle": "XM1-90",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/05072026_ROGER.webp"
+                }
+            ],
+            "Satoshi": [
+                {
+                    "captures": 0,
+                    "destroyed": 20,
+                    "deaths": 12,
+                    "assists": 2,
+                    "damage_caused": 43100,
+                    "damage_blocked": 5400,
+                    "credits": 3250,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 6500,
+                    "agent": "Raketa",
+                    "vehicle": "T-62AV",
+                    "outcome": "Defeat",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/05072026_Satoshi.webp"
                 }
             ]
         },
