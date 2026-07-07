@@ -3,9 +3,9 @@
         "ROOT": {
             "last_updated": {
                 "conquest": "2026-07-06T10:16:36Z",
-                "control": "2026-07-06T10:23:37Z",
+                "control": "2026-07-06T20:53:31Z",
                 "hardpoint": "2026-07-06T10:25:02Z",
-                "kill-confirmed": "2026-07-06T10:29:34Z"
+                "kill-confirmed": "2026-07-07T09:27:24Z"
             }
         },
         "conquest": {
@@ -2875,6 +2875,24 @@
                     "map": "Scarred City",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/04072026_Dutch_Elephant.webp"
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 8,
+                    "deaths": 9,
+                    "assists": 10,
+                    "damage_caused": 34400,
+                    "damage_blocked": 16400,
+                    "credits": 3026,
+                    "tech": 29,
+                    "intel": 0,
+                    "XP": 8395,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Defeat",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/06072026_Dutch_Elephant.webp"
                 }
             ],
             "imjustagoth": [
@@ -5165,6 +5183,104 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/06072026_The_Roman_Hammer.webp"
+                }
+            ],
+            "Flamu_Ideal_Teammate": [
+                {
+                    "captures": 1,
+                    "destroyed": 16,
+                    "deaths": 4,
+                    "assists": 14,
+                    "damage_caused": 64300,
+                    "damage_blocked": 2600,
+                    "credits": 9075,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 18150,
+                    "agent": "Flair",
+                    "vehicle": "Leo 2FK",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/06072026_Flamu_Ideal_Teammate.webp"
+                }
+            ],
+            "Gooby02": [
+                {
+                    "captures": 5,
+                    "destroyed": 19,
+                    "deaths": 8,
+                    "assists": 10,
+                    "damage_caused": 52600,
+                    "damage_blocked": 2600,
+                    "credits": 4768,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 9535,
+                    "agent": "Raketa",
+                    "vehicle": "Object 287",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/06072026_Gooby02.webp"
+                }
+            ],
+            "TheJanski": [
+                {
+                    "captures": 0,
+                    "destroyed": 12,
+                    "deaths": 2,
+                    "assists": 6,
+                    "damage_caused": 40300,
+                    "damage_blocked": 2200,
+                    "credits": 4855,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 9710,
+                    "agent": "Flair",
+                    "vehicle": "Leo 2KST",
+                    "outcome": "Defeat",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/06072026_TheJanski-1.webp"
+                },
+                {
+                    "captures": 1,
+                    "destroyed": 13,
+                    "deaths": 1,
+                    "assists": 11,
+                    "damage_caused": 33200,
+                    "damage_blocked": 3100,
+                    "credits": 4208,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 8415,
+                    "agent": "Flair",
+                    "vehicle": "Leo 2KST",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/06072026_TheJanski-2.webp"
+                }
+            ],
+            "XavierTheAce": [
+                {
+                    "captures": 3,
+                    "destroyed": 9,
+                    "deaths": 2,
+                    "assists": 7,
+                    "damage_caused": 28200,
+                    "damage_blocked": 9200,
+                    "credits": 3913,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 7825,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/06072026_XavierTheAce.webp"
                 }
             ]
         },
@@ -7460,6 +7576,27 @@
                     "map": "Moonshot",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/06072026__Arkinox_.webp"
+                }
+            ],
+            "_FORTYN4_": [
+                {
+                    "confirms": 19,
+                    "denies": 0,
+                    "destroyed": 14,
+                    "deaths": 4,
+                    "assists": 6,
+                    "damage_caused": 33700,
+                    "damage_blocked": 0,
+                    "credits": 0,
+                    "tech": 0,
+                    "intel": 0,
+                    "XP": 7510,
+                    "agent": "Raketa",
+                    "vehicle": "Object 287",
+                    "outcome": "Victory",
+                    "map": "Project Phoenix",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/06072026__FORTYN4_-1.webp"
                 }
             ]
         }
