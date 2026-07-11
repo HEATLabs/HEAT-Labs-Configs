@@ -1,6 +1,157 @@
 {
   "updates": [
     {
+      "version": "0.5.579",
+      "date": "2026-07-10",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #440",
+      "description": "Full patch notes for Update v0.5.579 (#440), detailing all changes made on 10 July, 2026.",
+      "added": [
+        "Fourteen new player records added",
+        "Fourteen new player record proof images published",
+        "New Playground feature card artwork added",
+        "Work-in-progress event page continued in the development website"
+      ],
+      "changed": [
+        "Player record index updated",
+        "One player IGN updated",
+        "Player Records page now truncates long player names for improved readability",
+        "Development work on the upcoming event page refined"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Reverted intermediate development changes related to the upcoming event page before continuing implementation"
+      ]
+    },
+    {
+      "version": "0.5.569",
+      "date": "2026-07-09",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #439",
+      "description": "Full patch notes for Update v0.5.569 (#439), detailing all changes made on 09 July, 2026.",
+      "added": [
+        "Twenty-six new player records published",
+        "Twenty-six new player record proof images added",
+        "Work-in-progress placeholder files created for an upcoming event page",
+        "Credits added to the development model viewer",
+        "New matcha image added to the media collection"
+      ],
+      "changed": [
+        "Player Records page updated with the latest community submissions"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected an incorrect placeholder on the main website"
+      ]
+    },
+    {
+      "version": "0.5.561",
+      "date": "2026-07-08",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #438",
+      "description": "Full patch notes for Update v0.5.561 (#438), detailing all changes made on 08 July, 2026.",
+      "added": [
+        "New video added to the media archive",
+        "Thumbnail added for the latest video",
+        "Six new meme images added to the media collection",
+        "Top-down view added for the Eden map"
+      ],
+      "changed": [
+        "Eden map page updated with the new top-down overview",
+        "Map imagery optimized for improved quality and loading performance"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.5.553",
+      "date": "2026-07-07",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #437",
+      "description": "Full patch notes for Update v0.5.553 (#437), detailing all changes made on 07 July, 2026.",
+      "added": [
+        "Fifteen new player record entries added",
+        "Eight new player record proof images added"
+      ],
+      "changed": [
+        "Player records index updated with the latest submissions"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Leaderboards now automatically hide statistics with a value of zero for a cleaner presentation"
+      ]
+    },
+    {
+      "version": "0.5.548",
+      "date": "2026-07-06",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #436",
+      "description": "Full patch notes for Update v0.5.548 (#436), detailing all changes made on 06 July, 2026.",
+      "added": [
+        "Eighteen new player records added",
+        "Twenty-five new player record proof images added",
+        "New meme image added to the media library",
+        "Remaining tank skin icons added to the gallery",
+        "Missing camouflage icon added to the gallery"
+      ],
+      "changed": [
+        "Meme index updated",
+        "Gallery refreshed with updated camouflage icons"
+      ],
+      "removed": [
+        "Six duplicate player record entries removed",
+        "Duplicate player record proof images removed"
+      ],
+      "fixed": [
+        "Corrected player proof naming for one record",
+        "Fixed multiple camouflage icon names",
+        "Resolved active sidebar highlighting for the Game Mods page"
+      ]
+    },
+    {
+      "version": "0.5.536",
+      "date": "2026-07-05",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #435",
+      "description": "Full patch notes for Update v0.5.536 (#435), detailing all changes made on 05 July, 2026.",
+      "added": [
+        "New Game Mods section added to the sidebar across all HEAT Labs websites, services and platforms",
+        "Twenty-two new player records added",
+        "Two previously missing player record entries restored",
+        "Six new custom social share images created for key feature pages",
+        "New meme image added to the media collection"
+      ],
+      "changed": [
+        "Key feature pages updated with dedicated social sharing images",
+        "Project statistics refreshed",
+        "Cloudflare traffic statistics updated",
+        "Changelog updated",
+        "Daily commit log updated",
+        "GSC index and export data refreshed",
+        "Team member counter updated on the homepage",
+        "Footer game version and build display logic refined",
+        "Existing social share artwork refreshed across the platform"
+      ],
+      "removed": [
+        "Beta reference removed from the GitHub profile README"
+      ],
+      "fixed": [
+        "Resolved build page logic issues",
+        "Fixed incorrect embed path on the Game Mods page",
+        "Forced rebuilds of both production and development CDNs to deploy the latest changes"
+      ]
+    },
+    {
       "version": "0.5.518",
       "date": "2026-07-04",
       "author": "HEAT Labs Team",
