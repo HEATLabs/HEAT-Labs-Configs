@@ -917,10 +917,10 @@
         "abilities": "https://cdn2.heatlabs.net/tanks/t-72sh/abilities.json",
         "model": "https://cdn4.heatlabs.net/t-72sh/model/model.fbx",
         "statistics": {
-            "lethality": 0,
-            "mobility": 0,
-            "survivability": 0,
-            "utility": 0
+            "lethality": 35,
+            "mobility": 50,
+            "survivability": 30,
+            "utility": 65
         }
     },
     {
