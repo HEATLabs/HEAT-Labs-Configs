@@ -3,7 +3,7 @@
         "ROOT": {
             "last_updated": {
                 "conquest": "2026-07-12T17:25:57Z",
-                "control": "2026-07-12T17:38:47Z",
+                "control": "2026-07-12T18:11:15Z",
                 "hardpoint": "2026-07-10T12:30:25Z",
                 "kill-confirmed": "2026-07-12T17:35:59Z"
             }
@@ -6539,6 +6539,46 @@
                     "map": "Scarred City",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/11072026_abobus.webp"
+                }
+            ],
+            "_P4SSION": [
+                {
+                    "captures": 2,
+                    "destroyed": 19,
+                    "deaths": 8,
+                    "assists": 13,
+                    "damage_caused": 85400,
+                    "damage_blocked": 9200,
+                    "credits": 6523,
+                    "tech": 62,
+                    "intel": 0,
+                    "XP": 13045,
+                    "agent": "Flair",
+                    "vehicle": "Leo 2KST",
+                    "outcome": "Draw",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/12072026__P4SSION.webp"
+                }
+            ],
+            "spitfira": [
+                {
+                    "captures": 4,
+                    "destroyed": 29,
+                    "deaths": 5,
+                    "assists": 12,
+                    "damage_caused": 95200,
+                    "damage_blocked": 13100,
+                    "credits": 8480,
+                    "tech": 50,
+                    "intel": 160,
+                    "XP": 16960,
+                    "agent": "Raketa",
+                    "vehicle": "Object 287",
+                    "outcome": "Draw",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/12072026_spitfira.webp"
                 }
             ]
         },
