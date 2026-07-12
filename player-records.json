@@ -2,10 +2,10 @@
     "records": {
         "ROOT": {
             "last_updated": {
-                "conquest": "2026-07-11T14:21:30Z",
-                "control": "2026-07-11T14:28:09Z",
+                "conquest": "2026-07-12T17:25:57Z",
+                "control": "2026-07-12T17:38:47Z",
                 "hardpoint": "2026-07-10T12:30:25Z",
-                "kill-confirmed": "2026-07-11T14:32:52Z"
+                "kill-confirmed": "2026-07-12T17:35:59Z"
             }
         },
         "conquest": {
@@ -515,6 +515,24 @@
                     "map": "Eden",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/11072026_WarMachine105677.webp"
+                },
+                {
+                    "captures": 8,
+                    "destroyed": 12,
+                    "deaths": 0,
+                    "assists": 7,
+                    "damage_caused": 20000,
+                    "damage_blocked": 0,
+                    "credits": 3569,
+                    "tech": 45,
+                    "intel": 60,
+                    "XP": 8850,
+                    "agent": "Flair",
+                    "vehicle": "Leo 2FK",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/12072026_WarMachine105677.webp"
                 }
             ],
             "ChiefKillian": [
@@ -1079,6 +1097,24 @@
                     "map": "Nord Oko",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/13062026_STK_furry_GD.webp"
+                },
+                {
+                    "captures": 1,
+                    "destroyed": 12,
+                    "deaths": 2,
+                    "assists": 5,
+                    "damage_caused": 42200,
+                    "damage_blocked": 0,
+                    "credits": 4875,
+                    "tech": 60,
+                    "intel": 200,
+                    "XP": 9350,
+                    "agent": "Flair",
+                    "vehicle": "Leo 2FK",
+                    "outcome": "Victory",
+                    "map": "Eden",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/12072026_STK_furry_GD.webp"
                 }
             ],
             "peachpest": [
@@ -1267,6 +1303,24 @@
                     "map": "Nexus Dam",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/05072026_esmatty.webp"
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 7,
+                    "deaths": 4,
+                    "assists": 6,
+                    "damage_caused": 31900,
+                    "damage_blocked": 13000,
+                    "credits": 3143,
+                    "tech": 43,
+                    "intel": 115,
+                    "XP": 8320,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/12072026_esmatty.webp"
                 }
             ],
             "XM8_Jaeger": [
@@ -2055,6 +2109,104 @@
                     "map": "Scarred City",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/10072026_SINEWAVE_.webp"
+                }
+            ],
+            "Y3llowbird": [
+                {
+                    "captures": 3,
+                    "destroyed": 16,
+                    "deaths": 4,
+                    "assists": 8,
+                    "damage_caused": 49800,
+                    "damage_blocked": 1800,
+                    "credits": 6558,
+                    "tech": 73,
+                    "intel": 40,
+                    "XP": 12715,
+                    "agent": "Fuzzer",
+                    "vehicle": "Marder 1A3",
+                    "outcome": "Victory",
+                    "map": "Nord Oko",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/11072026_Y3llowbird.webp"
+                }
+            ],
+            "_Keito": [
+                {
+                    "captures": 2,
+                    "destroyed": 25,
+                    "deaths": 4,
+                    "assists": 9,
+                    "damage_caused": 77000,
+                    "damage_blocked": 7100,
+                    "credits": 6165,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 11930,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Victory",
+                    "map": "Nord Oko",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/12072026__Keito.webp"
+                }
+            ],
+            "HeroLight": [
+                {
+                    "captures": 5,
+                    "destroyed": 17,
+                    "deaths": 6,
+                    "assists": 10,
+                    "damage_caused": 59900,
+                    "damage_blocked": 5700,
+                    "credits": 4542,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 8835,
+                    "agent": "Kent",
+                    "vehicle": "XM1-90",
+                    "outcome": "Defeat",
+                    "map": "Nexus Dam",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/12072026_HeroLight.webp"
+                }
+            ],
+            "Highyo_Boyo": [
+                {
+                    "captures": 1,
+                    "destroyed": 9,
+                    "deaths": 0,
+                    "assists": 9,
+                    "damage_caused": 28300,
+                    "damage_blocked": 385,
+                    "credits": 2478,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 4605,
+                    "agent": "Hound",
+                    "vehicle": "Leo 1A6A1",
+                    "outcome": "Defeat",
+                    "map": "Nord Oko",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/12072026_Highyo_Boyo-1.webp"
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 8,
+                    "deaths": 3,
+                    "assists": 10,
+                    "damage_caused": 29000,
+                    "damage_blocked": 1200,
+                    "credits": 3715,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 7060,
+                    "agent": "Hound",
+                    "vehicle": "Leo 1A6A1",
+                    "outcome": "Defeat",
+                    "map": "Nord Oko",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/12072026_Highyo_Boyo-2.webp"
                 }
             ]
         },
@@ -3747,6 +3899,24 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/11072026_IAmEdWards_.webp"
+                },
+                {
+                    "captures": 4,
+                    "destroyed": 5,
+                    "deaths": 6,
+                    "assists": 9,
+                    "damage_caused": 39800,
+                    "damage_blocked": 20000,
+                    "credits": 5698,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 11395,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/12072026_IAmEdWards_.webp"
                 }
             ],
             "Kystis": [
@@ -4435,6 +4605,24 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/11072026_AET3RNAL.webp"
+                },
+                {
+                    "captures": 0,
+                    "destroyed": 23,
+                    "deaths": 2,
+                    "assists": 12,
+                    "damage_caused": 89400,
+                    "damage_blocked": 17700,
+                    "credits": 5798,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 11595,
+                    "agent": "Kent",
+                    "vehicle": "XM1-90",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/12072026_AET3RNAL.webp"
                 }
             ],
             "backseat_admiral_12": [
@@ -5243,6 +5431,24 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/02072026_Speed.webp"
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 14,
+                    "deaths": 3,
+                    "assists": 11,
+                    "damage_caused": 54900,
+                    "damage_blocked": 9400,
+                    "credits": 5478,
+                    "tech": 60,
+                    "intel": 160,
+                    "XP": 10955,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/12072026_Speed.webp"
                 }
             ],
             "lsay_10l": [
@@ -5649,6 +5855,24 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/03072026_dIAtticusIb.webp"
+                },
+                {
+                    "captures": 1,
+                    "destroyed": 11,
+                    "deaths": 3,
+                    "assists": 10,
+                    "damage_caused": 36800,
+                    "damage_blocked": 12300,
+                    "credits": 4510,
+                    "tech": 75,
+                    "intel": 40,
+                    "XP": 9020,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/11072026_dIAtticusIb.webp"
                 }
             ],
             "Timmy_Please": [
@@ -5983,6 +6207,24 @@
                     "map": "Aircraft Carrier",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/07072026_darkbanefox.webp"
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 19,
+                    "deaths": 5,
+                    "assists": 9,
+                    "damage_caused": 49900,
+                    "damage_blocked": 6200,
+                    "credits": 6105,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 12210,
+                    "agent": "Fuzzer",
+                    "vehicle": "Bradley M3E1",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/12072026_darkbanefox.webp"
                 }
             ],
             "Mazur12": [
@@ -6277,6 +6519,26 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/11072026_JT.webp"
+                }
+            ],
+            "abobus": [
+                {
+                    "captures": 2,
+                    "destroyed": 16,
+                    "deaths": 4,
+                    "assists": 7,
+                    "damage_caused": 32600,
+                    "damage_blocked": 1100,
+                    "credits": 4768,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 9535,
+                    "agent": "Fuzzer",
+                    "vehicle": "Marder 1A3",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/11072026_abobus.webp"
                 }
             ]
         },
@@ -8443,6 +8705,25 @@
                     "map": "Nord Oko",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/01072026_peachpest.webp"
+                },
+                {
+                    "confirms": 5,
+                    "denies": 0,
+                    "destroyed": 16,
+                    "deaths": 2,
+                    "assists": 9,
+                    "damage_caused": 49900,
+                    "damage_blocked": 0,
+                    "credits": 6675,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 13340,
+                    "agent": "Fuzzer",
+                    "vehicle": "Marder 1A3",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/11072026_peachpest.webp"
                 }
             ],
             "ch3ms_": [
@@ -8603,6 +8884,25 @@
                     "map": "Scarred City",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/11072026_WarMachine105677.webp"
+                },
+                {
+                    "confirms": 16,
+                    "denies": 3,
+                    "destroyed": 12,
+                    "deaths": 5,
+                    "assists": 8,
+                    "damage_caused": 36200,
+                    "damage_blocked": 0,
+                    "credits": 4002,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 7995,
+                    "agent": "Twister",
+                    "vehicle": "M551A1",
+                    "outcome": "Victory",
+                    "map": "Eden",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/12072026_WarMachine105677.webp"
                 }
             ],
             "_VEN0M": [
@@ -8870,6 +9170,25 @@
                     "map": "Project Phoenix",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/10072026_AET3RNAL-1.webp"
+                },
+                {
+                    "confirms": 3,
+                    "denies": 1,
+                    "destroyed": 21,
+                    "deaths": 4,
+                    "assists": 14,
+                    "damage_caused": 72400,
+                    "damage_blocked": 0,
+                    "credits": 6278,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 12545,
+                    "agent": "Reaper",
+                    "vehicle": "M60A2",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/12072026_AET3RNAL.webp"
                 }
             ],
             "EepyRabbit": [
@@ -8933,6 +9252,67 @@
                     "map": "Eden",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/10072026_Yzhe_Nikto.webp"
+                },
+                {
+                    "confirms": 10,
+                    "denies": 0,
+                    "destroyed": 27,
+                    "deaths": 7,
+                    "assists": 6,
+                    "damage_caused": 88400,
+                    "damage_blocked": 0,
+                    "credits": 7473,
+                    "tech": 50,
+                    "intel": 34,
+                    "XP": 17785,
+                    "agent": "Hound",
+                    "vehicle": "Leo 1A6A1",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/12072026_Yzhe_Nikto.webp"
+                }
+            ],
+            "LigManBruh": [
+                {
+                    "confirms": 14,
+                    "denies": 3,
+                    "destroyed": 6,
+                    "deaths": 7,
+                    "assists": 10,
+                    "damage_caused": 24000,
+                    "damage_blocked": 0,
+                    "credits": 2861,
+                    "tech": 50,
+                    "intel": 33,
+                    "XP": 6915,
+                    "agent": "Reaper",
+                    "vehicle": "M60A2",
+                    "outcome": "Victory",
+                    "map": "Eden",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/11072026_LigManBruh.webp"
+                }
+            ],
+            "Highyo_Boyo": [
+                {
+                    "confirms": 2,
+                    "denies": 1,
+                    "destroyed": 5,
+                    "deaths": 3,
+                    "assists": 6,
+                    "damage_caused": 33700,
+                    "damage_blocked": 0,
+                    "credits": 3968,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 7930,
+                    "agent": "Hound",
+                    "vehicle": "Leo 1A6A1",
+                    "outcome": "Defeat",
+                    "map": "Moonshot",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/12072026_Highyo_Boyo-3.webp"
                 }
             ]
         }
