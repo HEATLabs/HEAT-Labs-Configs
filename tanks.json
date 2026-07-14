@@ -196,34 +196,6 @@
         }
     },
     {
-        "id": 8,
-        "state": "displayed",
-        "name": "Leopard 2K14",
-        "slug": "leopard-2k14",
-        "nation": "Germany",
-        "type": "Unknown",
-        "class": "To Be Released",
-        "experience": "0",
-        "credits": "Unknown",
-        "featured": false,
-        "image": "https://cdn7.heatlabs.net/tanks/leopard-2k14/upscaled_leopard-2k14.webp",
-        "stock": "https://cdn2.heatlabs.net/tanks/leopard-2k14/stock.json",
-        "upgrades": "https://cdn2.heatlabs.net/tanks/leopard-2k14/upgrades.json",
-        "consumables": "https://cdn2.heatlabs.net/tanks/leopard-2k14/consumables.json",
-        "perks": "https://cdn2.heatlabs.net/tanks/leopard-2k14/perks.json",
-        "agents": "https://cdn2.heatlabs.net/tanks/leopard-2k14/agents.json",
-        "details": "https://cdn2.heatlabs.net/tanks/leopard-2k14/details.json",
-        "builds": "https://cdn2.heatlabs.net/tanks/leopard-2k14/builds.json",
-        "abilities": "https://cdn2.heatlabs.net/tanks/leopard-2k14/abilities.json",
-        "model": "https://cdn4.heatlabs.net/leopard-2k14/model/model.fbx",
-        "statistics": {
-            "lethality": 70,
-            "mobility": 60,
-            "survivability": 35,
-            "utility": 10
-        }
-    },
-    {
         "id": 9,
         "state": "displayed",
         "name": "Leopard 2FK",
