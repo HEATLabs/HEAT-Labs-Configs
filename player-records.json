@@ -2,9 +2,9 @@
     "records": {
         "ROOT": {
             "last_updated": {
-                "conquest": "2026-07-13T17:23:52Z",
-                "control": "2026-07-13T17:32:36Z",
-                "hardpoint": "2026-07-13T17:24:35Z",
+                "conquest": "2026-07-14T17:23:10Z",
+                "control": "2026-07-14T17:24:57Z",
+                "hardpoint": "2026-07-14T17:25:42Z",
                 "kill-confirmed": "2026-07-13T17:36:32Z"
             }
         },
@@ -271,6 +271,60 @@
                     "map": "Moonshot",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/08072026_IAmEdWards_.webp"
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 9,
+                    "deaths": 0,
+                    "assists": 4,
+                    "damage_caused": 25300,
+                    "damage_blocked": 17900,
+                    "credits": 4702,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 9005,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Project Phoenix",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/14072026_IAmEdWards_-1.webp"
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 6,
+                    "deaths": 2,
+                    "assists": 7,
+                    "damage_caused": 25800,
+                    "damage_blocked": 18600,
+                    "credits": 3918,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 7435,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/14072026_IAmEdWards_-2.webp"
+                },
+                {
+                    "captures": 5,
+                    "destroyed": 15,
+                    "deaths": 4,
+                    "assists": 13,
+                    "damage_caused": 62200,
+                    "damage_blocked": 10300,
+                    "credits": 5925,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 11480,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Defeat",
+                    "map": "Moonshot",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/14072026_IAmEdWards_-3.webp"
                 }
             ],
             "Ioreen2S": [
@@ -3937,6 +3991,24 @@
                     "map": "Blossom Crash",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/12072026_IAmEdWards_.webp"
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 24,
+                    "deaths": 7,
+                    "assists": 9,
+                    "damage_caused": 74500,
+                    "damage_blocked": 2500,
+                    "credits": 7023,
+                    "tech": 60,
+                    "intel": 340,
+                    "XP": 14045,
+                    "agent": "Twister",
+                    "vehicle": "M551A1",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/14072026_IAmEdWards_.webp"
                 }
             ],
             "Kystis": [
@@ -3975,6 +4047,24 @@
                     "map": "Blossom Crash",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/22062026_Kystis.webp"
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 28,
+                    "deaths": 5,
+                    "assists": 4,
+                    "damage_caused": 66200,
+                    "damage_blocked": 9300,
+                    "credits": 5593,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 11185,
+                    "agent": "Raketa",
+                    "vehicle": "Object 287",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/14072026_Kystis.webp"
                 }
             ],
             "Crimson": [
@@ -7355,6 +7445,26 @@
                     "map": "Project Phoenix",
                     "mode": "Hardpoint",
                     "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/13072026_Hose1x.webp"
+                }
+            ],
+            "CrazySwede_": [
+                {
+                    "captures": 4,
+                    "destroyed": 13,
+                    "deaths": 2,
+                    "assists": 9,
+                    "damage_caused": 30700,
+                    "damage_blocked": 6000,
+                    "credits": 4152,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 7505,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/14072026_CrazySwede_.webp"
                 }
             ]
         },
