@@ -644,34 +644,6 @@
         }
     },
     {
-        "id": 24,
-        "state": "displayed",
-        "name": "T-72B",
-        "slug": "t-72b",
-        "nation": "USSR",
-        "type": "Unknown",
-        "class": "To Be Released",
-        "experience": "0",
-        "credits": "Unknown",
-        "featured": false,
-        "image": "https://cdn7.heatlabs.net/tanks/t-72b/upscaled_t-72b.webp",
-        "stock": "https://cdn2.heatlabs.net/tanks/t-72b/stock.json",
-        "upgrades": "https://cdn2.heatlabs.net/tanks/t-72b/upgrades.json",
-        "consumables": "https://cdn2.heatlabs.net/tanks/t-72b/consumables.json",
-        "perks": "https://cdn2.heatlabs.net/tanks/t-72b/perks.json",
-        "agents": "https://cdn2.heatlabs.net/tanks/t-72b/agents.json",
-        "details": "https://cdn2.heatlabs.net/tanks/t-72b/details.json",
-        "builds": "https://cdn2.heatlabs.net/tanks/t-72b/builds.json",
-        "abilities": "https://cdn2.heatlabs.net/tanks/t-72b/abilities.json",
-        "model": "https://cdn4.heatlabs.net/t-72b/model/model.fbx",
-        "statistics": {
-            "lethality": 0,
-            "mobility": 0,
-            "survivability": 0,
-            "utility": 0
-        }
-    },
-    {
         "id": 25,
         "state": "hidden",
         "name": "T-55 Enigma",
