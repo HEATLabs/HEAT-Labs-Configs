@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 265,
+    "total_pages": 258,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-07-14T16:17:13.098391"
+    "export_timestamp": "2026-07-16T00:27:22.547552"
   },
   "pages": [
     {
@@ -62,20 +62,6 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/agents/arblast",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/agents/atom",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
       "url": "https://heatlabs.net/agents/blitz",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -97,13 +83,6 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/agents/fantome",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
       "url": "https://heatlabs.net/agents/flair",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
@@ -118,22 +97,8 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/agents/jager",
-      "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
       "url": "https://heatlabs.net/agents/kent",
       "gsc_status": "PENDING",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/agents/punch",
-      "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
@@ -1770,20 +1735,6 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/tanks/xm551",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/tanks/xm808-twister",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
       "url": "https://heatlabs.net/tournaments",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -1865,20 +1816,20 @@
     "google_index_data": {
       "pending": 103,
       "not_indexed": 0,
-      "indexed": 160
+      "indexed": 153
     },
     "google_api_status": {
-      "pending": 65,
+      "pending": 64,
       "not_indexed": 0,
-      "indexed": 198
+      "indexed": 192
     },
     "https_page_status": {
-      "unknown": 232,
+      "unknown": 225,
       "not_https": 0,
       "https": 31
     },
     "breadcrumb_status": {
-      "unknown": 232,
+      "unknown": 225,
       "invalid": 0,
       "valid": 31
     }
