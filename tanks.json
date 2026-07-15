@@ -616,34 +616,6 @@
         }
     },
     {
-        "id": 25,
-        "state": "hidden",
-        "name": "T-55 Enigma",
-        "slug": "t-55-enigma",
-        "nation": "USSR",
-        "type": "Unknown",
-        "class": "Only for Bots",
-        "experience": "0",
-        "credits": "Unknown",
-        "featured": false,
-        "image": "https://cdn7.heatlabs.net/tanks/t-55-enigma/upscaled_t-55-enigma.webp",
-        "stock": "https://cdn2.heatlabs.net/tanks/t-55-enigma/stock.json",
-        "upgrades": "https://cdn2.heatlabs.net/tanks/t-55-enigma/upgrades.json",
-        "consumables": "https://cdn2.heatlabs.net/tanks/t-55-enigma/consumables.json",
-        "perks": "https://cdn2.heatlabs.net/tanks/t-55-enigma/perks.json",
-        "agents": "https://cdn2.heatlabs.net/tanks/t-55-enigma/agents.json",
-        "details": "https://cdn2.heatlabs.net/tanks/t-55-enigma/details.json",
-        "builds": "https://cdn2.heatlabs.net/tanks/t-55-enigma/builds.json",
-        "abilities": "https://cdn2.heatlabs.net/tanks/t-55-enigma/abilities.json",
-        "model": "https://cdn4.heatlabs.net/t-55-enigma/model/model.fbx",
-        "statistics": {
-            "lethality": 0,
-            "mobility": 0,
-            "survivability": 0,
-            "utility": 0
-        }
-    },
-    {
         "id": 26,
         "state": "displayed",
         "name": "XM1-90",
@@ -697,34 +669,6 @@
             "mobility": 20,
             "survivability": 48,
             "utility": 35
-        }
-    },
-    {
-        "id": 28,
-        "state": "hidden",
-        "name": "XM808 Twister",
-        "slug": "xm808-twister",
-        "nation": "USA",
-        "type": "Unknown",
-        "class": "To Be Released",
-        "experience": "0",
-        "credits": "Unknown",
-        "featured": false,
-        "image": "https://cdn7.heatlabs.net/tanks/xm808-twister/upscaled_xm808-twister.webp",
-        "stock": "https://cdn2.heatlabs.net/tanks/xm808-twister/stock.json",
-        "upgrades": "https://cdn2.heatlabs.net/tanks/xm808-twister/upgrades.json",
-        "consumables": "https://cdn2.heatlabs.net/tanks/xm808-twister/consumables.json",
-        "perks": "https://cdn2.heatlabs.net/tanks/xm808-twister/perks.json",
-        "agents": "https://cdn2.heatlabs.net/tanks/xm808-twister/agents.json",
-        "details": "https://cdn2.heatlabs.net/tanks/xm808-twister/details.json",
-        "builds": "https://cdn2.heatlabs.net/tanks/xm808-twister/builds.json",
-        "abilities": "https://cdn2.heatlabs.net/tanks/xm808-twister/abilities.json",
-        "model": "https://cdn4.heatlabs.net/xm808-twister/model/model.fbx",
-        "statistics": {
-            "lethality": 0,
-            "mobility": 0,
-            "survivability": 0,
-            "utility": 0
         }
     },
     {
