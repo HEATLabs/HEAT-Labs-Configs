@@ -22,5 +22,17 @@
         "modVersion": "0.0.0",
         "description": "A powerful modding runtime for creating overlays, UI reskins, and gameplay-enhancing tools.",
         "image": "https://cdn6.heatlabs.net/mods/Fuse.webp"
+    },
+    {
+        "id": 3,
+        "name": "HEAT-Sentinel",
+        "slug": "https://github.com/OxCone1/HEAT-Sentinel",
+        "creator": "OxCone",
+        "category": "Interface",
+        "status": "Available Now",
+        "gameVersion": "1.1.1",
+        "modVersion": "0.0.0",
+        "description": "Records battles, XP and loadouts locally, no account, with a live customizable OBS overlay.",
+        "image": "https://cdn6.heatlabs.net/mods/HEAT-Sentinel.webp"
     }
 ]
