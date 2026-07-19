@@ -2,7 +2,7 @@
   "metadata": {
     "total_pages": 258,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-07-16T00:27:22.547552"
+    "export_timestamp": "2026-07-19T18:52:32.399332"
   },
   "pages": [
     {
@@ -786,6 +786,13 @@
       "url": "https://heatlabs.net/maps/project-phoenix",
       "gsc_status": "PENDING",
       "g_api_status": "INDEXED",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/maps/railgun",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1644,13 +1651,6 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/tanks/m60a3e2-bot",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
       "url": "https://heatlabs.net/tanks/m60e2",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -1814,14 +1814,14 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 103,
+      "pending": 104,
       "not_indexed": 0,
-      "indexed": 153
+      "indexed": 152
     },
     "google_api_status": {
-      "pending": 64,
+      "pending": 65,
       "not_indexed": 0,
-      "indexed": 192
+      "indexed": 191
     },
     "https_page_status": {
       "unknown": 225,
