@@ -3,7 +3,7 @@
         "ROOT": {
             "last_updated": {
                 "conquest": "2026-07-19T12:39:22Z",
-                "control": "2026-07-19T14:15:45Z",
+                "control": "2026-07-19T14:42:37Z",
                 "hardpoint": "2026-07-19T12:41:12Z",
                 "kill-confirmed": "2026-07-19T14:24:55Z"
             }
@@ -6031,6 +6031,24 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/05072026_Ordealius.webp"
+                },
+                {
+                    "captures": 4,
+                    "destroyed": 22,
+                    "deaths": 8,
+                    "assists": 22,
+                    "damage_caused": 60400,
+                    "damage_blocked": 676,
+                    "credits": 6778,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 13555,
+                    "agent": "Twister",
+                    "vehicle": "HSTV-L",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/19072026_Ordealius.webp"
                 }
             ],
             "Speed": [
