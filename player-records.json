@@ -2421,6 +2421,42 @@
                     "map": "Nord Oko",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/12072026_Highyo_Boyo-2.webp"
+                },
+                {
+                    "captures": 0,
+                    "destroyed": 10,
+                    "deaths": 3,
+                    "assists": 7,
+                    "damage_caused": 41600,
+                    "damage_blocked": 291,
+                    "credits": 6225,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 12050,
+                    "agent": "Hound",
+                    "vehicle": "Leo 1A6A1",
+                    "outcome": "Victory",
+                    "map": "Moonshot",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/18072026_HighyoBoyo-1.webp"
+                },
+                {
+                    "captures": 0,
+                    "destroyed": 7,
+                    "deaths": 6,
+                    "assists": 11,
+                    "damage_caused": 44300,
+                    "damage_blocked": 1300,
+                    "credits": 7618,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 14835,
+                    "agent": "Hound",
+                    "vehicle": "Leo 1A6A1",
+                    "outcome": "Victory",
+                    "map": "Nexus Dam",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/18072026_HighyoBoyo-2.webp"
                 }
             ],
             "_P4SSION": [
@@ -2591,44 +2627,6 @@
                     "map": "Eden",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/15072026_Speed-2.webp"
-                }
-            ],
-            "HighyoBoyo": [
-                {
-                    "captures": 0,
-                    "destroyed": 10,
-                    "deaths": 3,
-                    "assists": 7,
-                    "damage_caused": 41600,
-                    "damage_blocked": 291,
-                    "credits": 6225,
-                    "tech": 60,
-                    "intel": 40,
-                    "XP": 12050,
-                    "agent": "Hound",
-                    "vehicle": "Leo 1A6A1",
-                    "outcome": "Victory",
-                    "map": "Moonshot",
-                    "mode": "Conquest",
-                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/18072026_HighyoBoyo-1.webp"
-                },
-                {
-                    "captures": 0,
-                    "destroyed": 7,
-                    "deaths": 6,
-                    "assists": 11,
-                    "damage_caused": 44300,
-                    "damage_blocked": 1300,
-                    "credits": 7618,
-                    "tech": 60,
-                    "intel": 40,
-                    "XP": 14835,
-                    "agent": "Hound",
-                    "vehicle": "Leo 1A6A1",
-                    "outcome": "Victory",
-                    "map": "Nexus Dam",
-                    "mode": "Conquest",
-                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/18072026_HighyoBoyo-2.webp"
                 }
             ]
         },
