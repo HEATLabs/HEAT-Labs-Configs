@@ -1,11 +1,99 @@
 {
   "updates": [
     {
-      "version": "0.5.692",
+      "version": "0.5.765",
+      "date": "2026-07-21",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #451",
+      "description": "Full patch notes for Update v0.5.765 (#451), detailing all changes made on 21 July, 2026.",
+      "added": [
+        "Twenty-eight new player record entries added",
+        "Three new meme images added to the media library",
+        "Complete player profile functionality added to the Player Records page",
+        "Additional M60A2 gallery images added"
+      ],
+      "changed": [
+        "XM1-90 gallery refreshed with updated images",
+        "M60A2 tank page updated with expanded gallery content",
+        "Contributor information updated",
+        "Player records index refreshed",
+        "Watermark manifests updated for internal tooling"
+      ],
+      "removed": [
+        "One duplicate player record entry removed"
+      ],
+      "fixed": [
+        "Corrected an incorrect tank name in the player records database",
+        "Resolved issues affecting two player record entries",
+        "Improved consistency across player record indexing and media assets"
+      ]
+    },
+    {
+      "version": "0.5.752",
+      "date": "2026-07-20",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #450",
+      "description": "Full patch notes for Update v0.5.752 (#450), detailing all changes made on 20 July, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Revised model loader toggle behavior within the development website"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.5.748",
+      "date": "2026-07-19",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #449",
+      "description": "Full patch notes for Update v0.5.748 (#449), detailing all changes made on 19 July, 2026.",
+      "added": [
+        "New map page added to the website",
+        "Map assets and tracking support added for the new location",
+        "Forty new player record entries added",
+        "One previously missing player record restored",
+        "Four new meme images added to the media library",
+        "Three work-in-progress Game Mods pages added",
+        "One new bot tank added to the tank index"
+      ],
+      "changed": [
+        "Project statistics refreshed",
+        "Cloudflare analytics data updated",
+        "Page data files updated",
+        "GSC index and export data refreshed",
+        "Map index updated with the latest playable map",
+        "Search keyword index updated to include the new map while removing 27 obsolete pages",
+        "Tracking pixel index expanded for the new map page",
+        "Tank index updated with the latest bot tank information",
+        "Inferno map imagery and page information refreshed",
+        "Commit fetcher updated with additional repositories and cleaned up unused integrations",
+        "Wording improved across 13 agent pages"
+      ],
+      "removed": [
+        "Unused bot tank page removed",
+        "Unused bot tank database files removed",
+        "Three empty player record entries removed for re-logging"
+      ],
+      "fixed": [
+        "Corrected an incorrect map name in the player records database",
+        "Fixed multiple player record naming and proof image issues",
+        "Corrected a typo in a player record entry",
+        "Updated proof references for improved consistency",
+        "Removed outdated AI disclaimers from four agent pages"
+      ]
+    },
+    {
+      "version": "0.5.722",
       "date": "2026-07-18",
       "author": "HEAT Labs Team",
       "title": "Update Number #448",
-      "description": "Full patch notes for Update v0.5.692 (#448), detailing all changes made on 18 July, 2026.",
+      "description": "Full patch notes for Update v0.5.722 (#448), detailing all changes made on 18 July, 2026.",
       "added": [
         "Nothing was added in this update"
       ],
@@ -20,11 +108,11 @@
       ]
     },
     {
-      "version": "0.5.688",
+      "version": "0.5.718",
       "date": "2026-07-17",
       "author": "HEAT Labs Team",
       "title": "Update Number #447",
-      "description": "Full patch notes for Update v0.5.688 (#447), detailing all changes made on 17 July, 2026.",
+      "description": "Full patch notes for Update v0.5.718 (#447), detailing all changes made on 17 July, 2026.",
       "added": [
         "Initial version of the HEAT Labs WGC API Emulator project"
       ],
@@ -39,11 +127,11 @@
       ]
     },
     {
-      "version": "0.5.684",
+      "version": "0.5.714",
       "date": "2026-07-16",
       "author": "HEAT Labs Team",
       "title": "Update Number #446",
-      "description": "Full patch notes for Update v0.5.684 (#446), detailing all changes made on 16 July, 2026.",
+      "description": "Full patch notes for Update v0.5.714 (#446), detailing all changes made on 16 July, 2026.",
       "added": [
         "New mod added to the Mods library",
         "Twenty-seven new player records added",
@@ -64,11 +152,11 @@
       ]
     },
     {
-      "version": "0.5.674",
+      "version": "0.5.704",
       "date": "2026-07-15",
       "author": "HEAT Labs Team",
       "title": "Update Number #445",
-      "description": "Full patch notes for Update v0.5.674 (#445), detailing all changes made on 15 July, 2026.",
+      "description": "Full patch notes for Update v0.5.704 (#445), detailing all changes made on 15 July, 2026.",
       "added": [
         "New video added to the archive",
         "Five new ALVT gallery images added",
@@ -99,11 +187,11 @@
       ]
     },
     {
-      "version": "0.5.654",
+      "version": "0.5.684",
       "date": "2026-07-14",
       "author": "HEAT Labs Team",
       "title": "Update Number #444",
-      "description": "Full patch notes for Update v0.5.654 (#444), detailing all changes made on 14 July, 2026.",
+      "description": "Full patch notes for Update v0.5.684 (#444), detailing all changes made on 14 July, 2026.",
       "added": [
         "Six new player records added",
         "Five new XM1-90 gallery images added",
@@ -135,11 +223,11 @@
       ]
     },
     {
-      "version": "0.5.633",
+      "version": "0.5.663",
       "date": "2026-07-13",
       "author": "HEAT Labs Team",
       "title": "Update Number #443",
-      "description": "Full patch notes for Update v0.5.633 (#443), detailing all changes made on 13 July, 2026.",
+      "description": "Full patch notes for Update v0.5.663 (#443), detailing all changes made on 13 July, 2026.",
       "added": [
         "New HSTV-L community build added",
         "Sixteen new player records added",
@@ -163,11 +251,11 @@
       ]
     },
     {
-      "version": "0.5.620",
+      "version": "0.5.650",
       "date": "2026-07-12",
       "author": "HEAT Labs Team",
       "title": "Update Number #442",
-      "description": "Full patch notes for Update v0.5.620 (#442), detailing all changes made on 12 July, 2026.",
+      "description": "Full patch notes for Update v0.5.650 (#442), detailing all changes made on 12 July, 2026.",
       "added": [
         "Twenty new player records added",
         "Two previously missing player record entries restored",
@@ -187,11 +275,11 @@
       ]
     },
     {
-      "version": "0.5.611",
+      "version": "0.5.641",
       "date": "2026-07-11",
       "author": "HEAT Labs Team",
       "title": "Update Number #441",
-      "description": "Full patch notes for Update v0.5.611 (#441), detailing all changes made on 11 July, 2026.",
+      "description": "Full patch notes for Update v0.5.641 (#441), detailing all changes made on 11 July, 2026.",
       "added": [
         "New team member added across all HEAT Labs services",
         "New contributor added to the community",
@@ -222,6 +310,7 @@
         "Player Records styling optimized by moving test styles into CSS",
         "Icon sizing adjusted for Player Records statistics",
         "Website sitemap index updated",
+        "Image manifest index updated",
         "Eden map and Flairs agent descriptions refreshed"
       ],
       "removed": [
@@ -234,11 +323,11 @@
       ]
     },
     {
-      "version": "0.5.579",
+      "version": "0.5.608",
       "date": "2026-07-10",
       "author": "HEAT Labs Team",
       "title": "Update Number #440",
-      "description": "Full patch notes for Update v0.5.579 (#440), detailing all changes made on 10 July, 2026.",
+      "description": "Full patch notes for Update v0.5.608 (#440), detailing all changes made on 10 July, 2026.",
       "added": [
         "Fourteen new player records added",
         "Fourteen new player record proof images published",
@@ -259,11 +348,11 @@
       ]
     },
     {
-      "version": "0.5.569",
+      "version": "0.5.598",
       "date": "2026-07-09",
       "author": "HEAT Labs Team",
       "title": "Update Number #439",
-      "description": "Full patch notes for Update v0.5.569 (#439), detailing all changes made on 09 July, 2026.",
+      "description": "Full patch notes for Update v0.5.598 (#439), detailing all changes made on 09 July, 2026.",
       "added": [
         "Twenty-six new player records published",
         "Twenty-six new player record proof images added",
@@ -282,34 +371,34 @@
       ]
     },
     {
-      "version": "0.5.561",
+      "version": "0.5.590",
       "date": "2026-07-08",
       "author": "HEAT Labs Team",
       "title": "Update Number #438",
-      "description": "Full patch notes for Update v0.5.561 (#438), detailing all changes made on 08 July, 2026.",
+      "description": "Full patch notes for Update v0.5.590 (#438), detailing all changes made on 08 July, 2026.",
       "added": [
-        "New video added to the media archive",
+        "New video added to the video archive",
         "Thumbnail added for the latest video",
-        "Six new meme images added to the media collection",
+        "Six new meme images added to the media library",
         "Top-down view added for the Eden map"
       ],
       "changed": [
-        "Eden map page updated with the new top-down overview",
-        "Map imagery optimized for improved quality and loading performance"
+        "Eden map page updated to display the new top-down view",
+        "Internal tools manifest updated to include the new Eden map asset"
       ],
       "removed": [
         "Nothing was removed in this update"
       ],
       "fixed": [
-        "Nothing was fixed in this update"
+        "Optimized the Eden top-down map image for improved loading and performance"
       ]
     },
     {
-      "version": "0.5.553",
+      "version": "0.5.582",
       "date": "2026-07-07",
       "author": "HEAT Labs Team",
       "title": "Update Number #437",
-      "description": "Full patch notes for Update v0.5.553 (#437), detailing all changes made on 07 July, 2026.",
+      "description": "Full patch notes for Update v0.5.582 (#437), detailing all changes made on 07 July, 2026.",
       "added": [
         "Fifteen new player record entries added",
         "Eight new player record proof images added"
@@ -325,38 +414,40 @@
       ]
     },
     {
-      "version": "0.5.548",
+      "version": "0.5.577",
       "date": "2026-07-06",
       "author": "HEAT Labs Team",
       "title": "Update Number #436",
-      "description": "Full patch notes for Update v0.5.548 (#436), detailing all changes made on 06 July, 2026.",
+      "description": "Full patch notes for Update v0.5.577 (#436), detailing all changes made on 06 July, 2026.",
       "added": [
-        "Eighteen new player records added",
-        "Twenty-five new player record proof images added",
-        "New meme image added to the media library",
+        "18 new player records added to the Player Records database",
+        "25 new player record proof images added",
         "Remaining tank skin icons added to the gallery",
-        "Missing camouflage icon added to the gallery"
+        "One previously missing camouflage icon added",
+        "New meme image added to the media collection"
       ],
       "changed": [
-        "Meme index updated",
-        "Gallery refreshed with updated camouflage icons"
+        "Gallery refreshed with updated camouflage icons",
+        "Internal asset manifests updated to include new camouflage and tank skin icons",
+        "Player Records data updated with the latest community submissions",
+        "Meme index updated with the latest image"
       ],
       "removed": [
-        "Six duplicate player record entries removed",
+        "Six duplicate player record entries removed from the database",
         "Duplicate player record proof images removed"
       ],
       "fixed": [
-        "Corrected player proof naming for one record",
-        "Fixed multiple camouflage icon names",
-        "Resolved active sidebar highlighting for the Game Mods page"
+        "Corrected the filename for one player record proof image",
+        "Fixed the names of two camouflage icons",
+        "Resolved an issue where the Game Mods sidebar link did not display its active state"
       ]
     },
     {
-      "version": "0.5.536",
+      "version": "0.5.563",
       "date": "2026-07-05",
       "author": "HEAT Labs Team",
       "title": "Update Number #435",
-      "description": "Full patch notes for Update v0.5.536 (#435), detailing all changes made on 05 July, 2026.",
+      "description": "Full patch notes for Update v0.5.563 (#435), detailing all changes made on 05 July, 2026.",
       "added": [
         "New Game Mods section added to the sidebar across all HEAT Labs websites, services and platforms",
         "Twenty-two new player records added",
@@ -385,11 +476,11 @@
       ]
     },
     {
-      "version": "0.5.518",
+      "version": "0.5.545",
       "date": "2026-07-04",
       "author": "HEAT Labs Team",
       "title": "Update Number #434",
-      "description": "Full patch notes for Update v0.5.518 (#434), detailing all changes made on 04 July, 2026.",
+      "description": "Full patch notes for Update v0.5.545 (#434), detailing all changes made on 04 July, 2026.",
       "added": [
         "Initial PvE filter introduced for the player records page",
         "Agent tags added to all tank cards",
@@ -427,140 +518,154 @@
       ]
     },
     {
-      "version": "0.5.491",
+      "version": "0.5.518",
       "date": "2026-07-03",
       "author": "HEAT Labs Team",
       "title": "Update Number #433",
-      "description": "Full patch notes for Update v0.5.491 (#433), detailing all changes made on 03 July, 2026.",
+      "description": "Full patch notes for Update v0.5.518 (#433), detailing all changes made on 03 July, 2026.",
       "added": [
         "Five new player records added",
-        "Additional tank skin icons added for the T-62AV, Object 287, XM1-90 and ALVT",
+        "New tank skin icons added for the T-62AV, Object 287, XM1-90 and ALVT",
         "New meme image added to the media library"
       ],
       "changed": [
-        "Compatible tank list updated for Gambit's build",
-        "Tank skin asset paths updated",
-        "Last update information refreshed for multiple tank pages"
+        "Gambit's compatible tank list updated",
+        "Watermark manifest expanded to include the latest tank skin assets",
+        "Tank skin icon paths updated",
+        "Last update timestamps refreshed for multiple tank pages"
       ],
       "removed": [
         "Nothing was removed in this update"
       ],
       "fixed": [
-        "Corrected a typo in one tank skin name",
-        "Corrected last updated dates on three tank pages"
+        "Corrected a typo affecting one tank skin name"
       ]
     },
     {
-      "version": "0.5.482",
+      "version": "0.5.509",
       "date": "2026-07-02",
       "author": "HEAT Labs Team",
       "title": "Update Number #432",
-      "description": "Full patch notes for Update v0.5.482 (#432), detailing all changes made on 02 July, 2026.",
+      "description": "Full patch notes for Update v0.5.509 (#432), detailing all changes made on 02 July, 2026.",
       "added": [
-        "Thirty new player record entries added",
-        "Thirty new player record proof images published",
-        "Three new meme images added to the media library",
-        "Ability artwork added for the M60A3E2 and T-72SH"
+        "Twenty-three new player record proof images added",
+        "Seven newly verified player records added",
+        "Three new meme images added",
+        "Ability artwork added for the M60A3E2 and T-72SH",
+        "New scene conversion script added to the internal tools collection"
       ],
       "changed": [
-        "Player records index expanded",
+        "Player record indexes expanded with newly verified submissions",
         "Meme index updated",
-        "Tank ability data updated for the M60A3E2 and T-72SH",
-        "Statistics importer tool updated to support two additional tanks"
+        "Statistics importer updated with support for two additional tanks",
+        "M60A3E2 ability data updated",
+        "T-72SH ability data updated"
       ],
       "removed": [
-        "One duplicate player record index entry removed"
+        "One duplicate record index entry removed"
       ],
       "fixed": [
         "Nothing was fixed in this update"
       ]
     },
     {
-      "version": "0.5.472",
+      "version": "0.5.497",
       "date": "2026-07-01",
       "author": "HEAT Labs Team",
       "title": "Update Number #431",
-      "description": "Full patch notes for Update v0.5.472 (#431), detailing all changes made on 01 July, 2026.",
+      "description": "Full patch notes for Update v0.5.497 (#431), detailing all changes made on 01 July, 2026.",
       "added": [
-        "Large backlog of player records imported into the database",
-        "Complete relogged player record datasets added for Control and Kill Confirmed",
-        "Six newly verified player records published",
-        "Two new meme images added to the media library",
-        "M60A1 module icons added",
-        "Initial work started on the upcoming merchandise store page"
+        "Backlog of newly submitted player records imported into the database",
+        "Complete relogged player record data added for the Control and Kill Confirmed game modes",
+        "Six newly verified player records added",
+        "One missing player record recovered from the backlog",
+        "New M60A1 module images added",
+        "All-in-one proof-of-concept internal utility introduced",
+        "Initial work started on the upcoming Merch Store page",
+        "Two new meme images added to the media library"
       ],
       "changed": [
         "Game build metadata updated",
-        "Meme page enhanced with a copy button for every meme",
-        "Player record charts refined for improved readability",
-        "Discord bot command set simplified",
-        "Discord bot facts database reset",
+        "Bot command log updated",
         "Changelog updated",
         "Daily commit log updated",
-        "Importer tools adjusted to allow additional empty fields"
+        "Player Records charts refined for improved readability",
+        "Meme page enhanced with a copy button for every meme",
+        "M60A1 module icons optimized",
+        "Importer validation updated to allow up to three empty fields"
       ],
       "removed": [
-        "Deprecated Discord status command removed",
-        "Discord socials command removed",
-        "Duplicate player records and proof entries removed"
+        "Discord bot Socials command removed",
+        "Discord bot Status command removed",
+        "Duplicate player record removed",
+        "Duplicate player record proof removed"
       ],
       "fixed": [
-        "Corrected an incorrect map entry",
+        "Corrected one incorrect map entry",
         "Fixed an incorrect player record proof location",
         "Resolved an OCR error affecting one player record proof",
-        "Optimized M60A1 module icon assets"
+        "Discord bot facts index reset and refreshed"
       ]
     },
     {
-      "version": "0.5.451",
+      "version": "0.5.473",
       "date": "2026-06-30",
       "author": "HEAT Labs Team",
       "title": "Update Number #430",
-      "description": "Full patch notes for Update v0.5.451 (#430), detailing all changes made on 30 June, 2026.",
+      "description": "Full patch notes for Update v0.5.473 (#430), detailing all changes made on 30 June, 2026.",
       "added": [
-        "Two new tank pages, one new agent page and one new map page added to the website",
-        "Database support added for two newly released tanks",
-        "Player Records page enhanced with four new statistical charts",
-        "Complete relogged player record data imported for Conquest and Hardpoint",
-        "Large batch of player record proof images added and organized",
-        "New Dad Jokes index structure and data files introduced",
-        "New map images, tank images, ability icons and agent assets added",
+        "Two new tank pages added to the website",
+        "New agent page added",
+        "New map page added",
+        "Player Records expanded with four new statistical charts",
         "Featured indicators added to tanks, agents and maps",
-        "Three new meme images added to the media library"
+        "Complete relogged Player Records datasets added for Conquest and Hardpoint",
+        "Database support added for two new tanks",
+        "Images, icons and ability assets added for two new tanks and one new agent",
+        "Seven additional tank images added",
+        "New map artwork added",
+        "Functional placeholder icons introduced for new tank pages",
+        "Dad Jokes index structure and data files added",
+        "Player Record proof image archive expanded with missing and newly sorted submissions",
+        "Three new meme images added"
       ],
       "changed": [
-        "Player Records page expanded with additional statistics and data fields",
-        "Record Keeper tool updated to track the last update timestamp for each game mode",
-        "Search keyword index updated with five new pages",
-        "Tracking pixel index expanded for newly published content",
-        "Tank, map and agent indexes updated with newly released content",
-        "Map gallery updated with a newly released map",
-        "Homepage statistics refreshed",
-        "Cloudflare traffic data, GSC data, page data files, changelog and daily commit log updated",
-        "About Us page refreshed",
-        "Perk and tank icon assets optimized",
-        "Multiple tank page descriptions and summaries revised for improved readability"
+        "Player Records page updated with additional statistics and new data fields",
+        "About Us page refreshed with updated content",
+        "Home page statistics updated",
+        "Search keyword index expanded with five new pages",
+        "Tracking pixel index updated for newly published content",
+        "Tank, agent and map indexes updated to include the latest additions",
+        "Cloudflare traffic statistics refreshed",
+        "GSC index and export data updated",
+        "Page data files updated",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Record Keeper tool enhanced to track last update timestamps",
+        "Perk icons and new tank artwork optimized for improved quality"
       ],
       "removed": [
-        "AI upscaling warning removed from two tank images",
-        "Duplicate player record proof image removed",
-        "Player records database reset prior to importing the refreshed dataset"
+        "Duplicate Player Record proof image removed",
+        "AI upscale warning removed from two tank images",
+        "Previous Player Records dataset cleared before importing refreshed data"
       ],
       "fixed": [
-        "Corrected image paths for multiple tanks, agents and ability icons",
-        "Fixed incorrect configuration keys affecting agent abilities",
-        "Resolved missing images across newly added tank and map pages",
-        "Corrected icon markup on a new agent page",
-        "Fixed player record proof organization and file placement",
-        "Added missing placeholder assets for newly introduced tanks"
+        "Corrected image paths for new tanks, agent pages and map pages",
+        "Fixed ability icon paths and configuration issues for newly added tanks",
+        "Resolved incorrect keys in agent ability configurations",
+        "Corrected missing images across newly added content",
+        "Fixed agent card image path issues",
+        "Corrected icon markup on a newly added agent page",
+        "Improved readability and wording across multiple tank pages",
+        "Corrected Player Record proof image organization and file locations"
       ]
     },
     {
-      "version": "0.5.422",
+      "version": "0.5.435",
       "date": "2026-06-29",
       "author": "HEAT Labs Team",
       "title": "Update Number #429",
-      "description": "Full patch notes for Update v0.5.422 (#429), detailing all changes made on 29 June, 2026.",
+      "description": "Full patch notes for Update v0.5.435 (#429), detailing all changes made on 29 June, 2026.",
       "added": [
         "New Discord bot command added for accessing player records",
         "Five new banner variants added to the HEAT Labs Brand Kit",
@@ -578,35 +683,46 @@
       ]
     },
     {
-      "version": "0.5.415",
+      "version": "0.5.428",
       "date": "2026-06-28",
       "author": "HEAT Labs Team",
       "title": "Update Number #428",
-      "description": "Full patch notes for Update v0.5.415 (#428), detailing all changes made on 28 June, 2026.",
+      "description": "Full patch notes for Update v0.5.428 (#428), detailing all changes made on 28 June, 2026.",
       "added": [
-        "Twenty-four new player record entries added to the records database",
-        "Player record proof gallery expanded with multiple new proof images, including non-standard submissions",
+        "Twenty-four new player records added to the records database",
+        "First batch of non-standard player record proofs added",
+        "New player record proof images added for all newly submitted records",
+        "Internal Tools project introduced",
+        "Six new data tools added to the Internal Tools suite",
+        "Two new fingerprinting tools added to the Internal Tools suite",
+        "Internal Tools index and manifest files added",
         "Two new meme images added to the media library"
       ],
       "changed": [
-        "Player records index updated with the latest submissions",
-        "Blog, guide, feature, map, news, tank and agent images optimized for improved performance"
+        "Player records index updated with the latest community submissions",
+        "All blog images optimized for improved performance",
+        "All feature images optimized",
+        "All guide images optimized",
+        "All map images optimized",
+        "All news images optimized",
+        "All tank and agent images optimized"
       ],
       "removed": [
         "Nothing was removed in this update"
       ],
       "fixed": [
-        "Corrected incorrect dates on multiple player record entries and proof images",
-        "Fixed an incorrect player name in the player records database",
-        "Resolved an issue affecting one player record entry"
+        "Corrected incorrect dates on multiple player record proofs",
+        "Corrected an incorrect player name in the records database and associated proof images",
+        "Resolved an issue affecting one player record entry",
+        "Improved overall accuracy of player record metadata"
       ]
     },
     {
-      "version": "0.5.406",
+      "version": "0.5.408",
       "date": "2026-06-27",
       "author": "HEAT Labs Team",
       "title": "Update Number #427",
-      "description": "Full patch notes for Update v0.5.406 (#427), detailing all changes made on 27 June, 2026.",
+      "description": "Full patch notes for Update v0.5.408 (#427), detailing all changes made on 27 June, 2026.",
       "added": [
         "Seven new Player Records added",
         "Global Confirmed and Denied leaderboards introduced to the Player Records page",
@@ -624,11 +740,11 @@
       ]
     },
     {
-      "version": "0.5.399",
+      "version": "0.5.401",
       "date": "2026-06-26",
       "author": "HEAT Labs Team",
       "title": "Update Number #426",
-      "description": "Full patch notes for Update v0.5.399 (#426), detailing all changes made on 26 June, 2026.",
+      "description": "Full patch notes for Update v0.5.401 (#426), detailing all changes made on 26 June, 2026.",
       "added": [
         "Twenty new Player Record entries and proof images added",
         "New Sheridan community build added"
@@ -647,11 +763,11 @@
       ]
     },
     {
-      "version": "0.5.391",
+      "version": "0.5.393",
       "date": "2026-06-25",
       "author": "HEAT Labs Team",
       "title": "Update Number #425",
-      "description": "Full patch notes for Update v0.5.391 (#425), detailing all changes made on 25 June, 2026.",
+      "description": "Full patch notes for Update v0.5.393 (#425), detailing all changes made on 25 June, 2026.",
       "added": [
         "New Player Records page released",
         "Player Records page added to the Playground",
@@ -676,11 +792,11 @@
       ]
     },
     {
-      "version": "0.5.377",
+      "version": "0.5.379",
       "date": "2026-06-24",
       "author": "HEAT Labs Team",
       "title": "Update Number #424",
-      "description": "Full patch notes for Update v0.5.377 (#424), detailing all changes made on 24 June, 2026.",
+      "description": "Full patch notes for Update v0.5.379 (#424), detailing all changes made on 24 June, 2026.",
       "added": [
         "Initial Player Records data set added",
         "New Record Keeper tool introduced",
@@ -704,39 +820,41 @@
       ]
     },
     {
-      "version": "0.5.364",
+      "version": "0.5.366",
       "date": "2026-06-23",
       "author": "HEAT Labs Team",
       "title": "Update Number #423",
-      "description": "Full patch notes for Update v0.5.364 (#423), detailing all changes made on 23 June, 2026.",
+      "description": "Full patch notes for Update v0.5.366 (#423), detailing all changes made on 23 June, 2026.",
       "added": [
-        "New Weekend Chase Event Statistics page added to the website",
-        "Weekend Chase page added to the Playground section",
-        "Complete event data set imported for analysis",
-        "Thirteen previously missing event data shards added",
-        "Additional event data file added",
-        "New placeholder artwork added for upcoming Playground features",
+        "New Weekend Chase Event Statistics page added to the HEAT Labs Playground",
+        "Weekend Chase Event Statistics page introduced with dedicated styles and functionality",
+        "Complete event data set added for analysis",
+        "Thirteen previously missing event data shards added to the database and event index",
+        "New event data file added",
+        "Two new Playground image placeholders added",
+        "Development repositories created for the Configurator and Stat Tracker projects, including initial source code, documentation, and repository configuration",
         "Tracking support added for the new page"
       ],
       "changed": [
-        "Weekend Chase statistics page completely reworked with improved layout and functionality",
-        "Event data delivery migrated to Cloudflare CDN infrastructure",
-        "Event data index expanded and optimized",
-        "Weekend Chase page styling and scripts refined",
-        "Home page statistics updated",
+        "Weekend Chase Event Statistics page completely redesigned with improved layout and functionality",
+        "Weekend Chase statistics logic updated to support the latest day column naming",
+        "Event data delivery migrated to the Cloudflare CDN",
+        "Event data indexing updated with improved loading behavior",
+        "Home page statistics refreshed",
         "Game build information updated",
-        "Cloudflare traffic statistics refreshed",
-        "GSC index and export data updated",
+        "Cloudflare traffic analytics updated",
+        "GSC index and export data refreshed",
         "Changelog updated",
         "Daily commit log updated"
       ],
       "removed": [
-        "Player ID display removed from the Weekend Chase statistics page",
-        "Player Records page removed from the Playground while redevelopment continues"
+        "Player ID column removed from the Weekend Chase Event Statistics page",
+        "Player Records page removed from the main Playground page"
       ],
       "fixed": [
-        "Improved formatting and readability across the Weekend Chase statistics page",
-        "Updated event data routing to improve data loading reliability"
+        "Improved formatting and code organization across the Weekend Chase Event Statistics page",
+        "Enhanced JavaScript implementation for the Weekend Chase statistics system",
+        "General improvements to event data indexing and availability"
       ]
     },
     {
