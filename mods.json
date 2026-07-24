@@ -25,14 +25,14 @@
     },
     {
         "id": 3,
-        "name": "HEAT-Sentinel",
+        "name": "Sentinel",
         "slug": "https://github.com/OxCone1/HEAT-Sentinel",
         "creator": "OxCone",
         "category": "Interface",
         "status": "Available Now",
-        "gameVersion": "1.1.1",
+        "gameVersion": "2.1.32",
         "modVersion": "0.0.0",
-        "description": "Records battles, XP and loadouts locally, no account, with a live customizable OBS overlay.",
+        "description": "Records battles, platoon stats, 1v1s and loadouts locally, no account. Has OBS overlay.",
         "image": "https://cdn6.heatlabs.net/mods/HEAT-Sentinel.webp"
     }
 ]
