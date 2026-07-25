@@ -1,13 +1,400 @@
 {
   "posts": [
     {
-      "title": "TITLE",
-      "description": "DESCRIPTION",
-      "image": "image-url",
-      "url": "https://cdn.wotheat.com/articles/[PATH]",
-      "category": "CATEGORY",
-      "raw_date": "2026-03-13",
-      "full_date": "March 13, 2026"
+      "title": "Heatwave: Lost Eden",
+      "description": "The HEAT Season 1 soundtrack is now on YouTube, free to listen. More platforms are on the way.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/season-1-soundtrack.webp",
+      "url": "https://cdn.wotheat.com/articles/season-1-soundtrack/index.html",
+      "category": "community",
+      "raw_date": "2026-07-21",
+      "full_date": "July 21, 2026"
+    },
+    {
+      "title": "Weekly News: Patch 1.1.1, the Weekly Dev Stream, and Twitch Drops",
+      "description": "In case you missed it, Patch 1.1.1 is live. Join the Weekly Dev Stream on Twitch and earn rewards with Twitch Drops.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/weekly-news-w9.webp",
+      "url": "https://cdn.wotheat.com/articles/weekly-news-w9/index.html",
+      "category": "community",
+      "raw_date": "2026-07-20",
+      "full_date": "July 20, 2026"
+    },
+    {
+      "title": "Patch Notes 1.1.1",
+      "description": "Quality of Life Upgrades and a Wave of Fixes",
+      "image": "https://cdn12.heatlabs.net/news-announcement/patch-notes-1-1-1.webp",
+      "url": "https://cdn.wotheat.com/articles/patch-notes-1-1-1/index.html",
+      "category": "community",
+      "raw_date": "2026-07-16",
+      "full_date": "July 16, 2026"
+    },
+    {
+      "title": "Keeping the Balance",
+      "description": "Our balance patch is close: Smart Mines, ALVT and HEAT Ammo changes, and the thinking behind them.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/keeping-the-balance.webp",
+      "url": "https://cdn.wotheat.com/articles/keeping-the-balance/index.html",
+      "category": "community",
+      "raw_date": "2026-07-16",
+      "full_date": "July 16, 2026"
+    },
+    {
+      "title": "Weekly News: A Credits Drop, the Weekly Stream, and Weekend Showdown Results",
+      "description": "Grab up to 30,000 Credits, join the Weekly Stream, and see who topped the Weekend Showdown.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/weekly-news-w8.webp",
+      "url": "https://cdn.wotheat.com/articles/weekly-news-w8/index.html",
+      "category": "community",
+      "raw_date": "2026-07-13",
+      "full_date": "July 13, 2026"
+    },
+    {
+      "title": "Get Ready for the Weekend Showdown",
+      "description": "Three days. Three metrics. 17 vehicle leaderboards a day: place Top 25 on any of them and you earn on every one.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/weekend-showdown-promo.webp",
+      "url": "https://cdn.wotheat.com/articles/weekend-showdown-promo/index.html",
+      "category": "community",
+      "raw_date": "2026-07-09",
+      "full_date": "July 9, 2026"
+    },
+    {
+      "title": "Flair and Her Tanks",
+      "description": "Season 1's stealth specialist wins by choosing when to be seen, not by out-trading anyone head-on.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/flair-deep-dive.webp",
+      "url": "https://cdn.wotheat.com/articles/flair-deep-dive/index.html",
+      "category": "guides",
+      "raw_date": "2026-07-09",
+      "full_date": "July 9, 2026"
+    },
+    {
+      "title": "Weekly News: Twitch Drop, Weekend Showdown, and the Flair Deep Dive",
+      "description": "Week 7 is here. The Twitch Drop brings the Leopard 2FK Broadcast Camo, Weekend Showdown opens Friday, and the Flair deep dive lands Thursday.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/weekly-news-w7.webp",
+      "url": "https://cdn.wotheat.com/articles/weekly-news-w7/index.html",
+      "category": "community",
+      "raw_date": "2026-07-07",
+      "full_date": "July 7, 2026"
+    },
+    {
+      "title": "HEAT Twitch Drops Season 1",
+      "description": "Watch HEAT on Twitch and earn in-game rewards every week from July 1 through September 2.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/twitch-drops-season-1-promo.webp",
+      "url": "https://cdn.wotheat.com/articles/twitch-drops-season-1-promo/index.html",
+      "category": "community",
+      "raw_date": "2026-07-01",
+      "full_date": "July 1, 2026"
+    },
+    {
+      "title": "Season 1: Lost Eden",
+      "description": "Season 1: Lost Eden is live July 1. New Agent Flair, two Leopard 2 variants, the Eden map, and a premium Battle Pass.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/season_1_overview.webp",
+      "url": "https://cdn.wotheat.com/articles/season_1_overview/index.html",
+      "category": "announcements",
+      "raw_date": "2026-06-30",
+      "full_date": "June 30, 2026"
+    },
+    {
+      "title": "Patch Notes 1.1.0",
+      "description": "Stability, Combat Fixes & Quality of Life",
+      "image": "https://cdn12.heatlabs.net/news-announcement/patchnotes_1_1.webp",
+      "url": "https://cdn.wotheat.com/articles/patchnotes_1_1/index.html",
+      "category": "patch-notes",
+      "raw_date": "2026-06-30",
+      "full_date": "June 30, 2026"
+    },
+    {
+      "title": "Heatwave: The Official HEAT Soundtrack",
+      "description": "Our official soundtrack just landed on YouTube. Seven tracks, free to listen. Press play.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/ost-youtube-announcement.webp",
+      "url": "https://cdn.wotheat.com/articles/ost-youtube-announcement/index.html",
+      "category": "community",
+      "raw_date": "2026-06-26",
+      "full_date": "June 26, 2026"
+    },
+    {
+      "title": "A Word From the Game Director: One Month In",
+      "description": "It's been almost a month since World of Tanks HEAT launched, and Artyom, our Game Director, sat down on camera to talk through what's happened since launch, your feedback on the game, and what you can expect next.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/word-from-the-game-director.webp",
+      "url": "https://cdn.wotheat.com/articles/word-from-the-game-director/index.html",
+      "category": "community",
+      "raw_date": "2026-06-25",
+      "full_date": "June 25, 2026"
+    },
+    {
+      "title": "Play With Your Discord Squad in WoT: HEAT",
+      "description": "Link your Discord account and squad up with friends without ever leaving the game.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/discord-linking-promo-article.webp",
+      "url": "https://cdn.wotheat.com/articles/discord-linking-promo-article/index.html",
+      "category": "community",
+      "raw_date": "2026-06-23",
+      "full_date": "June 23, 2026"
+    },
+    {
+      "title": "Weekly News: HEAT at TANKFEST, the Weekend Chase Results, and Season 1",
+      "description": "Week 5 is here. We're live from TANKFEST with RTX 5070 giveaways, the season's final Drops, and your Weekend Chase winners.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/weekly-news-w5.webp",
+      "url": "https://cdn.wotheat.com/articles/weekly-news-w5/index.html",
+      "category": "community",
+      "raw_date": "2026-06-22",
+      "full_date": "June 22, 2026"
+    },
+    {
+      "title": "Weekend Chase: One Pool, Six-Hour Sprints, Double Squad XP",
+      "description": "One shared damage pool for the whole community, a fresh leaderboard every six hours, and double XP just for squadding up.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/weekend-chase-promo.webp",
+      "url": "https://cdn.wotheat.com/articles/weekend-chase-promo/index.html",
+      "category": "community",
+      "raw_date": "2026-06-18",
+      "full_date": "June 18, 2026"
+    },
+    {
+      "title": "Changelog 1.0.3",
+      "description": "Stability fixes, launch and login issues resolved, matchmaking tuning, and quality-of-life improvements.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/changelog-1-0-3.webp",
+      "url": "https://cdn.wotheat.com/articles/changelog-1-0-3/index.html",
+      "category": "patch-notes",
+      "raw_date": "2026-06-15",
+      "full_date": "June 15, 2026"
+    },
+    {
+      "title": "Weekly News: The M3E1 Bradley, Week 4 Drops, and Our Creator Program",
+      "description": "Week 4 is live. A new Battle Pass tank, fresh Twitch Drops, and a new program for the creators who cover HEAT.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/weekly-news-w4.webp",
+      "url": "https://cdn.wotheat.com/articles/weekly-news-w4/index.html",
+      "category": "community",
+      "raw_date": "2026-06-15",
+      "full_date": "June 15, 2026"
+    },
+    {
+      "title": "HEAT Rewards in World of Warships",
+      "description": "Play HEAT during the event and claim a haul of World of Warships rewards.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/warships-cross-promo.webp",
+      "url": "https://cdn.wotheat.com/articles/warships-cross-promo/index.html",
+      "category": "community",
+      "raw_date": "2026-06-10",
+      "full_date": "June 10, 2026"
+    },
+    {
+      "title": "Weekly News: M60A1, Drops, and gamescom",
+      "description": "Week 3 is live. A new Battle Pass tank, fresh Twitch Drops, and our gamescom player party.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/weekly-news-w3.webp",
+      "url": "https://cdn.wotheat.com/articles/weekly-news-w3/index.html",
+      "category": "community",
+      "raw_date": "2026-06-08",
+      "full_date": "June 8, 2026"
+    },
+    {
+      "title": "Shell Types",
+      "description": "Every shell type in the game, how it works, and when to use it.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/shell-types.webp",
+      "url": "https://cdn.wotheat.com/articles/shell-types/index.html",
+      "category": "guides",
+      "raw_date": "2026-06-04",
+      "full_date": "June 4, 2026"
+    },
+    {
+      "title": "Update 1.0.1",
+      "description": "Role Points adjustments, bug fixes, and control layout improvements.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/changelog-1-0-1.webp",
+      "url": "https://cdn.wotheat.com/articles/changelog-1-0-1/index.html",
+      "category": "patch-notes",
+      "raw_date": "2026-06-03",
+      "full_date": "June 3, 2026"
+    },
+    {
+      "title": "Weekly News: T-62AV, Drops, and TwitchCon",
+      "description": "Week 2 is live. Battle Pass, Twitch Drops, and the weekly stream.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/weekly-news-w2.webp",
+      "url": "https://cdn.wotheat.com/articles/weekly-news-w2/index.html",
+      "category": "community",
+      "raw_date": "2026-06-01",
+      "full_date": "June 1, 2026"
+    },
+    {
+      "title": "HEAT is live at TwitchCon",
+      "description": "We are in Rotterdam this weekend with guest creators playing World of Tanks: HEAT live from the booth.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/twitchcon-2026.webp",
+      "url": "https://cdn.wotheat.com/articles/twitchcon-2026/index.html",
+      "category": "community",
+      "raw_date": "2026-05-30",
+      "full_date": "May 30, 2026"
+    },
+    {
+      "title": "Discord Quest: Get Rewarded for Playing",
+      "description": "Play just 15 minutes of World of Tanks: HEAT and unlock rewards, including the Wavelength skin for the LEO 1A6A1.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/discord-play-quest.webp",
+      "url": "https://cdn.wotheat.com/articles/discord-play-quest/index.html",
+      "category": "community",
+      "raw_date": "2026-05-29",
+      "full_date": "May 29, 2026"
+    },
+    {
+      "title": "Thank you for your patience",
+      "description": "We’re giving every player a thank-you gift. Log in during the next seven days to receive it.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/silent-approach-reward.webp",
+      "url": "https://cdn.wotheat.com/articles/silent-approach-reward/index.html",
+      "category": "community",
+      "raw_date": "2026-05-28",
+      "full_date": "May 28, 2026"
+    },
+    {
+      "title": "HEAT Is Live",
+      "description": "World of Tanks: HEAT is now live on PC, PlayStation, Xbox, and Steam Deck. Free-to-play, with full cross-play from day one.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/heat-is-live.webp",
+      "url": "https://cdn.wotheat.com/articles/heat-is-live/index.html",
+      "category": "announcements",
+      "raw_date": "2026-05-26",
+      "full_date": "May 26, 2026"
+    },
+    {
+      "title": "Twitch Drops: Season 0",
+      "description": "Watch HEAT streams during launch week to earn in-game rewards. Drops start May 26.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/twitch-drops-season-0-promo.webp",
+      "url": "https://cdn.wotheat.com/articles/twitch-drops-season-0-promo/index.html",
+      "category": "community",
+      "raw_date": "2026-05-25",
+      "full_date": "May 25, 2026"
+    },
+    {
+      "title": "What Changed Since CBT",
+      "description": "Agent Ultimates, vehicle balance, maps, and more. The changes between Closed Beta and launch.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/what-changed-since-cbt.webp",
+      "url": "https://cdn.wotheat.com/articles/what-changed-since-cbt/index.html",
+      "category": "patch-notes",
+      "raw_date": "2026-05-24",
+      "full_date": "May 24, 2026"
+    },
+    {
+      "title": "HEAT is joining TANKFEST 2026",
+      "description": "June 26–28, 2026 · The Tank Museum, Bovington, U.K. · 08:30–18:00 GMT daily",
+      "image": "https://cdn12.heatlabs.net/news-announcement/tankfest-joining-2026.webp",
+      "url": "https://cdn.wotheat.com/articles/tankfest-joining-2026/index.html",
+      "category": "community",
+      "raw_date": "2026-05-22",
+      "full_date": "May 22, 2026"
+    },
+    {
+      "title": "Season Zero. Five Weeks. Five Tanks.",
+      "description": "Season 0 starts May 26, and it's our way of saying thank you.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/season-0-announcement.webp",
+      "url": "https://cdn.wotheat.com/articles/season-0-announcement/index.html",
+      "category": "community",
+      "raw_date": "2026-05-21",
+      "full_date": "May 21, 2026"
+    },
+    {
+      "title": "HEAT Is Heading to TwitchCon Europe",
+      "description": "See you at TwitchCon in Rotterdam, May 30&ndash;31",
+      "image": "https://cdn12.heatlabs.net/news-announcement/twitchcon-announcement.webp",
+      "url": "https://cdn.wotheat.com/articles/twitchcon-announcement/index.html",
+      "category": "community",
+      "raw_date": "2026-05-20",
+      "full_date": "May 20, 2026"
+    },
+    {
+      "title": "HEAT Launches May 26",
+      "description": "One week to launch. HEAT releases May 26, 2026 on PC, PlayStation, Xbox, and Steam Deck — free-to-play, with cross-play from day one.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/release-date-reveal.webp",
+      "url": "https://cdn.wotheat.com/articles/release-date-reveal/index.html",
+      "category": "announcements",
+      "raw_date": "2026-05-19",
+      "full_date": "May 19, 2026"
+    },
+    {
+      "title": "Agents, Their Traits, Ultimates, and Abilities",
+      "description": "How Traits, Ultimates, vehicle abilities, and the Agent Skill system fit together.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/agent-trait-ultimate-skills.webp",
+      "url": "https://cdn.wotheat.com/articles/agent-trait-ultimate-skills/index.html",
+      "category": "guides",
+      "raw_date": "2026-05-15",
+      "full_date": "May 15, 2026"
+    },
+    {
+      "title": "How Visibility and Spotting Work",
+      "description": "The next Breakdown: how visibility, spotting, identification, and the Traced effect actually work.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/heat-breakdown-visibility-spotting.webp",
+      "url": "https://cdn.wotheat.com/articles/heat-breakdown-visibility-spotting/index.html",
+      "category": "guides",
+      "raw_date": "2026-05-12",
+      "full_date": "May 12, 2026"
+    },
+    {
+      "title": "How Stats Work",
+      "description": "The first in a short series clearing up the gray areas of HEAT, one topic at a time.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/heat-breakdown-stats.webp",
+      "url": "https://cdn.wotheat.com/articles/heat-breakdown-stats/index.html",
+      "category": "guides",
+      "raw_date": "2026-05-07",
+      "full_date": "May 7, 2026"
+    },
+    {
+      "title": "The Numbers Behind the Closed Beta",
+      "description": "156,880 battles. 14.1 billion damage. One very busy week. Here's what the Closed Beta numbers actually look like.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/cbt-stats-recap.webp",
+      "url": "https://cdn.wotheat.com/articles/cbt-stats-recap/index.html",
+      "category": "community",
+      "raw_date": "2026-05-01",
+      "full_date": "May 1, 2026"
+    },
+    {
+      "title": "Thank you, Agents.",
+      "description": "Closed Beta is in the books. We're reading every piece of feedback, and the channels are still open.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/cbt-thank-you.webp",
+      "url": "https://cdn.wotheat.com/articles/cbt-thank-you/index.html",
+      "category": "community",
+      "raw_date": "2026-04-22",
+      "full_date": "April 23, 2026"
+    },
+    {
+      "title": "Full Progression Unlocked.",
+      "description": "Every module, every upgrade path, every variant — unlocked tomorrow at 06:00 UTC for the final day of Closed Beta.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/cbt-final-day.webp",
+      "url": "https://cdn.wotheat.com/articles/cbt-final-day/index.html",
+      "category": "announcements",
+      "raw_date": "2026-04-20",
+      "full_date": "April 20, 2026"
+    },
+    {
+      "title": "The HEAT Closed Beta Starts April 16",
+      "description": "The Closed Beta for World of Tanks: HEAT begins April 16, 2026. Here's what's in it, how to sign up, and how to turn your gameplay into prizes.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/cbt-announcement.webp",
+      "url": "https://cdn.wotheat.com/articles/cbt-announcement/index.html",
+      "category": "announcements",
+      "raw_date": "2026-04-09",
+      "full_date": "April 9, 2026"
+    },
+    {
+      "title": "HEAT Creators Contest",
+      "description": "The Closed Beta is coming up. Play, record, edit, submit.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/heat-creators-contest.webp",
+      "url": "https://cdn.wotheat.com/articles/heat-creators-contest/index.html",
+      "category": "community",
+      "raw_date": "2026-04-09",
+      "full_date": "April 9, 2026"
+    },
+    {
+      "title": "Points of contact",
+      "description": "Every map is a battleground. Foundations 3 breaks down the modes, objectives, and strategic layers that define each clash.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/points-of-contact.webp",
+      "url": "https://cdn.wotheat.com/articles/points-of-contact/index.html",
+      "category": "foundations",
+      "raw_date": "2026-03-20",
+      "full_date": "March 20, 2026"
+    },
+    {
+      "title": "Human-machine synergy",
+      "description": "Agent abilities meet vehicle mastery. Discover how Agents and tanks combine in HEAT's second Foundations video.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/human-machine-synergy.webp",
+      "url": "https://cdn.wotheat.com/articles/human-machine-synergy/index.html",
+      "category": "foundations",
+      "raw_date": "2026-03-15",
+      "full_date": "March 15, 2026"
+    },
+    {
+      "title": "The source of HEAT",
+      "description": "Where did HEAT come from? The first Foundations video introduces the world, the timeline, and the forces shaping every battle.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/the-source-of-heat.webp",
+      "url": "https://cdn.wotheat.com/articles/the-source-of-heat/index.html",
+      "category": "foundations",
+      "raw_date": "2026-01-29",
+      "full_date": "January 29, 2026"
     }
   ]
 }
