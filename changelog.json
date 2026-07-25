@@ -1,11 +1,116 @@
 {
   "updates": [
     {
-      "version": "0.5.765",
+      "version": "0.5.816",
+      "date": "2026-07-25",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #455",
+      "description": "Full patch notes for Update v0.5.816 (#455), detailing all changes made on 25 July, 2026.",
+      "added": [
+        "Forty-four new official news card images added",
+        "Initial documentation created for upcoming work-in-progress mods",
+        "XM1-V development model blend files added",
+        "Additional trusted domain added to the external links warning system"
+      ],
+      "changed": [
+        "Main News page completely redesigned across both production and development websites",
+        "News article index rebuilt using all available news cards",
+        "News card updater tool rewritten to automatically fetch articles from the official game website",
+        "Work-in-progress mod documentation expanded with additional features",
+        "Internal project assets reorganized for ongoing camouflage development",
+        "News page JSON index formatting standardized",
+        "Page data files updated"
+      ],
+      "removed": [
+        "Outdated news pages removed from the website",
+        "Obsolete news card images removed from the image archive",
+        "Legacy search keyword and tracking pixel entries cleaned up",
+        "Deprecated news management tool removed"
+      ],
+      "fixed": [
+        "Resolved outdated search keyword and tracking pixel references",
+        "Improved news content synchronization and indexing across the platform",
+        "Enhanced reliability of official news importing and page generation"
+      ]
+    },
+    {
+      "version": "0.5.798",
+      "date": "2026-07-24",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #454",
+      "description": "Full patch notes for Update v0.5.798 (#454), detailing all changes made on 24 July, 2026.",
+      "added": [
+        "Twenty-eight new community player records added",
+        "Twenty-eight new proof images added to the player records archive"
+      ],
+      "changed": [
+        "Sentinel mod information updated",
+        "Sentinel mod preview image refreshed",
+        "Mod page logic enhanced with improved detail loading and data synchronization",
+        "Placeholder content refined for development mod pages",
+        "Metadata updated for a work-in-progress mod page"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected version numbers in multiple mod entries",
+        "Resolved a duplicate button in the Similar Mods section",
+        "Improved wording within work-in-progress mod pages",
+        "Various repository maintenance and merge improvements"
+      ]
+    },
+    {
+      "version": "0.5.786",
+      "date": "2026-07-23",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #453",
+      "description": "Full patch notes for Update v0.5.786 (#453), detailing all changes made on 23 July, 2026.",
+      "added": [
+        "Draco mesh decoding support added to the development model viewer",
+        "New model viewer interface introduced across all development tank pages",
+        "Cone model updated with Draco-compressed assets"
+      ],
+      "changed": [
+        "Model viewer updated to support Draco-compressed 3D models",
+        "Navigation streamlined by removing two redundant navbar buttons across all HEAT Labs services and repositories"
+      ],
+      "removed": [
+        "Two redundant global navigation buttons removed across the entire platform"
+      ],
+      "fixed": [
+        "Improved navigation consistency across all websites, CDNs, APIs and services",
+        "Enhanced 3D model loading and rendering workflow for development pages"
+      ]
+    },
+    {
+      "version": "0.5.778",
+      "date": "2026-07-22",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #452",
+      "description": "Full patch notes for Update v0.5.778 (#452), detailing all changes made on 22 July, 2026.",
+      "added": [
+        "T-72SH development model files added",
+        "Support added for five additional repositories in the daily commit tracking system"
+      ],
+      "changed": [
+        "Changelog updated with previously missing entries",
+        "Daily commit log synchronized with missing repository activity",
+        "Development model repository documentation refreshed"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Improved daily commit tracking coverage across additional repositories"
+      ]
+    },
+    {
+      "version": "0.5.771",
       "date": "2026-07-21",
       "author": "HEAT Labs Team",
       "title": "Update Number #451",
-      "description": "Full patch notes for Update v0.5.765 (#451), detailing all changes made on 21 July, 2026.",
+      "description": "Full patch notes for Update v0.5.771 (#451), detailing all changes made on 21 July, 2026.",
       "added": [
         "Twenty-eight new player record entries added",
         "Three new meme images added to the media library",
@@ -29,11 +134,11 @@
       ]
     },
     {
-      "version": "0.5.752",
+      "version": "0.5.758",
       "date": "2026-07-20",
       "author": "HEAT Labs Team",
       "title": "Update Number #450",
-      "description": "Full patch notes for Update v0.5.752 (#450), detailing all changes made on 20 July, 2026.",
+      "description": "Full patch notes for Update v0.5.758 (#450), detailing all changes made on 20 July, 2026.",
       "added": [
         "Nothing was added in this update"
       ],
@@ -48,52 +153,50 @@
       ]
     },
     {
-      "version": "0.5.748",
+      "version": "0.5.754",
       "date": "2026-07-19",
       "author": "HEAT Labs Team",
       "title": "Update Number #449",
-      "description": "Full patch notes for Update v0.5.748 (#449), detailing all changes made on 19 July, 2026.",
+      "description": "Full patch notes for Update v0.5.754 (#449), detailing all changes made on 19 July, 2026.",
       "added": [
-        "New map page added to the website",
-        "Map assets and tracking support added for the new location",
-        "Forty new player record entries added",
-        "One previously missing player record restored",
+        "New Railgun map added to the website",
+        "Railgun map artwork and tracking support added",
+        "Forty new player records published",
         "Four new meme images added to the media library",
-        "Three work-in-progress Game Mods pages added",
-        "One new bot tank added to the tank index"
+        "Three work-in-progress mod pages created",
+        "Initial Twitch bot files added to the Stream Tools project",
+        "New bot tank added to the tank index"
       ],
       "changed": [
-        "Project statistics refreshed",
-        "Cloudflare analytics data updated",
-        "Page data files updated",
-        "GSC index and export data refreshed",
-        "Map index updated with the latest playable map",
-        "Search keyword index updated to include the new map while removing 27 obsolete pages",
-        "Tracking pixel index expanded for the new map page",
+        "Project statistics, Cloudflare analytics, page data files, GSC index data and GSC export data updated",
         "Tank index updated with the latest bot tank information",
+        "Map index, search keyword index and tracking pixel index updated to include the new map",
         "Inferno map imagery and page information refreshed",
-        "Commit fetcher updated with additional repositories and cleaned up unused integrations",
-        "Wording improved across 13 agent pages"
+        "Player records database updated and expanded",
+        "Wording improved across thirteen agent pages",
+        "AI disclaimer removed from four agent pages",
+        "Commit Fetcher updated to support two additional repositories while removing one obsolete repository",
+        "Internal watermark and image manifests updated"
       ],
       "removed": [
-        "Unused bot tank page removed",
-        "Unused bot tank database files removed",
-        "Three empty player record entries removed for re-logging"
+        "Unused bot tank data files removed from the database",
+        "Unused bot tank page removed from the website",
+        "Twenty-seven obsolete search keyword entries removed",
+        "Three empty player record entries removed for relogging"
       ],
       "fixed": [
-        "Corrected an incorrect map name in the player records database",
-        "Fixed multiple player record naming and proof image issues",
-        "Corrected a typo in a player record entry",
-        "Updated proof references for improved consistency",
-        "Removed outdated AI disclaimers from four agent pages"
+        "Corrected map naming in player records",
+        "Fixed several player record typos and proof image naming inconsistencies",
+        "Corrected one missing player record entry",
+        "Updated existing bot tank information for improved accuracy"
       ]
     },
     {
-      "version": "0.5.722",
+      "version": "0.5.730",
       "date": "2026-07-18",
       "author": "HEAT Labs Team",
       "title": "Update Number #448",
-      "description": "Full patch notes for Update v0.5.722 (#448), detailing all changes made on 18 July, 2026.",
+      "description": "Full patch notes for Update v0.5.730 (#448), detailing all changes made on 18 July, 2026.",
       "added": [
         "Nothing was added in this update"
       ],
@@ -108,11 +211,11 @@
       ]
     },
     {
-      "version": "0.5.718",
+      "version": "0.5.726",
       "date": "2026-07-17",
       "author": "HEAT Labs Team",
       "title": "Update Number #447",
-      "description": "Full patch notes for Update v0.5.718 (#447), detailing all changes made on 17 July, 2026.",
+      "description": "Full patch notes for Update v0.5.726 (#447), detailing all changes made on 17 July, 2026.",
       "added": [
         "Initial version of the HEAT Labs WGC API Emulator project"
       ],
@@ -127,63 +230,71 @@
       ]
     },
     {
-      "version": "0.5.714",
+      "version": "0.5.722",
       "date": "2026-07-16",
       "author": "HEAT Labs Team",
       "title": "Update Number #446",
-      "description": "Full patch notes for Update v0.5.714 (#446), detailing all changes made on 16 July, 2026.",
+      "description": "Full patch notes for Update v0.5.722 (#446), detailing all changes made on 16 July, 2026.",
       "added": [
-        "New mod added to the Mods library",
-        "Twenty-seven new player records added",
-        "Twenty-seven new player record proof images added"
+        "New game mod added to the HEAT Labs mod library",
+        "Twenty-seven new player record proof images added",
+        "New feature image created for the latest mod card",
+        "Additional tank ability icons added for two tanks"
       ],
       "changed": [
-        "Game build metadata updated",
-        "Player records index expanded",
-        "Mod index refreshed",
-        "Ability icons updated for multiple tanks"
+        "Mod index updated with the latest mod release",
+        "Game build metadata refreshed",
+        "Player records index expanded with 27 new entries",
+        "Ability icons updated for multiple tanks",
+        "Formatting improvements made to the mods index"
       ],
       "removed": [
         "Nothing was removed in this update"
       ],
       "fixed": [
-        "Corrected formatting within the Mods index",
-        "Fixed an incorrect tank ability icon path"
+        "Corrected an incorrect ability icon path within the tank database",
+        "Minor repository maintenance and cleanup for Stream Tools"
       ]
     },
     {
-      "version": "0.5.704",
+      "version": "0.5.710",
       "date": "2026-07-15",
       "author": "HEAT Labs Team",
       "title": "Update Number #445",
-      "description": "Full patch notes for Update v0.5.704 (#445), detailing all changes made on 15 July, 2026.",
+      "description": "Full patch notes for Update v0.5.710 (#445), detailing all changes made on 15 July, 2026.",
       "added": [
-        "New video added to the archive",
+        "New video added to the video library",
         "Five new ALVT gallery images added",
-        "Five new meme images added",
+        "New Gambit Tinkerer ability icon added",
         "Placeholder assets prepared for an upcoming page",
-        "New Gambit Tinkerer ability icons added"
+        "New Stream Tools project initialized with its required site data and repository configuration",
+        "Five new memes added to the media collection"
       ],
       "changed": [
-        "Tank classifications updated",
+        "Several tank classifications updated",
         "M60 Bot slug updated",
-        "ALVT gallery refreshed",
-        "Contributor description updated",
-        "Video titles and thumbnails improved",
-        "Main tank page logic updated to hide unavailable tanks",
-        "Page data files refreshed"
+        "Page data files refreshed",
+        "ALVT gallery updated with additional imagery",
+        "Contributor information updated",
+        "Video titles, thumbnails, and media assets refined",
+        "Placeholder image paths updated across supported mods",
+        "Global placeholder image reorganized",
+        "Internal watermark manifest updated",
+        "Main tank page logic improved to prevent unavailable tanks from being displayed"
       ],
       "removed": [
-        "Two unused tank pages and related assets",
-        "Unused WIP page files",
-        "Unused model files",
-        "Tracking and search index entries for removed pages"
+        "Two unused tank pages removed from the website",
+        "Two unused tanks removed from the tank database and indexes",
+        "Unused tank image assets removed",
+        "Obsolete WIP page assets removed",
+        "Unused World of Tanks PC test model files removed",
+        "Legacy WIP files removed from Stream Tools"
       ],
       "fixed": [
-        "Corrected ability icons for two tanks",
-        "Fixed incorrect video thumbnail",
-        "Updated placeholder image paths",
-        "Improved handling of unavailable tank pages"
+        "Corrected an incorrect video thumbnail",
+        "Updated tank ability icons for multiple vehicles",
+        "Search keyword and tracking indexes cleaned up following content removal",
+        "General repository cleanup and asset organization improvements"
       ]
     },
     {
