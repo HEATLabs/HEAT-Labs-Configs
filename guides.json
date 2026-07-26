@@ -1,17 +1,6 @@
 {
   "posts": [
     {
-      "title": "ALVT Player's Guide",
-      "description": "A relentless damage dealer that excels in close-to-mid-range fights, using powerful ability combos and sustained pressure to overwhelm opponents.",
-      "image": "https://cdn11.heatlabs.net/guides/tanks/alvt-player-guide/alvt.webp",
-      "slug": "alvt-players-guide",
-      "type": "tank-guide",
-      "type_name": "Tank Guide",
-      "date": "08-06-2026",
-      "raw_date": "June 8, 2026",
-      "author": "IAmEdWards"
-    },
-    {
       "title": "XM1-V Build Guide",
       "description": "A versatile defensive tank, the XM1-V trades raw power for battlefield control and strategic advantage.",
       "image": "https://cdn11.heatlabs.net/guides/tanks/esmattys-xm1-v-guide/xm1v.webp",
@@ -21,6 +10,17 @@
       "date": "20-02-2025",
       "raw_date": "February 20, 2025",
       "author": "esmatty"
+    },
+    {
+      "title": "Crit Cone Mechanic",
+      "description": "Learn about the Crit Cone Mechanic.",
+      "image": "https://cdn11.heatlabs.net/guides/general/shell-crit-cone-mechanic/crit-cone-header.webp",
+      "slug": "shell-crit-cone-mechanic",
+      "type": "general-guide",
+      "type_name": "General Guide",
+      "date": "19-03-2026",
+      "raw_date": "May 19, 2026",
+      "author": "Tmc_388"
     },
     {
       "title": "BAT-4M Basic Guide",
@@ -34,15 +34,70 @@
       "author": "MarkusKruber"
     },
     {
-      "title": "Crit Cone Mechanic",
-      "description": "Learn about the Crit Cone Mechanic.",
-      "image": "https://cdn11.heatlabs.net/guides/general/shell-crit-cone-mechanic/crit-cone-header.webp",
-      "slug": "shell-crit-cone-mechanic",
-      "type": "general-guide",
-      "type_name": "General Guide",
-      "date": "19-03-2026",
-      "raw_date": "May 19, 2026",
-      "author": "Tmc_388"
+      "title": "ALVT Player's Guide",
+      "description": "A relentless damage dealer that excels in close-to-mid-range fights, using powerful ability combos and sustained pressure to overwhelm opponents.",
+      "image": "https://cdn11.heatlabs.net/guides/tanks/alvt-player-guide/alvt.webp",
+      "slug": "alvt-players-guide",
+      "type": "tank-guide",
+      "type_name": "Tank Guide",
+      "date": "08-06-2026",
+      "raw_date": "June 8, 2026",
+      "author": "IAmEdWards"
+    },
+    {
+      "title": "Flair and Her Tanks",
+      "description": "Season 1's stealth specialist wins by choosing when to be seen, not by out-trading anyone head-on.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/flair-deep-dive.webp",
+      "slug": "https://cdn.wotheat.com/articles/flair-deep-dive/index.html",
+      "type": "official-guide",
+      "type_name": "Official Guide",
+      "date": "07-09-2026",
+      "raw_date": "July 9, 2026",
+      "author": "HEAT Team"
+    },
+    {
+      "title": "Shell Types",
+      "description": "Every shell type in the game, how it works, and when to use it.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/shell-types.webp",
+      "slug": "https://cdn.wotheat.com/articles/shell-types/index.html",
+      "type": "official-guide",
+      "type_name": "Official Guide",
+      "date": "06-04-2026",
+      "raw_date": "June 4, 2026",
+      "author": "HEAT Team"
+    },
+    {
+      "title": "Agents, Their Traits, Ultimates, and Abilities",
+      "description": "How Traits, Ultimates, vehicle abilities, and the Agent Skill system fit together.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/agent-trait-ultimate-skills.webp",
+      "slug": "https://cdn.wotheat.com/articles/agent-trait-ultimate-skills/index.html",
+      "type": "official-guide",
+      "type_name": "Official Guide",
+      "date": "05-15-2026",
+      "raw_date": "May 15, 2026",
+      "author": "HEAT Team"
+    },
+    {
+      "title": "How Visibility and Spotting Work",
+      "description": "The next Breakdown: how visibility, spotting, identification, and the Traced effect actually work.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/heat-breakdown-visibility-spotting.webp",
+      "slug": "https://cdn.wotheat.com/articles/heat-breakdown-visibility-spotting/index.html",
+      "type": "official-guide",
+      "type_name": "Official Guide",
+      "date": "05-12-2026",
+      "raw_date": "May 12, 2026",
+      "author": "HEAT Team"
+    },
+    {
+      "title": "How Stats Work",
+      "description": "The first in a short series clearing up the gray areas of HEAT, one topic at a time.",
+      "image": "https://cdn12.heatlabs.net/news-announcement/heat-breakdown-stats.webp",
+      "slug": "https://cdn.wotheat.com/articles/heat-breakdown-stats/index.html",
+      "type": "official-guide",
+      "type_name": "Official Guide",
+      "date": "05-07-2026",
+      "raw_date": "May 7, 2026",
+      "author": "HEAT Team"
     }
   ]
 }
