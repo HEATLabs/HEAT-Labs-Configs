@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 165,
+    "total_pages": 161,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-07-26T00:17:01.937569"
+    "export_timestamp": "2026-07-26T05:55:07.478025"
   },
   "pages": [
     {
@@ -510,56 +510,28 @@
       "breadcrumb_status": "VALID"
     },
     {
-      "url": "https://heatlabs.net/guides/general-guides",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/guides/general-guides/shell-crit-cone-mechanic",
+      "url": "https://heatlabs.net/guides/shell-crit-cone-mechanic",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/guides/general-guides/shell-crit-cone-mechanic",
+      "url": "https://heatlabs.net/guides/alvt-players-guide",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/guides/map-guides",
+      "url": "https://heatlabs.net/guides/bat-4m-basic-guide",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/guides/tank-guides",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/guides/tank-guides/alvt-players-guide",
-      "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/guides/tank-guides/bat-4m-basic-guide",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/guides/tank-guides/xm1-v-build-guide",
+      "url": "https://heatlabs.net/guides/xm1-v-build-guide",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
@@ -1163,22 +1135,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 75,
+      "pending": 74,
       "not_indexed": 0,
-      "indexed": 88
+      "indexed": 85
     },
     "google_api_status": {
-      "pending": 45,
+      "pending": 44,
       "not_indexed": 0,
-      "indexed": 118
+      "indexed": 115
     },
     "https_page_status": {
-      "unknown": 135,
+      "unknown": 131,
       "not_https": 0,
       "https": 28
     },
     "breadcrumb_status": {
-      "unknown": 135,
+      "unknown": 131,
       "invalid": 0,
       "valid": 28
     }
