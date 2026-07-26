@@ -894,45 +894,27 @@
     "keywords": ["check", "compare", "tool", "statistics", "data"]
   },
   {
-    "name": "General Guides",
-    "description": "Overview of general game guides",
-    "path": "https://heatlabs.net/guides/general-guides",
-    "keywords": ["guides", "general", "overview", "gameplay", "tips"]
-  },
-  {
-    "name": "Map Guides",
-    "description": "Overview of available map guides",
-    "path": "https://heatlabs.net/guides/map-guides",
-    "keywords": ["maps", "guides", "overview", "locations", "strategies"]
-  },
-  {
-    "name": "Tank Guides",
-    "description": "Overview of available tank guides",
-    "path": "https://heatlabs.net/guides/tank-guides",
-    "keywords": ["tanks", "guides", "overview", "vehicles", "strategies"]
-  },
-  {
     "name": "BAT-4M Basic Guide",
     "description": "Basic guide for the BAT-4M tank",
-    "path": "https://heatlabs.net/guides/tank-guides/bat-4m-basic-guide",
+    "path": "https://heatlabs.net/guides/bat-4m-basic-guide",
     "keywords": ["bat-4m", "guide", "basic", "tank", "strategy"]
   },
   {
     "name": "XM1-V Build Guide",
     "description": "Build guide for the XM1-V tank",
-    "path": "https://heatlabs.net/guides/tank-guides/xm1-v-build-guide",
+    "path": "https://heatlabs.net/guides/xm1-v-build-guide",
     "keywords": ["xm1-v", "build", "guide", "tank", "strategy"]
   },
   {
     "name": "ALVT Player's Guide",
     "description": "Guide for the ALVT tank by MarkusKruber",
-    "path": "https://heatlabs.net/guides/tank-guides/alvt-players-guide",
+    "path": "https://heatlabs.net/guides/alvt-players-guide",
     "keywords": ["guide", "alvt", "tank", "strategy", "build"]
   },
   {
     "name": "Shell Crit Cone Mechanic",
     "description": "Shell Crit Cone Mechanic explained by Tmc_388",
-    "path": "https://heatlabs.net/guides/general-guides/shell-crit-cone-mechanic",
+    "path": "https://heatlabs.net/guides/shell-crit-cone-mechanic",
     "keywords": ["guide", "crit", "cone", "mechanic", "shell"]
   },
   {
