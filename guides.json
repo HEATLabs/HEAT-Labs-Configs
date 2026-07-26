@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "title": "ALVT Player's Guide",
+      "description": "A relentless damage dealer that excels in close-to-mid-range fights, using powerful ability combos and sustained pressure to overwhelm opponents.",
+      "image": "https://cdn11.heatlabs.net/guides/tanks/alvt-player-guide/alvt.webp",
+      "slug": "alvt-players-guide",
+      "type": "tank-guide",
+      "type_name": "Tank Guide",
+      "date": "08-06-2026",
+      "raw_date": "June 8, 2026",
+      "author": "IAmEdWards"
+    },
+    {
+      "title": "XM1-V Build Guide",
+      "description": "A versatile defensive tank, the XM1-V trades raw power for battlefield control and strategic advantage.",
+      "image": "https://cdn11.heatlabs.net/guides/tanks/esmattys-xm1-v-guide/xm1v.webp",
+      "slug": "xm1-v-build-guide",
+      "type": "tank-guide",
+      "type_name": "Tank Guide",
+      "date": "20-02-2025",
+      "raw_date": "February 20, 2025",
+      "author": "esmatty"
+    },
+    {
+      "title": "BAT-4M Basic Guide",
+      "description": "Agile, close range support brawler with good armour and high hitpoints.",
+      "image": "https://cdn11.heatlabs.net/guides/tanks/iamedwards-bat-4m-guide/bat-4m.webp",
+      "slug": "bat-4m-basic-guide",
+      "type": "tank-guide",
+      "type_name": "Tank Guide",
+      "date": "15-02-2025",
+      "raw_date": "February 15, 2025",
+      "author": "MarkusKruber"
+    },
+    {
+      "title": "Crit Cone Mechanic",
+      "description": "Learn about the Crit Cone Mechanic.",
+      "image": "https://cdn11.heatlabs.net/guides/general/shell-crit-cone-mechanic/crit-cone-header.webp",
+      "slug": "shell-crit-cone-mechanic",
+      "type": "general-guide",
+      "type_name": "General Guide",
+      "date": "19-03-2026",
+      "raw_date": "May 19, 2026",
+      "author": "Tmc_388"
+    }
+  ]
+}
