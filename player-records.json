@@ -2,10 +2,10 @@
     "records": {
         "ROOT": {
             "last_updated": {
-                "conquest": "2026-07-26T12:41:59Z",
+                "conquest": "2026-07-26T12:49:12Z",
                 "control": "2026-07-26T12:42:51Z",
                 "hardpoint": "2026-07-24T09:25:38Z",
-                "kill-confirmed": "2026-07-26T12:45:19Z"
+                "kill-confirmed": "2026-07-26T12:51:12Z"
             }
         },
         "conquest": {
@@ -3027,6 +3027,26 @@
                     "map": "Aircraft Carrier",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/23072026_TenshiMiralis.webp"
+                }
+            ],
+            "MisterDamingo": [
+                {
+                    "captures": 6,
+                    "destroyed": 16,
+                    "deaths": 6,
+                    "assists": 4,
+                    "damage_caused": 32400,
+                    "damage_blocked": 3600,
+                    "credits": 4392,
+                    "tech": 75,
+                    "intel": 40,
+                    "XP": 8385,
+                    "agent": "Reaper",
+                    "vehicle": "M60A1",
+                    "outcome": "Victory",
+                    "map": "Eden",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/26072026_MisterDamingo.webp"
                 }
             ]
         },
@@ -9937,6 +9957,25 @@
                     "map": "Moonshot",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/25072026_HeroLight.webp"
+                },
+                {
+                    "confirms": 13,
+                    "denies": 0,
+                    "destroyed": 18,
+                    "deaths": 2,
+                    "assists": 7,
+                    "damage_caused": 41400,
+                    "damage_blocked": 0,
+                    "credits": 5322,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 10635,
+                    "agent": "Hound",
+                    "vehicle": "AMX 10 RC",
+                    "outcome": "Victory",
+                    "map": "Nord Oko",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/26072026_HeroLight.webp"
                 }
             ],
             "Kystis": [
@@ -12194,6 +12233,25 @@
                     "map": "Eden",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/24072026_Skeem689-2.webp"
+                },
+                {
+                    "confirms": 12,
+                    "denies": 3,
+                    "destroyed": 9,
+                    "deaths": 5,
+                    "assists": 8,
+                    "damage_caused": 30700,
+                    "damage_blocked": 0,
+                    "credits": 3865,
+                    "tech": 75,
+                    "intel": 40,
+                    "XP": 7720,
+                    "agent": "Twister",
+                    "vehicle": "M551A1",
+                    "outcome": "Victory",
+                    "map": "Nord Oko",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/26072026_Skeem689.webp"
                 }
             ],
             "Mancourt_": [
