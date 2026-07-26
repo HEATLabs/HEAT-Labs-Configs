@@ -1,36 +1,45 @@
 {
   "updates": [
     {
-      "version": "0.5.816",
+      "version": "0.5.825",
       "date": "2026-07-25",
       "author": "HEAT Labs Team",
       "title": "Update Number #455",
-      "description": "Full patch notes for Update v0.5.816 (#455), detailing all changes made on 25 July, 2026.",
+      "description": "Full patch notes for Update v0.5.825 (#455), detailing all changes made on 25 July, 2026.",
       "added": [
-        "Forty-four new official news card images added",
-        "Initial documentation created for upcoming work-in-progress mods",
-        "XM1-V development model blend files added",
-        "Additional trusted domain added to the external links warning system"
+        "New tank stat field added across all tank pages and database records",
+        "44 new news card images added to the news library",
+        "Initial documentation and work-in-progress files added for the upcoming Mods section",
+        "XM1-V Blender source files added to the development models repository",
+        "Additional trusted domain added to the external links warning system",
+        "Missing tank association added for one agent"
       ],
       "changed": [
-        "Main News page completely redesigned across both production and development websites",
-        "News article index rebuilt using all available news cards",
-        "News card updater tool rewritten to automatically fetch articles from the official game website",
-        "Work-in-progress mod documentation expanded with additional features",
-        "Internal project assets reorganized for ongoing camouflage development",
-        "News page JSON index formatting standardized",
-        "Page data files updated"
+        "Main news page completely redesigned across both production and development websites",
+        "News article index rebuilt to include all available news cards",
+        "Tank stock statistics updated for six vehicles",
+        "Importer tank stat sheet updated to support the latest data format",
+        "Tank statistics updated for one vehicle",
+        "Stat importer tool updated with support for three additional tanks",
+        "News card updater tool rebuilt to automatically retrieve articles from the official game website",
+        "Project statistics refreshed",
+        "Cloudflare traffic analytics updated",
+        "GSC index and export data refreshed",
+        "Page data files updated",
+        "Daily commit log updated"
       ],
       "removed": [
-        "Outdated news pages removed from the website",
-        "Obsolete news card images removed from the image archive",
-        "Legacy search keyword and tracking pixel entries cleaned up",
-        "Deprecated news management tool removed"
+        "Outdated news pages removed as part of the news system overhaul",
+        "Obsolete news card images removed from the media library",
+        "Legacy news pages removed from search keyword and tracking pixel indexes",
+        "Deprecated news management tool removed",
+        "Unused placeholder files removed from the development website"
       ],
       "fixed": [
-        "Resolved outdated search keyword and tracking pixel references",
-        "Improved news content synchronization and indexing across the platform",
-        "Enhanced reliability of official news importing and page generation"
+        "Reset and standardized the news page JSON index formatting",
+        "Improved consistency between news indexing, tracking pixels and search data",
+        "Resolved missing tank coverage within the statistics importer",
+        "Various improvements made to the news publishing workflow and supporting tools"
       ]
     },
     {
