@@ -326,6 +326,32 @@
           "slug": "leopard-2k-st"
         }
       ]
+    },
+    {
+      "id": 14,
+      "state": "displayed",
+      "name": "Gambit",
+      "slug": "gambit",
+      "status": "To Be Released",
+      "featured": false,
+      "image": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+      "specialty": "Unknown Ability",
+      "description": "Unknown Ability Description",
+      "trait": "Unknown Trait",
+      "trait_description": "Trait Description Unavailable",
+      "story": "This agent is not yet available. Statistics, details, and player feedback will be added once it's officially released.",
+      "compatibleTanks": [
+        {
+          "name": "M60A3E2",
+          "image": "https://cdn7.heatlabs.net/tanks/m60a3e2/icon_m60a3e2.webp",
+          "slug": "m60a3e2"
+        },
+        {
+          "name": "T-72SH",
+          "image": "https://cdn7.heatlabs.net/tanks/t-72sh/t-72sh.webp",
+          "slug": "t-72sh"
+        }
+      ]
     }
   ]
 }
