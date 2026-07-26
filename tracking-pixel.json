@@ -755,57 +755,25 @@
       "html_title": "Maxwell - HEAT Labs"
     },
     {
-      "page_name": "General Guides",
-      "page_identifier": "general-guides",
-      "html_file": "guides/general-guides",
-      "pixel_filename": "pcwstats-tracker-pixel-general-guides.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-general-guides.png",
-      "html_title": "General Guides - HEAT Labs"
-    },
-    {
-      "page_name": "Map Guides",
-      "page_identifier": "map-guides",
-      "html_file": "guides/map-guides",
-      "pixel_filename": "pcwstats-tracker-pixel-map-guides.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-map-guides.png",
-      "html_title": "Map Guides - HEAT Labs"
-    },
-    {
-      "page_name": "Tank Guides",
-      "page_identifier": "tank-guides",
-      "html_file": "guides/tank-guides",
-      "pixel_filename": "pcwstats-tracker-pixel-tank-guides.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-tank-guides.png",
-      "html_title": "Tank Guides - HEAT Labs"
-    },
-    {
-      "page_name": "Guide Title",
-      "page_identifier": "placeholder-general-guide",
-      "html_file": "guides/general-guides/placeholder-general-guide",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-general-guide.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-placeholder-general-guide.png",
-      "html_title": "Guide Title - HEAT Labs"
-    },
-    {
-      "page_name": "Guide Title",
-      "page_identifier": "placeholder-map-guide",
-      "html_file": "guides/map-guides/placeholder-map-guide",
-      "pixel_filename": "pcwstats-tracker-pixel-placeholder-map-guide.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-placeholder-map-guide.png",
-      "html_title": "Guide Title - HEAT Labs"
-    },
-    {
       "page_name": "BAT-4M Basic Guide",
       "page_identifier": "bat-4m-basic-guide",
-      "html_file": "guides/tank-guides/bat-4m-basic-guide",
+      "html_file": "guides/bat-4m-basic-guide",
       "pixel_filename": "pcwstats-tracker-pixel-bat-4m-basic-guide.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-bat-4m-basic-guide.png",
       "html_title": "BAT-4M Basic Guide - HEAT Labs"
     },
     {
+      "page_name": "ALVT Player's Guide",
+      "page_identifier": "alvt-players-guide",
+      "html_file": "guides/alvt-players-guide",
+      "pixel_filename": "pcwstats-tracker-pixel-alvt-players-guide.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-alvt-players-guide.png",
+      "html_title": "ALVT Player's Guide - HEAT Labs"
+    },
+    {
       "page_name": "XM1-V Build Guide",
       "page_identifier": "xm1-v-build-guide",
-      "html_file": "guides/tank-guides/xm1-v-build-guide",
+      "html_file": "guides/xm1-v-build-guide",
       "pixel_filename": "pcwstats-tracker-pixel-xm1-v-build-guide.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-xm1-v-build-guide.png",
       "html_title": "XM1-V Build Guide - HEAT Labs"
@@ -813,7 +781,7 @@
     {
       "page_name": "Shell Crit Cones",
       "page_identifier": "shell-crit-cone-mechanic",
-      "html_file": "guides/tank-guides/shell-crit-cone-mechanic",
+      "html_file": "guides/shell-crit-cone-mechanic",
       "pixel_filename": "pcwstats-tracker-pixel-shell-crit-cone-mechanic.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-shell-crit-cone-mechanic.png",
       "html_title": "Shell Crit Cones - HEAT Labs"
