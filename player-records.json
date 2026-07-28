@@ -2,10 +2,10 @@
     "records": {
         "ROOT": {
             "last_updated": {
-                "conquest": "2026-07-26T12:49:12Z",
-                "control": "2026-07-26T12:42:51Z",
+                "conquest": "2026-07-28T17:06:58Z",
+                "control": "2026-07-28T17:12:35Z",
                 "hardpoint": "2026-07-24T09:25:38Z",
-                "kill-confirmed": "2026-07-26T12:51:12Z"
+                "kill-confirmed": "2026-07-28T17:04:03Z"
             }
         },
         "conquest": {
@@ -1515,6 +1515,24 @@
                     "map": "Nexus Dam",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/22072026_AET3RNAL.webp"
+                },
+                {
+                    "captures": 1,
+                    "destroyed": 25,
+                    "deaths": 3,
+                    "assists": 17,
+                    "damage_caused": 68300,
+                    "damage_blocked": 3600,
+                    "credits": 5872,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 11345,
+                    "agent": "Reaper",
+                    "vehicle": "M60A2",
+                    "outcome": "Victory",
+                    "map": "Eden",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/28072026_AET3RNAL-1.webp"
                 }
             ],
             "CrazySwede_": [
@@ -2563,6 +2581,24 @@
                     "map": "Nexus Dam",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/12072026_HeroLight.webp"
+                },
+                {
+                    "captures": 0,
+                    "destroyed": 17,
+                    "deaths": 0,
+                    "assists": 11,
+                    "damage_caused": 36900,
+                    "damage_blocked": 834,
+                    "credits": 5408,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 10460,
+                    "agent": "Hound",
+                    "vehicle": "AMX 10 RC",
+                    "outcome": "Defeat",
+                    "map": "Project Phoenix",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/27072026_HeroLight.webp"
                 }
             ],
             "Highyo_Boyo": [
@@ -2949,6 +2985,24 @@
                     "map": "Blossom Crash",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/23072026_Skeem689-2.webp"
+                },
+                {
+                    "captures": 4,
+                    "destroyed": 9,
+                    "deaths": 0,
+                    "assists": 11,
+                    "damage_caused": 19500,
+                    "damage_blocked": 1200,
+                    "credits": 2960,
+                    "tech": 75,
+                    "intel": 80,
+                    "XP": 5520,
+                    "agent": "Hound",
+                    "vehicle": "AMX 10 RC",
+                    "outcome": "Victory",
+                    "map": "Nord Oko",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/28072026_Skeem689-2.webp"
                 }
             ],
             "Speed": [
@@ -3047,6 +3101,46 @@
                     "map": "Eden",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/26072026_MisterDamingo.webp"
+                }
+            ],
+            "IJN_Akashi_Nya": [
+                {
+                    "captures": 7,
+                    "destroyed": 10,
+                    "deaths": 3,
+                    "assists": 7,
+                    "damage_caused": 46000,
+                    "damage_blocked": 2200,
+                    "credits": 6718,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 13035,
+                    "agent": "Fuzzer",
+                    "vehicle": "Bradley M3A1",
+                    "outcome": "Victory",
+                    "map": "Nexus Dam",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/27072026_IJN_Akashi_Nya-3.webp"
+                }
+            ],
+            "FortanWHL": [
+                {
+                    "captures": 1,
+                    "destroyed": 16,
+                    "deaths": 7,
+                    "assists": 4,
+                    "damage_caused": 29100,
+                    "damage_blocked": 24,
+                    "credits": 2755,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 5110,
+                    "agent": "Twister",
+                    "vehicle": "HSTV-L",
+                    "outcome": "Victory",
+                    "map": "Nord Oko",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/28072026_FortanWHL.webp"
                 }
             ]
         },
@@ -6257,6 +6351,24 @@
                     "map": "Scarred City",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/27062026_Tmc_338.webp"
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 18,
+                    "deaths": 7,
+                    "assists": 22,
+                    "damage_caused": 76300,
+                    "damage_blocked": 8900,
+                    "credits": 7595,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 15190,
+                    "agent": "Hound",
+                    "vehicle": "AMX 10 RC",
+                    "outcome": "Defeat",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/26072026_Tmc_338.webp"
                 }
             ],
             "xUncleD": [
@@ -7513,6 +7625,24 @@
                     "map": "Scarred City",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/07072026_AntiFox08-2.webp"
+                },
+                {
+                    "captures": 0,
+                    "destroyed": 10,
+                    "deaths": 4,
+                    "assists": 7,
+                    "damage_caused": 23600,
+                    "damage_blocked": 174,
+                    "credits": 2358,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 4715,
+                    "agent": "Hound",
+                    "vehicle": "AMX 10 RC",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/27072026_AntiFox08.webp"
                 }
             ],
             "darkbanefox": [
@@ -8161,6 +8291,24 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/19072026_IJN_Akashi_Nya.webp"
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 14,
+                    "deaths": 4,
+                    "assists": 10,
+                    "damage_caused": 58600,
+                    "damage_blocked": 11100,
+                    "credits": 5675,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 11350,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/27072026_IJN_Akashi_Nya-2.webp"
                 }
             ],
             "Salamander_Yeah": [
@@ -8237,6 +8385,24 @@
                     "map": "Blossom Crash",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/24072026_Skeem689.webp"
+                },
+                {
+                    "captures": 1,
+                    "destroyed": 9,
+                    "deaths": 0,
+                    "assists": 5,
+                    "damage_caused": 24100,
+                    "damage_blocked": 885,
+                    "credits": 2480,
+                    "tech": 75,
+                    "intel": 40,
+                    "XP": 4960,
+                    "agent": "Hound",
+                    "vehicle": "AMX 10 RC",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/28072026_Skeem689-1.webp"
                 }
             ],
             "Lilithxvc": [
@@ -8589,6 +8755,26 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/24072026_TYaZhELYJ_HARAKT3R.webp"
+                }
+            ],
+            "SenorRagequit": [
+                {
+                    "captures": 5,
+                    "destroyed": 12,
+                    "deaths": 6,
+                    "assists": 12,
+                    "damage_caused": 42700,
+                    "damage_blocked": 1300,
+                    "credits": 5518,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 11035,
+                    "agent": "Fuzzer",
+                    "vehicle": "Bradley M3A1",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/27072026_SenorRagequit.webp"
                 }
             ]
         },
@@ -11702,6 +11888,25 @@
                     "map": "Eden",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/24072026_AET3RNAL.webp"
+                },
+                {
+                    "confirms": 17,
+                    "denies": 1,
+                    "destroyed": 18,
+                    "deaths": 0,
+                    "assists": 6,
+                    "damage_caused": 39200,
+                    "damage_blocked": 0,
+                    "credits": 4488,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 8965,
+                    "agent": "Twister",
+                    "vehicle": "M551A1",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/28072026_AET3RNAL-2.webp"
                 }
             ],
             "EepyRabbit": [
@@ -12336,6 +12541,27 @@
                     "map": "Project Phoenix",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/25072026_Dr_bot_3.webp"
+                }
+            ],
+            "IJN_Akashi_Nya": [
+                {
+                    "confirms": 16,
+                    "denies": 7,
+                    "destroyed": 18,
+                    "deaths": 6,
+                    "assists": 6,
+                    "damage_caused": 49700,
+                    "damage_blocked": 0,
+                    "credits": 6187,
+                    "tech": 40,
+                    "intel": 120,
+                    "XP": 12365,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Defeat",
+                    "map": "Blossom Crash",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/27072026_IJN_Akashi_Nya-1.webp"
                 }
             ]
         }
