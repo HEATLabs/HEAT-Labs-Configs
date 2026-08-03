@@ -1,6 +1,255 @@
 {
   "updates": [
     {
+      "version": "0.5.939",
+      "date": "2026-08-03",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #464",
+      "description": "Full patch notes for Update v0.5.939 (#464), detailing all changes made on 03 August, 2026.",
+      "added": [
+        "New news article published",
+        "Five new tank gallery images added",
+        "Leo 1A6A1 gallery expanded with updated imagery",
+        "Additional model development assets and organized imaging folders added",
+        "Four new meme images added"
+      ],
+      "changed": [
+        "Leo 1A6A1 imagery updated across the website and development assets",
+        "Contributor information refreshed",
+        "Strengths & Weaknesses section refined on desktop tank pages",
+        "Moonshot agent pages updated with proper navigation state"
+      ],
+      "removed": [
+        "Unused sections removed from tank, map and agent pages",
+        "Deprecated agent summary sections removed",
+        "Obsolete model images replaced with improved versions"
+      ],
+      "fixed": [
+        "Corrected sidebar formatting on an agent page",
+        "Improved organization and consistency of model development assets",
+        "Various formatting and presentation improvements across tank pages"
+      ]
+    },
+    {
+      "version": "0.5.924",
+      "date": "2026-08-02",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #463",
+      "description": "Full patch notes for Update v0.5.924 (#463), detailing all changes made on 02 August, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.5.920",
+      "date": "2026-08-01",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #462",
+      "description": "Full patch notes for Update v0.5.920 (#462), detailing all changes made on 01 August, 2026.",
+      "added": [
+        "Missing agent page added",
+        "Fallback build imagery introduced across tank pages",
+        "Additional placeholder assets added for tank modules",
+        "Two new meme images added"
+      ],
+      "changed": [
+        "Build pages updated with fallback image support",
+        "Search keyword index cleaned up",
+        "Sitemap cleaned by removing obsolete pages and entries",
+        "Meme index refreshed"
+      ],
+      "removed": [
+        "Unused search index page removed",
+        "Obsolete sitemap entries removed",
+        "Leftover imports removed from multiple pages"
+      ],
+      "fixed": [
+        "Resolved broken Agents sidebar links across the entire HEAT Labs platform",
+        "Corrected canonical URLs and metadata on multiple pages",
+        "Fixed incorrect guide paths on several tank pages",
+        "Resolved missing alt text",
+        "Fixed incorrect About Us and footer paths",
+        "Corrected M60A2 layout issues",
+        "Prevented bot tanks from appearing on the Builds page"
+      ]
+    },
+    {
+      "version": "0.5.902",
+      "date": "2026-07-31",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #461",
+      "description": "Full patch notes for Update v0.5.902 (#461), detailing all changes made on 31 July, 2026.",
+      "added": [
+        "Two new meme images added to the media collection"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.5.898",
+      "date": "2026-07-30",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #460",
+      "description": "Full patch notes for Update v0.5.898 (#460), detailing all changes made on 30 July, 2026.",
+      "added": [
+        "Nine new player records added",
+        "Nine player record proof images added",
+        "Thirteen new meme images added"
+      ],
+      "changed": [
+        "Placeholder text refreshed across the website and database",
+        "Player Records index updated",
+        "Search keyword index refreshed",
+        "Meme index expanded"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected tracking pixel loading on the Player Records page",
+        "Fixed typos affecting multiple player record entries"
+      ]
+    },
+    {
+      "version": "0.5.888",
+      "date": "2026-07-29",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #459",
+      "description": "Full patch notes for Update v0.5.888 (#459), detailing all changes made on 29 July, 2026.",
+      "added": [
+        "Download buttons added to every mod page",
+        "New filter options added to the Mods page",
+        "Compatible game version information added to all mod detail pages",
+        "Mod index expanded with direct links to detail files",
+        "New hero image added",
+        "Additional meme images added"
+      ],
+      "changed": [
+        "Mod pages now automatically retrieve version numbers from the GitHub API",
+        "Mod metadata converted from hardcoded values to dynamic configuration",
+        "Markdown documentation improved with clearer formatting and comments",
+        "Hero image module updated",
+        "Recruitment news post refreshed"
+      ],
+      "removed": [
+        "Hardcoded mod version fields removed from the mod index",
+        "Hardcoded game version field removed from the mod index"
+      ],
+      "fixed": [
+        "Resolved YAML formatting issues in the FUSE mod",
+        "Corrected typographical issues across mod files",
+        "Fixed multiple issues affecting Mods page functionality",
+        "Corrected malformed sidebar icon markup"
+      ]
+    },
+    {
+      "version": "0.5.871",
+      "date": "2026-07-28",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #458",
+      "description": "Full patch notes for Update v0.5.871 (#458), detailing all changes made on 28 July, 2026.",
+      "added": [
+        "Twelve new player records added",
+        "Twelve new player record proof images added",
+        "New news article published"
+      ],
+      "changed": [
+        "Player Records index updated",
+        "News index refreshed",
+        "Mod preview imagery updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.5.863",
+      "date": "2026-07-27",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #457",
+      "description": "Full patch notes for Update v0.5.863 (#457), detailing all changes made on 27 July, 2026.",
+      "added": [
+        "New Alpha 2 Tournament garage assets added",
+        "XM1-V gallery expanded with new images",
+        "New tank test image added for development",
+        "Additional meme images added to the media collection"
+      ],
+      "changed": [
+        "XM1-V tank page updated with the latest gallery",
+        "Watermark manifest updated for XM1-V assets"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected orientation of multiple top-down tank images",
+        "Reverted an unintended test tank index entry"
+      ]
+    },
+    {
+      "version": "0.5.854",
+      "date": "2026-07-26",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #456",
+      "description": "Full patch notes for Update v0.5.854 (#456), detailing all changes made on 26 July, 2026.",
+      "added": [
+        "Initial Player Guides index introduced",
+        "Twenty new player records added to the database",
+        "Twenty player record proof images added",
+        "Five Official Game Guides published with dedicated artwork",
+        "Placeholder 3D models added for all tanks",
+        "Missing agent added to the database index"
+      ],
+      "changed": [
+        "Community Guides officially renamed to Game Guides across the entire HEAT Labs ecosystem",
+        "Guides page completely redesigned with an improved layout and navigation",
+        "Main blog page updated to dynamically display content",
+        "Guide indexing, tracking, page data and search systems updated for the new guide structure",
+        "Project statistics refreshed with accurate values",
+        "Steam achievement metadata updated to reflect the new page naming",
+        "Several internal tools migrated into the Internal Tools repository",
+        "News Card Updater tool expanded to support guide content",
+        "Model assets updated with placeholder support and refreshed textures"
+      ],
+      "removed": [
+        "Deprecated guide category files removed",
+        "Unused video showcase page removed",
+        "Redundant video showcase buttons removed from all tank pages",
+        "Unused video index removed",
+        "Three obsolete test JSON files removed",
+        "Five guide images removed from the News CDN",
+        "Deprecated news JavaScript and CSS assets removed",
+        "Redundant M60A3E2 bot images removed"
+      ],
+      "fixed": [
+        "Corrected guide image paths across Official Game Guides",
+        "Fixed model paths for all tanks",
+        "Corrected player record paths and tank names",
+        "Fixed incorrect guide image domain",
+        "Removed duplicate bot agent entries from multiple tanks",
+        "Resolved guide path issues throughout the website and development environment"
+      ]
+    },
+    {
       "version": "0.5.825",
       "date": "2026-07-25",
       "author": "HEAT Labs Team",
