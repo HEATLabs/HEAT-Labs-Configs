@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 161,
+    "total_pages": 160,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-07-26T05:55:07.478025"
+    "export_timestamp": "2026-08-04T02:39:14.352070"
   },
   "pages": [
     {
@@ -48,13 +48,6 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/agents/akira",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
       "url": "https://heatlabs.net/agents/anansi",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -84,6 +77,20 @@
     },
     {
       "url": "https://heatlabs.net/agents/flair",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/agents/fuzzer",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/agents/gambit",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
@@ -125,18 +132,18 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
+      "url": "https://heatlabs.net/agents/twister",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/agents/udarnik",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/ai",
-      "gsc_status": "NOT NEEDED",
-      "g_api_status": "NOT NEEDED",
-      "https_status": "NOT NEEDED",
-      "breadcrumb_status": "NOT NEEDED"
     },
     {
       "url": "https://heatlabs.net/asset-gallery",
@@ -1000,13 +1007,6 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/tanks/t-55-enigma",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
       "url": "https://heatlabs.net/tanks/t-62av",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -1124,33 +1124,26 @@
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://store.heatlabs.net",
-      "gsc_status": "NOT NEEDED",
-      "g_api_status": "NOT NEEDED",
-      "https_status": "NOT NEEDED",
-      "breadcrumb_status": "NOT NEEDED"
     }
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 74,
+      "pending": 77,
       "not_indexed": 0,
-      "indexed": 85
+      "indexed": 83
     },
     "google_api_status": {
-      "pending": 44,
+      "pending": 47,
       "not_indexed": 0,
-      "indexed": 115
+      "indexed": 113
     },
     "https_page_status": {
-      "unknown": 131,
+      "unknown": 132,
       "not_https": 0,
       "https": 28
     },
     "breadcrumb_status": {
-      "unknown": 131,
+      "unknown": 132,
       "invalid": 0,
       "valid": 28
     }
