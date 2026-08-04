@@ -2,10 +2,10 @@
     "records": {
         "ROOT": {
             "last_updated": {
-                "conquest": "2026-08-04T00:26:28Z",
+                "conquest": "2026-08-04T01:14:50Z",
                 "control": "2026-08-04T00:39:31Z",
                 "hardpoint": "2026-08-04T00:06:09Z",
-                "kill-confirmed": "2026-08-04T00:08:34Z"
+                "kill-confirmed": "2026-08-04T01:15:38Z"
             }
         },
         "conquest": {
@@ -1641,6 +1641,24 @@
                     "map": "Nord Oko",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/31072026_AET3RNAL-2.webp"
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 15,
+                    "deaths": 2,
+                    "assists": 12,
+                    "damage_caused": 51900,
+                    "damage_blocked": 11000,
+                    "credits": 4482,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 8565,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/04082026_AET3RNAL-7.webp"
                 }
             ],
             "CrazySwede_": [
@@ -12544,6 +12562,25 @@
                     "map": "Aircraft Carrier",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/28072026_AET3RNAL-2.webp"
+                },
+                {
+                    "confirms": 10,
+                    "denies": 2,
+                    "destroyed": 15,
+                    "deaths": 1,
+                    "assists": 6,
+                    "damage_caused": 56200,
+                    "damage_blocked": 0,
+                    "credits": 4948,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 9885,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Nord Oko",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/04082026_AET3RNAL-6.webp"
                 }
             ],
             "EepyRabbit": [
