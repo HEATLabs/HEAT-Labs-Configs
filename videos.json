@@ -1,11 +1,34 @@
 {
+  "creators": [
+    {
+      "name": "IMTheBale",
+      "url": "https://www.youtube.com/c/IMTheBale"
+    }
+  ],
   "videos": [
     {
-      "title": "VIDEO TITLE",
-	  "url": "https://www.youtube-nocookie.com/embed/[VIDEO_ID]",
-	  "category": "TANK / MAP / AGENT CATEGORY",
-	  "topic": "TANK / MAP / AGENT SLUG",
-      "author": "CREATOR NAME"
+      "title": "M60A1 - ПЕРСОНАЛЬНИЙ РЕКОРД - 32 400 ШКОДИ! | World of Tanks HEAT",
+      "url": "https://www.youtube-nocookie.com/embed/ZSxGdqSX9ms",
+      "category": "tank",
+      "topic": "m60a1",
+      "date": "10/06/2026",
+      "author": "IMTheBale"
+    },
+    {
+      "title": "НАЙЕПІЧНІШИЙ БІЙ В World of Tanks HEAT | M551A1",
+      "url": "https://www.youtube-nocookie.com/embed/yjoQJM03Akc",
+      "category": "tank",
+      "topic": "m551a1",
+      "date": "10/06/2026",
+      "author": "IMTheBale"
+    },
+    {
+      "title": "ALVT — Збірка танка | Перки агента та модифікації",
+      "url": "https://www.youtube-nocookie.com/embed/fs8iPTEZDSU",
+      "category": "tank",
+      "topic": "alvt",
+      "date": "01/08/2026",
+      "author": "IMTheBale"
     }
   ]
 }
