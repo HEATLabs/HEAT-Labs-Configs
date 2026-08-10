@@ -10,7 +10,41 @@
       "size": "Unknown Size",
       "featured": false,
       "description": "A tropical shipyard map centered around a grounded aircraft carrier, featuring dynamic elements like a moving barge and multiple flanking routes through naval warehouses.",
-      "image": "https://cdn8.heatlabs.net/maps/aircraft-carrier/Aircraft_Carrier_1.webp"
+      "image": "https://cdn8.heatlabs.net/maps/aircraft-carrier/Aircraft_Carrier_1.webp",
+      "gamemodes": {
+        "conquest": {
+          "mode_name": "Conquest",
+          "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
+          "match_format": "10 VS 10",
+          "control_points": "3 Control Points",
+          "max_match_time": "",
+          "win_condition": "2000 Points"
+        },
+        "control": {
+          "mode_name": "Control",
+          "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
+          "match_format": "5 VS 5",
+          "control_points": "1 Control Point",
+          "max_match_time": "",
+          "win_condition": "Best of 3"
+        },
+        "hardpoint": {
+          "mode_name": "Hardpoint",
+          "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
+          "match_format": "5 VS 5",
+          "control_points": "1 Control Point",
+          "max_match_time": "",
+          "win_condition": "2000 Points"
+        },
+        "kill_confirmed": {
+          "mode_name": "Kill Confirmed",
+          "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
+          "match_format": "5 VS 5",
+          "control_points": "No Control Points",
+          "max_match_time": "",
+          "win_condition": "25 Tokens"
+        }
+      }
     },
     {
       "id": 2,
@@ -22,7 +56,17 @@
       "size": "Unknown Size",
       "featured": false,
       "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow. A full breakdown will be available soon.",
-      "image": "https://cdn8.heatlabs.net/maps/baikonur/Baikonur_1.webp"
+      "image": "https://cdn8.heatlabs.net/maps/baikonur/Baikonur_1.webp",
+      "gamemodes": {
+        "Unknown": {
+          "mode_name": "Unknown",
+          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
+          "match_format": "Unknown",
+          "control_points": "Unknown",
+          "max_match_time": "Unknown",
+          "win_condition": "Unknown"
+        }
+      }
     },
     {
       "id": 3,
@@ -34,7 +78,17 @@
       "size": "Unknown Size",
       "featured": false,
       "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow. A full breakdown will be available soon.",
-      "image": "https://cdn8.heatlabs.net/maps/ballistic-range/Ballistic_Range_1.webp"
+      "image": "https://cdn8.heatlabs.net/maps/ballistic-range/Ballistic_Range_1.webp",
+      "gamemodes": {
+        "firing_range": {
+          "mode_name": "Firing Range",
+          "mode_description": "Test your vehicles",
+          "match_format": "1 VS 5",
+          "control_points": "0 Control Points",
+          "max_match_time": "5 Minutes",
+          "win_condition": "Time Limit"
+        }
+      }
     },
     {
       "id": 4,
@@ -46,7 +100,41 @@
       "size": "1350m x 1145m",
       "featured": false,
       "description": "Set in a spring-themed environment disrupted by a recent crash, this map combines natural beauty with chaotic terrain, offering varied combat scenarios.",
-      "image": "https://cdn8.heatlabs.net/maps/blossom-crash/Blossom_Crash_1.webp"
+      "image": "https://cdn8.heatlabs.net/maps/blossom-crash/Blossom_Crash_1.webp",
+      "gamemodes": {
+        "conquest": {
+          "mode_name": "Conquest",
+          "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
+          "match_format": "10 VS 10",
+          "control_points": "3 Control Points",
+          "max_match_time": "",
+          "win_condition": "2000 Points"
+        },
+        "control": {
+          "mode_name": "Control",
+          "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
+          "match_format": "5 VS 5",
+          "control_points": "1 Control Point",
+          "max_match_time": "",
+          "win_condition": "Best of 3"
+        },
+        "hardpoint": {
+          "mode_name": "Hardpoint",
+          "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
+          "match_format": "5 VS 5",
+          "control_points": "1 Control Point",
+          "max_match_time": "",
+          "win_condition": "2000 Points"
+        },
+        "kill_confirmed": {
+          "mode_name": "Kill Confirmed",
+          "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
+          "match_format": "5 VS 5",
+          "control_points": "No Control Points",
+          "max_match_time": "",
+          "win_condition": "25 Tokens"
+        }
+      }
     },
     {
       "id": 5,
@@ -58,7 +146,17 @@
       "size": "Unknown Size",
       "featured": false,
       "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow. A full breakdown will be available soon.",
-      "image": "https://cdn8.heatlabs.net/maps/inferno/Inferno_1.webp"
+      "image": "https://cdn8.heatlabs.net/maps/inferno/Inferno_1.webp",
+      "gamemodes": {
+        "Unknown": {
+          "mode_name": "Unknown",
+          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
+          "match_format": "Unknown",
+          "control_points": "Unknown",
+          "max_match_time": "Unknown",
+          "win_condition": "Unknown"
+        }
+      }
     },
     {
       "id": 6,
@@ -70,7 +168,17 @@
       "size": "Unknown Size",
       "featured": false,
       "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow. A full breakdown will be available soon.",
-      "image": "https://cdn8.heatlabs.net/maps/military-training/Military_Training_1.webp"
+      "image": "https://cdn8.heatlabs.net/maps/military-training/Military_Training_1.webp",
+      "gamemodes": {
+        "Unknown": {
+          "mode_name": "Unknown",
+          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
+          "match_format": "Unknown",
+          "control_points": "Unknown",
+          "max_match_time": "Unknown",
+          "win_condition": "Unknown"
+        }
+      }
     },
     {
       "id": 7,
@@ -82,7 +190,41 @@
       "size": "Unknown Size",
       "featured": false,
       "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow. A full breakdown will be available soon.",
-      "image": "https://cdn8.heatlabs.net/maps/moonshot/Moonshot_1.webp"
+      "image": "https://cdn8.heatlabs.net/maps/moonshot/Moonshot_1.webp",
+      "gamemodes": {
+        "conquest": {
+          "mode_name": "Conquest",
+          "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
+          "match_format": "10 VS 10",
+          "control_points": "3 Control Points",
+          "max_match_time": "",
+          "win_condition": "2000 Points"
+        },
+        "control": {
+          "mode_name": "Control",
+          "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
+          "match_format": "5 VS 5",
+          "control_points": "1 Control Point",
+          "max_match_time": "",
+          "win_condition": "Best of 3"
+        },
+        "hardpoint": {
+          "mode_name": "Hardpoint",
+          "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
+          "match_format": "5 VS 5",
+          "control_points": "1 Control Point",
+          "max_match_time": "",
+          "win_condition": "2000 Points"
+        },
+        "kill_confirmed": {
+          "mode_name": "Kill Confirmed",
+          "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
+          "match_format": "5 VS 5",
+          "control_points": "No Control Points",
+          "max_match_time": "",
+          "win_condition": "25 Tokens"
+        }
+      }
     },
     {
       "id": 8,
@@ -94,7 +236,41 @@
       "size": "880m x 960m",
       "featured": false,
       "description": "An industrial map featuring a massive dam structure, providing vertical gameplay opportunities and strategic choke-points.",
-      "image": "https://cdn8.heatlabs.net/maps/nexus-dam/Nexus_Dam_1.webp"
+      "image": "https://cdn8.heatlabs.net/maps/nexus-dam/Nexus_Dam_1.webp",
+      "gamemodes": {
+        "conquest": {
+          "mode_name": "Conquest",
+          "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
+          "match_format": "10 VS 10",
+          "control_points": "3 Control Points",
+          "max_match_time": "",
+          "win_condition": "2000 Points"
+        },
+        "control": {
+          "mode_name": "Control",
+          "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
+          "match_format": "5 VS 5",
+          "control_points": "1 Control Point",
+          "max_match_time": "",
+          "win_condition": "Best of 3"
+        },
+        "hardpoint": {
+          "mode_name": "Hardpoint",
+          "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
+          "match_format": "5 VS 5",
+          "control_points": "1 Control Point",
+          "max_match_time": "",
+          "win_condition": "2000 Points"
+        },
+        "kill_confirmed": {
+          "mode_name": "Kill Confirmed",
+          "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
+          "match_format": "5 VS 5",
+          "control_points": "No Control Points",
+          "max_match_time": "",
+          "win_condition": "25 Tokens"
+        }
+      }
     },
     {
       "id": 9,
@@ -106,7 +282,41 @@
       "size": "850m x 910m",
       "featured": false,
       "description": "A snow-covered map with a circular design, offering multiple paths and central control points, designed for strategic maneuvering.",
-      "image": "https://cdn8.heatlabs.net/maps/nord-oko/Nord_Oko_1.webp"
+      "image": "https://cdn8.heatlabs.net/maps/nord-oko/Nord_Oko_1.webp",
+      "gamemodes": {
+        "conquest": {
+          "mode_name": "Conquest",
+          "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
+          "match_format": "10 VS 10",
+          "control_points": "3 Control Points",
+          "max_match_time": "",
+          "win_condition": "2000 Points"
+        },
+        "control": {
+          "mode_name": "Control",
+          "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
+          "match_format": "5 VS 5",
+          "control_points": "1 Control Point",
+          "max_match_time": "",
+          "win_condition": "Best of 3"
+        },
+        "hardpoint": {
+          "mode_name": "Hardpoint",
+          "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
+          "match_format": "5 VS 5",
+          "control_points": "1 Control Point",
+          "max_match_time": "",
+          "win_condition": "2000 Points"
+        },
+        "kill_confirmed": {
+          "mode_name": "Kill Confirmed",
+          "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
+          "match_format": "5 VS 5",
+          "control_points": "No Control Points",
+          "max_match_time": "",
+          "win_condition": "25 Tokens"
+        }
+      }
     },
     {
       "id": 10,
@@ -118,7 +328,41 @@
       "size": "Unknown Size",
       "featured": false,
       "description": "A scientific research base set in the foothills of a mountain range offering a chaotic thunder-dome with several flanking routes.",
-      "image": "https://cdn8.heatlabs.net/maps/project-phoenix/Project_Phoenix_1.webp"
+      "image": "https://cdn8.heatlabs.net/maps/project-phoenix/Project_Phoenix_1.webp",
+      "gamemodes": {
+        "conquest": {
+          "mode_name": "Conquest",
+          "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
+          "match_format": "10 VS 10",
+          "control_points": "3 Control Points",
+          "max_match_time": "",
+          "win_condition": "2000 Points"
+        },
+        "control": {
+          "mode_name": "Control",
+          "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
+          "match_format": "5 VS 5",
+          "control_points": "1 Control Point",
+          "max_match_time": "",
+          "win_condition": "Best of 3"
+        },
+        "hardpoint": {
+          "mode_name": "Hardpoint",
+          "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
+          "match_format": "5 VS 5",
+          "control_points": "1 Control Point",
+          "max_match_time": "",
+          "win_condition": "2000 Points"
+        },
+        "kill_confirmed": {
+          "mode_name": "Kill Confirmed",
+          "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
+          "match_format": "5 VS 5",
+          "control_points": "No Control Points",
+          "max_match_time": "",
+          "win_condition": "25 Tokens"
+        }
+      }
     },
     {
       "id": 11,
@@ -130,7 +374,17 @@
       "size": "Unknown Size",
       "featured": false,
       "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow. A full breakdown will be available soon.",
-      "image": "https://cdn8.heatlabs.net/maps/crossroads/crossroads_1.webp"
+      "image": "https://cdn8.heatlabs.net/maps/crossroads/crossroads_1.webp",
+      "gamemodes": {
+        "Unknown": {
+          "mode_name": "Unknown",
+          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
+          "match_format": "Unknown",
+          "control_points": "Unknown",
+          "max_match_time": "Unknown",
+          "win_condition": "Unknown"
+        }
+      }
     },
     {
       "id": 12,
@@ -142,7 +396,41 @@
       "size": "1200m x 1250m",
       "featured": false,
       "description": "An urban map set in a war-torn cityscape, supporting multiple game modes like Conquest, Domination, and Plant and Defuse, with a dynamic kite formation base layout.",
-      "image": "https://cdn8.heatlabs.net/maps/scarred-city/Scarred_City_1.webp"
+      "image": "https://cdn8.heatlabs.net/maps/scarred-city/Scarred_City_1.webp",
+      "gamemodes": {
+        "conquest": {
+          "mode_name": "Conquest",
+          "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
+          "match_format": "10 VS 10",
+          "control_points": "3 Control Points",
+          "max_match_time": "",
+          "win_condition": "2000 Points"
+        },
+        "control": {
+          "mode_name": "Control",
+          "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
+          "match_format": "5 VS 5",
+          "control_points": "1 Control Point",
+          "max_match_time": "",
+          "win_condition": "Best of 3"
+        },
+        "hardpoint": {
+          "mode_name": "Hardpoint",
+          "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
+          "match_format": "5 VS 5",
+          "control_points": "1 Control Point",
+          "max_match_time": "",
+          "win_condition": "2000 Points"
+        },
+        "kill_confirmed": {
+          "mode_name": "Kill Confirmed",
+          "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
+          "match_format": "5 VS 5",
+          "control_points": "No Control Points",
+          "max_match_time": "",
+          "win_condition": "25 Tokens"
+        }
+      }
     },
     {
       "id": 13,
@@ -154,7 +442,17 @@
       "size": "1030m x 930m",
       "featured": false,
       "description": "A desert resort map with a focus on close quarter combat and flanking through city streets and construction sites.",
-      "image": "https://cdn8.heatlabs.net/maps/sunstroke/Sunstroke_1.webp"
+      "image": "https://cdn8.heatlabs.net/maps/sunstroke/Sunstroke_1.webp",
+"gamemodes": {
+        "Unknown": {
+          "mode_name": "Unknown",
+          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
+          "match_format": "Unknown",
+          "control_points": "Unknown",
+          "max_match_time": "Unknown",
+          "win_condition": "Unknown"
+        }
+      }
     },
     {
       "id": 14,
@@ -166,7 +464,41 @@
       "size": "Unknown Size",
       "featured": true,
       "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow. A full breakdown will be available soon.",
-      "image": "https://cdn8.heatlabs.net/maps/eden/Eden_1.webp"
+      "image": "https://cdn8.heatlabs.net/maps/eden/Eden_1.webp",
+      "gamemodes": {
+        "conquest": {
+          "mode_name": "Conquest",
+          "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
+          "match_format": "10 VS 10",
+          "control_points": "3 Control Points",
+          "max_match_time": "",
+          "win_condition": "2000 Points"
+        },
+        "control": {
+          "mode_name": "Control",
+          "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
+          "match_format": "5 VS 5",
+          "control_points": "1 Control Point",
+          "max_match_time": "",
+          "win_condition": "Best of 3"
+        },
+        "hardpoint": {
+          "mode_name": "Hardpoint",
+          "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
+          "match_format": "5 VS 5",
+          "control_points": "1 Control Point",
+          "max_match_time": "",
+          "win_condition": "2000 Points"
+        },
+        "kill_confirmed": {
+          "mode_name": "Kill Confirmed",
+          "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
+          "match_format": "5 VS 5",
+          "control_points": "No Control Points",
+          "max_match_time": "",
+          "win_condition": "25 Tokens"
+        }
+      }
     },
     {
       "id": 15,
@@ -178,7 +510,17 @@
       "size": "Unknown Size",
       "featured": false,
       "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow. A full breakdown will be available soon.",
-      "image": "https://cdn8.heatlabs.net/maps/railgun/Railgun_1.webp"
+      "image": "https://cdn8.heatlabs.net/maps/railgun/Railgun_1.webp",
+      "gamemodes": {
+        "Unknown": {
+          "mode_name": "Unknown",
+          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
+          "match_format": "Unknown",
+          "control_points": "Unknown",
+          "max_match_time": "Unknown",
+          "win_condition": "Unknown"
+        }
+      }
     }
   ]
 }
