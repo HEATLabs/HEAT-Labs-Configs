@@ -993,15 +993,7 @@
       "pixel_filename": "pcwstats-tracker-pixel-configurator.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-configurator.png",
       "html_title": "Game Configurator - HEAT Labs"
-    },
-    {
-      "page_name": "Game Servers",
-      "page_identifier": "game-servers",
-      "html_file": "playground/game-servers",
-      "pixel_filename": "pcwstats-tracker-pixel-game-servers.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-game-servers.png",
-      "html_title": "Game Servers - HEAT Labs"
-    },
+    }
     {
       "page_name": "Tank Defense",
       "page_identifier": "tank-defense",
