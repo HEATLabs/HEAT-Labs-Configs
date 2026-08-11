@@ -17,7 +17,7 @@
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
           "control_points": "3 Control Points",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "2000 Points"
         },
         "control": {
@@ -25,7 +25,7 @@
           "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
           "match_format": "5 VS 5",
           "control_points": "1 Control Point",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "Best of 3"
         },
         "hardpoint": {
@@ -33,7 +33,7 @@
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
           "control_points": "1 Control Point",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "2000 Points"
         },
         "kill_confirmed": {
@@ -41,16 +41,8 @@
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
           "control_points": "No Control Points",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "25 Tokens"
-        },
-        "plant_defuse": {
-          "mode_name": "Plant & Defuse",
-          "mode_description": "ne life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
-          "match_format": "5 VS 5",
-          "control_points": "2 Control Points",
-          "max_match_time": "",
-          "win_condition": "Best of 3"
         }
       }
     },
@@ -115,7 +107,7 @@
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
           "control_points": "3 Control Points",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "2000 Points"
         },
         "control": {
@@ -123,7 +115,7 @@
           "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
           "match_format": "5 VS 5",
           "control_points": "1 Control Point",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "Best of 3"
         },
         "hardpoint": {
@@ -131,7 +123,7 @@
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
           "control_points": "1 Control Point",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "2000 Points"
         },
         "kill_confirmed": {
@@ -139,15 +131,15 @@
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
           "control_points": "No Control Points",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "25 Tokens"
         },
         "plant_defuse": {
           "mode_name": "Plant & Defuse",
-          "mode_description": "ne life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
+          "mode_description": "One life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
           "match_format": "5 VS 5",
           "control_points": "2 Control Points",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "Best of 3"
         }
       }
@@ -213,23 +205,15 @@
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
           "control_points": "3 Control Points",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "2000 Points"
-        },
-        "control": {
-          "mode_name": "Control",
-          "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
-          "match_format": "5 VS 5",
-          "control_points": "1 Control Point",
-          "max_match_time": "",
-          "win_condition": "Best of 3"
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
           "control_points": "1 Control Point",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "2000 Points"
         },
         "kill_confirmed": {
@@ -237,16 +221,8 @@
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
           "control_points": "No Control Points",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "25 Tokens"
-        },
-        "plant_defuse": {
-          "mode_name": "Plant & Defuse",
-          "mode_description": "ne life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
-          "match_format": "5 VS 5",
-          "control_points": "2 Control Points",
-          "max_match_time": "",
-          "win_condition": "Best of 3"
         }
       }
     },
@@ -267,40 +243,16 @@
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
           "control_points": "3 Control Points",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "2000 Points"
-        },
-        "control": {
-          "mode_name": "Control",
-          "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
-          "match_format": "5 VS 5",
-          "control_points": "1 Control Point",
-          "max_match_time": "",
-          "win_condition": "Best of 3"
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
           "control_points": "1 Control Point",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "2000 Points"
-        },
-        "kill_confirmed": {
-          "mode_name": "Kill Confirmed",
-          "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
-          "match_format": "5 VS 5",
-          "control_points": "No Control Points",
-          "max_match_time": "",
-          "win_condition": "25 Tokens"
-        },
-        "plant_defuse": {
-          "mode_name": "Plant & Defuse",
-          "mode_description": "ne life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
-          "match_format": "5 VS 5",
-          "control_points": "2 Control Points",
-          "max_match_time": "",
-          "win_condition": "Best of 3"
         }
       }
     },
@@ -321,23 +273,7 @@
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
           "control_points": "3 Control Points",
-          "max_match_time": "",
-          "win_condition": "2000 Points"
-        },
-        "control": {
-          "mode_name": "Control",
-          "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
-          "match_format": "5 VS 5",
-          "control_points": "1 Control Point",
-          "max_match_time": "",
-          "win_condition": "Best of 3"
-        },
-        "hardpoint": {
-          "mode_name": "Hardpoint",
-          "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
-          "match_format": "5 VS 5",
-          "control_points": "1 Control Point",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "2000 Points"
         },
         "kill_confirmed": {
@@ -345,16 +281,8 @@
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
           "control_points": "No Control Points",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "25 Tokens"
-        },
-        "plant_defuse": {
-          "mode_name": "Plant & Defuse",
-          "mode_description": "ne life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
-          "match_format": "5 VS 5",
-          "control_points": "2 Control Points",
-          "max_match_time": "",
-          "win_condition": "Best of 3"
         }
       }
     },
@@ -375,23 +303,15 @@
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
           "control_points": "3 Control Points",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "2000 Points"
-        },
-        "control": {
-          "mode_name": "Control",
-          "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
-          "match_format": "5 VS 5",
-          "control_points": "1 Control Point",
-          "max_match_time": "",
-          "win_condition": "Best of 3"
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
           "control_points": "1 Control Point",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "2000 Points"
         },
         "kill_confirmed": {
@@ -399,16 +319,8 @@
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
           "control_points": "No Control Points",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "25 Tokens"
-        },
-        "plant_defuse": {
-          "mode_name": "Plant & Defuse",
-          "mode_description": "ne life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
-          "match_format": "5 VS 5",
-          "control_points": "2 Control Points",
-          "max_match_time": "",
-          "win_condition": "Best of 3"
         }
       }
     },
@@ -451,7 +363,7 @@
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
           "control_points": "3 Control Points",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "2000 Points"
         },
         "control": {
@@ -459,7 +371,7 @@
           "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
           "match_format": "5 VS 5",
           "control_points": "1 Control Point",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "Best of 3"
         },
         "hardpoint": {
@@ -467,7 +379,7 @@
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
           "control_points": "1 Control Point",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "2000 Points"
         },
         "kill_confirmed": {
@@ -475,15 +387,15 @@
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
           "control_points": "No Control Points",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "25 Tokens"
         },
         "plant_defuse": {
           "mode_name": "Plant & Defuse",
-          "mode_description": "ne life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
+          "mode_description": "One life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
           "match_format": "5 VS 5",
           "control_points": "2 Control Points",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "Best of 3"
         }
       }
@@ -499,14 +411,38 @@
       "featured": false,
       "description": "A desert resort map with a focus on close quarter combat and flanking through city streets and construction sites.",
       "image": "https://cdn8.heatlabs.net/maps/sunstroke/Sunstroke_1.webp",
-"gamemodes": {
-        "Unknown": {
-          "mode_name": "Unknown",
-          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
-          "match_format": "Unknown",
-          "control_points": "Unknown",
+      "gamemodes": {
+        "conquest": {
+          "mode_name": "Conquest",
+          "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
+          "match_format": "10 VS 10",
+          "control_points": "3 Control Points",
           "max_match_time": "Unknown",
-          "win_condition": "Unknown"
+          "win_condition": "2000 Points"
+        },
+        "control": {
+          "mode_name": "Control",
+          "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
+          "match_format": "5 VS 5",
+          "control_points": "1 Control Point",
+          "max_match_time": "Unknown",
+          "win_condition": "Best of 3"
+        },
+        "kill_confirmed": {
+          "mode_name": "Kill Confirmed",
+          "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
+          "match_format": "5 VS 5",
+          "control_points": "No Control Points",
+          "max_match_time": "Unknown",
+          "win_condition": "25 Tokens"
+        },
+        "plant_defuse": {
+          "mode_name": "Plant & Defuse",
+          "mode_description": "One life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
+          "match_format": "5 VS 5",
+          "control_points": "2 Control Points",
+          "max_match_time": "Unknown",
+          "win_condition": "Best of 3"
         }
       }
     },
@@ -527,23 +463,15 @@
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
           "control_points": "3 Control Points",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "2000 Points"
-        },
-        "control": {
-          "mode_name": "Control",
-          "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
-          "match_format": "5 VS 5",
-          "control_points": "1 Control Point",
-          "max_match_time": "",
-          "win_condition": "Best of 3"
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
           "control_points": "1 Control Point",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "2000 Points"
         },
         "kill_confirmed": {
@@ -551,15 +479,15 @@
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
           "control_points": "No Control Points",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "25 Tokens"
         },
         "plant_defuse": {
           "mode_name": "Plant & Defuse",
-          "mode_description": "ne life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
+          "mode_description": "One life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
           "match_format": "5 VS 5",
           "control_points": "2 Control Points",
-          "max_match_time": "",
+          "max_match_time": "Unknown",
           "win_condition": "Best of 3"
         }
       }
