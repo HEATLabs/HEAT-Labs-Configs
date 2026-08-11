@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 160,
+    "total_pages": 158,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-08-04T02:39:14.352070"
+    "export_timestamp": "2026-08-11T22:04:15.746475"
   },
   "pages": [
     {
@@ -811,13 +811,6 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/playground/weekend-chase-stats",
-      "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
       "url": "https://heatlabs.net/playground/wordle",
       "gsc_status": "PENDING",
       "g_api_status": "INDEXED",
@@ -1084,13 +1077,6 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/video-showcase",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
       "url": "https://mods.heatlabs.net",
       "gsc_status": "INDEXED",
       "g_api_status": "PENDING",
@@ -1128,22 +1114,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 77,
+      "pending": 76,
       "not_indexed": 0,
-      "indexed": 83
+      "indexed": 82
     },
     "google_api_status": {
-      "pending": 47,
+      "pending": 46,
       "not_indexed": 0,
-      "indexed": 113
+      "indexed": 112
     },
     "https_page_status": {
-      "unknown": 132,
+      "unknown": 130,
       "not_https": 0,
       "https": 28
     },
     "breadcrumb_status": {
-      "unknown": 132,
+      "unknown": 130,
       "invalid": 0,
       "valid": 28
     }
