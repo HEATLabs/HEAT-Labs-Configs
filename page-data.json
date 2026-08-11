@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 158,
+    "total_pages": 155,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-08-11T22:04:15.746475"
+    "export_timestamp": "2026-08-11T22:22:58.629511"
   },
   "pages": [
     {
@@ -741,27 +741,6 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/playground/countdown",
-      "gsc_status": "PENDING",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/playground/game-data",
-      "gsc_status": "PENDING",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/playground/game-servers",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
       "url": "https://heatlabs.net/playground/heat-labs-app",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -1114,22 +1093,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 76,
+      "pending": 74,
       "not_indexed": 0,
-      "indexed": 82
+      "indexed": 81
     },
     "google_api_status": {
       "pending": 46,
       "not_indexed": 0,
-      "indexed": 112
+      "indexed": 109
     },
     "https_page_status": {
-      "unknown": 130,
+      "unknown": 127,
       "not_https": 0,
       "https": 28
     },
     "breadcrumb_status": {
-      "unknown": 130,
+      "unknown": 127,
       "invalid": 0,
       "valid": 28
     }
