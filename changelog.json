@@ -1,33 +1,233 @@
 {
   "updates": [
     {
-      "version": "0.5.939",
-      "date": "2026-08-03",
+      "version": "0.3.424",
+      "date": "2026-08-10",
       "author": "HEAT Labs Team",
-      "title": "Update Number #464",
-      "description": "Full patch notes for Update v0.5.939 (#464), detailing all changes made on 03 August, 2026.",
+      "title": "Update Number #424",
+      "description": "Full patch notes for Update v0.3.424 (#424), detailing all changes made on 10 August, 2026.",
       "added": [
-        "New news article published",
-        "Five new tank gallery images added",
-        "Leo 1A6A1 gallery expanded with updated imagery",
-        "Additional model development assets and organized imaging folders added",
+        "Initial gamemode data structure added to the main maps index",
+        "Initial slot data structure added to the main tanks index",
         "Four new meme images added"
       ],
       "changed": [
-        "Leo 1A6A1 imagery updated across the website and development assets",
-        "Contributor information refreshed",
-        "Strengths & Weaknesses section refined on desktop tank pages",
-        "Moonshot agent pages updated with proper navigation state"
+        "Main Agents page now defaults to the Available Now filter",
+        "Agent filtering behavior synchronized between production and development websites"
       ],
       "removed": [
-        "Unused sections removed from tank, map and agent pages",
-        "Deprecated agent summary sections removed",
-        "Obsolete model images replaced with improved versions"
+        "Nothing was removed in this update"
       ],
       "fixed": [
-        "Corrected sidebar formatting on an agent page",
-        "Improved organization and consistency of model development assets",
-        "Various formatting and presentation improvements across tank pages"
+        "Improved initial data structures in preparation for expanded map and tank metadata"
+      ]
+    },
+    {
+      "version": "0.3.423",
+      "date": "2026-08-09",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #423",
+      "description": "Full patch notes for Update v0.3.423 (#423), detailing all changes made on 9 August, 2026.",
+      "added": [
+        "Three new videos added to the video index from a single content creator"
+      ],
+      "changed": [
+        "Tank pages migrated to dynamic text data loading",
+        "Main tank pages updated with new dynamic text sections",
+        "AMX-10 RC Strengths & Weaknesses content updated",
+        "ABV flame projector description revised"
+      ],
+      "removed": [
+        "Unused tank page rating button removed"
+      ],
+      "fixed": [
+        "Corrected several database typos and formatting inconsistencies",
+        "Improved reliability of dynamic tank content loading before release"
+      ]
+    },
+    {
+      "version": "0.3.422",
+      "date": "2026-08-08",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #422",
+      "description": "Full patch notes for Update v0.3.422 (#422), detailing all changes made on 8 August, 2026.",
+      "added": [
+        "Thirty-one new player records added",
+        "Seven new meme images added",
+        "New news article and supporting imagery added",
+        "Perks data structure introduced for agents",
+        "Medals data file added to the database",
+        "Starter missions added to the missions database",
+        "Complete tank detail structures populated across the database",
+        "New consumables data files added for all tanks",
+        "Five new Leopard 2FK images added",
+        "Leopard 1A6A1 development model assets added"
+      ],
+      "changed": [
+        "Tank detail data expanded with complete descriptions and supporting text",
+        "All tank detail files standardized around the new data structure",
+        "Equipment data reset and standardized across the tank database",
+        "Upgrade data renamed to modules",
+        "Soft currency terminology standardized to credits",
+        "Main tank index paths updated for the revised data structure",
+        "Video index rebuilt using its new structure",
+        "Content Creator listings updated",
+        "Video tutorial wording refreshed",
+        "Player Records guidelines updated",
+        "Tank pages updated with the new beginner missions section",
+        "Strengths & Weaknesses formatting refined on development tank pages",
+        "Leopard 2FK page expanded with new gallery imagery",
+        "Contributor information updated"
+      ],
+      "removed": [
+        "Unused tank perk data files removed",
+        "Unused mission tags field removed",
+        "Obsolete upgrade data replaced by the new module structure",
+        "One resubmitted player record removed"
+      ],
+      "fixed": [
+        "Corrected an incorrect map name in player record data",
+        "Fixed multiple equipment descriptions and build entries",
+        "Corrected icon paths in affected builds",
+        "Resolved spelling issues across 16 tank detail files",
+        "Corrected an incorrectly logged player record proof",
+        "Updated tank pages to properly load beginner missions",
+        "Removed outdated videos from tank pages"
+      ]
+    },
+    {
+      "version": "0.3.421",
+      "date": "2026-08-07",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #421",
+      "description": "Full patch notes for Update v0.3.421 (#421), detailing all changes made on 7 August, 2026.",
+      "added": [
+        "WIP tank missions section introduced across tank pages",
+        "New Leopard 2FK model development project added",
+        "Leopard 2FK angle imagery, textures and upscaled artwork added",
+        "Tank thumbnail assets added"
+      ],
+      "changed": [
+        "Tank index updated to reference mission data",
+        "Tank page CSS and JavaScript expanded to support the new missions system",
+        "Mission data naming and formatting standardized",
+        "Record Keeper dependencies updated"
+      ],
+      "removed": [
+        "Obsolete Leopard 2FK image directory removed",
+        "Unused development imagery replaced with the new organized asset structure"
+      ],
+      "fixed": [
+        "Corrected several tank names within mission data",
+        "Resolved formatting inconsistencies in mission definitions"
+      ]
+    },
+    {
+      "version": "0.3.420",
+      "date": "2026-08-06",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #420",
+      "description": "Full patch notes for Update v0.3.420 (#420), detailing all changes made on 6 August, 2026.",
+      "added": [
+        "New M60A2 tank content prepared for the website"
+      ],
+      "changed": [
+        "M60A2 description updated",
+        "M60A2 Strengths & Weaknesses content revised",
+        "M60A2 development page updated to reflect the latest content"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Missions data cleaned and standardized"
+      ]
+    },
+    {
+      "version": "0.3.419",
+      "date": "2026-08-05",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #419",
+      "description": "Full patch notes for Update v0.3.419 (#419), detailing all changes made on 5 August, 2026.",
+      "added": [
+        "New contributor added to the HEAT Labs community listings"
+      ],
+      "changed": [
+        "2KST tank description and Strengths & Weaknesses content updated",
+        "Contributor information synchronized across website environments",
+        "Record Keeper dependencies updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected an incorrect perk data file path",
+        "Fixed a matching perk asset filename",
+        "Resolved spelling and wording issues across tank and development pages",
+        "Updated the 2KST development page to match the main website"
+      ]
+    },
+    {
+      "version": "0.3.418",
+      "date": "2026-08-04",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #418",
+      "description": "Full patch notes for Update v0.3.418 (#418), detailing all changes made on 4 August, 2026.",
+      "added": [
+        "Thirty new player records added",
+        "Two previously missing player record proofs restored"
+      ],
+      "changed": [
+        "Player record index expanded with newly submitted records",
+        "Project statistics updated",
+        "GSC export data refreshed",
+        "Tank descriptions and Strengths & Weaknesses sections comprehensively revised across multiple vehicles",
+        "Tank development pages synchronized with updated production content",
+        "Updated text for M551A1, HSTVL, Object 287, T-62, Bradley, Leopard 1A6, XM1-90, M60A1, M1E1, XM1V, FV4030, ALVT and Leopard 2FK"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected spelling and wording issues across multiple tank pages",
+        "Added missing weaknesses to relevant tank entries",
+        "Corrected ALVT Strengths & Weaknesses content",
+        "Aligned development tank pages with their latest production content"
+      ]
+    },
+    {
+      "version": "0.3.417",
+      "date": "2026-08-03",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #417",
+      "description": "Full patch notes for Update v0.3.417 (#417), detailing all changes made on 3 August, 2026.",
+      "added": [
+        "New news article published",
+        "Thirty new player record proofs added",
+        "New Leo 1A6A1 gallery and tank imagery added",
+        "New Leo 1A6A1 model development assets added"
+      ],
+      "changed": [
+        "Tank page Strengths & Weaknesses presentation refined across the website",
+        "Leo 1A6A1 page updated with new gallery content",
+        "Contributor information refreshed",
+        "Cloudflare traffic data updated",
+        "GSC index and page data refreshed",
+        "Search keyword index updated with a previously missing page",
+        "News index and supporting news imagery updated"
+      ],
+      "removed": [
+        "Unused agent summary sections removed from tank pages",
+        "Unused sections removed from tank and map pages",
+        "Unused sections removed from agent pages",
+        "Placeholder files for a scrapped WIP page removed",
+        "Scrapped game advertisement index and its processing tool removed",
+        "Outdated Leo 1A6A1 model imagery removed"
+      ],
+      "fixed": [
+        "Corrected sidebar option formatting on an agent page",
+        "Added missing active-state indicators to agent pages",
+        "Corrected and replaced low-quality Leo 1A6A1 development imagery"
       ]
     },
     {
