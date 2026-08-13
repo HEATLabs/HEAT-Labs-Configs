@@ -139,14 +139,6 @@
       "html_title": "Search - HEAT Labs"
     },
     {
-      "page_name": "Official Store",
-      "page_identifier": "store",
-      "html_file": "store",
-      "pixel_filename": "pcwstats-tracker-pixel-store.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-store.png",
-      "html_title": "Official Store - HEAT Labs"
-    },
-    {
       "page_name": "Playground",
       "page_identifier": "playground",
       "html_file": "playground",
@@ -179,44 +171,12 @@
       "html_title": "Tournament Brackets - HEAT Labs"
     },
     {
-      "page_name": "Video Showcase",
-      "page_identifier": "video-showcase",
-      "html_file": "video-showcase",
-      "pixel_filename": "pcwstats-tracker-pixel-video-showcase.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-video-showcase.png",
-      "html_title": "Video Showcase - HEAT Labs"
-    },
-    {
-      "page_name": "Akira",
-      "page_identifier": "akira",
-      "html_file": "agents/akira",
-      "pixel_filename": "pcwstats-tracker-pixel-akira.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-akira.png",
-      "html_title": "Akira - HEAT Labs"
-    },
-    {
       "page_name": "Anansi",
       "page_identifier": "anansi",
       "html_file": "agents/anansi",
       "pixel_filename": "pcwstats-tracker-pixel-anansi.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-anansi.png",
       "html_title": "Anansi - HEAT Labs"
-    },
-    {
-      "page_name": "Arblast",
-      "page_identifier": "arblast",
-      "html_file": "agents/arblast",
-      "pixel_filename": "pcwstats-tracker-pixel-arblast.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-arblast.png",
-      "html_title": "Arblast - HEAT Labs"
-    },
-    {
-      "page_name": "Atom",
-      "page_identifier": "atom",
-      "html_file": "agents/atom",
-      "pixel_filename": "pcwstats-tracker-pixel-atom.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-atom.png",
-      "html_title": "Atom - HEAT Labs"
     },
     {
       "page_name": "Blitz",
@@ -243,14 +203,6 @@
       "html_title": "Ember - HEAT Labs"
     },
     {
-      "page_name": "Fantome",
-      "page_identifier": "fantome",
-      "html_file": "agents/fantome",
-      "pixel_filename": "pcwstats-tracker-pixel-fantome.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-fantome.png",
-      "html_title": "Fantome - HEAT Labs"
-    },
-    {
       "page_name": "Hound",
       "page_identifier": "hound",
       "html_file": "agents/hound",
@@ -259,28 +211,12 @@
       "html_title": "Hound - HEAT Labs"
     },
     {
-      "page_name": "Jager",
-      "page_identifier": "jager",
-      "html_file": "agents/jager",
-      "pixel_filename": "pcwstats-tracker-pixel-jager.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-jager.png",
-      "html_title": "Jager - HEAT Labs"
-    },
-    {
       "page_name": "Kent",
       "page_identifier": "kent",
       "html_file": "agents/kent",
       "pixel_filename": "pcwstats-tracker-pixel-kent.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-kent.png",
       "html_title": "Kent - HEAT Labs"
-    },
-    {
-      "page_name": "Punch",
-      "page_identifier": "punch",
-      "html_file": "agents/punch",
-      "pixel_filename": "pcwstats-tracker-pixel-punch.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-punch.png",
-      "html_title": "Punch - HEAT Labs"
     },
     {
       "page_name": "Raketa",
@@ -731,14 +667,6 @@
       "html_title": "Bored Developers - HEAT Labs"
     },
     {
-      "page_name": "Devs Only",
-      "page_identifier": "devsonly",
-      "html_file": "easter-eggs/devsonly",
-      "pixel_filename": "pcwstats-tracker-pixel-devsonly.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-devsonly.png",
-      "html_title": "Devs Only - HEAT Labs"
-    },
-    {
       "page_name": "Hungry Devs",
       "page_identifier": "hungry-devs",
       "html_file": "easter-eggs/hungry-devs",
@@ -971,36 +899,12 @@
       "html_title": "Player Records - HEAT Labs"
     },
     {
-      "page_name": "Alpha 3 Playtest",
-      "page_identifier": "alpha-3-playtest",
-      "html_file": "playground/alpha-3-playtest",
-      "pixel_filename": "pcwstats-tracker-pixel-alpha-3-playtest.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-alpha-3-playtest.png",
-      "html_title": "Alpha 3 Playtest - HEAT Labs"
-    },
-    {
-      "page_name": "The Countdown",
-      "page_identifier": "countdown",
-      "html_file": "playground/countdown",
-      "pixel_filename": "pcwstats-tracker-pixel-countdown.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-countdown.png",
-      "html_title": "The Countdown - HEAT Labs"
-    },
-    {
       "page_name": "Game Configurator",
       "page_identifier": "configurator",
       "html_file": "playground/configurator",
       "pixel_filename": "pcwstats-tracker-pixel-configurator.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-configurator.png",
       "html_title": "Game Configurator - HEAT Labs"
-    },
-    {
-      "page_name": "Tank Defense",
-      "page_identifier": "tank-defense",
-      "html_file": "playground/tank-defense",
-      "pixel_filename": "pcwstats-tracker-pixel-tank-defense.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-tank-defense.png",
-      "html_title": "Tank Defense - HEAT Labs"
     },
     {
       "page_name": "PWA App",
@@ -1073,14 +977,6 @@
       "pixel_filename": "pcwstats-tracker-pixel-memes.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-memes.png",
       "html_title": "Meme Gallery - HEAT Labs"
-    },
-    {
-      "page_name": "HEAT AI",
-      "page_identifier": "heat-ai",
-      "html_file": "ai",
-      "pixel_filename": "pcwstats-tracker-pixel-heat-ai.png",
-      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-heat-ai.png",
-      "html_title": "HEAT AI - HEAT Labs"
     },
     {
       "page_name": "Frequently Asked Questions",
@@ -1347,12 +1243,12 @@
       "html_title": "M1150 ABV - HEAT Labs"
     },
     {
-      "page_name": "M1150 ABV",
+      "page_name": "T-72 SH",
       "page_identifier": "t-72sh",
       "html_file": "tanks/t-72sh.html",
       "pixel_filename": "pcwstats-tracker-pixel-t-72sh.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-t-72sh.png",
-      "html_title": "M1150 ABV - HEAT Labs"
+      "html_title": "T-72 SH - HEAT Labs"
     }
   ]
 }
