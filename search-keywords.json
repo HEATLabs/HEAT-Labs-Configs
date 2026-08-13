@@ -18,12 +18,6 @@
     "keywords": ["all agents", "agents"]
   },
   {
-    "name": "Video Showcase",
-    "description": "Highlights from top community creators",
-    "path": "https://heatlabs.net/video-showcase",
-    "keywords": ["videos", "youtube", "creators", "youtubers"]
-  },
-  {
     "name": "Map Knowledge",
     "description": "Tactical insights for each map including choke points and ambush zones",
     "path": "https://heatlabs.net/maps",
@@ -102,18 +96,6 @@
     "keywords": ["games", "playground", "quirky", "fun"]
   },
   {
-    "name": "Game Data",
-    "description": "Statistics, achievements, and detailed gameplay insights",
-    "path": "https://heatlabs.net/playground/game-data",
-    "keywords": ["data", "game data", "achievements"]
-  },
-  {
-    "name": "The Countdown",
-    "description": "Keep your eyes on the countdown, something is coming",
-    "path": "https://heatlabs.net/playground/countdown",
-    "keywords": ["timer", "countdown"]
-  },
-  {
     "name": "Player Records",
     "description": "Explore the greatest achievements in World of Tanks: HEAT",
     "path": "https://heatlabs.net/playground/player-records",
@@ -142,12 +124,6 @@
     "description": "Download our application on your Phone or Desktop",
     "path": "https://heatlabs.net/playground/heat-labs-app",
     "keywords": ["app", "application", "pwa"]
-  },
-  {
-    "name": "Tank Defense Game",
-    "description": "Survive waves of enemy tanks and defend your position!",
-    "path": "https://heatlabs.net/playground/tank-defense",
-    "keywords": ["tank defense", "game", "horde"]
   },
   {
     "name": "Wordle Game",
@@ -216,16 +192,10 @@
     "keywords": ["discord games", "games", "activity"]
   },
   {
-    "name": "search",
+    "name": "Search",
     "description": "The official HEAT Labs new-tab experience",
     "path": "https://search.heatlabs.net",
     "keywords": ["search", "new tab"]
-  },
-  {
-    "name": "Official Store",
-    "description": "Official merchandise from HEAT Labs",
-    "path": "https://store.heatlabs.net",
-    "keywords": ["merch", "store"]
   },
   {
     "name": "Contact Us",
@@ -264,7 +234,7 @@
     "keywords": ["bat-4m"]
   },
   {
-    "name": "fv4030x",
+    "name": "FV 4030/x",
     "description": "Detailed statistics for FV 4030/X",
     "path": "https://heatlabs.net/tanks/fv4030x",
     "keywords": ["fv4030x"]
@@ -924,10 +894,10 @@
     "keywords": [""]
   },
   {
-    "name": "Agents",
-    "description": "Learn everything about ",
+    "name": "Chopper",
+    "description": "Learn everything about Chopper",
     "path": "https://heatlabs.net/agents/chopper",
-    "keywords": [""]
+    "keywords": ["chopper"]
   },
   {
     "name": "Ember",
@@ -964,48 +934,6 @@
     "description": "Learn everything about Reaper",
     "path": "https://heatlabs.net/agents/reaper",
     "keywords": ["reaper"]
-  },
-  {
-    "name": "Udarnik",
-    "description": "Learn everything about Udarnik",
-    "path": "https://heatlabs.net/agents/udarnik",
-    "keywords": ["udarnik"]
-  },
-  {
-    "name": "Jager",
-    "description": "Learn everything about Jager",
-    "path": "https://heatlabs.net/agents/jager",
-    "keywords": ["jager"]
-  },
-  {
-    "name": "Punch",
-    "description": "Learn everything about Punch",
-    "path": "https://heatlabs.net/agents/punch",
-    "keywords": ["punch"]
-  },
-  {
-    "name": "Fantome",
-    "description": "Learn everything about Fantome",
-    "path": "https://heatlabs.net/agents/fantome",
-    "keywords": ["fantome"]
-  },
-  {
-    "name": "Atom",
-    "description": "Learn everything about Udarnik",
-    "path": "https://heatlabs.net/agents/atom",
-    "keywords": ["atom"]
-  },
-  {
-    "name": "Arblast",
-    "description": "Learn everything about Udarnik",
-    "path": "https://heatlabs.net/agents/arblast",
-    "keywords": ["arblast"]
-  },
-  {
-    "name": "Akira",
-    "description": "Learn everything about Akira",
-    "path": "https://heatlabs.net/agents/akira",
-    "keywords": ["akira"]
   },
   {
     "name": "Twister",
