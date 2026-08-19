@@ -23,33 +23,49 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "3 Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "2000 Points"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "2000 Points",
+          "win_condition_description": "PLACEHOLDER"
         },
         "control": {
           "mode_name": "Control",
           "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "1 Control Point",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "20 Minutes",
-          "win_condition": "Best of 3"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "Best of 3",
+          "win_condition_description": "PLACEHOLDER"
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "1 Control Point",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "2000 Points"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "2000 Points",
+          "win_condition_description": "PLACEHOLDER"
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "No Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "25 Tokens"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "25 Tokens",
+          "win_condition_description": "PLACEHOLDER"
         }
       }
     },
@@ -76,9 +92,13 @@
           "mode_name": "Unknown Gamemodes",
           "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
           "match_format": "Unknown Format",
+          "match_format_description": "The match format for {MAP_NAME} has not yet been confirmed and will be updated when official details become available.",
           "control_points": "Unknown Control Points",
+          "control_points_description": "The number and layout of Control Points on {MAP_NAME} are currently unknown and will be added once confirmed.",
           "max_match_time": "Unknown Time Limit",
-          "win_condition": "Unknown Win Condition"
+          "max_match_description": "The maximum match duration for {MAP_NAME} has not yet been revealed and will be updated when more information is available.",
+          "win_condition": "Unknown Win Condition",
+          "win_condition_description": "The victory conditions for {MAP_NAME} have not yet been confirmed and will be documented once details are known."
         }
       }
     },
@@ -105,41 +125,61 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "3 Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "2000 Points"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "2000 Points",
+          "win_condition_description": "PLACEHOLDER"
         },
         "control": {
           "mode_name": "Control",
           "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "1 Control Point",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "20 Minutes",
-          "win_condition": "Best of 3"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "Best of 3",
+          "win_condition_description": "PLACEHOLDER"
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "1 Control Point",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "2000 Points"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "2000 Points",
+          "win_condition_description": "PLACEHOLDER"
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "No Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "25 Tokens"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "25 Tokens",
+          "win_condition_description": "PLACEHOLDER"
         },
         "plant_defuse": {
           "mode_name": "Plant & Defuse",
           "mode_description": "One life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "2 Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "3 Minutes",
-          "win_condition": "Best of 5"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "Best of 5",
+          "win_condition_description": "PLACEHOLDER"
         }
       }
     },
@@ -166,9 +206,13 @@
           "mode_name": "Unknown Gamemodes",
           "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
           "match_format": "Unknown Format",
+          "match_format_description": "The match format for {MAP_NAME} has not yet been confirmed and will be updated when official details become available.",
           "control_points": "Unknown Control Points",
+          "control_points_description": "The number and layout of Control Points on {MAP_NAME} are currently unknown and will be added once confirmed.",
           "max_match_time": "Unknown Time Limit",
-          "win_condition": "Unknown Win Condition"
+          "max_match_description": "The maximum match duration for {MAP_NAME} has not yet been revealed and will be updated when more information is available.",
+          "win_condition": "Unknown Win Condition",
+          "win_condition_description": "The victory conditions for {MAP_NAME} have not yet been confirmed and will be documented once details are known."
         }
       }
     },
@@ -195,25 +239,37 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "3 Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "2000 Points"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "2000 Points",
+          "win_condition_description": "PLACEHOLDER"
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "1 Control Point",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "2000 Points"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "2000 Points",
+          "win_condition_description": "PLACEHOLDER"
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "No Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "25 Tokens"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "25 Tokens",
+          "win_condition_description": "PLACEHOLDER"
         }
       }
     },
@@ -240,17 +296,25 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "3 Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "2000 Points"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "2000 Points",
+          "win_condition_description": "PLACEHOLDER"
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "1 Control Point",
-          "max_match_time": "Unknown",
-          "win_condition": "2000 Points"
+          "control_points_description": "PLACEHOLDER",
+          "max_match_time": "15 Minutes",
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "2000 Points",
+          "win_condition_description": "PLACEHOLDER"
         }
       }
     },
@@ -277,17 +341,25 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "3 Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "2000 Points"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "2000 Points",
+          "win_condition_description": "PLACEHOLDER"
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "No Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "25 Tokens"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "25 Tokens",
+          "win_condition_description": "PLACEHOLDER"
         }
       }
     },
@@ -314,25 +386,37 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "3 Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "2000 Points"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "2000 Points",
+          "win_condition_description": "PLACEHOLDER"
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "1 Control Point",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "2000 Points"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "2000 Points",
+          "win_condition_description": "PLACEHOLDER"
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "No Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "25 Tokens"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "25 Tokens",
+          "win_condition_description": "PLACEHOLDER"
         }
       }
     },
@@ -359,9 +443,13 @@
           "mode_name": "Unknown Gamemodes",
           "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
           "match_format": "Unknown Format",
+          "match_format_description": "The match format for {MAP_NAME} has not yet been confirmed and will be updated when official details become available.",
           "control_points": "Unknown Control Points",
+          "control_points_description": "The number and layout of Control Points on {MAP_NAME} are currently unknown and will be added once confirmed.",
           "max_match_time": "Unknown Time Limit",
-          "win_condition": "Unknown Win Condition"
+          "max_match_description": "The maximum match duration for {MAP_NAME} has not yet been revealed and will be updated when more information is available.",
+          "win_condition": "Unknown Win Condition",
+          "win_condition_description": "The victory conditions for {MAP_NAME} have not yet been confirmed and will be documented once details are known."
         }
       }
     },
@@ -388,41 +476,61 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "3 Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "2000 Points"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "2000 Points",
+          "win_condition_description": "PLACEHOLDER"
         },
         "control": {
           "mode_name": "Control",
           "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "1 Control Point",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "20 Minutes",
-          "win_condition": "Best of 3"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "Best of 3",
+          "win_condition_description": "PLACEHOLDER"
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "1 Control Point",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "2000 Points"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "2000 Points",
+          "win_condition_description": "PLACEHOLDER"
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "No Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "25 Tokens"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "25 Tokens",
+          "win_condition_description": "PLACEHOLDER"
         },
         "plant_defuse": {
           "mode_name": "Plant & Defuse",
           "mode_description": "One life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "2 Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "3 Minutes",
-          "win_condition": "Best of 5"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "Best of 5",
+          "win_condition_description": "PLACEHOLDER"
         }
       }
     },
@@ -449,33 +557,49 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "3 Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "2000 Points"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "2000 Points",
+          "win_condition_description": "PLACEHOLDER"
         },
         "control": {
           "mode_name": "Control",
           "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "1 Control Point",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "20 Minutes",
-          "win_condition": "Best of 3"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "Best of 3",
+          "win_condition_description": "PLACEHOLDER"
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "No Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "25 Tokens"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "25 Tokens",
+          "win_condition_description": "PLACEHOLDER"
         },
         "plant_defuse": {
           "mode_name": "Plant & Defuse",
           "mode_description": "One life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "2 Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "3 Minutes",
-          "win_condition": "Best of 5"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "Best of 5",
+          "win_condition_description": "PLACEHOLDER"
         }
       }
     },
@@ -502,33 +626,49 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "3 Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "2000 Points"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "2000 Points",
+          "win_condition_description": "PLACEHOLDER"
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "1 Control Point",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "2000 Points"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "2000 Points",
+          "win_condition_description": "PLACEHOLDER"
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "No Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "15 Minutes",
-          "win_condition": "25 Tokens"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "25 Tokens",
+          "win_condition_description": "PLACEHOLDER"
         },
         "plant_defuse": {
           "mode_name": "Plant & Defuse",
           "mode_description": "One life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
           "match_format": "5 VS 5",
+          "match_format_description": "PLACEHOLDER",
           "control_points": "2 Control Points",
+          "control_points_description": "PLACEHOLDER",
           "max_match_time": "3 Minutes",
-          "win_condition": "Best of 5"
+          "max_match_description": "PLACEHOLDER",
+          "win_condition": "Best of 5",
+          "win_condition_description": "PLACEHOLDER"
         }
       }
     },
@@ -555,9 +695,13 @@
           "mode_name": "Unknown Gamemodes",
           "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
           "match_format": "Unknown Format",
+          "match_format_description": "The match format for {MAP_NAME} has not yet been confirmed and will be updated when official details become available.",
           "control_points": "Unknown Control Points",
+          "control_points_description": "The number and layout of Control Points on {MAP_NAME} are currently unknown and will be added once confirmed.",
           "max_match_time": "Unknown Time Limit",
-          "win_condition": "Unknown Win Condition"
+          "max_match_description": "The maximum match duration for {MAP_NAME} has not yet been revealed and will be updated when more information is available.",
+          "win_condition": "Unknown Win Condition",
+          "win_condition_description": "The victory conditions for {MAP_NAME} have not yet been confirmed and will be documented once details are known."
         }
       }
     }
