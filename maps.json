@@ -69,28 +69,6 @@
       }
     },
     {
-      "id": 3,
-      "state": "displayed",
-      "status": "Available Now",
-      "name": "Ballistic Range",
-      "slug": "ballistic-range",
-      "type": "Unknown Type",
-      "size": "Unknown Size",
-      "featured": false,
-      "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
-      "image": "https://cdn8.heatlabs.net/maps/ballistic-range/Ballistic_Range_1.webp",
-      "gamemodes": {
-        "firing_range": {
-          "mode_name": "Firing Range",
-          "mode_description": "Test your vehicles",
-          "match_format": "1 VS 5",
-          "control_points": "0 Control Points",
-          "max_match_time": "5 Minutes",
-          "win_condition": "Time Limit"
-        }
-      }
-    },
-    {
       "id": 4,
       "state": "displayed",
       "status": "Available Now",
@@ -155,28 +133,6 @@
       "featured": false,
       "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
       "image": "https://cdn8.heatlabs.net/maps/inferno/Inferno_1.webp",
-      "gamemodes": {
-        "unknown": {
-          "mode_name": "Unknown Gamemodes",
-          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
-          "match_format": "Unknown Format",
-          "control_points": "Unknown Control Points",
-          "max_match_time": "Unknown Time Limit",
-          "win_condition": "Unknown Win Condition"
-        }
-      }
-    },
-    {
-      "id": 6,
-      "state": "displayed",
-      "status": "To Be Released",
-      "name": "Military Training",
-      "slug": "military-training",
-      "type": "Unknown Type",
-      "size": "Unknown Size",
-      "featured": false,
-      "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
-      "image": "https://cdn8.heatlabs.net/maps/military-training/Military_Training_1.webp",
       "gamemodes": {
         "unknown": {
           "mode_name": "Unknown Gamemodes",
