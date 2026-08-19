@@ -2,10 +2,10 @@
     "records": {
         "ROOT": {
             "last_updated": {
-                "conquest": "2026-08-18T20:58:48Z",
-                "control": "2026-08-18T20:58:48Z",
-                "hardpoint": "2026-08-18T20:58:48Z",
-                "kill-confirmed": "2026-08-18T20:58:48Z"
+                "conquest": "2026-08-19T18:51:41Z",
+                "control": "2026-08-19T18:53:05Z",
+                "hardpoint": "2026-08-19T18:53:43Z",
+                "kill-confirmed": "2026-08-19T18:54:27Z"
             }
         },
         "conquest": {
@@ -2239,6 +2239,24 @@
                     "map": "Nord Oko",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/11082026_esmatty.webp"
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 14,
+                    "deaths": 3,
+                    "assists": 4,
+                    "damage_caused": 45100,
+                    "damage_blocked": 12100,
+                    "credits": 4698,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 8995,
+                    "agent": "Ember",
+                    "vehicle": "XM1-V",
+                    "outcome": "Victory",
+                    "map": "Eden",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/19082026_esmatty.webp"
                 }
             ],
             "XM8_Jaeger": [
@@ -10972,6 +10990,46 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/17082026_TX_7537.webp"
                 }
+            ],
+            "Nikty": [
+                {
+                    "captures": 3,
+                    "destroyed": 9,
+                    "deaths": 0,
+                    "assists": 12,
+                    "damage_caused": 36000,
+                    "damage_blocked": 11600,
+                    "credits": 4255,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 8510,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/19082026_Nikty.webp"
+                }
+            ],
+            "Wojtek_multiplayer": [
+                {
+                    "captures": 4,
+                    "destroyed": 31,
+                    "deaths": 11,
+                    "assists": 9,
+                    "damage_caused": 71500,
+                    "damage_blocked": 7500,
+                    "credits": 7030,
+                    "tech": 50,
+                    "intel": 0,
+                    "XP": 14060,
+                    "agent": "Raketa",
+                    "vehicle": "T-62AV",
+                    "outcome": "Draw",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/19082026_Wojtek_multiplayer.webp"
+                }
             ]
         },
         "hardpoint": {
@@ -11925,6 +11983,26 @@
                     "map": "Scarred City",
                     "mode": "Hardpoint",
                     "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/17082026_DefoNotBrandon.webp"
+                }
+            ],
+            "TX_7537": [
+                {
+                    "captures": 4,
+                    "destroyed": 18,
+                    "deaths": 2,
+                    "assists": 9,
+                    "damage_caused": 36500,
+                    "damage_blocked": 10200,
+                    "credits": 2671,
+                    "tech": 30,
+                    "intel": 140,
+                    "XP": 9885,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Eden",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/19082026_TX_7537.webp"
                 }
             ]
         },
@@ -15615,6 +15693,25 @@
                     "map": "Eden",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/17082026_TX_7537.webp"
+                },
+                {
+                    "confirms": 2,
+                    "denies": 0,
+                    "destroyed": 11,
+                    "deaths": 1,
+                    "assists": 16,
+                    "damage_caused": 29700,
+                    "damage_blocked": 0,
+                    "credits": 1476,
+                    "tech": 30,
+                    "intel": 20,
+                    "XP": 5895,
+                    "agent": "Fuzzer",
+                    "vehicle": "Marder 1A3",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/19082026_TX_7537.webp"
                 }
             ]
         }
