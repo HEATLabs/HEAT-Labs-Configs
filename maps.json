@@ -23,49 +23,49 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Conquest on {mapName} features 10 players per team, creating large-scale battles across the map.",
           "control_points": "3 Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Conquest on {mapName} features 3 Control Points that teams must capture and hold to earn points.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
         },
         "control": {
           "mode_name": "Control",
           "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Control on {mapName} puts 5 players on each team in a focused fight for the objective.",
           "control_points": "1 Control Point",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Control on {mapName} centers around 1 Control Point that teams must contest and secure.",
           "max_match_time": "20 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Control on {mapName} allows up to 20 minutes for teams to fight through each round.",
           "win_condition": "Best of 3",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Control on {mapName} is decided across 3 rounds, with the first team to win two taking the match."
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Hardpoint on {mapName} features 5 players per team competing for control of the active zone.",
           "control_points": "1 Control Point",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Hardpoint on {mapName} uses 1 moving Control Point that shifts position throughout the battle.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Hardpoint on {mapName} runs for up to 15 minutes as teams rotate between active objectives.",
           "win_condition": "2000 Points",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires."
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Kill Confirmed on {mapName} pits 5 players against 5 in a fast-paced fight for Tokens.",
           "control_points": "No Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Kill Confirmed on {mapName} has no fixed objectives, keeping the focus entirely on vehicle destruction and Tokens.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Kill Confirmed on {mapName} gives teams up to 15 minutes to collect enough Tokens to secure victory.",
           "win_condition": "25 Tokens",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens."
         }
       }
     },
@@ -92,13 +92,13 @@
           "mode_name": "Unknown Gamemodes",
           "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
           "match_format": "Unknown Format",
-          "match_format_description": "The match format for {MAP_NAME} has not yet been confirmed and will be updated when official details become available.",
+          "match_format_description": "The match format for {mapName} has not yet been confirmed and will be updated when official details become available.",
           "control_points": "Unknown Control Points",
-          "control_points_description": "The number and layout of Control Points on {MAP_NAME} are currently unknown and will be added once confirmed.",
+          "control_points_description": "The number and layout of Control Points on {mapName} are currently unknown and will be added once confirmed.",
           "max_match_time": "Unknown Time Limit",
-          "max_match_description": "The maximum match duration for {MAP_NAME} has not yet been revealed and will be updated when more information is available.",
+          "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
           "win_condition": "Unknown Win Condition",
-          "win_condition_description": "The victory conditions for {MAP_NAME} have not yet been confirmed and will be documented once details are known."
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known."
         }
       }
     },
@@ -125,61 +125,61 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Conquest on {mapName} features 10 players per team, creating large-scale battles across the map.",
           "control_points": "3 Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Conquest on {mapName} features 3 Control Points that teams must capture and hold to earn points.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
         },
         "control": {
           "mode_name": "Control",
           "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Control on {mapName} puts 5 players on each team in a focused fight for the objective.",
           "control_points": "1 Control Point",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Control on {mapName} centers around 1 Control Point that teams must contest and secure.",
           "max_match_time": "20 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Control on {mapName} allows up to 20 minutes for teams to fight through each round.",
           "win_condition": "Best of 3",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Control on {mapName} is decided across 3 rounds, with the first team to win two taking the match."
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Hardpoint on {mapName} features 5 players per team competing for control of the active zone.",
           "control_points": "1 Control Point",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Hardpoint on {mapName} uses 1 moving Control Point that shifts position throughout the battle.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Hardpoint on {mapName} runs for up to 15 minutes as teams rotate between active objectives.",
           "win_condition": "2000 Points",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires."
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Kill Confirmed on {mapName} pits 5 players against 5 in a fast-paced fight for Tokens.",
           "control_points": "No Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Kill Confirmed on {mapName} has no fixed objectives, keeping the focus entirely on vehicle destruction and Tokens.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Kill Confirmed on {mapName} gives teams up to 15 minutes to collect enough Tokens to secure victory.",
           "win_condition": "25 Tokens",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens."
         },
         "plant_defuse": {
           "mode_name": "Plant & Defuse",
           "mode_description": "One life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Plant & Defuse on {mapName} features 5 players per team, with every life carrying high stakes.",
           "control_points": "2 Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Plant & Defuse on {mapName} features 2 Control Points where attackers can plant the bomb.",
           "max_match_time": "3 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Plant & Defuse on {mapName} gives each round just 3 minutes, keeping every decision fast and decisive.",
           "win_condition": "Best of 5",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory."
         }
       }
     },
@@ -206,13 +206,13 @@
           "mode_name": "Unknown Gamemodes",
           "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
           "match_format": "Unknown Format",
-          "match_format_description": "The match format for {MAP_NAME} has not yet been confirmed and will be updated when official details become available.",
+          "match_format_description": "The match format for {mapName} has not yet been confirmed and will be updated when official details become available.",
           "control_points": "Unknown Control Points",
-          "control_points_description": "The number and layout of Control Points on {MAP_NAME} are currently unknown and will be added once confirmed.",
+          "control_points_description": "The number and layout of Control Points on {mapName} are currently unknown and will be added once confirmed.",
           "max_match_time": "Unknown Time Limit",
-          "max_match_description": "The maximum match duration for {MAP_NAME} has not yet been revealed and will be updated when more information is available.",
+          "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
           "win_condition": "Unknown Win Condition",
-          "win_condition_description": "The victory conditions for {MAP_NAME} have not yet been confirmed and will be documented once details are known."
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known."
         }
       }
     },
@@ -239,37 +239,37 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Conquest on {mapName} features 10 players per team, creating large-scale battles across the map.",
           "control_points": "3 Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Conquest on {mapName} features 3 Control Points that teams must capture and hold to earn points.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Hardpoint on {mapName} features 5 players per team competing for control of the active zone.",
           "control_points": "1 Control Point",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Hardpoint on {mapName} uses 1 moving Control Point that shifts position throughout the battle.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Hardpoint on {mapName} runs for up to 15 minutes as teams rotate between active objectives.",
           "win_condition": "2000 Points",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires."
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Kill Confirmed on {mapName} pits 5 players against 5 in a fast-paced fight for Tokens.",
           "control_points": "No Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Kill Confirmed on {mapName} has no fixed objectives, keeping the focus entirely on vehicle destruction and Tokens.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Kill Confirmed on {mapName} gives teams up to 15 minutes to collect enough Tokens to secure victory.",
           "win_condition": "25 Tokens",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens."
         }
       }
     },
@@ -296,25 +296,25 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Conquest on {mapName} features 10 players per team, creating large-scale battles across the map.",
           "control_points": "3 Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Conquest on {mapName} features 3 Control Points that teams must capture and hold to earn points.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Hardpoint on {mapName} features 5 players per team competing for control of the active zone.",
           "control_points": "1 Control Point",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Hardpoint on {mapName} uses 1 moving Control Point that shifts position throughout the battle.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Hardpoint on {mapName} runs for up to 15 minutes as teams rotate between active objectives.",
           "win_condition": "2000 Points",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires."
         }
       }
     },
@@ -341,25 +341,25 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Conquest on {mapName} features 10 players per team, creating large-scale battles across the map.",
           "control_points": "3 Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Conquest on {mapName} features 3 Control Points that teams must capture and hold to earn points.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Kill Confirmed on {mapName} pits 5 players against 5 in a fast-paced fight for Tokens.",
           "control_points": "No Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Kill Confirmed on {mapName} has no fixed objectives, keeping the focus entirely on vehicle destruction and Tokens.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Kill Confirmed on {mapName} gives teams up to 15 minutes to collect enough Tokens to secure victory.",
           "win_condition": "25 Tokens",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens."
         }
       }
     },
@@ -386,37 +386,37 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Conquest on {mapName} features 10 players per team, creating large-scale battles across the map.",
           "control_points": "3 Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Conquest on {mapName} features 3 Control Points that teams must capture and hold to earn points.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Hardpoint on {mapName} features 5 players per team competing for control of the active zone.",
           "control_points": "1 Control Point",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Hardpoint on {mapName} uses 1 moving Control Point that shifts position throughout the battle.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Hardpoint on {mapName} runs for up to 15 minutes as teams rotate between active objectives.",
           "win_condition": "2000 Points",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires."
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Kill Confirmed on {mapName} pits 5 players against 5 in a fast-paced fight for Tokens.",
           "control_points": "No Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Kill Confirmed on {mapName} has no fixed objectives, keeping the focus entirely on vehicle destruction and Tokens.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Kill Confirmed on {mapName} gives teams up to 15 minutes to collect enough Tokens to secure victory.",
           "win_condition": "25 Tokens",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens."
         }
       }
     },
@@ -443,13 +443,13 @@
           "mode_name": "Unknown Gamemodes",
           "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
           "match_format": "Unknown Format",
-          "match_format_description": "The match format for {MAP_NAME} has not yet been confirmed and will be updated when official details become available.",
+          "match_format_description": "The match format for {mapName} has not yet been confirmed and will be updated when official details become available.",
           "control_points": "Unknown Control Points",
-          "control_points_description": "The number and layout of Control Points on {MAP_NAME} are currently unknown and will be added once confirmed.",
+          "control_points_description": "The number and layout of Control Points on {mapName} are currently unknown and will be added once confirmed.",
           "max_match_time": "Unknown Time Limit",
-          "max_match_description": "The maximum match duration for {MAP_NAME} has not yet been revealed and will be updated when more information is available.",
+          "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
           "win_condition": "Unknown Win Condition",
-          "win_condition_description": "The victory conditions for {MAP_NAME} have not yet been confirmed and will be documented once details are known."
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known."
         }
       }
     },
@@ -476,61 +476,61 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Conquest on {mapName} features 10 players per team, creating large-scale battles across the map.",
           "control_points": "3 Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Conquest on {mapName} features 3 Control Points that teams must capture and hold to earn points.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
         },
         "control": {
           "mode_name": "Control",
           "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Control on {mapName} puts 5 players on each team in a focused fight for the objective.",
           "control_points": "1 Control Point",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Control on {mapName} centers around 1 Control Point that teams must contest and secure.",
           "max_match_time": "20 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Control on {mapName} allows up to 20 minutes for teams to fight through each round.",
           "win_condition": "Best of 3",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Control on {mapName} is decided across 3 rounds, with the first team to win two taking the match."
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Hardpoint on {mapName} features 5 players per team competing for control of the active zone.",
           "control_points": "1 Control Point",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Hardpoint on {mapName} uses 1 moving Control Point that shifts position throughout the battle.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Hardpoint on {mapName} runs for up to 15 minutes as teams rotate between active objectives.",
           "win_condition": "2000 Points",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires."
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Kill Confirmed on {mapName} pits 5 players against 5 in a fast-paced fight for Tokens.",
           "control_points": "No Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Kill Confirmed on {mapName} has no fixed objectives, keeping the focus entirely on vehicle destruction and Tokens.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Kill Confirmed on {mapName} gives teams up to 15 minutes to collect enough Tokens to secure victory.",
           "win_condition": "25 Tokens",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens."
         },
         "plant_defuse": {
           "mode_name": "Plant & Defuse",
           "mode_description": "One life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Plant & Defuse on {mapName} features 5 players per team, with every life carrying high stakes.",
           "control_points": "2 Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Plant & Defuse on {mapName} features 2 Control Points where attackers can plant the bomb.",
           "max_match_time": "3 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Plant & Defuse on {mapName} gives each round just 3 minutes, keeping every decision fast and decisive.",
           "win_condition": "Best of 5",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory."
         }
       }
     },
@@ -557,49 +557,49 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Conquest on {mapName} features 10 players per team, creating large-scale battles across the map.",
           "control_points": "3 Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Conquest on {mapName} features 3 Control Points that teams must capture and hold to earn points.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
         },
         "control": {
           "mode_name": "Control",
           "mode_description": "Capture and hold a single zone to fill your control meter. If both teams contest the zone, progress pauses. At 99%, overtime kicks in until one team clears the zone. Best of 3 rounds.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Control on {mapName} puts 5 players on each team in a focused fight for the objective.",
           "control_points": "1 Control Point",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Control on {mapName} centers around 1 Control Point that teams must contest and secure.",
           "max_match_time": "20 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Control on {mapName} allows up to 20 minutes for teams to fight through each round.",
           "win_condition": "Best of 3",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Control on {mapName} is decided across 3 rounds, with the first team to win two taking the match."
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Kill Confirmed on {mapName} pits 5 players against 5 in a fast-paced fight for Tokens.",
           "control_points": "No Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Kill Confirmed on {mapName} has no fixed objectives, keeping the focus entirely on vehicle destruction and Tokens.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Kill Confirmed on {mapName} gives teams up to 15 minutes to collect enough Tokens to secure victory.",
           "win_condition": "25 Tokens",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens."
         },
         "plant_defuse": {
           "mode_name": "Plant & Defuse",
           "mode_description": "One life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Plant & Defuse on {mapName} features 5 players per team, with every life carrying high stakes.",
           "control_points": "2 Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Plant & Defuse on {mapName} features 2 Control Points where attackers can plant the bomb.",
           "max_match_time": "3 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Plant & Defuse on {mapName} gives each round just 3 minutes, keeping every decision fast and decisive.",
           "win_condition": "Best of 5",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory."
         }
       }
     },
@@ -626,49 +626,49 @@
           "mode_name": "Conquest",
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Conquest on {mapName} features 10 players per team, creating large-scale battles across the map.",
           "control_points": "3 Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Conquest on {mapName} features 3 Control Points that teams must capture and hold to earn points.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Hardpoint on {mapName} features 5 players per team competing for control of the active zone.",
           "control_points": "1 Control Point",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Hardpoint on {mapName} uses 1 moving Control Point that shifts position throughout the battle.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Hardpoint on {mapName} runs for up to 15 minutes as teams rotate between active objectives.",
           "win_condition": "2000 Points",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires."
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
           "mode_description": "Destroyed vehicles drop Tokens. Collect enemy Tokens to score. Collect allied Tokens to stop the enemy earning points. Power-ups spawn on the map. First to 25 Tokens wins.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Kill Confirmed on {mapName} pits 5 players against 5 in a fast-paced fight for Tokens.",
           "control_points": "No Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Kill Confirmed on {mapName} has no fixed objectives, keeping the focus entirely on vehicle destruction and Tokens.",
           "max_match_time": "15 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Kill Confirmed on {mapName} gives teams up to 15 minutes to collect enough Tokens to secure victory.",
           "win_condition": "25 Tokens",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens."
         },
         "plant_defuse": {
           "mode_name": "Plant & Defuse",
           "mode_description": "One life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
           "match_format": "5 VS 5",
-          "match_format_description": "PLACEHOLDER",
+          "match_format_description": "Plant & Defuse on {mapName} features 5 players per team, with every life carrying high stakes.",
           "control_points": "2 Control Points",
-          "control_points_description": "PLACEHOLDER",
+          "control_points_description": "Plant & Defuse on {mapName} features 2 Control Points where attackers can plant the bomb.",
           "max_match_time": "3 Minutes",
-          "max_match_description": "PLACEHOLDER",
+          "max_match_description": "Plant & Defuse on {mapName} gives each round just 3 minutes, keeping every decision fast and decisive.",
           "win_condition": "Best of 5",
-          "win_condition_description": "PLACEHOLDER"
+          "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory."
         }
       }
     },
@@ -695,13 +695,13 @@
           "mode_name": "Unknown Gamemodes",
           "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
           "match_format": "Unknown Format",
-          "match_format_description": "The match format for {MAP_NAME} has not yet been confirmed and will be updated when official details become available.",
+          "match_format_description": "The match format for {mapName} has not yet been confirmed and will be updated when official details become available.",
           "control_points": "Unknown Control Points",
-          "control_points_description": "The number and layout of Control Points on {MAP_NAME} are currently unknown and will be added once confirmed.",
+          "control_points_description": "The number and layout of Control Points on {mapName} are currently unknown and will be added once confirmed.",
           "max_match_time": "Unknown Time Limit",
-          "max_match_description": "The maximum match duration for {MAP_NAME} has not yet been revealed and will be updated when more information is available.",
+          "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
           "win_condition": "Unknown Win Condition",
-          "win_condition_description": "The victory conditions for {MAP_NAME} have not yet been confirmed and will be documented once details are known."
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known."
         }
       }
     }
