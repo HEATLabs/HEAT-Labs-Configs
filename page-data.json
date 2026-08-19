@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 155,
+    "total_pages": 153,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-08-11T22:22:58.629511"
+    "export_timestamp": "2026-08-19T17:36:08.077261"
   },
   "pages": [
     {
@@ -622,13 +622,6 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
-      "url": "https://heatlabs.net/maps/ballistic-range",
-      "gsc_status": "INDEXED",
-      "g_api_status": "PENDING",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
       "url": "https://heatlabs.net/maps/blossom-crash",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -651,13 +644,6 @@
     },
     {
       "url": "https://heatlabs.net/maps/inferno",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
-      "url": "https://heatlabs.net/maps/military-training",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
       "https_status": "UNKNOWN",
@@ -1095,20 +1081,20 @@
     "google_index_data": {
       "pending": 74,
       "not_indexed": 0,
-      "indexed": 81
+      "indexed": 79
     },
     "google_api_status": {
-      "pending": 46,
+      "pending": 45,
       "not_indexed": 0,
-      "indexed": 109
+      "indexed": 108
     },
     "https_page_status": {
-      "unknown": 127,
+      "unknown": 125,
       "not_https": 0,
       "https": 28
     },
     "breadcrumb_status": {
-      "unknown": 127,
+      "unknown": 125,
       "invalid": 0,
       "valid": 28
     }
