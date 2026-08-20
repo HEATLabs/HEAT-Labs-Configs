@@ -31,7 +31,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
+          "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "control": {
           "mode_name": "Control",
@@ -43,7 +44,8 @@
           "max_match_time": "20 Minutes",
           "max_match_description": "Control on {mapName} allows up to 20 minutes for teams to fight through each round.",
           "win_condition": "Best of 3",
-          "win_condition_description": "Control on {mapName} is decided across 3 rounds, with the first team to win two taking the match."
+          "win_condition_description": "Control on {mapName} is decided across 3 rounds, with the first team to win two taking the match.",
+          "pro_tip": "Tips for {mapName} on Control are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
@@ -55,7 +57,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Hardpoint on {mapName} runs for up to 15 minutes as teams rotate between active objectives.",
           "win_condition": "2000 Points",
-          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires."
+          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires.",
+          "pro_tip": "Tips for {mapName} on Hardpoint are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
@@ -67,7 +70,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Kill Confirmed on {mapName} gives teams up to 15 minutes to collect enough Tokens to secure victory.",
           "win_condition": "25 Tokens",
-          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens."
+          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
+          "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations."
         }
       }
     },
@@ -102,7 +106,8 @@
           "max_match_time": "Unknown Time Limit",
           "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
           "win_condition": "Unknown Win Condition",
-          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known."
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
+          "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations."
         }
       }
     },
@@ -137,7 +142,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
+          "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "control": {
           "mode_name": "Control",
@@ -149,7 +155,8 @@
           "max_match_time": "20 Minutes",
           "max_match_description": "Control on {mapName} allows up to 20 minutes for teams to fight through each round.",
           "win_condition": "Best of 3",
-          "win_condition_description": "Control on {mapName} is decided across 3 rounds, with the first team to win two taking the match."
+          "win_condition_description": "Control on {mapName} is decided across 3 rounds, with the first team to win two taking the match.",
+          "pro_tip": "Tips for {mapName} on Control are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
@@ -161,7 +168,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Hardpoint on {mapName} runs for up to 15 minutes as teams rotate between active objectives.",
           "win_condition": "2000 Points",
-          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires."
+          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires.",
+          "pro_tip": "Tips for {mapName} on Hardpoint are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
@@ -173,7 +181,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Kill Confirmed on {mapName} gives teams up to 15 minutes to collect enough Tokens to secure victory.",
           "win_condition": "25 Tokens",
-          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens."
+          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
+          "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "plant_defuse": {
           "mode_name": "Plant & Defuse",
@@ -185,7 +194,9 @@
           "max_match_time": "3 Minutes",
           "max_match_description": "Plant & Defuse on {mapName} gives each round just 3 minutes, keeping every decision fast and decisive.",
           "win_condition": "Best of 5",
-          "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory."
+          "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory.",
+          "pro_tip": "Tips for {mapName} on Plant & Defuse are currently unavailable. Check back later for useful strategies and recommendations.",
+          "pro_tip": "Tips for {mapName} on Plant & Defuse are currently unavailable. Check back later for useful strategies and recommendations."
         }
       }
     },
@@ -220,7 +231,8 @@
           "max_match_time": "Unknown Time Limit",
           "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
           "win_condition": "Unknown Win Condition",
-          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known."
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
+          "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations."
         }
       }
     },
@@ -255,7 +267,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
+          "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
@@ -267,7 +280,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Hardpoint on {mapName} runs for up to 15 minutes as teams rotate between active objectives.",
           "win_condition": "2000 Points",
-          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires."
+          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires.",
+          "pro_tip": "Tips for {mapName} on Hardpoint are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
@@ -279,7 +293,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Kill Confirmed on {mapName} gives teams up to 15 minutes to collect enough Tokens to secure victory.",
           "win_condition": "25 Tokens",
-          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens."
+          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
+          "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations."
         }
       }
     },
@@ -314,7 +329,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
+          "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
@@ -326,7 +342,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Hardpoint on {mapName} runs for up to 15 minutes as teams rotate between active objectives.",
           "win_condition": "2000 Points",
-          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires."
+          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires.",
+          "pro_tip": "Tips for {mapName} on Hardpoint are currently unavailable. Check back later for useful strategies and recommendations."
         }
       }
     },
@@ -361,7 +378,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
+          "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
@@ -373,7 +391,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Kill Confirmed on {mapName} gives teams up to 15 minutes to collect enough Tokens to secure victory.",
           "win_condition": "25 Tokens",
-          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens."
+          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
+          "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations."
         }
       }
     },
@@ -408,7 +427,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
+          "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
@@ -420,7 +440,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Hardpoint on {mapName} runs for up to 15 minutes as teams rotate between active objectives.",
           "win_condition": "2000 Points",
-          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires."
+          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires.",
+          "pro_tip": "Tips for {mapName} on Hardpoint are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
@@ -432,7 +453,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Kill Confirmed on {mapName} gives teams up to 15 minutes to collect enough Tokens to secure victory.",
           "win_condition": "25 Tokens",
-          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens."
+          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
+          "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations."
         }
       }
     },
@@ -467,7 +489,8 @@
           "max_match_time": "Unknown Time Limit",
           "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
           "win_condition": "Unknown Win Condition",
-          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known."
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
+          "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations."
         }
       }
     },
@@ -502,7 +525,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
+          "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "control": {
           "mode_name": "Control",
@@ -514,7 +538,8 @@
           "max_match_time": "20 Minutes",
           "max_match_description": "Control on {mapName} allows up to 20 minutes for teams to fight through each round.",
           "win_condition": "Best of 3",
-          "win_condition_description": "Control on {mapName} is decided across 3 rounds, with the first team to win two taking the match."
+          "win_condition_description": "Control on {mapName} is decided across 3 rounds, with the first team to win two taking the match.",
+          "pro_tip": "Tips for {mapName} on Control are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
@@ -526,7 +551,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Hardpoint on {mapName} runs for up to 15 minutes as teams rotate between active objectives.",
           "win_condition": "2000 Points",
-          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires."
+          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires.",
+          "pro_tip": "Tips for {mapName} on Hardpoint are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
@@ -538,7 +564,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Kill Confirmed on {mapName} gives teams up to 15 minutes to collect enough Tokens to secure victory.",
           "win_condition": "25 Tokens",
-          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens."
+          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
+          "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "plant_defuse": {
           "mode_name": "Plant & Defuse",
@@ -550,7 +577,8 @@
           "max_match_time": "3 Minutes",
           "max_match_description": "Plant & Defuse on {mapName} gives each round just 3 minutes, keeping every decision fast and decisive.",
           "win_condition": "Best of 5",
-          "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory."
+          "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory.",
+          "pro_tip": "Tips for {mapName} on Plant & Defuse are currently unavailable. Check back later for useful strategies and recommendations."
         }
       }
     },
@@ -585,7 +613,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
+          "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "control": {
           "mode_name": "Control",
@@ -597,7 +626,8 @@
           "max_match_time": "20 Minutes",
           "max_match_description": "Control on {mapName} allows up to 20 minutes for teams to fight through each round.",
           "win_condition": "Best of 3",
-          "win_condition_description": "Control on {mapName} is decided across 3 rounds, with the first team to win two taking the match."
+          "win_condition_description": "Control on {mapName} is decided across 3 rounds, with the first team to win two taking the match.",
+          "pro_tip": "Tips for {mapName} on Control are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
@@ -609,7 +639,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Kill Confirmed on {mapName} gives teams up to 15 minutes to collect enough Tokens to secure victory.",
           "win_condition": "25 Tokens",
-          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens."
+          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
+          "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "plant_defuse": {
           "mode_name": "Plant & Defuse",
@@ -621,7 +652,8 @@
           "max_match_time": "3 Minutes",
           "max_match_description": "Plant & Defuse on {mapName} gives each round just 3 minutes, keeping every decision fast and decisive.",
           "win_condition": "Best of 5",
-          "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory."
+          "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory.",
+          "pro_tip": "Tips for {mapName} on Plant & Defuse are currently unavailable. Check back later for useful strategies and recommendations."
         }
       }
     },
@@ -656,7 +688,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
-          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends."
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
+          "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
@@ -668,7 +701,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Hardpoint on {mapName} runs for up to 15 minutes as teams rotate between active objectives.",
           "win_condition": "2000 Points",
-          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires."
+          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires.",
+          "pro_tip": "Tips for {mapName} on Hardpoint are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "kill_confirmed": {
           "mode_name": "Kill Confirmed",
@@ -680,7 +714,8 @@
           "max_match_time": "15 Minutes",
           "max_match_description": "Kill Confirmed on {mapName} gives teams up to 15 minutes to collect enough Tokens to secure victory.",
           "win_condition": "25 Tokens",
-          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens."
+          "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
+          "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "plant_defuse": {
           "mode_name": "Plant & Defuse",
@@ -692,7 +727,8 @@
           "max_match_time": "3 Minutes",
           "max_match_description": "Plant & Defuse on {mapName} gives each round just 3 minutes, keeping every decision fast and decisive.",
           "win_condition": "Best of 5",
-          "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory."
+          "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory.",
+          "pro_tip": "Tips for {mapName} on Plant & Defuse are currently unavailable. Check back later for useful strategies and recommendations."
         }
       }
     },
@@ -727,7 +763,8 @@
           "max_match_time": "Unknown Time Limit",
           "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
           "win_condition": "Unknown Win Condition",
-          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known."
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
+          "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations."
         }
       }
     }
