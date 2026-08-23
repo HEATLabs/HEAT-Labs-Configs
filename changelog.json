@@ -1,6 +1,213 @@
 {
   "updates": [
     {
+      "version": "0.6.290",
+      "date": "2026-08-22",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #483",
+      "description": "Full patch notes for Update v0.6.290 (#483), detailing all changes made on 22 August, 2026.",
+      "added": [
+        "New blog post added to the website",
+        "Episode 7 QnA dataset added to the database",
+        "New multi-platform download support introduced for game mods",
+        "Troubleshooting sections added to mod detail data",
+        "New page image support added to mod detail files",
+        "Additional platform-specific download information added to mods"
+      ],
+      "changed": [
+        "Mod detail structure expanded to support multiple operating-system downloads",
+        "Main Mods page updated with platform-specific icons",
+        "Mod detail pages updated to display multiple download options",
+        "Windows platform icon presentation updated",
+        "QnA processed data refreshed with the latest episode",
+        "Map data refined with terrain type information",
+        "QnA sections and wording improved across multiple entries",
+        "Blog post index updated with the latest article",
+        "Blog post date metadata refreshed"
+      ],
+      "removed": [
+        "Deprecated single-download field removed from mod detail files",
+        "Redundant placeholder troubleshooting steps removed",
+        "Hardcoded mod category information removed from the main mods index",
+        "Unused managers configuration file removed"
+      ],
+      "fixed": [
+        "Corrected the page slug for a mod",
+        "Fixed duplicated Pro Tip data on a map entry",
+        "Corrected multiple spelling and wording issues across configuration and QnA content",
+        "Fixed misplaced Moonshot map text",
+        "Corrected typos in Episode 7 QnA source data",
+        "Corrected Gambit's passive ability name",
+        "Improved consistency of map terrain type data"
+      ]
+    },
+    {
+      "version": "0.6.264",
+      "date": "2026-08-21",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #482",
+      "description": "Full patch notes for Update v0.6.264 (#482), detailing all changes made on 21 August, 2026.",
+      "added": [
+        "Initial description content added for the Sentinel game mod"
+      ],
+      "changed": [
+        "Sentinel mod description refined for improved clarity and presentation"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Relocated a misplaced matcha image to its correct location"
+      ]
+    },
+    {
+      "version": "0.6.260",
+      "date": "2026-08-20",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #481",
+      "description": "Full patch notes for Update v0.6.260 (#481), detailing all changes made on 20 August, 2026.",
+      "added": [
+        "New developer QnA page introduced",
+        "New QnA processing tool added",
+        "Episode 6 QnA content added and processed",
+        "New news article published",
+        "New blog author artwork added",
+        "New blog and news artwork added",
+        "Two new meme images added"
+      ],
+      "changed": [
+        "QnA system expanded with a complete question-and-answer data structure",
+        "Developer QnA episodes now sort from newest to oldest",
+        "QnA episode date handling and notes terminology refined",
+        "Developer QnA page layout and formatting improved",
+        "QnA parser updated to handle the new data format",
+        "Map gamemode data expanded with Pro Tip fields",
+        "ALVT model materials updated",
+        "Perspective artwork refreshed for all current tanks"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected QnA data typos across the available episodes",
+        "Fixed an incorrect CDN path on a blog post card",
+        "Restored missing active-tab indicators across 17 blog pages"
+      ]
+    },
+    {
+      "version": "0.6.241",
+      "date": "2026-08-19",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #480",
+      "description": "Full patch notes for Update v0.6.241 (#480), detailing all changes made on 19 August, 2026.",
+      "added": [
+        "New dynamic map gallery support introduced",
+        "Gamemode description fields added to map data",
+        "Terrain information added to map data",
+        "Five new player record submissions added",
+        "New QnA data structure and raw datasets introduced",
+        "New M3E1 Bradley model project and supporting imagery added",
+        "New Object 287 gallery imagery added",
+        "Additional meme content added to the media library"
+      ],
+      "changed": [
+        "Map pages redesigned around a dynamic gamemode selector",
+        "Map gamemode cards expanded to display full descriptions and unknown modes",
+        "Map feature cards updated to dynamically display mode-specific information",
+        "Map quick facts converted to dynamic data",
+        "Gamemode cards reorganized into four-column layouts",
+        "Related guides sections now automatically display the three most recent guides on tank and map pages",
+        "Tank galleries converted to dynamically loaded content",
+        "Guide data structure expanded with real section locations",
+        "Tank data expanded with HD and SD model paths and comparison imagery",
+        "Map sizes updated for nine maps",
+        "HEAT data fetcher updated to support guide section data",
+        "Map card placeholder descriptions refined"
+      ],
+      "removed": [
+        "Two scrapped map pages removed from website indexes, search indexing and tracking",
+        "Redundant map entries removed from the main map index",
+        "Unused map imagery for scrapped maps removed",
+        "Map size and team-format labels removed from map page headers",
+        "Hover animation removed from related guide cards",
+        "Transform animation removed from primary accent buttons",
+        "Rating button removed from development map pages"
+      ],
+      "fixed": [
+        "Fixed incorrect guide data paths",
+        "Resolved a double-fetching issue in the new map page system",
+        "Fixed layouts on three map pages",
+        "Added missing guide styling to agent page CSS",
+        "Improved map page handling for complete and unknown gamemode descriptions"
+      ]
+    },
+    {
+      "version": "0.6.209",
+      "date": "2026-08-18",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #479",
+      "description": "Full patch notes for Update v0.6.209 (#479), detailing all changes made on 18 August, 2026.",
+      "added": [
+        "62 new player records added to the player records system",
+        "62 new player record proof images added",
+        "Eighteen new meme images and videos added to the media library",
+        "Sixteen new videos from two content creators added to the video archive",
+        "Season 2 teaser artwork added to the development assets",
+        "Season 2 tank and agent overview artwork added",
+        "New transparent tank comparison artwork added",
+        "New tank comparison background artwork added"
+      ],
+      "changed": [
+        "Video and meme indexes expanded with the latest community content",
+        "Meme indexer updated to support two additional video formats",
+        "Player records data expanded with newly submitted records",
+        "Record handling updated to support entries involving multiple vehicles"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected an inaccurate configuration entry"
+      ]
+    },
+    {
+      "version": "0.6.195",
+      "date": "2026-08-17",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #478",
+      "description": "Full patch notes for Update v0.6.195 (#478), detailing all changes made on 17 August, 2026.",
+      "added": [
+        "Five new videos from a newly indexed content creator added to the video archive",
+        "New placeholder gallery and card image fields added to the tank index",
+        "Multiple-category support added to two game mods",
+        "New news post added to the website",
+        "New tank gallery artwork added for the M1150 ABV and T-62AV",
+        "New M1E1 artwork and Object 287 material added to the development assets"
+      ],
+      "changed": [
+        "Main tank index structure updated to support expanded content data",
+        "Mod categorization and paths updated",
+        "Mod detail pages updated to support multiple categories",
+        "Mod pages now display category information instead of version tags",
+        "Game Configurator mod presentation and feature cards expanded",
+        "Tank comparison and checking logic updated",
+        "Fourteen feature pages migrated from GitHub-hosted assets to the Cloudflare CDN",
+        "Three Discord bot commands updated to use CDN-hosted assets",
+        "Changelog history corrected to resolve inaccurate version numbers in previous entries",
+        "Video, news, meme, GSC and traffic indexes refreshed"
+      ],
+      "removed": [
+        "Redundant comments removed from two mod detail files"
+      ],
+      "fixed": [
+        "Resolved Android mobile app crash issues",
+        "Corrected an incorrect guide card image",
+        "Fixed an incorrect gallery path on the T-62AV page",
+        "Corrected configurator mod icons",
+        "Improved mod detail file formatting and comment placement"
+      ]
+    },
+    {
       "version": "0.6.173",
       "date": "2026-08-16",
       "author": "HEAT Labs Team",
