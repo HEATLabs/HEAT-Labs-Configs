@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 153,
+    "total_pages": 157,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-08-19T17:36:08.077261"
+    "export_timestamp": "2026-08-23T22:03:54.815412"
   },
   "pages": [
     {
@@ -175,6 +175,13 @@
     },
     {
       "url": "https://heatlabs.net/blog/damage-calculation",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/blog/dev-stream-questions-and-answers",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
@@ -517,13 +524,6 @@
       "breadcrumb_status": "VALID"
     },
     {
-      "url": "https://heatlabs.net/guides/shell-crit-cone-mechanic",
-      "gsc_status": "PENDING",
-      "g_api_status": "PENDING",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
       "url": "https://heatlabs.net/guides/alvt-players-guide",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
@@ -534,6 +534,13 @@
       "url": "https://heatlabs.net/guides/bat-4m-basic-guide",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/guides/shell-crit-cone-mechanic",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
     },
@@ -1049,6 +1056,27 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
+      "url": "https://mods.heatlabs.net/details/configurator",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://mods.heatlabs.net/details/fuse",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://mods.heatlabs.net/details/sentinel",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://search.heatlabs.net",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
@@ -1079,22 +1107,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 74,
+      "pending": 78,
       "not_indexed": 0,
       "indexed": 79
     },
     "google_api_status": {
-      "pending": 45,
+      "pending": 49,
       "not_indexed": 0,
       "indexed": 108
     },
     "https_page_status": {
-      "unknown": 125,
+      "unknown": 129,
       "not_https": 0,
       "https": 28
     },
     "breadcrumb_status": {
-      "unknown": 125,
+      "unknown": 129,
       "invalid": 0,
       "valid": 28
     }
