@@ -180,6 +180,24 @@
     "keywords": ["game mods", "modification"]
   },
   {
+    "name": "Configurator",
+    "description": "Configure your World of Tanks: HEAT instance with advanced settings and customization.",
+    "path": "https://mods.heatlabs.net/details/configurator",
+    "keywords": ["game mods", "modification", "configurator"]
+  },
+  {
+    "name": "FUSE",
+    "description": "A powerful modding runtime for creating overlays, UI reskins, and gameplay-enhancing tools.",
+    "path": "https://mods.heatlabs.net/details/",
+    "keywords": ["game mods", "modification", "fuse", "AET3RNAL", "AET9RNAL"]
+  },
+  {
+    "name": "Sentinel",
+    "description": "Records battles, platoon stats, 1v1s and loadouts locally, no account. Has OBS overlay.",
+    "path": "https://mods.heatlabs.net/details/",
+    "keywords": ["game mods", "modification", "sentinel", "OxCone"]
+  },
+  {
     "name": "Mobile App",
     "description": "Download our mobile application on your phone",
     "path": "https://app.heatlabs.net",
@@ -928,6 +946,12 @@
     "description": "Learn everything about Twister",
     "path": "https://heatlabs.net/agents/twister",
     "keywords": ["twister"]
+  },
+  {
+    "name": "Udarnik",
+    "description": "Learn everything about Udarnik",
+    "path": "https://heatlabs.net/agents/udarnik",
+    "keywords": ["udarnik"]
   },
   {
     "name": "Fuzzer",
