@@ -5,7 +5,8 @@
                 "conquest": "2026-08-25T22:03:43Z",
                 "control": "2026-08-25T22:14:28Z",
                 "hardpoint": "2026-08-25T22:21:57Z",
-                "kill-confirmed": "2026-08-25T22:31:24Z"
+                "kill-confirmed": "2026-08-25T22:31:24Z",
+                "plant-defuse": "2026-08-25T22:43:09Z"
             }
         },
         "conquest": {
@@ -16174,6 +16175,88 @@
                     "map": "Scarred City",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/19082026_TX_7537.webp"
+                }
+            ]
+        },
+        "plant-defuse": {
+            "peachpest": [
+                {
+                    "plants": 2,
+                    "defuses": 1,
+                    "destroyed": 4,
+                    "deaths": 0,
+                    "assists": 4,
+                    "damage_caused": 18100,
+                    "credits": 3174,
+                    "tech": 108,
+                    "intel": 72,
+                    "XP": 3525,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Eden",
+                    "mode": "Plant & Defuse",
+                    "proof": "https://cdn6.heatlabs.net/player-records/plant-defuse/22082026_peachpest.webp"
+                }
+            ],
+            "The_Roman_Hammer": [
+                {
+                    "plants": 1,
+                    "defuses": 1,
+                    "destroyed": 4,
+                    "deaths": 0,
+                    "assists": 6,
+                    "damage_caused": 23600,
+                    "credits": 3264,
+                    "tech": 108,
+                    "intel": 112,
+                    "XP": 3625,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Plant & Defuse",
+                    "proof": "https://cdn6.heatlabs.net/player-records/plant-defuse/23082026_The_Roman_Hammer-1.webp"
+                }
+            ],
+            "Warpig": [
+                {
+                    "plants": 2,
+                    "defuses": 0,
+                    "destroyed": 7,
+                    "deaths": 5,
+                    "assists": 1,
+                    "damage_caused": 17800,
+                    "credits": 2958,
+                    "tech": 135,
+                    "intel": 72,
+                    "XP": 3285,
+                    "agent": "Twister",
+                    "vehicle": "HSTV-L",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Plant & Defuse",
+                    "proof": "https://cdn6.heatlabs.net/player-records/plant-defuse/23082026_Warpig.webp"
+                }
+            ],
+            "cjnuss": [
+                {
+                    "plants": 0,
+                    "defuses": 1,
+                    "destroyed": 13,
+                    "deaths": 2,
+                    "assists": 9,
+                    "damage_caused": 47800,
+                    "credits": 1009,
+                    "tech": 11,
+                    "intel": 7,
+                    "XP": 11135,
+                    "agent": "Flair",
+                    "vehicle": "Leo 2FK",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Plant & Defuse",
+                    "proof": "https://cdn6.heatlabs.net/player-records/plant-defuse/24082026_cjnuss.webp"
                 }
             ]
         }
