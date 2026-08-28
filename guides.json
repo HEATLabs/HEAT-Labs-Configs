@@ -1,6 +1,18 @@
 {
   "posts": [
     {
+      "title": "How HEAT Works",
+      "description": "Your guide to Agents, tanks, combat, and progression.",
+      "image": "https://cdn11.heatlabs.net/guides/official/how-heat-works.webp",
+      "slug": "https://cdn.wotheat.com/articles/game-guide/index.html",
+      "type": "official-guide",
+      "type_name": "Official Guide",
+      "sections": "allTanks, allAgents, allMaps",
+      "date": "26-03-2026",
+      "raw_date": "March 26, 2026",
+      "author": "HEAT Team"
+    },
+    {
       "title": "XM1-V Build Guide",
       "description": "A versatile defensive tank, the XM1-V trades raw power for battlefield control and strategic advantage.",
       "image": "https://cdn11.heatlabs.net/guides/tanks/esmattys-xm1-v-guide/xm1v.webp",
@@ -85,6 +97,18 @@
       "author": "HEAT Team"
     },
     {
+      "title": "How to Redeem a Bonus Code",
+      "description": "Got a bonus code? Follow the steps for your platform to apply it to your account.",
+      "image": "https://cdn11.heatlabs.net/guides/official/redeem-bonus-code.webp",
+      "slug": "https://cdn.wotheat.com/articles/redeem-bonus-code/index.html",
+      "type": "official-guide",
+      "type_name": "Official Guide",
+      "sections": "allTanks, allAgents, allMaps",
+      "date": "06-10-2026",
+      "raw_date": "June 10, 2026",
+      "author": "HEAT Team"
+    },
+    {
       "title": "Shell Types",
       "description": "Every shell type in the game, how it works, and when to use it.",
       "image": "https://cdn11.heatlabs.net/guides/official/shell-types.webp",
@@ -94,6 +118,18 @@
       "sections": "allTanks",
       "date": "06-04-2026",
       "raw_date": "June 4, 2026",
+      "author": "HEAT Team"
+    },
+    {
+      "title": "Twitch Drops: How They Work",
+      "description": "Watch HEAT streams on Twitch and earn in-game rewards. Here is how to set it up.",
+      "image": "https://cdn11.heatlabs.net/guides/official/twitch-drops-technical-guide.webp",
+      "slug": "https://cdn.wotheat.com/articles/twitch-drops-technical-guide/index.html",
+      "type": "official-guide",
+      "type_name": "Official Guide",
+      "sections": "allTanks, allAgents, allMaps",
+      "date": "05-26-2026",
+      "raw_date": "May 26, 2026",
       "author": "HEAT Team"
     },
     {
