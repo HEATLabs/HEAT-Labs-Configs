@@ -26,8 +26,8 @@
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
           "match_format_description": "Conquest on {mapName} features 10 players per team, creating large-scale battles across the map.",
-          "control_points": "3 Control Points",
-          "control_points_description": "Conquest on {mapName} features 3 Control Points that teams must capture and hold to earn points.",
+          "control_points": "4 Control Points",
+          "control_points_description": "Conquest on {mapName} features 4 Control Points that teams must capture and hold to earn points.",
           "max_match_time": "15 Minutes",
           "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
@@ -137,13 +137,26 @@
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
           "match_format_description": "Conquest on {mapName} features 10 players per team, creating large-scale battles across the map.",
-          "control_points": "3 Control Points",
-          "control_points_description": "Conquest on {mapName} features 3 Control Points that teams must capture and hold to earn points.",
+          "control_points": "4 Control Points",
+          "control_points_description": "Conquest on {mapName} features 4 Control Points that teams must capture and hold to earn points.",
           "max_match_time": "15 Minutes",
           "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
           "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations."
+        },
+        "conquest_large": {
+          "mode_name": "Large Conquest",
+          "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
+          "match_format": "20 VS 20",
+          "match_format_description": "Large Conquest on {mapName} features 10 players per team, creating large-scale battles across the map.",
+          "control_points": "5 Control Points",
+          "control_points_description": "Large Conquest on {mapName} features 5 Control Points that teams must capture and hold to earn points.",
+          "max_match_time": "15 Minutes",
+          "max_match_description": "Large Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
+          "win_condition": "2000 Points",
+          "win_condition_description": "Large Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
+          "pro_tip": "Tips for {mapName} on Large Conquest are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "control": {
           "mode_name": "Control",
@@ -203,12 +216,12 @@
       "id": 5,
       "state": "displayed",
       "status": "To Be Released",
-      "name": "Inferno",
+      "name": "Inferno One",
       "slug": "inferno",
       "type": "Volcanic",
       "terrain": "Volcanic",
       "size": "Unknown Size",
-      "featured": false,
+      "featured": true,
       "introduction": "PLACEHOLDER",
       "overview": "PLACEHOLDER",
       "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
@@ -220,18 +233,44 @@
         "top": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
       },
       "gamemodes": {
-        "unknown": {
-          "mode_name": "Unknown Gamemodes",
-          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
-          "match_format": "Unknown Format",
-          "match_format_description": "The match format for {mapName} has not yet been confirmed and will be updated when official details become available.",
-          "control_points": "Unknown Control Points",
-          "control_points_description": "The number and layout of Control Points on {mapName} are currently unknown and will be added once confirmed.",
-          "max_match_time": "Unknown Time Limit",
-          "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
-          "win_condition": "Unknown Win Condition",
-          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
+        "conquest": {
+          "mode_name": "Conquest",
+          "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
+          "match_format": "10 VS 10",
+          "match_format_description": "Conquest on {mapName} features 10 players per team, creating large-scale battles across the map.",
+          "control_points": "5 Control Points",
+          "control_points_description": "Conquest on {mapName} features 5 Control Points that teams must capture and hold to earn points.",
+          "max_match_time": "15 Minutes",
+          "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
+          "win_condition": "2000 Points",
+          "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations."
+        },
+        "hardpoint": {
+          "mode_name": "Hardpoint",
+          "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
+          "match_format": "5 VS 5",
+          "match_format_description": "Hardpoint on {mapName} features 5 players per team competing for control of the active zone.",
+          "control_points": "1 Control Point",
+          "control_points_description": "Hardpoint on {mapName} uses 1 moving Control Point that shifts position throughout the battle.",
+          "max_match_time": "15 Minutes",
+          "max_match_description": "Hardpoint on {mapName} runs for up to 15 minutes as teams rotate between active objectives.",
+          "win_condition": "2000 Points",
+          "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires.",
+          "pro_tip": "Tips for {mapName} on Hardpoint are currently unavailable. Check back later for useful strategies and recommendations."
+        },
+        "plant_defuse": {
+          "mode_name": "Plant & Defuse",
+          "mode_description": "One life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
+          "match_format": "5 VS 5",
+          "match_format_description": "Plant & Defuse on {mapName} features 5 players per team, with every life carrying high stakes.",
+          "control_points": "2 Control Points",
+          "control_points_description": "Plant & Defuse on {mapName} features 2 Control Points where attackers can plant the bomb.",
+          "max_match_time": "3 Minutes",
+          "max_match_description": "Plant & Defuse on {mapName} gives each round just 3 minutes, keeping every decision fast and decisive.",
+          "win_condition": "Best of 5",
+          "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory.",
+          "pro_tip": "Tips for {mapName} on Plant & Defuse are currently unavailable. Check back later for useful strategies and recommendations."
         }
       }
     },
@@ -294,6 +333,19 @@
           "win_condition": "25 Tokens",
           "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
           "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations."
+        },
+        "plant_defuse": {
+          "mode_name": "Plant & Defuse",
+          "mode_description": "One life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
+          "match_format": "5 VS 5",
+          "match_format_description": "Plant & Defuse on {mapName} features 5 players per team, with every life carrying high stakes.",
+          "control_points": "2 Control Points",
+          "control_points_description": "Plant & Defuse on {mapName} features 2 Control Points where attackers can plant the bomb.",
+          "max_match_time": "3 Minutes",
+          "max_match_description": "Plant & Defuse on {mapName} gives each round just 3 minutes, keeping every decision fast and decisive.",
+          "win_condition": "Best of 5",
+          "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory.",
+          "pro_tip": "Tips for {mapName} on Plant & Defuse are currently unavailable. Check back later for useful strategies and recommendations."
         }
       }
     },
@@ -429,6 +481,19 @@
           "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations."
         },
+        "conquest_large": {
+          "mode_name": "Large Conquest",
+          "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
+          "match_format": "20 VS 20",
+          "match_format_description": "Large Conquest on {mapName} features 10 players per team, creating large-scale battles across the map.",
+          "control_points": "5 Control Points",
+          "control_points_description": "Large Conquest on {mapName} features 5 Control Points that teams must capture and hold to earn points.",
+          "max_match_time": "15 Minutes",
+          "max_match_description": "Large Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
+          "win_condition": "2000 Points",
+          "win_condition_description": "Large Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
+          "pro_tip": "Tips for {mapName} on Large Conquest are currently unavailable. Check back later for useful strategies and recommendations."
+        },
         "hardpoint": {
           "mode_name": "Hardpoint",
           "mode_description": "A single control point moves across the map. Hold it to earn points. When one base is depleted or time runs out, the next activates. First team to 2,000 points wins.",
@@ -454,6 +519,19 @@
           "win_condition": "25 Tokens",
           "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
           "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations."
+        },
+        "plant_defuse": {
+          "mode_name": "Plant & Defuse",
+          "mode_description": "One life. One bomb. Zero room for mistakes. Plant it and hold the line, or push in and defuse before time runs out.",
+          "match_format": "5 VS 5",
+          "match_format_description": "Plant & Defuse on {mapName} features 5 players per team, with every life carrying high stakes.",
+          "control_points": "2 Control Points",
+          "control_points_description": "Plant & Defuse on {mapName} features 2 Control Points where attackers can plant the bomb.",
+          "max_match_time": "3 Minutes",
+          "max_match_description": "Plant & Defuse on {mapName} gives each round just 3 minutes, keeping every decision fast and decisive.",
+          "win_condition": "Best of 5",
+          "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory.",
+          "pro_tip": "Tips for {mapName} on Plant & Defuse are currently unavailable. Check back later for useful strategies and recommendations."
         }
       }
     },
@@ -519,13 +597,26 @@
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
           "match_format_description": "Conquest on {mapName} features 10 players per team, creating large-scale battles across the map.",
-          "control_points": "3 Control Points",
-          "control_points_description": "Conquest on {mapName} features 3 Control Points that teams must capture and hold to earn points.",
+          "control_points": "4 Control Points",
+          "control_points_description": "Conquest on {mapName} features 4 Control Points that teams must capture and hold to earn points.",
           "max_match_time": "15 Minutes",
           "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
           "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations."
+        },
+        "conquest_large": {
+          "mode_name": "Large Conquest",
+          "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
+          "match_format": "20 VS 20",
+          "match_format_description": "Large Conquest on {mapName} features 10 players per team, creating large-scale battles across the map.",
+          "control_points": "5 Control Points",
+          "control_points_description": "Large Conquest on {mapName} features 5 Control Points that teams must capture and hold to earn points.",
+          "max_match_time": "15 Minutes",
+          "max_match_description": "Large Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
+          "win_condition": "2000 Points",
+          "win_condition_description": "Large Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
+          "pro_tip": "Tips for {mapName} on Large Conquest are currently unavailable. Check back later for useful strategies and recommendations."
         },
         "control": {
           "mode_name": "Control",
@@ -607,8 +698,8 @@
           "mode_description": "Multiple bases across a large map. Each base you hold earns your team points. Dynamic events like bombing runs and elimination challenges can shift the score. First to 2,000 wins.",
           "match_format": "10 VS 10",
           "match_format_description": "Conquest on {mapName} features 10 players per team, creating large-scale battles across the map.",
-          "control_points": "3 Control Points",
-          "control_points_description": "Conquest on {mapName} features 3 Control Points that teams must capture and hold to earn points.",
+          "control_points": "5 Control Points",
+          "control_points_description": "Conquest on {mapName} features 5 Control Points that teams must capture and hold to earn points.",
           "max_match_time": "15 Minutes",
           "max_match_description": "Conquest on {mapName} lasts up to 15 minutes, giving teams limited time to secure the lead.",
           "win_condition": "2000 Points",
