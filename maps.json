@@ -215,7 +215,7 @@
     {
       "id": 5,
       "state": "displayed",
-      "status": "To Be Released",
+      "status": "Available Now",
       "name": "Inferno One",
       "slug": "inferno",
       "type": "Volcanic",
@@ -756,7 +756,7 @@
       "type": "Desert",
       "terrain": "Desert",
       "size": "1050m x 939m",
-      "featured": true,
+      "featured": false,
       "introduction": "PLACEHOLDER",
       "overview": "PLACEHOLDER",
       "description": "A sprawling open desert battlefield built around the remains of a forgotten agricultural megaproject. Massive biodomes dominate the open landscape, while abandoned research facilities and infrastructure offer cover and defensive positions.",
