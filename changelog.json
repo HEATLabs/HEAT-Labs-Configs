@@ -1,6 +1,109 @@
 {
   "updates": [
     {
+      "version": "0.6.333",
+      "date": "2026-08-26",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #487",
+      "description": "Full patch notes for Update v0.6.333 (#487), detailing all changes made on 26 August, 2026.",
+      "added": [
+        "17 new player records added to the Player Records system",
+        "17 new player record proof images added",
+        "Two new global counters added to the Player Records page"
+      ],
+      "changed": [
+        "Player Records statistics updated with additional global counters",
+        "Player Records counter naming improved for clarity",
+        "Main tank imagery refreshed across the development model collection",
+        "M1 RAILGUN perspective imagery updated",
+        "Tank comparison imagery updated",
+        "Player Records page JavaScript updated to support the latest counter changes"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Improved naming and presentation of an existing Player Records statistic counter"
+      ]
+    },
+    {
+      "version": "0.6.322",
+      "date": "2026-08-25",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #486",
+      "description": "Full patch notes for Update v0.6.322 (#486), detailing all changes made on 25 August, 2026.",
+      "added": [
+        "29 new player records added, including four Plant & Defuse records",
+        "25 new player record proof images added",
+        "Four Plant & Defuse record proofs added to the feature archive",
+        "New guide published with accompanying artwork",
+        "Three new meme images added to the media library"
+      ],
+      "changed": [
+        "Player Records page expanded with full Plant & Defuse mode support",
+        "Player record processing updated to accommodate Plant & Defuse entries",
+        "Backup Record Keeper tool updated for Plant & Defuse records",
+        "Player Records page charts and statistics layout streamlined",
+        "Guide index updated with a newly published guide",
+        "Associated guide and page metadata refreshed"
+      ],
+      "removed": [
+        "Two redundant charts removed from the Player Records page",
+        "Obsolete WIP player records file removed"
+      ],
+      "fixed": [
+        "Corrected an inaccurate existing player record entry"
+      ]
+    },
+    {
+      "version": "0.6.308",
+      "date": "2026-08-24",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #485",
+      "description": "Full patch notes for Update v0.6.308 (#485), detailing all changes made on 24 August, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.304",
+      "date": "2026-08-23",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #484",
+      "description": "Full patch notes for Update v0.6.304 (#484), detailing all changes made on 23 August, 2026.",
+      "added": [
+        "Previously unindexed pages added to the main search system",
+        "Missing page references restored across the search keyword index",
+        "New blog post added to the news sitemap"
+      ],
+      "changed": [
+        "Search keyword index expanded with newly discovered pages and paths",
+        "Page data files refreshed",
+        "Main sitemap updated with a previously missing page",
+        "Mods sitemap rebuilt to include all current mod pages",
+        "News sitemap updated with the latest blog content",
+        "Google Search Console index and export data refreshed",
+        "Cloudflare traffic data updated",
+        "Changelog and daily commit records updated"
+      ],
+      "removed": [
+        "21 obsolete merchandise store product mockups removed from the asset repository"
+      ],
+      "fixed": [
+        "Corrected an incorrect page slug for a mod",
+        "Restored several missing search index references"
+      ]
+    },
+    {
       "version": "0.6.290",
       "date": "2026-08-22",
       "author": "HEAT Labs Team",
