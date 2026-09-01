@@ -1,6 +1,123 @@
 {
   "updates": [
     {
+      "version": "0.6.375",
+      "date": "2026-08-31",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #492",
+      "description": "Full patch notes for Update v0.6.375 (#492), detailing all changes made on 31 August, 2026.",
+      "added": [
+        "New WIP Giveaways page structure added to the main and development websites",
+        "New social share artwork added for the upcoming Giveaways page",
+        "Redirect handling added for the new Giveaways page"
+      ],
+      "changed": [
+        "Giveaways page updated to use the new social share image",
+        "Unused resource preloads removed from the Giveaways page",
+        "Development website updated alongside the main website for the upcoming Giveaways feature"
+      ],
+      "removed": [
+        "Unused Giveaways page resource preloads removed"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.367",
+      "date": "2026-08-30",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #491",
+      "description": "Full patch notes for Update v0.6.367 (#491), detailing all changes made on 30 August, 2026.",
+      "added": [
+        "14 new player records added to the player records system",
+        "14 new player record proof images added",
+        "New news post published with accompanying artwork",
+        "New content creator added to the video index along with their latest videos",
+        "M1E1 GLB model added to the development model collection",
+        "New internal record-checking tool introduced",
+        "New internal asset repository initialized with multiple asset batches"
+      ],
+      "changed": [
+        "Player records system expanded with explicit disqualification tracking",
+        "Disqualification status and removal reasons added to player record data",
+        "All existing player records updated to support the new disqualification field",
+        "Player records page logic updated to handle and display disqualified submissions",
+        "Internal tools documentation updated",
+        "Video index expanded with newly published creator content",
+        "News index updated with the latest article"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Player record data corrected to properly identify a disqualified submission"
+      ]
+    },
+    {
+      "version": "0.6.351",
+      "date": "2026-08-29",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #490",
+      "description": "Full patch notes for Update v0.6.351 (#490), detailing all changes made on 29 August, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Playground page cards updated across the main and development websites"
+      ],
+      "removed": [
+        "One discontinued page removed from the project",
+        "Associated assets for the discontinued page removed"
+      ],
+      "fixed": [
+        "Resolved issues affecting two Playground page cards"
+      ]
+    },
+    {
+      "version": "0.6.346",
+      "date": "2026-08-28",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #489",
+      "description": "Full patch notes for Update v0.6.346 (#489), detailing all changes made on 28 August, 2026.",
+      "added": [
+        "12 new player records added to the player records system",
+        "Three new guides published",
+        "New artwork added for all three newly published guides",
+        "12 new player record proof images added"
+      ],
+      "changed": [
+        "Global player records interface redesigned with a more compact layout",
+        "Development version updated with the new global records layout",
+        "Guide index updated with the latest publications"
+      ],
+      "removed": [
+        "One obsolete meme image removed from the media library"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.337",
+      "date": "2026-08-27",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #488",
+      "description": "Full patch notes for Update v0.6.337 (#488), detailing all changes made on 27 August, 2026.",
+      "added": [
+        "New Bradley gallery imagery added to the tank media collection"
+      ],
+      "changed": [
+        "Bradley tank gallery content expanded with additional visual assets"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
       "version": "0.6.333",
       "date": "2026-08-26",
       "author": "HEAT Labs Team",
