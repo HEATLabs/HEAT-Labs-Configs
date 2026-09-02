@@ -930,6 +930,43 @@
           "topDown": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
         }
       }
+    },
+    {
+      "id": 16,
+      "state": "displayed",
+      "status": "To Be Released",
+      "name": "Utopia",
+      "slug": "utopia",
+      "type": "Mountainous",
+      "terrain": "Mountainous",
+      "size": "Unknown Size",
+      "featured": false,
+      "introduction": "This map is still under review. Once our research and testing are complete, we’ll provide an in-depth introduction covering its key features, role balance, and unique elements.",
+      "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
+      "image": "https://cdn8.heatlabs.net/maps/utopia/Utopia_1.webp",
+      "gallery": {
+        "front": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "rear": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "side": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "top": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+      },
+      "gamemodes": {
+        "unknown": {
+          "mode_name": "Unknown Gamemodes",
+          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
+          "match_format": "Unknown Format",
+          "match_format_description": "The match format for {mapName} has not yet been confirmed and will be updated when official details become available.",
+          "control_points": "Unknown Control Points",
+          "control_points_description": "The number and layout of Control Points on {mapName} are currently unknown and will be added once confirmed.",
+          "max_match_time": "Unknown Time Limit",
+          "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
+          "win_condition": "Unknown Win Condition",
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
+          "pro_tip": "Tips for {mapName} on Unknown Gamemode are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
+          "topDown": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+        }
+      }
     }
   ]
 }
