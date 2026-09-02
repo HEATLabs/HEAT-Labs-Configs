@@ -11,7 +11,6 @@
       "size": "900m x 947m",
       "featured": false,
       "introduction": "PLACEHOLDER",
-      "overview": "PLACEHOLDER",
       "description": "A tropical shipyard map centered around a grounded aircraft carrier, featuring dynamic elements like a moving barge and multiple flanking routes through naval warehouses.",
       "image": "https://cdn8.heatlabs.net/maps/aircraft-carrier/Aircraft_Carrier_1.webp",
       "gallery": {
@@ -33,6 +32,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/aircraft-carrier/Aircraft_Carrier_TD.webp"
         },
         "control": {
@@ -47,6 +47,7 @@
           "win_condition": "Best of 3",
           "win_condition_description": "Control on {mapName} is decided across 3 rounds, with the first team to win two taking the match.",
           "pro_tip": "Tips for {mapName} on Control are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/aircraft-carrier/Aircraft_Carrier_TD.webp"
         },
         "hardpoint": {
@@ -61,6 +62,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires.",
           "pro_tip": "Tips for {mapName} on Hardpoint are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/aircraft-carrier/Aircraft_Carrier_TD.webp"
         },
         "kill_confirmed": {
@@ -75,6 +77,7 @@
           "win_condition": "25 Tokens",
           "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
           "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/aircraft-carrier/Aircraft_Carrier_TD.webp"
         }
       }
@@ -90,7 +93,6 @@
       "size": "Unknown Size",
       "featured": false,
       "introduction": "PLACEHOLDER",
-      "overview": "PLACEHOLDER",
       "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
       "image": "https://cdn8.heatlabs.net/maps/baikonur/Baikonur_1.webp",
       "gallery": {
@@ -111,7 +113,8 @@
           "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
           "win_condition": "Unknown Win Condition",
           "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
-          "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations.",
+          "pro_tip": "Tips for {mapName} on Unknown Gamemode are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
         }
       }
@@ -127,7 +130,6 @@
       "size": "1172m x 1384m",
       "featured": false,
       "introduction": "PLACEHOLDER",
-      "overview": "PLACEHOLDER",
       "description": "Set in a spring-themed environment disrupted by a recent crash, this map combines natural beauty with chaotic terrain, offering varied combat scenarios.",
       "image": "https://cdn8.heatlabs.net/maps/blossom-crash/Blossom_Crash_1.webp",
       "gallery": {
@@ -149,6 +151,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/blossom-crash/Blossom_Crash_TD.webp"
         },
         "conquest_large": {
@@ -163,6 +166,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Large Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Large Conquest are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/blossom-crash/Blossom_Crash_TD.webp"
         },
         "control": {
@@ -177,6 +181,7 @@
           "win_condition": "Best of 3",
           "win_condition_description": "Control on {mapName} is decided across 3 rounds, with the first team to win two taking the match.",
           "pro_tip": "Tips for {mapName} on Control are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/blossom-crash/Blossom_Crash_TD.webp"
         },
         "hardpoint": {
@@ -191,6 +196,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires.",
           "pro_tip": "Tips for {mapName} on Hardpoint are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/blossom-crash/Blossom_Crash_TD.webp"
         },
         "kill_confirmed": {
@@ -205,6 +211,7 @@
           "win_condition": "25 Tokens",
           "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
           "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/blossom-crash/Blossom_Crash_TD.webp"
         },
         "plant_defuse": {
@@ -219,6 +226,7 @@
           "win_condition": "Best of 5",
           "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory.",
           "pro_tip": "Tips for {mapName} on Plant & Defuse are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/blossom-crash/Blossom_Crash_TD.webp"
         }
       }
@@ -234,7 +242,6 @@
       "size": "1243m x 998m",
       "featured": true,
       "introduction": "PLACEHOLDER",
-      "overview": "PLACEHOLDER",
       "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
       "image": "https://cdn8.heatlabs.net/maps/inferno/Inferno_1.webp",
       "gallery": {
@@ -256,6 +263,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/inferno/Inferno_TD.webp"
         },
         "hardpoint": {
@@ -270,6 +278,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires.",
           "pro_tip": "Tips for {mapName} on Hardpoint are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/inferno/Inferno_TD.webp"
         },
         "plant_defuse": {
@@ -284,6 +293,7 @@
           "win_condition": "Best of 5",
           "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory.",
           "pro_tip": "Tips for {mapName} on Plant & Defuse are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/inferno/Inferno_TD.webp"
         }
       }
@@ -299,7 +309,6 @@
       "size": "1205m x 1080m",
       "featured": false,
       "introduction": "PLACEHOLDER.",
-      "overview": "PLACEHOLDER",
       "description": "A sprawling arid battlefield centred around a large industrial complex carved into a rugged desert landscape. Massive rock formations, exposed wetlands and winding roads provide both open sightlines and sheltered approaches.",
       "image": "https://cdn8.heatlabs.net/maps/moonshot/Moonshot_1.webp",
       "gallery": {
@@ -321,6 +330,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/moonshot/Moonshot_TD.webp"
         },
         "hardpoint": {
@@ -335,6 +345,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires.",
           "pro_tip": "Tips for {mapName} on Hardpoint are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/moonshot/Moonshot_TD.webp"
         },
         "kill_confirmed": {
@@ -349,6 +360,7 @@
           "win_condition": "25 Tokens",
           "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
           "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/moonshot/Moonshot_TD.webp"
         },
         "plant_defuse": {
@@ -363,6 +375,7 @@
           "win_condition": "Best of 5",
           "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory.",
           "pro_tip": "Tips for {mapName} on Plant & Defuse are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/moonshot/Moonshot_TD.webp"
         }
       }
@@ -378,7 +391,6 @@
       "size": "1236m x 1113m",
       "featured": false,
       "introduction": "PLACEHOLDER",
-      "overview": "PLACEHOLDER",
       "description": "An industrial map featuring a massive dam structure, providing vertical gameplay opportunities and strategic choke-points.",
       "image": "https://cdn8.heatlabs.net/maps/nexus-dam/Nexus_Dam_1.webp",
       "gallery": {
@@ -400,6 +412,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/nexus-dam/Nexus_Dam_TD.webp"
         },
         "hardpoint": {
@@ -414,6 +427,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires.",
           "pro_tip": "Tips for {mapName} on Hardpoint are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/nexus-dam/Nexus_Dam_TD.webp"
         }
       }
@@ -429,7 +443,6 @@
       "size": "972m x 995m",
       "featured": false,
       "introduction": "PLACEHOLDER",
-      "overview": "PLACEHOLDER",
       "description": "A snow-covered map with a circular design, offering multiple paths and central control points, designed for strategic maneuvering.",
       "image": "https://cdn8.heatlabs.net/maps/nord-oko/Nord_Oko_1.webp",
       "gallery": {
@@ -451,6 +464,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/nord-oko/Nord_Oko_TD.webp"
         },
         "kill_confirmed": {
@@ -465,6 +479,7 @@
           "win_condition": "25 Tokens",
           "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
           "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/nord-oko/Nord_Oko_TD.webp"
         }
       }
@@ -480,7 +495,6 @@
       "size": "1142m x 1119m",
       "featured": false,
       "introduction": "PLACEHOLDER",
-      "overview": "PLACEHOLDER",
       "description": "A scientific research base set in the foothills of a mountain range offering a chaotic thunder-dome with several flanking routes.",
       "image": "https://cdn8.heatlabs.net/maps/project-phoenix/Project_Phoenix_1.webp",
       "gallery": {
@@ -502,6 +516,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/project-phoenix/Project_Phoenix_TD.webp"
         },
         "conquest_large": {
@@ -516,6 +531,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Large Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Large Conquest are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/project-phoenix/Project_Phoenix_TD.webp"
         },
         "hardpoint": {
@@ -530,6 +546,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires.",
           "pro_tip": "Tips for {mapName} on Hardpoint are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/project-phoenix/Project_Phoenix_TD.webp"
         },
         "kill_confirmed": {
@@ -544,6 +561,7 @@
           "win_condition": "25 Tokens",
           "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
           "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/project-phoenix/Project_Phoenix_TD.webp"
         },
         "plant_defuse": {
@@ -558,6 +576,7 @@
           "win_condition": "Best of 5",
           "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory.",
           "pro_tip": "Tips for {mapName} on Plant & Defuse are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/project-phoenix/Project_Phoenix_TD.webp"
         }
       }
@@ -573,7 +592,6 @@
       "size": "Unknown Size",
       "featured": false,
       "introduction": "PLACEHOLDER",
-      "overview": "PLACEHOLDER",
       "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
       "image": "https://cdn8.heatlabs.net/maps/crossroads/crossroads_1.webp",
       "gallery": {
@@ -594,7 +612,8 @@
           "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
           "win_condition": "Unknown Win Condition",
           "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
-          "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations.",
+          "pro_tip": "Tips for {mapName} on Unknown Gamemode are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
         }
       }
@@ -610,7 +629,6 @@
       "size": "1320m x 1347m",
       "featured": false,
       "introduction": "PLACEHOLDER",
-      "overview": "PLACEHOLDER",
       "description": "An urban map set in a war-torn cityscape, supporting multiple game modes like Conquest, Domination, and Plant and Defuse, with a dynamic kite formation base layout.",
       "image": "https://cdn8.heatlabs.net/maps/scarred-city/Scarred_City_1.webp",
       "gallery": {
@@ -632,6 +650,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/scarred-city/Scarred_City_TD.webp"
         },
         "conquest_large": {
@@ -646,6 +665,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Large Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Large Conquest are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/scarred-city/Scarred_City_TD.webp"
         },
         "control": {
@@ -660,6 +680,7 @@
           "win_condition": "Best of 3",
           "win_condition_description": "Control on {mapName} is decided across 3 rounds, with the first team to win two taking the match.",
           "pro_tip": "Tips for {mapName} on Control are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/scarred-city/Scarred_City_TD.webp"
         },
         "hardpoint": {
@@ -674,6 +695,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires.",
           "pro_tip": "Tips for {mapName} on Hardpoint are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/scarred-city/Scarred_City_TD.webp"
         },
         "kill_confirmed": {
@@ -688,6 +710,7 @@
           "win_condition": "25 Tokens",
           "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
           "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/scarred-city/Scarred_City_TD.webp"
         },
         "plant_defuse": {
@@ -702,6 +725,7 @@
           "win_condition": "Best of 5",
           "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory.",
           "pro_tip": "Tips for {mapName} on Plant & Defuse are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/scarred-city/Scarred_City_TD.webp"
         }
       }
@@ -717,7 +741,6 @@
       "size": "1092m x 959m",
       "featured": false,
       "introduction": "PLACEHOLDER",
-      "overview": "PLACEHOLDER",
       "description": "A desert resort map with a focus on close quarter combat and flanking through city streets and construction sites.",
       "image": "https://cdn8.heatlabs.net/maps/sunstroke/Sunstroke_1.webp",
       "gallery": {
@@ -739,6 +762,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/sunstroke/Sunstroke_TD.webp"
         },
         "control": {
@@ -753,6 +777,7 @@
           "win_condition": "Best of 3",
           "win_condition_description": "Control on {mapName} is decided across 3 rounds, with the first team to win two taking the match.",
           "pro_tip": "Tips for {mapName} on Control are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/sunstroke/Sunstroke_TD.webp"
         },
         "kill_confirmed": {
@@ -767,6 +792,7 @@
           "win_condition": "25 Tokens",
           "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
           "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/sunstroke/Sunstroke_TD.webp"
         },
         "plant_defuse": {
@@ -781,6 +807,7 @@
           "win_condition": "Best of 5",
           "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory.",
           "pro_tip": "Tips for {mapName} on Plant & Defuse are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/sunstroke/Sunstroke_TD.webp"
         }
       }
@@ -796,7 +823,6 @@
       "size": "1050m x 939m",
       "featured": false,
       "introduction": "PLACEHOLDER",
-      "overview": "PLACEHOLDER",
       "description": "A sprawling open desert battlefield built around the remains of a forgotten agricultural megaproject. Massive biodomes dominate the open landscape, while abandoned research facilities and infrastructure offer cover and defensive positions.",
       "image": "https://cdn8.heatlabs.net/maps/eden/Eden_1.webp",
       "gallery": {
@@ -818,6 +844,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/eden/Eden_TD.webp"
         },
         "hardpoint": {
@@ -832,6 +859,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires.",
           "pro_tip": "Tips for {mapName} on Hardpoint are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/eden/Eden_TD.webp"
         },
         "kill_confirmed": {
@@ -846,6 +874,7 @@
           "win_condition": "25 Tokens",
           "win_condition_description": "Kill Confirmed on {mapName} is won by the first team to collect 25 enemy Tokens.",
           "pro_tip": "Tips for {mapName} on Kill Confirmed are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/eden/Eden_TD.webp"
         },
         "plant_defuse": {
@@ -860,6 +889,7 @@
           "win_condition": "Best of 5",
           "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory.",
           "pro_tip": "Tips for {mapName} on Plant & Defuse are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn8.heatlabs.net/maps/eden/Eden_TD.webp"
         }
       }
@@ -875,7 +905,6 @@
       "size": "Unknown Size",
       "featured": false,
       "introduction": "PLACEHOLDER",
-      "overview": "PLACEHOLDER",
       "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
       "image": "https://cdn8.heatlabs.net/maps/railgun/Railgun_1.webp",
       "gallery": {
@@ -896,7 +925,8 @@
           "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
           "win_condition": "Unknown Win Condition",
           "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
-          "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations.",
+          "pro_tip": "Tips for {mapName} on Unknown Gamemode are currently unavailable. Check back later for useful strategies and recommendations.",
+          "overview": "We're still working on a strategic summary for this map. An overview of key zones, terrain features, and battle flow will be available here shortly.",
           "topDown": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
         }
       }
