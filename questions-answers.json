@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T04:54:08",
-  "episode_count": 7,
-  "total_questions": 147,
+  "generated_at": "2026-09-07T01:33:52",
+  "episode_count": 8,
+  "total_questions": 162,
   "episodes": {
     "episode-1_07072026.txt": {
       "filename": "episode-1_07072026.txt",
@@ -1747,6 +1747,183 @@
       ],
       "extra_commentary": null,
       "source_hash": "4012650c0640e42deb769788a5057e96"
+    },
+    "episode-8_06092026.txt": {
+      "filename": "episode-8_06092026.txt",
+      "episode_number": 8,
+      "date": "2026-09-06",
+      "tldr": "T62 and Obj nerfs hinted, probably will arrive in one of the mid-season patches, additional languages will be added if there will be a big-enough demand, talks about modes, clans are in the works.",
+      "questions": [
+        {
+          "number": 1,
+          "question": "Will there (in S2) be balance changes?",
+          "answers": [
+            {
+              "speaker": "Remmy",
+              "text": "For S2 there are some minor module changes. 5 modules off the top of my head, and they are equally split between nerfs and buffs and adjustments. The following patch after S2 (mid-month patch) will have a much larger chunk of balance changes"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "number": 2,
+          "question": "Obj.287 got tweaked?",
+          "answers": [
+            {
+              "speaker": "Remmy",
+              "text": "I think the only change we plan to make to OBJ, that's not made yet; is to lower max health by just a tiny bit. Generally OBJ is in a good spot."
+            }
+          ],
+          "notes": []
+        },
+        {
+          "number": 3,
+          "question": "I’ve been told by Arcs that hp is getting most likely nerfed.",
+          "answers": [
+            {
+              "speaker": "Remmy",
+              "text": "We’re planning on reducing HP for T62. And for Raketa we’re planning some adjustments to it as well. But that will come a bit later. So, not as soon as people might expect that."
+            }
+          ],
+          "notes": []
+        },
+        {
+          "number": 4,
+          "question": "Can we get an elimination mode just like the original WoT?",
+          "answers": [
+            {
+              "speaker": "Remmy",
+              "text": "I don’t know. It depends on how people are responding. So, for P&D for example, what we’ve noticed is that a lot of people are not accustomed to 1 life game mode, which is understandable, so I'm not sure how an elimination mode will work? From what we’ve seen, we know people like respawns. We do have a lot of more hardcore players who do like 1 life game modes like P&D for instance, but generally from the feedback that we’ve seen so far is that a good portion of the players don’t [enjoy that]."
+            }
+          ],
+          "notes": []
+        },
+        {
+          "number": 5,
+          "question": "In my experience, the game mode (P&D) is super fun for comp, but the thing is people don't understand how to properly play the game mode yet.",
+          "answers": [
+            {
+              "speaker": "Remmy",
+              "text": "That’s actually something that came up today in a discussion I’ve had with some people internally. We could probably do a better job at explaining the game mode and making sure that everyone actually [understand the point of the mode]"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "number": 6,
+          "question": "People who don't like it - not forced to play it.",
+          "answers": [
+            {
+              "speaker": "Remmy",
+              "text": "Yes, but then we want players to play all the game modes."
+            }
+          ],
+          "notes": []
+        },
+        {
+          "number": 7,
+          "question": "When will Arabic be available?",
+          "answers": [
+            {
+              "speaker": "Remmy",
+              "text": "We don’t have plans to add it, at the moment, so we have the 12 that we have right now. Maybe in the future if we see a large interest in it."
+            }
+          ],
+          "notes": []
+        },
+        {
+          "number": 8,
+          "question": "Will we ever be able to have two types of shells to play and not be standard because of the modes you use?",
+          "answers": [
+            {
+              "speaker": "Remmy",
+              "text": "If you are asking whether you can play more than 1 shell at the same time, switch between them in the middle of the game - I don’t think we have any plans for that."
+            }
+          ],
+          "notes": []
+        },
+        {
+          "number": 9,
+          "question": "The option to switch tanks has been fantastic, but I do believe that in the future and whenever Ranked mode comes, there should also be a mid-match option to change agents, so people can switch line-ups based on what the match is requiring.",
+          "answers": [
+            {
+              "speaker": "Remmy",
+              "text": "So, in P&D for example we haven’t had that, mostly because it’s a bit more competitive and I think that the switch of the vehicles might take a bit from the competitiveness of some game modes. If it comes to the ranked - I don’t know. So, let’s say for competition, maybe the vehicle swap might come. Agent swap - I don’t know. Mostly because it’s not really a feature that we have yet. But it’s an idea that kind of floated around a bit, because it’s not the first time I see it, it has been suggested before."
+            }
+          ],
+          "notes": []
+        },
+        {
+          "number": 10,
+          "question": "Question about bugs that need to be fixed FIRST… APS, Bastion, they get instantly cancelled if you are getting shot while activating them and EMP Trap lands and breaks with only 1 second… Fix fix fix !",
+          "answers": [
+            {
+              "speaker": "Mr.Matcha",
+              "text": "We are not ignoring your feedback and your reports about bugs and things, Game dev is quite complicated, and even though we plan things - some of the features may not arrive on time. So, please don’t worry, we will eventually get it done. I can already hint that there will be some patches coming later. So, just because we release Season 2 - doesn’t mean there is nothing else coming for the next 3 months. So don’t worry about it, there will be some mid-season patches coming, with fixes and potentially some new content."
+            }
+          ],
+          "notes": []
+        },
+        {
+          "number": 11,
+          "question": "Have you guys considered the possibility in the future about having not just a tank selector mid-game, but also an agent selector mid-game, especially focusing on the potential future and a possibility to have a ranked playlist?",
+          "answers": [
+            {
+              "speaker": "Remmy",
+              "text": "I think it's still a no."
+            }
+          ],
+          "notes": []
+        },
+        {
+          "number": 12,
+          "question": "Is there any news when in-game chat will be available and also direct team invites not through DC?",
+          "answers": [
+            {
+              "speaker": "Mr.Matcha",
+              "text": "We are working on some social features. I have actually seen some of them today, presented by our devs. Looks quite nice. Should be useful for you to use in the near future. I think it should arrive this season. I don’t know when exactly, but later this season."
+            }
+          ],
+          "notes": []
+        },
+        {
+          "number": 13,
+          "question": "So, WoWS has daily reward crates that you earn the crates can drop a multitude of items. You could have a similar thing that will drop some tech tokens or intel or even credits and modules or rare charms and skins.",
+          "answers": [
+            {
+              "speaker": "Mr.Matcha",
+              "text": "We are aware of this … I don’t think we have any ETA for such a feature to arrive any time soon. But it is on the agenda, of course."
+            }
+          ],
+          "notes": []
+        },
+        {
+          "number": 14,
+          "question": "Have there ever been any suggestions for a loadout system for a tank like the tank swap in game, which would allow for example to choose a HE build for FV or AP build depending on the enemy composition?",
+          "answers": [
+            {
+              "speaker": "Remmy",
+              "text": "I don’t know if there is a definite decision as to yes or no. We’ll definitely need to see how that’s going to fit into overall gameplay, because, say in KC that could work decently well, in control for example or even P&D maybe that might be a bit broken. So we’ll see"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "number": 15,
+          "question": "Are there going to be clans/regiments coming to heat?",
+          "answers": [
+            {
+              "speaker": "Mr.Matcha",
+              "text": "At one point - yes. I can tell that we are working on it.\nNote from OP: Remmy also shares that they are aware of snipers farming XP, and they are having internal discussion about it. Currently, they are looking into the actual scoring, to potentially make changes that would fix the underlying issue(s)."
+            }
+          ],
+          "notes": [
+            "Remmy also shares that they are aware of snipers farming XP, and they are having internal discussion about it. Currently, they are looking into the actual scoring, to potentially make changes that would fix the underlying issue(s)."
+          ]
+        }
+      ],
+      "extra_commentary": null,
+      "source_hash": "24574747d2622037b65fad64258c4cbe"
     }
   }
 }
