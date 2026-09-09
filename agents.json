@@ -65,7 +65,7 @@
           "slug": "xm1-v"
         },{
           "name": "M1150 ABV",
-          "image": "https://cdn7.heatlabs.net/tanks/m1150-abv/m1150-abv.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/m1150-abv/m1150abv.webp",
           "slug": "m1150-abv"
         }
       ]
@@ -141,7 +141,7 @@
       "compatibleTanks": [
         {
           "name": "M60A1",
-          "image": "https://cdn7.heatlabs.net/tanks/m60e2/m60a1.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/m60e1/m60a1.webp",
           "slug": "m60e1"
         },
         {
@@ -281,7 +281,7 @@
         },
         {
           "name": "M551A1",
-          "image": "https://cdn7.heatlabs.net/tanks/xm551/m551a1.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/m551a1/m551a1.webp",
           "slug": "m551a1"
         }
       ]
@@ -357,12 +357,12 @@
       "compatibleTanks": [
         {
           "name": "M60A3E2",
-          "image": "https://cdn7.heatlabs.net/tanks/m60a3e2/icon_m60a3e2.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/m60a3e2/m60a3e2.webp",
           "slug": "m60a3e2"
         },
         {
           "name": "T-72SH",
-          "image": "https://cdn7.heatlabs.net/tanks/t-72sh/t-72sh.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/t-72sh/t72sh.webp",
           "slug": "t-72sh"
         }
       ]
