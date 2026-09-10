@@ -1,6 +1,253 @@
 {
   "updates": [
     {
+      "version": "0.6.487",
+      "date": "2026-09-09",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #501",
+      "description": "Full patch notes for Update v0.6.487 (#501), detailing all changes made on 09 September, 2026.",
+      "added": [
+        "153 new map gallery images added across multiple maps",
+        "New gallery content added for Scarred City, Sunstroke, Project Phoenix, Nord Oko, Nexus Dam, Moonshot, Eden and Aircraft Carrier",
+        "New gallery entries added to agent data",
+        "Two new meme images added"
+      ],
+      "changed": [
+        "Map gallery paths updated throughout the configuration data",
+        "Map data expanded with video references",
+        "Agent pages upgraded with gallery functionality",
+        "Map and tank pages updated to use the new gallery image structure",
+        "Meme pages enhanced with video support and CDN-backed media",
+        "Meme video card handling refined"
+      ],
+      "removed": [
+        "Unused tank placeholder image removed",
+        "Giveaway redirect temporarily disabled"
+      ],
+      "fixed": [
+        "Corrected gallery image names and paths in tank and map data",
+        "Fixed five incorrect tank image references in agent data",
+        "Corrected associated agent database image paths"
+      ]
+    },
+    {
+      "version": "0.6.472",
+      "date": "2026-09-08",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #500",
+      "description": "Full patch notes for Update v0.6.472 (#500), detailing all changes made on 08 September, 2026.",
+      "added": [
+        "30 new map media assets added, including new map imagery and videos",
+        "Ten new agent images added",
+        "New news post and supporting artwork added",
+        "Additional meme images added",
+        "Giveaway winner record updated following a reroll"
+      ],
+      "changed": [
+        "All agent descriptions updated",
+        "Agent story information refreshed throughout the database",
+        "Official map descriptions added across the map database",
+        "Meme index expanded with new entries",
+        "WebP conversion utility upgraded to support JPG input files"
+      ],
+      "removed": [
+        "Outdated content module temporarily disabled"
+      ],
+      "fixed": [
+        "Corrected an invalid page identifier on an agent page",
+        "Synchronized the corresponding development page with the corrected identifier"
+      ]
+    },
+    {
+      "version": "0.6.459",
+      "date": "2026-09-07",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #499",
+      "description": "Full patch notes for Update v0.6.459 (#499), detailing all changes made on 07 September, 2026.",
+      "added": [
+        "18 new player records added to the records database",
+        "18 new proof images added for player records",
+        "Giveaway result data archived following the conclusion of the campaign"
+      ],
+      "changed": [
+        "Player records index refreshed with the latest submissions"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.453",
+      "date": "2026-09-06",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #498",
+      "description": "Full patch notes for Update v0.6.453 (#498), detailing all changes made on 06 September, 2026.",
+      "added": [
+        "Eighth episode of the Q&A series added to the database and website",
+        "Search functionality added to the player records page"
+      ],
+      "changed": [
+        "Map overview content reorganized under individual game mode sections",
+        "Player records interface and search experience improved",
+        "Q&A processing tool updated to better detect formatted notes",
+        "Latest blog post date information refreshed"
+      ],
+      "removed": [
+        "Unused map overview data field removed",
+        "Unused player records loading state removed"
+      ],
+      "fixed": [
+        "Resolved an issue affecting PvE records handling",
+        "Corrected capitalization in a tank description",
+        "Fixed grammar and wording issues in the latest Q&A content",
+        "Improved placement of the disqualified-record indicator in player record search results"
+      ]
+    },
+    {
+      "version": "0.6.441",
+      "date": "2026-09-05",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #497",
+      "description": "Full patch notes for Update v0.6.441 (#497), detailing all changes made on 05 September, 2026.",
+      "added": [
+        "37 new player records added to the records database",
+        "37 new proof images added for player records",
+        "New news post and supporting artwork added",
+        "New meme image added"
+      ],
+      "changed": [
+        "Global player records table enhanced with vehicle filtering",
+        "Descriptions updated across three tank pages",
+        "Map descriptions simplified and refined for improved readability",
+        "Game version data refreshed",
+        "Map and Phoenix-related content updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected spelling and wording issues in map descriptions",
+        "Restored missing last-update information in two player record views"
+      ]
+    },
+    {
+      "version": "0.6.429",
+      "date": "2026-09-04",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #496",
+      "description": "Full patch notes for Update v0.6.429 (#496), detailing all changes made on 04 September, 2026.",
+      "added": [
+        "Updated descriptive content for M1150, T-72SH and M60A3"
+      ],
+      "changed": [
+        "Tank descriptions and supporting text refined across multiple vehicles",
+        "Map descriptions and introductory text improved, including Inferno and Nord Oko",
+        "Phoenix introduction content updated",
+        "Various map and tank copy reviewed for clarity and consistency"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected spelling, grammar and formatting issues throughout recent map and tank content",
+        "Resolved inconsistencies in several recently updated descriptions"
+      ]
+    },
+    {
+      "version": "0.6.421",
+      "date": "2026-09-03",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #495",
+      "description": "Full patch notes for Update v0.6.421 (#495), detailing all changes made on 03 September, 2026.",
+      "added": [
+        "Updated raw tank statistics sheet with the latest data"
+      ],
+      "changed": [
+        "Statistics updated for three tanks",
+        "Tank statistics source data refreshed",
+        "Dependency security updated for the fast-uri package"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Updated a project dependency to address issues in the fast-uri package"
+      ]
+    },
+    {
+      "version": "0.6.415",
+      "date": "2026-09-02",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #494",
+      "description": "Full patch notes for Update v0.6.415 (#494), detailing all changes made on 02 September, 2026.",
+      "added": [
+        "New map added to the website",
+        "New map imagery and gallery assets added",
+        "Two new news posts and supporting artwork added",
+        "Additional meme images added"
+      ],
+      "changed": [
+        "Map pages rebuilt around a fully dynamic data-driven system",
+        "Map names and descriptions are now dynamically loaded from map data",
+        "Map galleries now dynamically load their associated imagery",
+        "Map pages updated to display map type badges",
+        "Map descriptions reorganized so mode-specific information is managed within individual game mode sections",
+        "Map indexes and tracking data updated with the latest map information",
+        "New map added to the website sitemap",
+        "Map pages updated with persistent map identifiers"
+      ],
+      "removed": [
+        "Unused FAQ sections removed from map pages",
+        "Redundant map section title handling removed"
+      ],
+      "fixed": [
+        "Improved consistency between map data, galleries and rendered map pages",
+        "Corrected map gallery and indexing references for newly introduced content"
+      ]
+    },
+    {
+      "version": "0.6.399",
+      "date": "2026-09-01",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #493",
+      "description": "Full patch notes for Update v0.6.399 (#493), detailing all changes made on 01 September, 2026.",
+      "added": [
+        "Season 2 content integrated across tank, agent, map, mission and game mode data",
+        "New Inferno map size and top-down imagery added",
+        "New map mode icons added to the image library",
+        "Random picker tool added for giveaway management",
+        "New news article and supporting artwork added",
+        "New agent artwork and three tank images added",
+        "Additional meme images added to the media library"
+      ],
+      "changed": [
+        "Map data updated for Season 2, including Conquest details across all maps",
+        "Tank index and three tank database entries updated for Season 2",
+        "Agent index updated for Season 2",
+        "Mission and game mode data refreshed for the new season",
+        "Map badges, update labels and last-update information refreshed across the website",
+        "Map indexing, search keywords and tracking references updated for Season 2 changes",
+        "Giveaway redirect updated with its live destination and improved metadata",
+        "HEAT data fetcher updated to support expanded section data",
+        "Record keeper updated to support disqualified records",
+        "Daily commit tracking expanded to include an additional repository",
+        "Project statistics and external analytics data refreshed"
+      ],
+      "removed": [
+        "AI upscale notices removed from three tank pages",
+        "Unused map page elements and outdated map references removed"
+      ],
+      "fixed": [
+        "Corrected map type and terrain information for an unreleased map",
+        "Fixed incorrect map tags in the main map index",
+        "Corrected an outdated map name across indexing and page data",
+        "Fixed Inferno top-down image references"
+      ]
+    },
+    {
       "version": "0.6.375",
       "date": "2026-08-31",
       "author": "HEAT Labs Team",
