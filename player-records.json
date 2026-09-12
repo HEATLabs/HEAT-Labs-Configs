@@ -3,7 +3,7 @@
         "ROOT": {
             "last_updated": {
                 "conquest": "2026-09-11T04:26:42Z",
-                "control": "2026-09-11T04:37:49Z",
+                "control": "2026-09-12T00:09:25Z",
                 "hardpoint": "2026-09-11T04:23:00Z",
                 "kill-confirmed": "2026-09-11T04:44:18Z",
                 "plant-defuse": "2026-08-30T01:39:20Z"
@@ -7738,6 +7738,25 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/03092026__FORTYN4_.webp",
+                    "disqualified": false
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 31,
+                    "deaths": 9,
+                    "assists": 10,
+                    "damage_caused": 94800,
+                    "damage_blocked": 18300,
+                    "credits": 10048,
+                    "tech": 62,
+                    "intel": 0,
+                    "XP": 20095,
+                    "agent": "Kent",
+                    "vehicle": "XM1-90",
+                    "outcome": "Draw",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/11092026__FORTYN4_.webp",
                     "disqualified": false
                 }
             ],
