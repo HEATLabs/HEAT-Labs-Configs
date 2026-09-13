@@ -4,7 +4,7 @@
             "last_updated": {
                 "conquest": "2026-09-11T04:26:42Z",
                 "control": "2026-09-13T21:17:02Z",
-                "hardpoint": "2026-09-11T04:23:00Z",
+                "hardpoint": "2026-09-13T23:15:44Z",
                 "kill-confirmed": "2026-09-13T21:17:47Z",
                 "plant-defuse": "2026-08-30T01:39:20Z"
             },
@@ -14977,6 +14977,27 @@
                     "map": "Moonshot",
                     "mode": "Hardpoint",
                     "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/09092026_Adamantium.webp",
+                    "disqualified": false
+                }
+            ],
+            "venom_OLEG_slabitelnoe": [
+                {
+                    "captures": 0,
+                    "destroyed": 6,
+                    "deaths": 5,
+                    "assists": 3,
+                    "damage_caused": 18300,
+                    "damage_blocked": 23500,
+                    "credits": 3102,
+                    "tech": 60,
+                    "intel": 120,
+                    "XP": 5405,
+                    "agent": "Ember",
+                    "vehicle": "XM1-V, M1150 ABV",
+                    "outcome": "Victory",
+                    "map": "Nexus Dam",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/14092026_venom_OLEG_slabitelnoe.webp",
                     "disqualified": false
                 }
             ]
