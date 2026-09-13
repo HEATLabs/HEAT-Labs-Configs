@@ -3,9 +3,9 @@
         "ROOT": {
             "last_updated": {
                 "conquest": "2026-09-11T04:26:42Z",
-                "control": "2026-09-13T11:25:41Z",
+                "control": "2026-09-13T21:17:02Z",
                 "hardpoint": "2026-09-11T04:23:00Z",
-                "kill-confirmed": "2026-09-11T04:44:18Z",
+                "kill-confirmed": "2026-09-13T21:17:47Z",
                 "plant-defuse": "2026-08-30T01:39:20Z"
             },
             "removals": {
@@ -11622,6 +11622,25 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/07092026__P4SSION.webp",
                     "disqualified": false
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 30,
+                    "deaths": 7,
+                    "assists": 14,
+                    "damage_caused": 98800,
+                    "damage_blocked": 4400,
+                    "credits": 7955,
+                    "tech": 50,
+                    "intel": 0,
+                    "XP": 15910,
+                    "agent": "Reaper",
+                    "vehicle": "M60A2",
+                    "outcome": "Draw",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/13092026__P4SSION.webp",
+                    "disqualified": false
                 }
             ],
             "spitfira": [
@@ -19480,6 +19499,28 @@
                     "map": "Eden",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/11092026_venom_OLEG_slabitelnoe.webp",
+                    "disqualified": false
+                }
+            ],
+            "MaidDargon_skynight": [
+                {
+                    "confirms": 9,
+                    "denies": 2,
+                    "destroyed": 38,
+                    "deaths": 6,
+                    "assists": 21,
+                    "damage_caused": 123900,
+                    "damage_blocked": 0,
+                    "credits": 0,
+                    "tech": 0,
+                    "intel": 0,
+                    "XP": 33915,
+                    "agent": "Ember",
+                    "vehicle": "M1150 ABV",
+                    "outcome": "Victory",
+                    "map": "Moonshot",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/13092026_MaidDargon_skynight.webp",
                     "disqualified": false
                 }
             ]
