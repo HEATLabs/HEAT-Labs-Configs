@@ -3,7 +3,7 @@
         "ROOT": {
             "last_updated": {
                 "conquest": "2026-09-11T04:26:42Z",
-                "control": "2026-09-12T00:09:25Z",
+                "control": "2026-09-13T11:25:41Z",
                 "hardpoint": "2026-09-11T04:23:00Z",
                 "kill-confirmed": "2026-09-11T04:44:18Z",
                 "plant-defuse": "2026-08-30T01:39:20Z"
@@ -7503,6 +7503,25 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/26082026_JustRealNoob.webp",
                     "disqualified": false
+                },
+                {
+                    "captures": 4,
+                    "destroyed": 26,
+                    "deaths": 7,
+                    "assists": 16,
+                    "damage_caused": 97400,
+                    "damage_blocked": 6400,
+                    "credits": 7413,
+                    "tech": 50,
+                    "intel": 300,
+                    "XP": 14825,
+                    "agent": "Raketa",
+                    "vehicle": "Object 287",
+                    "outcome": "Draw",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/13092026_JustRealNoob.webp",
+                    "disqualified": false
                 }
             ],
             "Mehmed35": [
@@ -13306,6 +13325,25 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/07092026_Kampfapfel_NikalusCH.webp",
                     "disqualified": false
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 18,
+                    "deaths": 13,
+                    "assists": 7,
+                    "damage_caused": 51100,
+                    "damage_blocked": 7100,
+                    "credits": 5095,
+                    "tech": 50,
+                    "intel": 280,
+                    "XP": 10190,
+                    "agent": "Raketa",
+                    "vehicle": "T-62AV",
+                    "outcome": "Draw",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/13092026_Kampfapfel_NikalusCH.webp",
+                    "disqualified": false
                 }
             ],
             "SINEWAVE_": [
@@ -13578,6 +13616,27 @@
                     "map": "Scarred City",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/11092026_venom_OLEG_slabitelnoe.webp",
+                    "disqualified": false
+                }
+            ],
+            "P1NNY": [
+                {
+                    "captures": 3,
+                    "destroyed": 8,
+                    "deaths": 5,
+                    "assists": 11,
+                    "damage_caused": 55200,
+                    "damage_blocked": 1600,
+                    "credits": 5618,
+                    "tech": 40,
+                    "intel": 40,
+                    "XP": 11235,
+                    "agent": "Flair",
+                    "vehicle": "Leo 2KST",
+                    "outcome": "Defeat",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/12092026_P1NNY.webp",
                     "disqualified": false
                 }
             ]
