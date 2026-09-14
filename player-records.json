@@ -3,7 +3,7 @@
         "ROOT": {
             "last_updated": {
                 "conquest": "2026-09-11T04:26:42Z",
-                "control": "2026-09-13T21:17:02Z",
+                "control": "2026-09-14T01:16:21Z",
                 "hardpoint": "2026-09-13T23:15:44Z",
                 "kill-confirmed": "2026-09-13T21:17:47Z",
                 "plant-defuse": "2026-08-30T01:39:20Z"
@@ -13656,6 +13656,48 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/12092026_P1NNY.webp",
+                    "disqualified": false
+                }
+            ],
+            "katakana6122": [
+                {
+                    "captures": 4,
+                    "destroyed": 26,
+                    "deaths": 2,
+                    "assists": 15,
+                    "damage_caused": 84300,
+                    "damage_blocked": 25500,
+                    "credits": 14038,
+                    "tech": 60,
+                    "intel": 160,
+                    "XP": 28075,
+                    "agent": "Ember",
+                    "vehicle": "M1150 ABV",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/14092026_katakana6122.webp",
+                    "disqualified": false
+                }
+            ],
+            "Zis13_2016": [
+                {
+                    "captures": 3,
+                    "destroyed": 29,
+                    "deaths": 10,
+                    "assists": 16,
+                    "damage_caused": 93700,
+                    "damage_blocked": 13500,
+                    "credits": 8478,
+                    "tech": 50,
+                    "intel": 0,
+                    "XP": 16955,
+                    "agent": "Kent",
+                    "vehicle": "XM1-90, ALVT",
+                    "outcome": "Draw",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/14092026_Zis13_2016.webp",
                     "disqualified": false
                 }
             ]
