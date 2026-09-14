@@ -3,7 +3,7 @@
         "ROOT": {
             "last_updated": {
                 "conquest": "2026-09-11T04:26:42Z",
-                "control": "2026-09-14T01:16:21Z",
+                "control": "2026-09-14T09:50:28Z",
                 "hardpoint": "2026-09-13T23:15:44Z",
                 "kill-confirmed": "2026-09-13T21:17:47Z",
                 "plant-defuse": "2026-08-30T01:39:20Z"
@@ -13303,6 +13303,25 @@
                     "map": "Scarred City",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/26082026___STILL_ALIVE__.webp",
+                    "disqualified": false
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 14,
+                    "deaths": 2,
+                    "assists": 13,
+                    "damage_caused": 55300,
+                    "damage_blocked": 49800,
+                    "credits": 7115,
+                    "tech": 75,
+                    "intel": 80,
+                    "XP": 14230,
+                    "agent": "Gambit",
+                    "vehicle": "M60A3E2",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/14092026___STILL_ALIVE__.webp",
                     "disqualified": false
                 }
             ],
