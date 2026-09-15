@@ -3,8 +3,8 @@
         "ROOT": {
             "last_updated": {
                 "conquest": "2026-09-11T04:26:42Z",
-                "control": "2026-09-14T09:50:28Z",
-                "hardpoint": "2026-09-13T23:15:44Z",
+                "control": "2026-09-15T19:17:39Z",
+                "hardpoint": "2026-09-15T19:19:14Z",
                 "kill-confirmed": "2026-09-13T21:17:47Z",
                 "plant-defuse": "2026-08-30T01:39:20Z"
             },
@@ -11641,6 +11641,44 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/13092026__P4SSION.webp",
                     "disqualified": false
+                },
+                {
+                    "captures": 4,
+                    "destroyed": 26,
+                    "deaths": 2,
+                    "assists": 14,
+                    "damage_caused": 76300,
+                    "damage_blocked": 16600,
+                    "credits": 7865,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 15330,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Victory",
+                    "map": "Nexus Dam",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/14092026__P4SSION.webp",
+                    "disqualified": false
+                },
+                {
+                    "captures": 5,
+                    "destroyed": 26,
+                    "deaths": 7,
+                    "assists": 12,
+                    "damage_caused": 98000,
+                    "damage_blocked": 15500,
+                    "credits": 10185,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 20370,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/15092026__P4SSION.webp",
+                    "disqualified": false
                 }
             ],
             "spitfira": [
@@ -12173,6 +12211,25 @@
                     "map": "Blossom Crash",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/15082026_Highyo_Boyo.webp",
+                    "disqualified": false
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 19,
+                    "deaths": 9,
+                    "assists": 12,
+                    "damage_caused": 67000,
+                    "damage_blocked": 3300,
+                    "credits": 5910,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 11820,
+                    "agent": "Kent",
+                    "vehicle": "XM1-90",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/15092026_Highyo_Boyo.webp",
                     "disqualified": false
                 }
             ],
@@ -13199,6 +13256,25 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/03092026_TX_7537.webp",
                     "disqualified": false
+                },
+                {
+                    "captures": 5,
+                    "destroyed": 18,
+                    "deaths": 4,
+                    "assists": 10,
+                    "damage_caused": 58800,
+                    "damage_blocked": 6300,
+                    "credits": 3764,
+                    "tech": 30,
+                    "intel": 20,
+                    "XP": 15055,
+                    "agent": "Gambit",
+                    "vehicle": "T-72SH",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/15092026_TX_7537.webp",
+                    "disqualified": false
                 }
             ],
             "Nikty": [
@@ -13717,6 +13793,27 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/14092026_Zis13_2016.webp",
+                    "disqualified": false
+                }
+            ],
+            "Giraf1k": [
+                {
+                    "captures": 4,
+                    "destroyed": 13,
+                    "deaths": 7,
+                    "assists": 11,
+                    "damage_caused": 56200,
+                    "damage_blocked": 19400,
+                    "credits": 7293,
+                    "tech": 62,
+                    "intel": 40,
+                    "XP": 14585,
+                    "agent": "Gambit",
+                    "vehicle": "T-72SH",
+                    "outcome": "Draw",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/14092026_Giraf1k.webp",
                     "disqualified": false
                 }
             ]
@@ -14893,6 +14990,25 @@
                     "map": "Nexus Dam",
                     "mode": "Hardpoint",
                     "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/24082026_TX_7537.webp",
+                    "disqualified": false
+                },
+                {
+                    "captures": 5,
+                    "destroyed": 22,
+                    "deaths": 1,
+                    "assists": 8,
+                    "damage_caused": 40900,
+                    "damage_blocked": 2100,
+                    "credits": 2951,
+                    "tech": 30,
+                    "intel": 20,
+                    "XP": 11005,
+                    "agent": "Gambit",
+                    "vehicle": "T-72SH",
+                    "outcome": "Victory",
+                    "map": "Project Phoenix",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/15092026_TX_7537.webp",
                     "disqualified": false
                 }
             ],
