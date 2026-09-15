@@ -3,7 +3,7 @@
         "ROOT": {
             "last_updated": {
                 "conquest": "2026-09-11T04:26:42Z",
-                "control": "2026-09-15T19:17:39Z",
+                "control": "2026-09-15T19:26:53Z",
                 "hardpoint": "2026-09-15T19:19:14Z",
                 "kill-confirmed": "2026-09-13T21:17:47Z",
                 "plant-defuse": "2026-08-30T01:39:20Z"
@@ -13814,6 +13814,27 @@
                     "map": "Scarred City",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/14092026_Giraf1k.webp",
+                    "disqualified": false
+                }
+            ],
+            "10_AHAPXICT_03": [
+                {
+                    "captures": 4,
+                    "destroyed": 18,
+                    "deaths": 2,
+                    "assists": 19,
+                    "damage_caused": 87400,
+                    "damage_blocked": 30600,
+                    "credits": 9025,
+                    "tech": 50,
+                    "intel": 0,
+                    "XP": 18050,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Draw",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/15092026_10_AHAPXICT_03.webp",
                     "disqualified": false
                 }
             ]
