@@ -1,6 +1,291 @@
 {
   "updates": [
     {
+      "version": "0.6.607",
+      "date": "2026-09-20",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #512",
+      "description": "Full patch notes for Update v0.6.607 (#512), detailing all changes made on 20 September, 2026.",
+      "added": [
+        "Added M60A1 material assets to the development model library",
+        "Added an outdated M60A2 build to the development model archive"
+      ],
+      "changed": [
+        "Updated the development model asset collection with additional M60-series resources"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.602",
+      "date": "2026-09-19",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #511",
+      "description": "Full patch notes for Update v0.6.602 (#511), detailing all changes made on 19 September, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.598",
+      "date": "2026-09-18",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #510",
+      "description": "Full patch notes for Update v0.6.598 (#510), detailing all changes made on 18 September, 2026.",
+      "added": [
+        "Two new memes added to the HEAT Labs media library",
+        "Placeholder image support added to the Core Details section of tank pages in development"
+      ],
+      "changed": [
+        "Meme index updated with the latest additions",
+        "Development tank page structure expanded to support placeholder imagery in Core Details"
+      ],
+      "removed": [
+        "Obsolete AI upscaling disclaimer removed from the M1 Railgun tank page"
+      ],
+      "fixed": [
+        "Cleaned up outdated content remaining on the M1 Railgun page"
+      ]
+    },
+    {
+      "version": "0.6.592",
+      "date": "2026-09-17",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #509",
+      "description": "Full patch notes for Update v0.6.592 (#509), detailing all changes made on 17 September, 2026.",
+      "added": [
+        "New module slot icons added to the tank assets library"
+      ],
+      "changed": [
+        "Tank module picker updated with dedicated game icons for each module slot type"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.588",
+      "date": "2026-09-16",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #508",
+      "description": "Full patch notes for Update v0.6.588 (#508), detailing all changes made on 16 September, 2026.",
+      "added": [
+        "Introduced a work-in-progress equipment and modules selection interface across all tank pages"
+      ],
+      "changed": [
+        "Increased module icon sizing for improved visibility and consistency",
+        "Streamlined the new tank page layout by removing unused description elements"
+      ],
+      "removed": [
+        "Unused description fields from the new tank page layout"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.583",
+      "date": "2026-09-15",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #507",
+      "description": "Full patch notes for Update v0.6.583 (#507), detailing all changes made on 15 September, 2026.",
+      "added": [
+        "Seven new player record proofs added",
+        "Eight new FV4030/X images added to the tank image collection",
+        "New FV4030/X development materials added",
+        "New news post added to the website",
+        "Missing player record entry added"
+      ],
+      "changed": [
+        "Player records index expanded with six new entries",
+        "FV4030/X gallery image paths updated",
+        "Internal FV4030/X development image naming standardized",
+        "News and player record indexes refreshed with the latest content"
+      ],
+      "removed": [
+        "One misplaced player record image removed from the record assets"
+      ],
+      "fixed": [
+        "Restored a missing player record entry and its associated proof",
+        "Corrected the placement of an incorrectly stored player record image",
+        "Updated FV4030/X asset references to use the correct gallery paths"
+      ]
+    },
+    {
+      "version": "0.6.570",
+      "date": "2026-09-14",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #506",
+      "description": "Full patch notes for Update v0.6.570 (#506), detailing all changes made on 14 September, 2026.",
+      "added": [
+        "Three new player records added to the player records system",
+        "Two new guide images added",
+        "New M551 Sheridan development model project added",
+        "Two new meme images added"
+      ],
+      "changed": [
+        "Player record information updated for an existing player",
+        "Player records index expanded with newly submitted entries",
+        "Player record proof assets updated to match the latest submissions",
+        "Gallery and media indexes refreshed with the latest content"
+      ],
+      "removed": [
+        "Two incorrectly categorized guide entries removed from the news index",
+        "Two outdated news card images removed"
+      ],
+      "fixed": [
+        "Corrected the placement of two guides that had previously been categorized as news",
+        "Corrected an incorrect player in-game name across the player records data and associated proof assets"
+      ]
+    },
+    {
+      "version": "0.6.558",
+      "date": "2026-09-13",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #505",
+      "description": "Full patch notes for Update v0.6.558 (#505), detailing all changes made on 13 September, 2026.",
+      "added": [
+        "Six new player record entries added to the records system",
+        "Six new player record proof images added to the archive",
+        "New tank nation flag icons added to the tank asset library",
+        "Complete tank role icon set added, including five previously missing variants",
+        "Two new meme images added to the media library"
+      ],
+      "changed": [
+        "Tank cards updated to display the new nation and tank type icons",
+        "Nation filter on the main tanks page updated to use nation flags",
+        "Tank type filter updated to use the correct role and type icons",
+        "Player records and supporting index data refreshed with the latest submissions"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected tank type and nation icon presentation across tank cards and filters",
+        "Completed missing tank role icon variants to ensure consistent icon coverage"
+      ]
+    },
+    {
+      "version": "0.6.546",
+      "date": "2026-09-12",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #504",
+      "description": "Full patch notes for Update v0.6.546 (#504), detailing all changes made on 12 September, 2026.",
+      "added": [
+        "Division and manufacturer metadata added to all tank entries",
+        "Placeholder game-data fields added to the main tank index for future data integration",
+        "New player record entry added",
+        "New player record proof added",
+        "New meme image added to the media library",
+        "Missing M551A1 card artwork added to the tank image collection"
+      ],
+      "changed": [
+        "Footer disclaimers across HEAT Labs services and repositories updated with new Content Creator Program information",
+        "CC Program disclaimer propagated across the main website, development website, mobile app, Discord services, social redirects, media repositories, tools, and API services",
+        "Tank metadata structure expanded to support division and manufacturer information"
+      ],
+      "removed": [
+        "Outdated M60A3 strengths and weaknesses data removed"
+      ],
+      "fixed": [
+        "Corrected formatting and syntax issues in the Marder 1A3 database entry",
+        "Fixed a spelling error in the Marder 1A3 tank data",
+        "Resolved an issue preventing interactive maps from being activated across all map pages",
+        "Corrected the filename of an internal development card image"
+      ]
+    },
+    {
+      "version": "0.6.532",
+      "date": "2026-09-11",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #503",
+      "description": "Full patch notes for Update v0.6.532 (#503), detailing all changes made on 11 September, 2026.",
+      "added": [
+        "27 new player record entries added to the player records system",
+        "Complete M551A1 image set added to the tank media library",
+        "New main tank imagery added for 16 tanks",
+        "New comparison imagery added for 17 tanks",
+        "17 new tank card images added for the updated tank imagery",
+        "New M60A3 development imagery added",
+        "Missing main tank artwork added to complete the available image set",
+        "New M551A1 gallery imagery added"
+      ],
+      "changed": [
+        "Tank index updated with the new main image paths",
+        "Tank comparison system updated to use the new image assets",
+        "Main tank pages updated with a fallback chain for the new image system",
+        "Main tank image naming scheme standardized across the development repository",
+        "M551A1 gallery data updated with its latest images",
+        "Player records index updated with 27 new entries",
+        "Meme index updated with a new image",
+        "Memes page playground card artwork refreshed",
+        "M551A1 development image assets reorganized under the updated image structure"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected the filename of one main tank image",
+        "Added the previously missing main image required for one tank page",
+        "Corrected image naming and path references to ensure the new tank artwork loads correctly across the website"
+      ]
+    },
+    {
+      "version": "0.6.511",
+      "date": "2026-09-10",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #502",
+      "description": "Full patch notes for Update v0.6.511 (#502), detailing all changes made on 10 September, 2026.",
+      "added": [
+        "Added a new news post and associated card image.",
+        "Added a new Playground page card and placeholder image.",
+        "Added new HSTV-L gallery imagery and development image material.",
+        "Added new Marder 1A3 gallery imagery.",
+        "Added updated M1 Railgun imagery using the new model.",
+        "Added two new Matcha images."
+      ],
+      "changed": [
+        "Updated project statistics, game build metadata, GSC data, Cloudflare traffic data, and related indexes.",
+        "Updated gallery paths for multiple tanks and standardized gallery image paths across tank data.",
+        "Introduced a new naming format for existing tank comparison and card images.",
+        "Updated tank page logic to use the new card image paths.",
+        "Added a WIP layout rework across all tank pages.",
+        "Refined tank page section selector sizing and alignment.",
+        "Applied global zoom adjustments and refined the sidebar accordingly.",
+        "Adjusted the map description sizing on the main maps page.",
+        "Updated the video showcase section to follow the intended grid layout.",
+        "Updated guide section data.",
+        "Updated the M1 Railgun icon and upscaled imagery."
+      ],
+      "removed": [
+        "Removed three images associated with a scrapped page.",
+        "Removed unused HSTV-L images.",
+        "Removed a test M1E1 image.",
+        "Removed an incorrect internal development image."
+      ],
+      "fixed": [
+        "Fixed incorrect gallery image paths across tank data.",
+        "Fixed vertical alignment issues in tank page section selector buttons.",
+        "Updated js-yaml and @xmldom/xmldom dependencies."
+      ]
+    },
+    {
       "version": "0.6.487",
       "date": "2026-09-09",
       "author": "HEAT Labs Team",
