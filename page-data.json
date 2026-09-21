@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 157,
+    "total_pages": 158,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-08-23T22:03:54.815412"
+    "export_timestamp": "2026-09-21T04:27:41.534741"
   },
   "pages": [
     {
@@ -706,6 +706,13 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
+      "url": "https://heatlabs.net/maps/utopia",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://heatlabs.net/news",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -1107,22 +1114,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 78,
+      "pending": 79,
       "not_indexed": 0,
       "indexed": 79
     },
     "google_api_status": {
-      "pending": 49,
+      "pending": 50,
       "not_indexed": 0,
       "indexed": 108
     },
     "https_page_status": {
-      "unknown": 129,
+      "unknown": 130,
       "not_https": 0,
       "https": 28
     },
     "breadcrumb_status": {
-      "unknown": 129,
+      "unknown": 130,
       "invalid": 0,
       "valid": 28
     }
