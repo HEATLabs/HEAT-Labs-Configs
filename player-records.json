@@ -3,9 +3,9 @@
         "ROOT": {
             "last_updated": {
                 "conquest": "2026-09-11T04:26:42Z",
-                "control": "2026-09-15T19:26:53Z",
-                "hardpoint": "2026-09-15T19:19:14Z",
-                "kill-confirmed": "2026-09-13T21:17:47Z",
+                "control": "2026-09-21T04:24:42Z",
+                "hardpoint": "2026-09-21T03:43:42Z",
+                "kill-confirmed": "2026-09-21T03:46:42Z",
                 "plant-defuse": "2026-08-30T01:39:20Z"
             },
             "removals": {
@@ -7326,6 +7326,25 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/06092026_RagnaWhitewolf.webp",
                     "disqualified": false
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 9,
+                    "deaths": 4,
+                    "assists": 11,
+                    "damage_caused": 47400,
+                    "damage_blocked": 31400,
+                    "credits": 8760,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 17520,
+                    "agent": "Ember",
+                    "vehicle": "M1150 ABV",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/18092026_RagnaWhitewolf.webp",
+                    "disqualified": false
                 }
             ],
             "LEmpireDuCanada": [
@@ -7521,6 +7540,25 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/13092026_JustRealNoob.webp",
+                    "disqualified": false
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 29,
+                    "deaths": 9,
+                    "assists": 9,
+                    "damage_caused": 83200,
+                    "damage_blocked": 32500,
+                    "credits": 7985,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 15970,
+                    "agent": "Raketa",
+                    "vehicle": "Object 287",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/20092026_JustRealNoob.webp",
                     "disqualified": false
                 }
             ],
@@ -10235,6 +10273,25 @@
                     "map": "Blossom Crash",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/11072026_dIAtticusIb.webp",
+                    "disqualified": false
+                },
+                {
+                    "captures": 1,
+                    "destroyed": 18,
+                    "deaths": 12,
+                    "assists": 9,
+                    "damage_caused": 49900,
+                    "damage_blocked": 15400,
+                    "credits": 4973,
+                    "tech": 50,
+                    "intel": 80,
+                    "XP": 9945,
+                    "agent": "Flair",
+                    "vehicle": "Leo 2FK, Leo 2KST",
+                    "outcome": "Draw",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/18092026_dIAtticusIb.webp",
                     "disqualified": false
                 }
             ],
@@ -13731,6 +13788,25 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/11092026_venom_OLEG_slabitelnoe.webp",
                     "disqualified": false
+                },
+                {
+                    "captures": 5,
+                    "destroyed": 22,
+                    "deaths": 7,
+                    "assists": 11,
+                    "damage_caused": 83400,
+                    "damage_blocked": 25700,
+                    "credits": 12078,
+                    "tech": 50,
+                    "intel": 160,
+                    "XP": 24155,
+                    "agent": "Ember",
+                    "vehicle": "M1150 ABV",
+                    "outcome": "Draw",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/18092026_venom_OLEG_slabitelnoe.webp",
+                    "disqualified": false
                 }
             ],
             "P1NNY": [
@@ -13752,6 +13828,63 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/12092026_P1NNY.webp",
                     "disqualified": false
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 10,
+                    "deaths": 10,
+                    "assists": 16,
+                    "damage_caused": 44900,
+                    "damage_blocked": 54900,
+                    "credits": 7468,
+                    "tech": 50,
+                    "intel": 0,
+                    "XP": 14935,
+                    "agent": "Gambit",
+                    "vehicle": "T-72SH",
+                    "outcome": "Draw",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/19092026_P1NNY-1.webp",
+                    "disqualified": false
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 11,
+                    "deaths": 4,
+                    "assists": 16,
+                    "damage_caused": 50800,
+                    "damage_blocked": 41900,
+                    "credits": 7388,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 14775,
+                    "agent": "Gambit",
+                    "vehicle": "T-72SH",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/19092026_P1NNY-2.webp",
+                    "disqualified": false
+                },
+                {
+                    "captures": 5,
+                    "destroyed": 12,
+                    "deaths": 8,
+                    "assists": 10,
+                    "damage_caused": 31100,
+                    "damage_blocked": 16100,
+                    "credits": 5333,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 10665,
+                    "agent": "Gambit",
+                    "vehicle": "T-72SH",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/20092026_P1NNY.webp",
+                    "disqualified": false
                 }
             ],
             "superhamutarou01": [
@@ -13772,6 +13905,25 @@
                     "map": "Scarred City",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/14092026_superhamutarou01.webp",
+                    "disqualified": false
+                },
+                {
+                    "captures": 5,
+                    "destroyed": 26,
+                    "deaths": 1,
+                    "assists": 16,
+                    "damage_caused": 85000,
+                    "damage_blocked": 19200,
+                    "credits": 13248,
+                    "tech": 50,
+                    "intel": 0,
+                    "XP": 26495,
+                    "agent": "Ember",
+                    "vehicle": "M1150 ABV",
+                    "outcome": "Draw",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/16092026_superhamutarou01.webp",
                     "disqualified": false
                 }
             ],
@@ -13835,6 +13987,111 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/15092026_10_AHAPXICT_03.webp",
+                    "disqualified": false
+                }
+            ],
+            "BritishDiamonds": [
+                {
+                    "captures": 4,
+                    "destroyed": 15,
+                    "deaths": 4,
+                    "assists": 19,
+                    "damage_caused": 75600,
+                    "damage_blocked": 19500,
+                    "credits": 9085,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 18170,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/16092026_BritishDiamonds.webp",
+                    "disqualified": false
+                }
+            ],
+            "SCIPIOld": [
+                {
+                    "captures": 3,
+                    "destroyed": 17,
+                    "deaths": 4,
+                    "assists": 16,
+                    "damage_caused": 49500,
+                    "damage_blocked": 18900,
+                    "credits": 5640,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 11280,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/16092026_SCIPIOld.webp",
+                    "disqualified": false
+                }
+            ],
+            "Dear_Liberals": [
+                {
+                    "captures": 6,
+                    "destroyed": 19,
+                    "deaths": 1,
+                    "assists": 3,
+                    "damage_caused": 37100,
+                    "damage_blocked": 11900,
+                    "credits": 5093,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 10185,
+                    "agent": "Reaper",
+                    "vehicle": "M60A1",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/18092026_Dear_Liberals.webp",
+                    "disqualified": false
+                }
+            ],
+            "kaivinsky06": [
+                {
+                    "captures": 3,
+                    "destroyed": 12,
+                    "deaths": 3,
+                    "assists": 11,
+                    "damage_caused": 59300,
+                    "damage_blocked": 19600,
+                    "credits": 8635,
+                    "tech": 40,
+                    "intel": 40,
+                    "XP": 17270,
+                    "agent": "Ember",
+                    "vehicle": "M1150 ABV",
+                    "outcome": "Defeat",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/19092026_kaivinsky06.webp",
+                    "disqualified": false
+                }
+            ],
+            "OoKaMSHaFToO": [
+                {
+                    "captures": 2,
+                    "destroyed": 18,
+                    "deaths": 8,
+                    "assists": 6,
+                    "damage_caused": 53800,
+                    "damage_blocked": 1300,
+                    "credits": 5010,
+                    "tech": 50,
+                    "intel": 120,
+                    "XP": 10020,
+                    "agent": "Twister",
+                    "vehicle": "HSTV-L, M551A1",
+                    "outcome": "Draw",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/19092026_OoKaMSHaFToO.webp",
                     "disqualified": false
                 }
             ]
@@ -15196,6 +15453,27 @@
                     "map": "Nexus Dam",
                     "mode": "Hardpoint",
                     "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/14092026_venom_OLEG_slabitelnoe.webp",
+                    "disqualified": false
+                }
+            ],
+            "ClaudiaLeroch": [
+                {
+                    "captures": 0,
+                    "destroyed": 5,
+                    "deaths": 1,
+                    "assists": 9,
+                    "damage_caused": 23700,
+                    "damage_blocked": 384,
+                    "credits": 2403,
+                    "tech": 40,
+                    "intel": 40,
+                    "XP": 4250,
+                    "agent": "Hound",
+                    "vehicle": "Leo 1A6A1",
+                    "outcome": "Defeat",
+                    "map": "Scarred City",
+                    "mode": "Hardpoint",
+                    "proof": "https://cdn6.heatlabs.net/player-records/hardpoint/19092026_ClaudiaLeroch.webp",
                     "disqualified": false
                 }
             ]
@@ -16888,6 +17166,26 @@
                     "map": "Project Phoenix",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/23082026_Kampfapfel_NikalusCH.webp",
+                    "disqualified": false
+                },
+                {
+                    "confirms": 9,
+                    "denies": 2,
+                    "destroyed": 10,
+                    "deaths": 6,
+                    "assists": 5,
+                    "damage_caused": 23400,
+                    "damage_blocked": 0,
+                    "credits": 2885,
+                    "tech": 60,
+                    "intel": 320,
+                    "XP": 5760,
+                    "agent": "Gambit",
+                    "vehicle": "M60A3E2",
+                    "outcome": "Victory",
+                    "map": "Moonshot",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/16092026_Kampfapfel_NikalusCH.webp",
                     "disqualified": false
                 }
             ],
@@ -18811,6 +19109,26 @@
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/13072026_JustRealNoob.webp",
                     "disqualified": false
+                },
+                {
+                    "confirms": 8,
+                    "denies": 5,
+                    "destroyed": 25,
+                    "deaths": 7,
+                    "assists": 14,
+                    "damage_caused": 79800,
+                    "damage_blocked": 0,
+                    "credits": 7820,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 15630,
+                    "agent": "15630",
+                    "vehicle": "Object 287",
+                    "outcome": "Victory",
+                    "map": "Aircraft Carrier",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/20092026_JustRealNoob.webp",
+                    "disqualified": false
                 }
             ],
             "darkbanefox": [
@@ -19740,6 +20058,50 @@
                     "map": "Moonshot",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/13092026_MaidDargon_skynight.webp",
+                    "disqualified": false
+                }
+            ],
+            "BritishDiamonds": [
+                {
+                    "confirms": 10,
+                    "denies": 1,
+                    "destroyed": 9,
+                    "deaths": 5,
+                    "assists": 7,
+                    "damage_caused": 36300,
+                    "damage_blocked": 0,
+                    "credits": 0,
+                    "tech": 0,
+                    "intel": 0,
+                    "XP": 9505,
+                    "agent": "Ember",
+                    "vehicle": "M1150 ABV",
+                    "outcome": "Victory",
+                    "map": "Nord Oko",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/16092026_BritishDiamonds.webp",
+                    "disqualified": false
+                }
+            ],
+            "Moprovskiy": [
+                {
+                    "confirms": 2,
+                    "denies": 1,
+                    "destroyed": 9,
+                    "deaths": 1,
+                    "assists": 7,
+                    "damage_caused": 48400,
+                    "damage_blocked": 0,
+                    "credits": 0,
+                    "tech": 0,
+                    "intel": 0,
+                    "XP": 12115,
+                    "agent": "Reaper",
+                    "vehicle": "M60A2",
+                    "outcome": "Defeat",
+                    "map": "Eden",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/21092026_Moprovskiy.webp",
                     "disqualified": false
                 }
             ]
