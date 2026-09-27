@@ -1,6 +1,144 @@
 {
   "updates": [
     {
+      "version": "0.6.655",
+      "date": "2026-09-26",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #518",
+      "description": "Full patch notes for Update v0.6.655 (#518), detailing all changes made on 26 September, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.651",
+      "date": "2026-09-25",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #517",
+      "description": "Full patch notes for Update v0.6.651 (#517), detailing all changes made on 25 September, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.647",
+      "date": "2026-09-24",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #516",
+      "description": "Full patch notes for Update v0.6.647 (#516), detailing all changes made on 24 September, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Game build data updated with the latest available information"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.643",
+      "date": "2026-09-23",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #515",
+      "description": "Full patch notes for Update v0.6.643 (#515), detailing all changes made on 23 September, 2026.",
+      "added": [
+        "New news article published to the HEAT Labs website",
+        "New artwork added for the latest news article"
+      ],
+      "changed": [
+        "Development model imagery updated with an adjusted rear-view image"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.638",
+      "date": "2026-09-22",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #514",
+      "description": "Full patch notes for Update v0.6.638 (#514), detailing all changes made on 22 September, 2026.",
+      "added": [
+        "Complete Question & Answer Episode 9 data added to the platform",
+        "Raw Episode 9 Q&A data added to the database",
+        "Placeholder text support added for video-based questions"
+      ],
+      "changed": [
+        "Latest Q&A entry updated with revised note formatting",
+        "Q&A content updated with comprehensive grammar and SEO improvements",
+        "Q&A update date refreshed across the website and configuration data"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Removed redundant line-break markup from a Q&A question"
+      ]
+    },
+    {
+      "version": "0.6.630",
+      "date": "2026-09-21",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #513",
+      "description": "Full patch notes for Update v0.6.630 (#513), detailing all changes made on 21 September, 2026.",
+      "added": [
+        "18 new player records added to the player records system",
+        "New guide published and added to the guides index",
+        "New guide artwork added to the image library",
+        "New meme image added to the media collection",
+        "Eight new tank images added for a newly updated tank gallery",
+        "Additional M60A1 gallery artwork added",
+        "New AMX 10 RC development images and material assets added"
+      ],
+      "changed": [
+        "Tank gallery imagery refreshed across the collection",
+        "M60A1 gallery paths updated to use the latest artwork",
+        "Tank classification data refined across multiple vehicles",
+        "Tank type mappings updated to support a previously missing classification",
+        "Four tank type fields adjusted for improved data accuracy",
+        "Player records data and supporting proof images expanded with 18 new entries",
+        "Project statistics refreshed",
+        "Guides index and page data updated with the latest guide",
+        "Google Search Console and Cloudflare traffic data refreshed",
+        "GSC export and indexing data updated",
+        "Development model image naming standardized across internal assets"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected incorrect tank classification tags affecting multiple vehicles",
+        "Fixed an incorrect agent name in an existing player record",
+        "Corrected missing guide metadata for the newly added guide",
+        "Fixed tank type icon mappings across the main website and development environment"
+      ]
+    },
+    {
       "version": "0.6.607",
       "date": "2026-09-20",
       "author": "HEAT Labs Team",
