@@ -3,7 +3,7 @@
         "ROOT": {
             "last_updated": {
                 "conquest": "2026-09-11T04:26:42Z",
-                "control": "2026-09-28T17:58:29Z",
+                "control": "2026-09-28T18:19:13Z",
                 "hardpoint": "2026-09-27T16:37:22Z",
                 "kill-confirmed": "2026-09-28T17:59:53Z",
                 "plant-defuse": "2026-08-30T01:39:20Z"
@@ -10369,6 +10369,25 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/18092026_dIAtticusIb.webp",
                     "disqualified": false
+                },
+                {
+                    "captures": 1,
+                    "destroyed": 5,
+                    "deaths": 7,
+                    "assists": 7,
+                    "damage_caused": 26400,
+                    "damage_blocked": 31000,
+                    "credits": 3888,
+                    "tech": 50,
+                    "intel": 0,
+                    "XP": 7775,
+                    "agent": "Gambit",
+                    "vehicle": "T-72SH, M60A3E2",
+                    "outcome": "Defeat",
+                    "map": "Aircraft Carrier",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/28092026_dIAtticusIb.webp",
+                    "disqualified": false
                 }
             ],
             "Timmy_Please": [
@@ -14440,6 +14459,27 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/27092026_Xeukrat.webp",
+                    "disqualified": false
+                }
+            ],
+            "rabbit_singularity": [
+                {
+                    "captures": 3,
+                    "destroyed": 6,
+                    "deaths": 4,
+                    "assists": 16,
+                    "damage_caused": 34800,
+                    "damage_blocked": 26800,
+                    "credits": 1273,
+                    "tech": 18,
+                    "intel": 24,
+                    "XP": 8330,
+                    "agent": "Gambit",
+                    "vehicle": "T-72SH",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/28092026_rabbit_singularity.webp",
                     "disqualified": false
                 }
             ]
