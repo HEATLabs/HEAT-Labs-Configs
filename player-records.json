@@ -3,9 +3,9 @@
         "ROOT": {
             "last_updated": {
                 "conquest": "2026-09-11T04:26:42Z",
-                "control": "2026-09-27T16:43:18Z",
+                "control": "2026-09-28T17:58:29Z",
                 "hardpoint": "2026-09-27T16:37:22Z",
-                "kill-confirmed": "2026-09-27T16:46:48Z",
+                "kill-confirmed": "2026-09-28T17:59:53Z",
                 "plant-defuse": "2026-08-30T01:39:20Z"
             },
             "removals": {
@@ -11888,6 +11888,25 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/25092026__P4SSION.webp",
                     "disqualified": false
+                },
+                {
+                    "captures": 3,
+                    "destroyed": 25,
+                    "deaths": 1,
+                    "assists": 18,
+                    "damage_caused": 102200,
+                    "damage_blocked": 29800,
+                    "credits": 9578,
+                    "tech": 50,
+                    "intel": 0,
+                    "XP": 19155,
+                    "agent": "Gambit",
+                    "vehicle": "T-72SH",
+                    "outcome": "Draw",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/28092026__P4SSION.webp",
+                    "disqualified": false
                 }
             ],
             "spitfira": [
@@ -13743,6 +13762,44 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/13092026_Kampfapfel_NikalusCH.webp",
                     "disqualified": false
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 10,
+                    "deaths": 4,
+                    "assists": 6,
+                    "damage_caused": 34800,
+                    "damage_blocked": 11600,
+                    "credits": 4355,
+                    "tech": 60,
+                    "intel": 120,
+                    "XP": 8710,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/28092026_Kampfapfel_NikalusCH-1.webp",
+                    "disqualified": false
+                },
+                {
+                    "captures": 6,
+                    "destroyed": 6,
+                    "deaths": 6,
+                    "assists": 16,
+                    "damage_caused": 39300,
+                    "damage_blocked": 20600,
+                    "credits": 6165,
+                    "tech": 60,
+                    "intel": 200,
+                    "XP": 12330,
+                    "agent": "Gambit",
+                    "vehicle": "T-72SH, M60A3E2",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/28092026_Kampfapfel_NikalusCH-4.webp",
+                    "disqualified": false
                 }
             ],
             "SINEWAVE_": [
@@ -14341,6 +14398,48 @@
                     "map": "Scarred City",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/25092026_Heliomalt.webp",
+                    "disqualified": false
+                }
+            ],
+            "MeRowex": [
+                {
+                    "captures": 2,
+                    "destroyed": 20,
+                    "deaths": 7,
+                    "assists": 9,
+                    "damage_caused": 61200,
+                    "damage_blocked": 0,
+                    "credits": 5105,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 10210,
+                    "agent": "Flair",
+                    "vehicle": "Leo 2KST",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/27092026_MeRowex.webp",
+                    "disqualified": false
+                }
+            ],
+            "Xeukrat": [
+                {
+                    "captures": 2,
+                    "destroyed": 15,
+                    "deaths": 13,
+                    "assists": 7,
+                    "damage_caused": 43000,
+                    "damage_blocked": 23400,
+                    "credits": 7390,
+                    "tech": 60,
+                    "intel": 240,
+                    "XP": 14780,
+                    "agent": "Ember",
+                    "vehicle": "M1150 ABV",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/27092026_Xeukrat.webp",
                     "disqualified": false
                 }
             ]
@@ -17475,6 +17574,46 @@
                     "map": "Moonshot",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/16092026_Kampfapfel_NikalusCH.webp",
+                    "disqualified": false
+                },
+                {
+                    "confirms": 14,
+                    "denies": 1,
+                    "destroyed": 12,
+                    "deaths": 5,
+                    "assists": 9,
+                    "damage_caused": 24700,
+                    "damage_blocked": 0,
+                    "credits": 2818,
+                    "tech": 75,
+                    "intel": 120,
+                    "XP": 5625,
+                    "agent": "Raketa",
+                    "vehicle": "T-62AV",
+                    "outcome": "Victory",
+                    "map": "Nord Oko",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/28092026_Kampfapfel_NikalusCH-2.webp",
+                    "disqualified": false
+                },
+                {
+                    "confirms": 11,
+                    "denies": 1,
+                    "destroyed": 10,
+                    "deaths": 7,
+                    "assists": 6,
+                    "damage_caused": 25000,
+                    "damage_blocked": 0,
+                    "credits": 2590,
+                    "tech": 60,
+                    "intel": 340,
+                    "XP": 5170,
+                    "agent": "Raketa",
+                    "vehicle": "T-62AV",
+                    "outcome": "Victory",
+                    "map": "Eden",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/28092026_Kampfapfel_NikalusCH-3.webp",
                     "disqualified": false
                 }
             ],
