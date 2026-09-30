@@ -1134,60 +1134,6 @@
         }
     },
     {
-        "id": 23,
-        "state": "displayed",
-        "name": "T-72AU",
-        "slug": "t-72au",
-        "nation": "USSR",
-        "type": "Defender",
-        "class": "To Be Released",
-        "experience": "0",
-        "credits": "Unknown",
-        "division": "Grasshoppers",
-        "manufacturer": "Unknown",
-        "featured": false,
-        "gallery": {
-            "image_1": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
-            "image_2": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
-            "image_3": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
-            "image_4": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
-        },
-        "compare": "https://cdn7.heatlabs.net/tanks/t-72au/t-72au_compare.webp",
-        "card": "https://cdn7.heatlabs.net/tanks/t-72au/t-72au_card.webp",
-        "image": "https://cdn7.heatlabs.net/tanks/t-72au/upscaled_t-72au.webp",
-        "main": "https://cdn7.heatlabs.net/tanks/t-72au/t-72au_main.webp",
-        "stock": "https://cdn2.heatlabs.net/tanks/t-72au/stock.json",
-        "upgrades": "https://cdn2.heatlabs.net/tanks/t-72au/modules.json",
-        "consumables": "https://cdn2.heatlabs.net/tanks/t-72au/consumables.json",
-        "agents": "https://cdn2.heatlabs.net/tanks/t-72au/agents.json",
-        "details": "https://cdn2.heatlabs.net/tanks/t-72au/details.json",
-        "builds": "https://cdn2.heatlabs.net/tanks/t-72au/builds.json",
-        "abilities": "https://cdn2.heatlabs.net/tanks/t-72au/abilities.json",
-        "missions": "https://cdn2.heatlabs.net/game-data/missions.json",
-        "modelSD": "https://cdn4.heatlabs.net/glb-models/placeholder.glb",
-        "modelHD": "https://cdn4.heatlabs.net/glb-models/placeholder.glb",
-        "statistics": {
-            "lethality": 35,
-            "mobility": 50,
-            "survivability": 30,
-            "utility": 65
-        },
-        "slots": {
-            "modules": [
-                "Unknown Slot",
-                "Unknown Slot",
-                "Unknown Slot",
-                "Unknown Slot",
-                "Unknown Slot",
-                "Unknown Slot"
-            ],
-            "equipments": [
-                "Primary Equipment",
-                "Secondary Equipment"
-            ]
-        }
-    },
-    {
         "id": 26,
         "state": "displayed",
         "name": "XM1-90",
