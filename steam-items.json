@@ -69,29 +69,6 @@
         "restriction": "admin_controlled"
       }
     },
-    "heat_labs_testers": {
-      "name": "Tester Token",
-      "description": "Given to testers who actively help identify bugs, issues, and other problems. This token honours those who put in time testing features before release.",
-      "appid": 4318510,
-      "contextid": "2",
-      "defindex": 7004,
-      "icon_url": "URL",
-      "icon_url_large": "URL",
-      "name_color": "COLOR_HEX",
-      "item_schema_type": "token",
-      "item_quality": 3,
-      "rarity": "Tester",
-      "attributes": {
-        "account_bound": true,
-        "tradable": false,
-        "marketable": false,
-        "giftable": false,
-        "stackable": false
-      },
-      "flags": {
-        "restriction": "admin_controlled"
-      }
-    },
     "heat_labs_creators": {
       "name": "Creator Token",
       "description": "Awarded to featured content creators whose work is showcased on HEAT Labs. This token recognizes creators who help grow the community through videos, streams, guides, or other media.",
