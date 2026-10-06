@@ -5,7 +5,7 @@
         "slug": "details/configurator",
         "creator": "HEAT Labs",
         "status": "Available Now",
-        "modVersion": "https://github.com/HEATLabs/HEAT-Labs-Configurator/releases/tag/HEATLabs-Configurator-v20260623065904",
+        "modVersion": "https://api.github.com/repos/HEATLabs/HEAT-Labs-Configurator/releases/latest",
         "description": "Configure your World of Tanks: HEAT instance with advanced settings and customization.",
         "image": "https://cdn6.heatlabs.net/mods/GameConfigurator.webp",
         "details": "https://raw.githubusercontent.com/HEATLabs/HEAT-Labs-Mods/refs/heads/main/mod-files/configurator.md"
@@ -31,5 +31,16 @@
         "description": "Records battles, platoon stats, 1v1s and loadouts locally, no account. Has OBS overlay.",
         "image": "https://cdn6.heatlabs.net/mods/HEAT-Sentinel.webp",
         "details": "https://raw.githubusercontent.com/HEATLabs/HEAT-Labs-Mods/refs/heads/main/mod-files/sentinel.md"
+    },
+    {
+        "id": 4,
+        "name": "HEAT Stats Tracker",
+        "slug": "details/heat-stats-tracker",
+        "creator": "Nehalem",
+        "status": "Available Now",
+        "modVersion": "Unknown",
+        "description": "Track your Progression in World of Tanks: HEAT",
+        "image": "https://cdn6.heatlabs.net/mods/HEAT-Stats-Tracker.webp",
+        "details": "https://raw.githubusercontent.com/HEATLabs/HEAT-Labs-Mods/refs/heads/main/mod-files/HEAT-Stats-Tracker.md"
     }
 ]
