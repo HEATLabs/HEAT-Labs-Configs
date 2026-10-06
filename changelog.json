@@ -1,6 +1,244 @@
 {
   "updates": [
     {
+      "version": "0.6.743",
+      "date": "2026-10-06",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #528",
+      "description": "Full patch notes for Update v0.6.743 (#528), detailing all changes made on 06 October, 2026.",
+      "added": [
+        "New game mods card image added",
+        "Base files added for the HEAT Labs Replay Manager",
+        "New game mod page added",
+        "HEAT Stats Tracker documentation added to the mods section",
+        "Two new repositories added to the daily commit fetcher"
+      ],
+      "changed": [
+        "Stat Tracker Discord RPC application ID updated",
+        "Replay Manager documentation and project files updated",
+        "Mod details and support information revised",
+        "Compatible version updated across all mods",
+        "Partner and game mod layouts updated",
+        "Missing Discord icons added to mod pages and game mod cards",
+        "Stat Tracker and Replay Manager README files updated",
+        "Stat Tracker and Replay Manager development builds synchronized with their latest changes"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Incorrect mod ID corrected on a new mod page"
+      ]
+    },
+    {
+      "version": "0.6.728",
+      "date": "2026-10-05",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #527",
+      "description": "Full patch notes for Update v0.6.728 (#527), detailing all changes made on 05 October, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "One user name updated in the player records data"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.724",
+      "date": "2026-10-04",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #526",
+      "description": "Full patch notes for Update v0.6.724 (#526), detailing all changes made on 04 October, 2026.",
+      "added": [
+        "New partner added to the Discord bot command index",
+        "New partner added to the Support Us page"
+      ],
+      "changed": [
+        "Halloween module enabled",
+        "Partners section layout updated across the website",
+        "Partner box button names updated",
+        "Support Us page updated with the new partner"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Incorrect Googlebot tag corrected on one tank page"
+      ]
+    },
+    {
+      "version": "0.6.716",
+      "date": "2026-10-03",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #525",
+      "description": "Full patch notes for Update v0.6.716 (#525), detailing all changes made on 03 October, 2026.",
+      "added": [
+        "New meme image added"
+      ],
+      "changed": [
+        "All meme images converted to WEBP format",
+        "Meme image configuration data updated to use the new WEBP files"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.711",
+      "date": "2026-10-02",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #524",
+      "description": "Full patch notes for Update v0.6.711 (#524), detailing all changes made on 02 October, 2026.",
+      "added": [
+        "Missing color codes added for WIP Steam item names"
+      ],
+      "changed": [
+        "WIP Steam item configuration data updated with the new color codes"
+      ],
+      "removed": [
+        "Tester token field removed from WIP Steam items"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.707",
+      "date": "2026-10-01",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #523",
+      "description": "Full patch notes for Update v0.6.707 (#523), detailing all changes made on 01 October, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "npm dependency group updated with two package updates",
+        "Record Keeper dependencies updated through the latest Dependabot changes"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.702",
+      "date": "2026-09-30",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #522",
+      "description": "Full patch notes for Update v0.6.702 (#522), detailing all changes made on 30 September, 2026.",
+      "added": [
+        "Two new news card images added",
+        "14 new meme images added to the media library",
+        "New tank images added for seven tanks",
+        "New materials added for the T-62MS Udarnik, T-64B, BAT-4M, and PTZ"
+      ],
+      "changed": [
+        "Gallery data updated for seven tanks with new images",
+        "Meme index updated with 14 new entries",
+        "News index updated with two new articles",
+        "Internal names updated for seven tank image sets"
+      ],
+      "removed": [
+        "One scrapped tank removed from the main tank index",
+        "One scrapped tank removed from the tracking pixel index",
+        "One scrapped tank removed from the search keyword index",
+        "One scrapped tank removed from page data",
+        "One scrapped tank removed from the tank database",
+        "One scrapped tank removed from tank image data",
+        "One scrapped tank page removed from the website",
+        "AI upscaling warnings removed from seven tank pages",
+        "One scrapped tank page removed from the website development files"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.684",
+      "date": "2026-09-29",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #521",
+      "description": "Full patch notes for Update v0.6.684 (#521), detailing all changes made on 29 September, 2026.",
+      "added": [
+        "14 new meme images added to the media library",
+        "New AGDS materials added",
+        "New T-62MS Udarnik materials added",
+        "New Leopard 1A1 Blitz materials added"
+      ],
+      "changed": [
+        "OBJ 279 assets updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "OBJ 279E images corrected"
+      ]
+    },
+    {
+      "version": "0.6.677",
+      "date": "2026-09-28",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #520",
+      "description": "Full patch notes for Update v0.6.677 (#520), detailing all changes made on 28 September, 2026.",
+      "added": [
+        "Two missing player records added to the player records database",
+        "Seven new player record proofs added",
+        "Agent filtering added to the Top 20 player leaderboard",
+        "New meme image added to the media library"
+      ],
+      "changed": [
+        "Player records data updated with the latest submissions and proof images",
+        "Top 20 leaderboard updated to support filtering by agent",
+        "Player records interface improved with expanded agent filtering functionality"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected an incorrect tank name in the player records data",
+        "Fixed an issue preventing the agent filter from functioning correctly on the player records page"
+      ]
+    },
+    {
+      "version": "0.6.667",
+      "date": "2026-09-27",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #519",
+      "description": "Full patch notes for Update v0.6.667 (#519), detailing all changes made on 27 September, 2026.",
+      "added": [
+        "20 new player records added to the player records index",
+        "New news post published to the website",
+        "20 new player record proof images added",
+        "New artwork added for the latest news post",
+        "Rain effects added to the Halloween module"
+      ],
+      "changed": [
+        "Halloween module updated with new weather effects",
+        "Main Halloween module synchronized with the latest development version",
+        "Google Search Console export and index data refreshed",
+        "Cloudflare traffic data updated",
+        "Changelog and daily commit records updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected the rear gallery image displayed for the M60A2"
+      ]
+    },
+    {
       "version": "0.6.655",
       "date": "2026-09-26",
       "author": "HEAT Labs Team",
