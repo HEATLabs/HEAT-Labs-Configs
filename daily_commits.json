@@ -1,4 +1,115 @@
 {
+  "2026-10-06": [
+    "[HEAT-Labs-Images-Features] added 1 new game mods card image",
+    "[HEAT-Labs-Stat-Tracker] Update README.md",
+    "[HEAT-Labs-Stat-Tracker] updated discord RPC app ID in stat tracker build",
+    "[HEAT-Labs-Stat-Tracker-Development] Update README.md",
+    "[HEAT-Labs-Stat-Tracker-Development] updated discord RPC app ID in stat tracker build",
+    "[HEAT-Labs-Replay-Manager] Update .gitignore",
+    "[HEAT-Labs-Replay-Manager] Update README.md",
+    "[HEAT-Labs-Replay-Manager] added base app files",
+    "[HEAT-Labs-Replay-Manager] Update .gitignore",
+    "[HEAT-Labs-Replay-Manager] Initial commit",
+    "[HEAT-Labs-Replay-Manager-Development] Update README.md",
+    "[HEAT-Labs-Replay-Manager-Development] added base app files",
+    "[HEAT-Labs-Replay-Manager-Development] Update .gitignore",
+    "[HEAT-Labs-Replay-Manager-Development] Initial commit",
+    "[HEAT-Labs-Mods] Merge pull request #3 from Hakuryyuu/patch-1",
+    "[HEAT-Labs-Mods] Revise mod details and enhance support information",
+    "[HEAT-Labs-Mods] fixed incorrect mod ID in 1 new mod page",
+    "[HEAT-Labs-Mods] added page for 1 new game mod",
+    "[HEAT-Labs-Mods] added HEAT Stats Tracker MD file",
+    "[HEAT-Labs-Mods] bumped compatible-version for all mods",
+    "[HEAT-Labs-Static] added missing discord icon to main mod pages",
+    "[HEAT-Labs-Static] added missing discord icon to game mods cards",
+    "[HEAT-Labs-Tools] added 2 new repositories to daily commit fetcher tool",
+    "[HEAT-Labs-Website-Development] added missing discord icon to main mod pages",
+    "[HEAT-Labs-Website-Development] added missing discord icon to game mods cards"
+  ],
+  "2026-10-05": [
+    "[HEAT-Labs-Configs] renamed one user in player records data"
+  ],
+  "2026-10-04": [
+    "[HEAT-Labs-Discord-Bot] added 1 new partner to bot command index",
+    "[HEAT-Labs-Static] enabled halloween module",
+    "[HEAT-Labs-Static] tweaked layout in partners section",
+    "[HEAT-Labs-Website] fixed incorrect googlebot tag in 1 tank page",
+    "[HEAT-Labs-Website] tweaked layout in partners section",
+    "[HEAT-Labs-Website] added 1 new partner to support us page, tweaked button names in partner boxes",
+    "[HEAT-Labs-Website-Development] tweaked layout in partners section",
+    "[HEAT-Labs-Website-Development] added 1 new partner to support us page, tweaked button names in partner boxes"
+  ],
+  "2026-10-03": [
+    "[HEAT-Labs-Configs] converted all meme images to WEBP",
+    "[HEAT-Labs-Images] converted all meme images to WEBP",
+    "[HEAT-Labs-Images] added 1 new meme image"
+  ],
+  "2026-10-02": [
+    "[HEAT-Labs-Configs] removed tester token field from WIP steam items",
+    "[HEAT-Labs-Configs] added missing color codes for WIP steam item names"
+  ],
+  "2026-10-01": [
+    "[HEAT-Labs-Tools] Merge pull request #8 from HEATLabs/dependabot/npm_and_yarn/record-keeper/npm_and_yarn-f681961313",
+    "[HEAT-Labs-Tools] Bump the npm_and_yarn group across 1 directory with 2 updates",
+    "[HEAT-Labs-Tools] Merge pull request #7 from HEATLabs/dependabot/npm_and_yarn/record-keeper/npm_and_yarn-0a771e48b5",
+    "[HEAT-Labs-Tools] Bump the npm_and_yarn group across 1 directory with 2 updates"
+  ],
+  "2026-09-30": [
+    "[HEAT-Labs-Configs] updated gallery data for 7 tanks with new images",
+    "[HEAT-Labs-Configs] removed 1 scrapped tank from main tank index",
+    "[HEAT-Labs-Configs] removed 1 scrapped tank from tracking pixel index",
+    "[HEAT-Labs-Configs] removed 1 scrapped tank from search keyword index",
+    "[HEAT-Labs-Configs] removed 1 scrapped tank from page data",
+    "[HEAT-Labs-Configs] updated meme index with 14 new memes",
+    "[HEAT-Labs-Configs] updated news index with 2 new articles",
+    "[HEAT-Labs-Database] removed 1 scrapped tank database files",
+    "[HEAT-Labs-Images-News] added 2 new news card images",
+    "[HEAT-Labs-Images-Tanks] added new tank images for 7 tanks",
+    "[HEAT-Labs-Images-Tanks] removed 1 scrapped tank image data",
+    "[HEAT-Labs-Models-Development] tweaked internal names for 7 tank image sets",
+    "[HEAT-Labs-Models-Development] added T62 MS udarnik materials",
+    "[HEAT-Labs-Models-Development] ADDED T64 B materials",
+    "[HEAT-Labs-Models-Development] Added BAT4M MATERIALS",
+    "[HEAT-Labs-Models-Development] Added PTZ MATERIAL",
+    "[HEAT-Labs-Website] removed AI upscaling warning from 7 tank pages",
+    "[HEAT-Labs-Website] removed 1 scrapped tank page",
+    "[HEAT-Labs-Website-Development] removed 1 scrapped tank page"
+  ],
+  "2026-09-29": [
+    "[HEAT-Labs-Images] added 14 new meme images",
+    "[HEAT-Labs-Models-Development] added agds materials",
+    "[HEAT-Labs-Models-Development] fixed obj 279 e images",
+    "[HEAT-Labs-Models-Development] OBJ 279",
+    "[HEAT-Labs-Models-Development] added leo 1A1 blitz materia;"
+  ],
+  "2026-09-28": [
+    "[HEAT-Labs-Configs] fixed one incorrect tank name in player records data",
+    "[HEAT-Labs-Configs] updated meme index with 1 new image",
+    "[HEAT-Labs-Configs] added 2 missing player records",
+    "[HEAT-Labs-Configs] added 7 new player record proofs",
+    "[HEAT-Labs-Images] added 1 new meme image",
+    "[HEAT-Labs-Images-Features] added 2 missing player records",
+    "[HEAT-Labs-Images-Features] added 7 new player record proofs",
+    "[HEAT-Labs-Static] force fixed issue with agent filter in player records page",
+    "[HEAT-Labs-Static] added agent filter to top 20 leaderboard",
+    "[HEAT-Labs-Website] added agent filter to top 20 leaderboard",
+    "[HEAT-Labs-Website-Development] force fixed issue with agent filter in player records page",
+    "[HEAT-Labs-Website-Development] added agent filter to top 20 leaderboard"
+  ],
+  "2026-09-27": [
+    "[HEAT-Labs-Configs] updated player records index with 20 new entries",
+    "[HEAT-Labs-Configs] updated news index with 1 new post",
+    "[HEAT-Labs-Configs] updated GSC export data",
+    "[HEAT-Labs-Configs] updated cloudflare traffic data",
+    "[HEAT-Labs-Configs] updated GSC index data",
+    "[HEAT-Labs-Configs] updated changelog",
+    "[HEAT-Labs-Configs] updated daily commit log",
+    "[HEAT-Labs-Images-Features] added 20 new player record proofs",
+    "[HEAT-Labs-Images-News] added 1 new news card image",
+    "[HEAT-Labs-Images-Tanks] fixed incorrect rear gallery image for m60a2",
+    "[HEAT-Labs-Static] updated halloween module with rain effect, synced main halloween module with dev version",
+    "[HEAT-Labs-Website-Development] updated halloween module with rain effect"
+  ],
   "2026-09-24": [
     "[HEAT-Labs-Configs] updated game build data"
   ],
