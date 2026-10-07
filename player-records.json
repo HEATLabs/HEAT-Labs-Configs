@@ -3,7 +3,7 @@
         "ROOT": {
             "last_updated": {
                 "conquest": "2026-10-06T22:31:15Z",
-                "control": "2026-10-06T23:08:51Z",
+                "control": "2026-10-07T03:36:17Z",
                 "hardpoint": "2026-10-06T22:32:00Z",
                 "kill-confirmed": "2026-10-06T22:39:02Z",
                 "plant-defuse": "2026-08-30T01:39:20Z"
@@ -14321,6 +14321,25 @@
                     "map": "Sunstroke",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/04102026_Moprovskiy.webp",
+                    "disqualified": false
+                },
+                {
+                    "captures": 1,
+                    "destroyed": 14,
+                    "deaths": 7,
+                    "assists": 20,
+                    "damage_caused": 70600,
+                    "damage_blocked": 8400,
+                    "credits": 0,
+                    "tech": 0,
+                    "intel": 0,
+                    "XP": 12500,
+                    "agent": "Reaper",
+                    "vehicle": "M60A2",
+                    "outcome": "Defeat",
+                    "map": "Aircraft Carrier",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/07102026_Moprovskiy.webp",
                     "disqualified": false
                 }
             ],
