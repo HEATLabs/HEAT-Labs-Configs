@@ -1,33 +1,49 @@
 {
   "updates": [
     {
-      "version": "0.6.743",
+      "version": "0.6.759",
       "date": "2026-10-06",
       "author": "HEAT Labs Team",
       "title": "Update Number #528",
-      "description": "Full patch notes for Update v0.6.743 (#528), detailing all changes made on 06 October, 2026.",
+      "description": "Full patch notes for Update v0.6.759 (#528), detailing all changes made on 06 October, 2026.",
       "added": [
-        "New game mods card image added",
-        "Base files added for the HEAT Labs Replay Manager",
-        "New game mod page added",
+        "41 new player record entries added",
+        "41 new player record proof images added",
+        "One new game mod added with a dedicated mod page",
+        "One new mod added to the mods index",
+        "Two missing feature card icons added for an existing mod",
+        "One new game mod card image added",
         "HEAT Stats Tracker documentation added to the mods section",
-        "Two new repositories added to the daily commit fetcher"
+        "Base files added for the new HEAT Replay Manager application",
+        "Base files added for the HEAT Replay Manager development project",
+        "Two new repositories added to the daily commit fetcher tool",
+        "Discord added to the supported platforms list",
+        "Missing Discord icons added to main mod pages and game mod cards"
       ],
       "changed": [
-        "Stat Tracker Discord RPC application ID updated",
-        "Replay Manager documentation and project files updated",
-        "Mod details and support information revised",
-        "Compatible version updated across all mods",
-        "Partner and game mod layouts updated",
-        "Missing Discord icons added to mod pages and game mod cards",
-        "Stat Tracker and Replay Manager README files updated",
-        "Stat Tracker and Replay Manager development builds synchronized with their latest changes"
+        "HEAT Labs Configurator mod version set to Unknown",
+        "Changelog and daily commit data updated",
+        "Mods index updated with the latest mod information",
+        "Meme index updated with one new image",
+        "Cloudflare traffic data refreshed",
+        "Google Search Console index and export data refreshed",
+        "Discord RPC application ID updated in the HEAT Stats Tracker builds",
+        "HEAT Stats Tracker README files updated",
+        "HEAT Replay Manager README files and Git configuration updated",
+        "All mods updated to the latest compatible version",
+        "Mod details and support information improved",
+        "Mod page parser updated to resolve two core issues",
+        "Special download button handling added for Discord bots and apps on mod pages",
+        "Daily commit fetcher updated with two additional repositories"
       ],
       "removed": [
         "Nothing was removed in this update"
       ],
       "fixed": [
-        "Incorrect mod ID corrected on a new mod page"
+        "Fixed a capitalization issue in one mod Markdown file",
+        "Fixed an incorrect mod ID on a new mod page",
+        "Fixed two core issues with the mod page parser",
+        "Fixed missing Discord platform and icon entries across mod pages and game mod cards"
       ]
     },
     {
