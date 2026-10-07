@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 157,
+    "total_pages": 158,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-09-30T20:19:42.144981"
+    "export_timestamp": "2026-10-07T06:52:03.961046"
   },
   "pages": [
     {
@@ -1070,6 +1070,13 @@
       "breadcrumb_status": "UNKNOWN"
     },
     {
+      "url": "https://mods.heatlabs.net/details/heat-stats-tracker",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
       "url": "https://mods.heatlabs.net/details/sentinel",
       "gsc_status": "PENDING",
       "g_api_status": "PENDING",
@@ -1107,22 +1114,22 @@
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 79,
+      "pending": 80,
       "not_indexed": 0,
       "indexed": 78
     },
     "google_api_status": {
-      "pending": 50,
+      "pending": 51,
       "not_indexed": 0,
       "indexed": 107
     },
     "https_page_status": {
-      "unknown": 129,
+      "unknown": 130,
       "not_https": 0,
       "https": 28
     },
     "breadcrumb_status": {
-      "unknown": 129,
+      "unknown": 130,
       "invalid": 0,
       "valid": 28
     }
