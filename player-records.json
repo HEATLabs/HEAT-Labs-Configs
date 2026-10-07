@@ -5,7 +5,7 @@
                 "conquest": "2026-10-06T22:31:15Z",
                 "control": "2026-10-07T03:36:17Z",
                 "hardpoint": "2026-10-06T22:32:00Z",
-                "kill-confirmed": "2026-10-06T22:39:02Z",
+                "kill-confirmed": "2026-10-07T20:29:06Z",
                 "plant-defuse": "2026-08-30T01:39:20Z"
             },
             "removals": {
@@ -21489,6 +21489,28 @@
                     "map": "Nord Oko",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/30092026_V.webp",
+                    "disqualified": false
+                }
+            ],
+            "OxCone": [
+                {
+                    "confirms": 3,
+                    "denies": 0,
+                    "destroyed": 36,
+                    "deaths": 0,
+                    "assists": 11,
+                    "damage_caused": 114500,
+                    "damage_blocked": 0,
+                    "credits": 0,
+                    "tech": 0,
+                    "intel": 0,
+                    "XP": 38175,
+                    "agent": "Flair",
+                    "vehicle": "Leo 2FK",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/07102026_OxCone.webp",
                     "disqualified": false
                 }
             ]
