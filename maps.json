@@ -971,7 +971,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Conquest on {mapName} is won by the first team to reach 2,000 points before the match ends.",
           "pro_tip": "Tips for {mapName} on Conquest are currently unavailable. Check back later for useful strategies and recommendations.",
-          "topDown": "https://cdn8.heatlabs.net/maps/inferno/Inferno_TD.webp"
+          "topDown": "https://cdn8.heatlabs.net/maps/inferno/Inferno_Halloween_TD.webp"
         },
         "hardpoint": {
           "mode_name": "Hardpoint",
@@ -985,7 +985,7 @@
           "win_condition": "2000 Points",
           "win_condition_description": "Hardpoint on {mapName} goes to the first team that earns 2,000 points before time expires.",
           "pro_tip": "Tips for {mapName} on Hardpoint are currently unavailable. Check back later for useful strategies and recommendations.",
-          "topDown": "https://cdn8.heatlabs.net/maps/inferno/Inferno_TD.webp"
+          "topDown": "https://cdn8.heatlabs.net/maps/inferno/Inferno_Halloween_TD.webp"
         },
         "plant_defuse": {
           "mode_name": "Plant & Defuse",
@@ -999,7 +999,7 @@
           "win_condition": "Best of 5",
           "win_condition_description": "Plant & Defuse on {mapName} is played as a best-of-5, with the first team to win three rounds claiming victory.",
           "pro_tip": "Tips for {mapName} on Plant & Defuse are currently unavailable. Check back later for useful strategies and recommendations.",
-          "topDown": "https://cdn8.heatlabs.net/maps/inferno/Inferno_TD.webp"
+          "topDown": "https://cdn8.heatlabs.net/maps/inferno/Inferno_Halloween_TD.webp"
         }
       }
     }
