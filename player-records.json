@@ -3,10 +3,10 @@
         "ROOT": {
             "last_updated": {
                 "conquest": "2026-10-06T22:31:15Z",
-                "control": "2026-10-07T03:36:17Z",
+                "control": "2026-10-09T23:30:55Z",
                 "hardpoint": "2026-10-06T22:32:00Z",
                 "kill-confirmed": "2026-10-07T20:29:06Z",
-                "plant-defuse": "2026-08-30T01:39:20Z"
+                "plant-defuse": "2026-10-09T23:39:20Z"
             },
             "removals": {
                 "The_Roman_Hammer": "Entries from The_Roman_Hammer have been disqualified from the leaderboards after discovering an attempt to gain higher positions by submitting a record originally sent by _Keito on 03 August 2026 (https://discord.com/channels/1098161688898973696/1197685155628851280/1533595325674033172), which The_Roman_Hammer later submitted as their own on 28 August 2026 (https://discord.com/channels/1098161688898973696/1197685155628851280/1542028647668387840)."
@@ -8926,6 +8926,25 @@
                     "map": "Scarred City",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/30092026_AET3RNAL.webp",
+                    "disqualified": false
+                },
+                {
+                    "captures": 6,
+                    "destroyed": 20,
+                    "deaths": 5,
+                    "assists": 14,
+                    "damage_caused": 71300,
+                    "damage_blocked": 31800,
+                    "credits": 9995,
+                    "tech": 50,
+                    "intel": 0,
+                    "XP": 19990,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Draw",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/09102026_AET3RNAL.webp",
                     "disqualified": false
                 }
             ],
@@ -21677,6 +21696,128 @@
                     "map": "Eden",
                     "mode": "Plant & Defuse",
                     "proof": "https://cdn6.heatlabs.net/player-records/plant-defuse/29082026_esmatty.webp",
+                    "disqualified": false
+                }
+            ],
+            "AET3RNAL": [
+                {
+                    "plants": 1,
+                    "defuses": 2,
+                    "destroyed": 6,
+                    "deaths": 0,
+                    "assists": 2,
+                    "damage_caused": 18200,
+                    "credits": 3796,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 7590,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Plant & Defuse",
+                    "proof": "https://cdn6.heatlabs.net/player-records/plant-defuse/09102026_AET3RNAL.webp",
+                    "disqualified": false
+                }
+            ],
+            "BritishDiamonds": [
+                {
+                    "plants": 0,
+                    "defuses": 0,
+                    "destroyed": 5,
+                    "deaths": 2,
+                    "assists": 1,
+                    "damage_caused": 16100,
+                    "credits": 0,
+                    "tech": 0,
+                    "intel": 0,
+                    "XP": 4071,
+                    "agent": "Raketa",
+                    "vehicle": "Object 287",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Plant & Defuse",
+                    "proof": "https://cdn6.heatlabs.net/player-records/plant-defuse/09102026_BritishDiamonds-1.webp",
+                    "disqualified": false
+                },
+                {
+                    "plants": 1,
+                    "defuses": 1,
+                    "destroyed": 6,
+                    "deaths": 4,
+                    "assists": 4,
+                    "damage_caused": 35600,
+                    "credits": 6066,
+                    "tech": 40,
+                    "intel": 0,
+                    "XP": 12131,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Defeat",
+                    "map": "Scarred City",
+                    "mode": "Plant & Defuse",
+                    "proof": "https://cdn6.heatlabs.net/player-records/plant-defuse/09102026_BritishDiamonds-2.webp",
+                    "disqualified": false
+                }
+            ],
+            "Zoituq": [
+                {
+                    "plants": 0,
+                    "defuses": 2,
+                    "destroyed": 6,
+                    "deaths": 1,
+                    "assists": 1,
+                    "damage_caused": 16900,
+                    "credits": 2509,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 5016,
+                    "agent": "Twister",
+                    "vehicle": "M551A1",
+                    "outcome": "Victory",
+                    "map": "Eden",
+                    "mode": "Plant & Defuse",
+                    "proof": "https://cdn6.heatlabs.net/player-records/plant-defuse/09102026_Zoituq.webp",
+                    "disqualified": false
+                }
+            ],
+            "dIAtticusIb": [
+                {
+                    "plants": 2,
+                    "defuses": 1,
+                    "destroyed": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "damage_caused": 0,
+                    "credits": 1568,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 3135,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Eden",
+                    "mode": "Plant & Defuse",
+                    "proof": "https://cdn6.heatlabs.net/player-records/plant-defuse/09102026_dIAtticusIb-1.webp",
+                    "disqualified": false
+                },
+                {
+                    "plants": 0,
+                    "defuses": 0,
+                    "destroyed": 5,
+                    "deaths": 3,
+                    "assists": 3,
+                    "damage_caused": 25100,
+                    "credits": 4538,
+                    "tech": 60,
+                    "intel": 120,
+                    "XP": 9073,
+                    "agent": "Chopper",
+                    "vehicle": "M1E1",
+                    "outcome": "Victory",
+                    "map": "Blossom Crash",
+                    "mode": "Plant & Defuse",
+                    "proof": "https://cdn6.heatlabs.net/player-records/plant-defuse/09102026_dIAtticusIb-2.webp",
                     "disqualified": false
                 }
             ]
