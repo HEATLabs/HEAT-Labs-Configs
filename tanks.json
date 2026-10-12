@@ -516,8 +516,8 @@
         "builds": "https://cdn2.heatlabs.net/tanks/m1e1/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/m1e1/abilities.json",
         "missions": "https://cdn2.heatlabs.net/game-data/missions.json",
-        "modelSD": "https://cdn4.heatlabs.net/glb-models/placeholder.glb",
-        "modelHD": "https://cdn4.heatlabs.net/glb-models/placeholder.glb",
+        "modelSD": "https://cdn4.heatlabs.net/glb-models/m1e1/m1e1.glb",
+        "modelHD": "https://cdn4.heatlabs.net/glb-models/m1e1/m1e1.glb",
         "statistics": {
             "lethality": 43,
             "mobility": 38,
