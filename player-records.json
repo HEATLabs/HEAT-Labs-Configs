@@ -2,11 +2,11 @@
     "records": {
         "ROOT": {
             "last_updated": {
-                "conquest": "2026-10-06T22:31:15Z",
-                "control": "2026-10-09T23:30:55Z",
+                "conquest": "2026-10-12T19:15:11Z",
+                "control": "2026-10-12T19:18:01Z",
                 "hardpoint": "2026-10-06T22:32:00Z",
-                "kill-confirmed": "2026-10-07T20:29:06Z",
-                "plant-defuse": "2026-10-09T23:39:20Z"
+                "kill-confirmed": "2026-10-12T19:20:32Z",
+                "plant-defuse": "2026-10-12T19:15:49Z"
             }
         },
         "conquest": {
@@ -2107,6 +2107,25 @@
                     "map": "Eden",
                     "mode": "Conquest",
                     "proof": "https://cdn6.heatlabs.net/player-records/conquest/30082026_AET3RNAL.webp",
+                    "disqualified": false
+                },
+                {
+                    "captures": 2,
+                    "destroyed": 20,
+                    "deaths": 3,
+                    "assists": 9,
+                    "damage_caused": 60000,
+                    "damage_blocked": 0,
+                    "credits": 4630,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 8860,
+                    "agent": "Twister",
+                    "vehicle": "M551A1",
+                    "outcome": "Victory",
+                    "map": "Project Phoenix",
+                    "mode": "Conquest",
+                    "proof": "https://cdn6.heatlabs.net/player-records/conquest/12102026_AET3RNAL.webp",
                     "disqualified": false
                 }
             ],
@@ -8599,6 +8618,25 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/09102026_AET3RNAL.webp",
                     "disqualified": false
+                },
+                {
+                    "captures": 4,
+                    "destroyed": 33,
+                    "deaths": 6,
+                    "assists": 9,
+                    "damage_caused": 79600,
+                    "damage_blocked": 1800,
+                    "credits": 8305,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 16610,
+                    "agent": "Twister",
+                    "vehicle": "M551A1",
+                    "outcome": "Victory",
+                    "map": "Sunstroke",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/11102026_AET3RNAL.webp",
+                    "disqualified": false
                 }
             ],
             "backseat_admiral_12": [
@@ -11511,6 +11549,25 @@
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/30092026_LigManBruh.webp",
                     "disqualified": false
+                },
+                {
+                    "captures": 5,
+                    "destroyed": 22,
+                    "deaths": 8,
+                    "assists": 8,
+                    "damage_caused": 66900,
+                    "damage_blocked": 1000,
+                    "credits": 6963,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 13925,
+                    "agent": "Twister",
+                    "vehicle": "M551A1",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/12102026_LigManBruh.webp",
+                    "disqualified": false
                 }
             ],
             "IJN_Akashi_Nya": [
@@ -14379,6 +14436,27 @@
                     "map": "Scarred City",
                     "mode": "Control",
                     "proof": "https://cdn6.heatlabs.net/player-records/control/29092026_OxCone.webp",
+                    "disqualified": false
+                }
+            ],
+            "Maffin990": [
+                {
+                    "captures": 3,
+                    "destroyed": 27,
+                    "deaths": 3,
+                    "assists": 18,
+                    "damage_caused": 67300,
+                    "damage_blocked": 13100,
+                    "credits": 7428,
+                    "tech": 50,
+                    "intel": 80,
+                    "XP": 14855,
+                    "agent": "Gambit",
+                    "vehicle": "T-72SH",
+                    "outcome": "Draw",
+                    "map": "Blossom Crash",
+                    "mode": "Control",
+                    "proof": "https://cdn6.heatlabs.net/player-records/control/12102026_Maffin990.webp",
                     "disqualified": false
                 }
             ]
@@ -18429,6 +18507,26 @@
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/29082026_AET3RNAL.webp",
                     "disqualified": false
+                },
+                {
+                    "confirms": 16,
+                    "denies": 0,
+                    "destroyed": 18,
+                    "deaths": 0,
+                    "assists": 3,
+                    "damage_caused": 37200,
+                    "damage_blocked": 0,
+                    "credits": 4362,
+                    "tech": 60,
+                    "intel": 80,
+                    "XP": 8715,
+                    "agent": "Twister",
+                    "vehicle": "M551A1",
+                    "outcome": "Victory",
+                    "map": "Scarred City",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/11102026_AET3RNAL.webp",
+                    "disqualified": false
                 }
             ],
             "EepyRabbit": [
@@ -19963,6 +20061,26 @@
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/03102026_P1NNY.webp",
                     "disqualified": false
+                },
+                {
+                    "confirms": 16,
+                    "denies": 2,
+                    "destroyed": 10,
+                    "deaths": 6,
+                    "assists": 10,
+                    "damage_caused": 32300,
+                    "damage_blocked": 0,
+                    "credits": 4238,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 8465,
+                    "agent": "Gambit",
+                    "vehicle": "M60A3E2",
+                    "outcome": "Victory",
+                    "map": "Project Phoenix",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/11102026_P1NNY.webp",
+                    "disqualified": false
                 }
             ],
             "GDSILTTUM": [
@@ -20070,6 +20188,28 @@
                     "map": "Scarred City",
                     "mode": "Kill Confirmed",
                     "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/07102026_OxCone.webp",
+                    "disqualified": false
+                }
+            ],
+            "ToriAnn": [
+                {
+                    "confirms": 6,
+                    "denies": 0,
+                    "destroyed": 10,
+                    "deaths": 3,
+                    "assists": 16,
+                    "damage_caused": 47800,
+                    "damage_blocked": 0,
+                    "credits": 4648,
+                    "tech": 75,
+                    "intel": 40,
+                    "XP": 9285,
+                    "agent": "Kent",
+                    "vehicle": "ALVT",
+                    "outcome": "Victory",
+                    "map": "Nord Oko",
+                    "mode": "Kill Confirmed",
+                    "proof": "https://cdn6.heatlabs.net/player-records/kill-confirmed/11102026_ToriAnn.webp",
                     "disqualified": false
                 }
             ]
@@ -20337,6 +20477,27 @@
                     "map": "Blossom Crash",
                     "mode": "Plant & Defuse",
                     "proof": "https://cdn6.heatlabs.net/player-records/plant-defuse/09102026_dIAtticusIb-2.webp",
+                    "disqualified": false
+                }
+            ],
+            "GDSILTTUM": [
+                {
+                    "plants": 1,
+                    "defuses": 0,
+                    "destroyed": 5,
+                    "deaths": 4,
+                    "assists": 2,
+                    "damage_caused": 23500,
+                    "credits": 6090,
+                    "tech": 60,
+                    "intel": 40,
+                    "XP": 12178,
+                    "agent": "Chopper",
+                    "vehicle": "FV4030/X",
+                    "outcome": "Victory",
+                    "map": "Eden",
+                    "mode": "Plant & Defuse",
+                    "proof": "https://cdn6.heatlabs.net/player-records/plant-defuse/11102026_GDSILTTUM.webp",
                     "disqualified": false
                 }
             ]
