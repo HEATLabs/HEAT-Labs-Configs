@@ -1,6 +1,183 @@
 {
   "updates": [
     {
+      "version": "0.6.831",
+      "date": "2026-10-13",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #535",
+      "description": "Full patch notes for Update v0.6.831 (#535), detailing all changes made on 13 October, 2026.",
+      "added": [
+        "One new news post added to the news index",
+        "Card image added for the new news article"
+      ],
+      "changed": [
+        "Discord bot records command updated to support Plant and Defuse records"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.826",
+      "date": "2026-10-12",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #534",
+      "description": "Full patch notes for Update v0.6.826 (#534), detailing all changes made on 12 October, 2026.",
+      "added": [
+        "Eight new player record proofs added",
+        "Eight new player record proof images added"
+      ],
+      "changed": [
+        "Guides section data updated",
+        "Model paths updated for one tank",
+        "Tank page logic updated to also refresh the main image",
+        "Model loader updated to use the new data field"
+      ],
+      "removed": [
+        "All entries for The_Roman_Hammer removed from the records data",
+        "All entries for The_Roman_Hammer removed from the feature images",
+        "One video removed from TheCommandersHatch"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.816",
+      "date": "2026-10-11",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #533",
+      "description": "Full patch notes for Update v0.6.816 (#533), detailing all changes made on 11 October, 2026.",
+      "added": [
+        "Initial QnA Episode 10 data added",
+        "New QnA episode added to the QnA data"
+      ],
+      "changed": [
+        "Blog post date updated across the configuration, website, and development files"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Fixed typos in the QnA Episode 10 data"
+      ]
+    },
+    {
+      "version": "0.6.811",
+      "date": "2026-10-10",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #532",
+      "description": "Full patch notes for Update v0.6.811 (#532), detailing all changes made on 10 October, 2026.",
+      "added": [
+        "Three new meme images added",
+        "Nine new Inferno map images added"
+      ],
+      "changed": [
+        "Inferno map gallery index updated with new images",
+        "Meme index updated with three new memes"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.805",
+      "date": "2026-10-09",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #531",
+      "description": "Full patch notes for Update v0.6.805 (#531), detailing all changes made on 09 October, 2026.",
+      "added": [
+        "Seven new player record entries added",
+        "Top-down image added for the Inferno Halloween map"
+      ],
+      "changed": [
+        "Inferno Halloween map top-down path updated",
+        "One map top-down image updated",
+        "Player records page updated to always display PvP in PnD mode records"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.798",
+      "date": "2026-10-08",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #530",
+      "description": "Full patch notes for Update v0.6.798 (#530), detailing all changes made on 08 October, 2026.",
+      "added": [
+        "One new page added to the website",
+        "One new map added to the map index",
+        "One new map page added to the website",
+        "One new map image added",
+        "One new news article added",
+        "Image added for the new news article",
+        "Four new charms added to the gallery",
+        "New Halloween camo images added"
+      ],
+      "changed": [
+        "Gamemode list updated for one map",
+        "One guide updated in the guides index",
+        "One player record entry updated",
+        "Search keyword index updated with the new page",
+        "Gallery updated with four new charms and Halloween camos",
+        "Camos configuration repaired and updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Fixed syntax issues in maps.json",
+        "Fixed and updated the broken camos configuration"
+      ]
+    },
+    {
+      "version": "0.6.781",
+      "date": "2026-10-07",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #529",
+      "description": "Full patch notes for Update v0.6.781 (#529), detailing all changes made on 07 October, 2026.",
+      "added": [
+        "GitHub build workflow added for the Configurator",
+        "One new player record entry added",
+        "One missing player record entry restored",
+        "One new page added to the website data",
+        "One new player record image added",
+        "One missing player record image restored",
+        "WIP Steam assets added for the Stat Tracker",
+        "WIP Steam assets added for the Replay Manager",
+        "GitHub build workflow added for the Stat Tracker",
+        "GitHub build workflow added for the Replay Manager",
+        "Initial WIP version of the HEAT Labs Replay Manager added",
+        "GitHub build workflow added for the Replay Manager development project"
+      ],
+      "changed": [
+        "Player records data updated with a new entry",
+        "Search keyword index updated with the new page",
+        "Project statistics updated",
+        "Changelog updated",
+        "Daily commit log updated",
+        "Replay Manager remove-name action clarified",
+        "Replay Manager mode names updated with proper capitalization"
+      ],
+      "removed": [
+        "Two unused Steam icons and shortcut icons removed"
+      ],
+      "fixed": [
+        "Fixed incorrect platform parsing on the main Mods page",
+        "Replay Manager remove-name button now disables when no name is set"
+      ]
+    },
+    {
       "version": "0.6.759",
       "date": "2026-10-06",
       "author": "HEAT Labs Team",
