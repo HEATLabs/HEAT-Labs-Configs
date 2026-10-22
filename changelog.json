@@ -1,14 +1,114 @@
 {
   "updates": [
     {
-      "version": "0.6.867",
+      "version": "0.6.922",
+      "date": "2026-10-22",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #544",
+      "description": "Full patch notes for Update v0.6.922 (#544), detailing all changes made on 22 October, 2026.",
+      "added": [
+        "Two new meme images added to the media library",
+        "New icons added to the Replay Manager mod details",
+        "Work-in-progress files added for a new game mod",
+        "Map images added to the Replay Manager side panel",
+        "New Steam icon assets added for the Replay Manager app"
+      ],
+      "changed": [
+        "Meme index updated with two new images",
+        "Replay Manager documentation updated with the latest replay information and icons",
+        "Compatible game version updated across all mods",
+        "Replay Manager app icons updated with the latest release assets",
+        "Replay Manager development layout adjusted to accommodate new UI elements",
+        "Replay Manager map naming updated to match the release name"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Fixed a typo in the mods documentation"
+      ]
+    },
+    {
+      "version": "0.6.909",
+      "date": "2026-10-21",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #543",
+      "description": "Full patch notes for Update v0.6.909 (#543), detailing all changes made on 21 October, 2026.",
+      "added": [
+        "Two new news card images added",
+        "Two new news posts added to the website"
+      ],
+      "changed": [
+        "Game build metadata updated",
+        "Contributor data updated across the Discord Bot and website",
+        "Contributor information synchronized between the main website and development version"
+      ],
+      "removed": [
+        "Two outdated contributor entries removed from the Discord Bot data",
+        "Two outdated contributor entries removed from the main website",
+        "Two outdated contributor entries removed from the website development data"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.900",
+      "date": "2026-10-20",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #542",
+      "description": "Full patch notes for Update v0.6.900 (#542), detailing all changes made on 20 October, 2026.",
+      "added": [
+        "14 new player record entries added",
+        "14 new player record proof images added",
+        "Raw QnA data added for Episode 11",
+        "One new meme image added",
+        "One new news post added",
+        "One new news card image added",
+        "New map size tool added to the internal tools",
+        "New record testing tool added",
+        "New soundboard updater tool added",
+        "New Losat materials added to the model development files"
+      ],
+      "changed": [
+        "Soundboard data and audio files updated",
+        "Two additional soundboard category names adjusted",
+        "Three more soundboard category names adjusted",
+        "Soundboard data index refreshed",
+        "All GIF and MP4 meme paths updated to WEBP and WEBM for better optimization",
+        "Map size data updated with the correct values",
+        "Project statistics refreshed",
+        "Daily commit log updated to retain only the latest 30 days",
+        "Changelog and Google Search Console data updated",
+        "Google Search Console export data refreshed",
+        "Cloudflare traffic data updated",
+        "QnA data updated with Episode 11",
+        "QnA blog post date updated",
+        "Record tool archive simplified",
+        "Record keeper tool moved to the internal repository",
+        "Daily commit fetcher tool refactored",
+        "Main tank page filter layout adjusted",
+        "Soundboard filter layout updated"
+      ],
+      "removed": [
+        "Five outdated or scrapped public tools removed",
+        "Source filter removed from the soundboard page",
+        "Record keeper tool removed from the public tools repository after being moved internally"
+      ],
+      "fixed": [
+        "Two SEO typos corrected in the sound data",
+        "All typos corrected in the latest QnA database data",
+        "Map size values corrected to their proper measurements"
+      ]
+    },
+    {
+      "version": "0.6.866",
       "date": "2026-10-19",
       "author": "HEAT Labs Team",
       "title": "Update Number #541",
-      "description": "Full patch notes for Update v0.6.867 (#541), detailing all changes made on 19 October, 2026.",
+      "description": "Full patch notes for Update v0.6.866 (#541), detailing all changes made on 19 October, 2026.",
       "added": [
-        "One new meme image added",
-        "10 new Inferno map images added"
+        "Nothing was added in this update"
       ],
       "changed": [
         "Nothing was changed in this update"
