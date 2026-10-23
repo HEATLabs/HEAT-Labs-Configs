@@ -1272,8 +1272,8 @@
         "builds": "https://cdn2.heatlabs.net/tanks/amx-10-rc/builds.json",
         "abilities": "https://cdn2.heatlabs.net/tanks/amx-10-rc/abilities.json",
         "missions": "https://cdn2.heatlabs.net/game-data/missions.json",
-        "modelSD": "https://cdn4.heatlabs.net/glb-models/placeholder.glb",
-        "modelHD": "https://cdn4.heatlabs.net/glb-models/placeholder.glb",
+        "modelSD": "https://cdn4.heatlabs.net/glb-models/amx-10-rc/amx10rc_sd.glb",
+        "modelHD": "https://cdn4.heatlabs.net/glb-models/amx-10-rc/amx10rc_hd.glb",
         "statistics": {
             "lethality": 70,
             "mobility": 35,
