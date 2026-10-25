@@ -1,9 +1,52 @@
 {
+  "2026-10-25": [
+    "[HEAT-Labs-Configs] updated sound index with 44 new sounds",
+    "[HEAT-Labs-Images-Features] added 7 HL mods screenshots",
+    "[HEAT-Labs-Images-News] added 1 new news card image",
+    "[HEAT-Labs-Mods] updated mod overview sections for 2 HL mod detail files",
+    "[HEAT-Labs-Mods] updated image file formats for 1 mod",
+    "[HEAT-Labs-Mods] updated all mod pages with missing sections and details",
+    "[HEAT-Labs-Mods] disabled unused license field in 1 mod detail page",
+    "[HEAT-Labs-Mods] updated page-image field for all mod detail files",
+    "[HEAT-Labs-Mods] Merge pull request #4 from OxCone1/main",
+    "[HEAT-Labs-Sounds] added 44 missing sounds",
+    "[HEAT-Labs-Static] refactored gallery menu in mod detail pages",
+    "[HEAT-Labs-Static] fixed several issues with mod page parser",
+    "[HEAT-Labs-Tools] removed 1 scrapped tool",
+    "[HEAT-Labs-Website-Development] refactored gallery menu in mod detail pages",
+    "[HEAT-Labs-Website-Development] updated all mod pages with missing sections and details",
+    "[HEAT-Labs-Website-Development] fixed several issues with mod page parser"
+  ],
+  "2026-10-24": [
+    "[HEAT-Labs-Mods] Updated Sentinel's details"
+  ],
+  "2026-10-23": [
+    "[HEAT-Labs-Configs] updated model paths for 1 tank",
+    "[HEAT-Labs-Discord-Bot] added urgent module to fix discord bot data fetching issues",
+    "[HEAT-Labs-Models] added 1 new tank model",
+    "[HEAT-Labs-Models-Development] added amx 10 rc GLB models"
+  ],
   "2026-10-22": [
+    "[HEAT-Labs-Configs] updated video index with 6 new videos",
+    "[HEAT-Labs-Configs] updated project statistics",
+    "[HEAT-Labs-Configs] updated news index with 1 new post",
+    "[HEAT-Labs-Configs] updated GSC export data",
+    "[HEAT-Labs-Configs] updated changelog",
+    "[HEAT-Labs-Configs] updated daily commit log",
+    "[HEAT-Labs-Configs] updated cloudflare traffic data",
+    "[HEAT-Labs-Configs] updated meme index with 1 new image",
+    "[HEAT-Labs-Configs] updated GSC index data",
+    "[HEAT-Labs-Configs] updated page data files",
     "[HEAT-Labs-Configs] updated meme index with 2 new images",
     "[HEAT-Labs-Configs] Merge pull request #6 from SenorRagequit/main",
     "[HEAT-Labs-Configs] vo_heroes-desc_120-159",
+    "[HEAT-Labs-Discord-Bot] added additional contributors field",
+    "[HEAT-Labs-Discord-Bot] updated discord bot data URLs to fix fetching issue",
+    "[HEAT-Labs-Images] added 1 new meme image",
     "[HEAT-Labs-Images] added 2 new meme images",
+    "[HEAT-Labs-Images-Blogs] updated 7 meet the team blog post cards",
+    "[HEAT-Labs-Images-Blogs] added 2 new meet the team blog post images",
+    "[HEAT-Labs-Images-News] added 1 new news card image",
     "[HEAT-Labs-Mods] added icons to replay manager mod detail file",
     "[HEAT-Labs-Mods] typo fix",
     "[HEAT-Labs-Mods] Update replay-manager.md",
@@ -15,7 +58,10 @@
     "[HEAT-Labs-Replay-Manager-Development] added map images to side panel menu",
     "[HEAT-Labs-Replay-Manager-Development] tweaked 1 map name to match the release name",
     "[HEAT-Labs-Replay-Manager-Development] updated app icons with release assets",
-    "[HEAT-Labs-Steam-Assets] added steam icon assets for replay manager app"
+    "[HEAT-Labs-Steam-Assets] added steam icon assets for replay manager app",
+    "[HEAT-Labs-Tools] refactored meme index checker tool to feature file conversions",
+    "[HEAT-Labs-Website] added additional contributors field",
+    "[HEAT-Labs-Website-Development] added additional contributors field"
   ],
   "2026-10-21": [
     "[HEAT-Labs-Configs] Merge pull request #5 from SenorRagequit/main",
@@ -318,14 +364,5 @@
     "[HEAT-Labs-Images-Tanks] fixed incorrect rear gallery image for m60a2",
     "[HEAT-Labs-Static] updated halloween module with rain effect, synced main halloween module with dev version",
     "[HEAT-Labs-Website-Development] updated halloween module with rain effect"
-  ],
-  "2026-09-24": [
-    "[HEAT-Labs-Configs] updated game build data"
-  ],
-  "2026-09-23": [
-    "[HEAT-Labs-Configs] updated news index with 1 new post",
-    "[HEAT-Labs-Images-News] added card image for 1 new news article",
-    "[HEAT-Labs-Models-Development] Merge branch 'main' of https://github.com/HEATLabs/HEAT-Labs-Models-Development",
-    "[HEAT-Labs-Models-Development] adjusted the rear view image"
   ]
 }
