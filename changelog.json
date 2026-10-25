@@ -1,31 +1,114 @@
 {
   "updates": [
     {
-      "version": "0.6.922",
-      "date": "2026-10-22",
+      "version": "0.6.960",
+      "date": "2026-10-25",
       "author": "HEAT Labs Team",
-      "title": "Update Number #544",
-      "description": "Full patch notes for Update v0.6.922 (#544), detailing all changes made on 22 October, 2026.",
+      "title": "Update Number #547",
+      "description": "Full patch notes for Update v0.6.960 (#547), detailing all changes made on 25 October, 2026.",
       "added": [
-        "Two new meme images added to the media library",
-        "New icons added to the Replay Manager mod details",
-        "Work-in-progress files added for a new game mod",
-        "Map images added to the Replay Manager side panel",
-        "New Steam icon assets added for the Replay Manager app"
+        "44 new sounds added to the sound library",
+        "Seven new HEAT Labs Mods screenshots added",
+        "New news card image added",
+        "44 missing sounds added to the sound collection"
       ],
       "changed": [
-        "Meme index updated with two new images",
-        "Replay Manager documentation updated with the latest replay information and icons",
-        "Compatible game version updated across all mods",
-        "Replay Manager app icons updated with the latest release assets",
-        "Replay Manager development layout adjusted to accommodate new UI elements",
-        "Replay Manager map naming updated to match the release name"
+        "Mod overview sections updated for two HEAT Labs Mods",
+        "Image file formats updated for one mod",
+        "All mod pages updated with missing sections and additional details",
+        "Page image fields updated across all mod detail files",
+        "Unused license field disabled in one mod detail page",
+        "Gallery menu refactored in mod detail pages"
+      ],
+      "removed": [
+        "One unused tool removed from the tools collection"
+      ],
+      "fixed": [
+        "Several issues with the mod page parser fixed"
+      ]
+    },
+    {
+      "version": "0.6.948",
+      "date": "2026-10-24",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #546",
+      "description": "Full patch notes for Update v0.6.948 (#546), detailing all changes made on 24 October, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Updated Sentinel's details"
       ],
       "removed": [
         "Nothing was removed in this update"
       ],
       "fixed": [
-        "Fixed a typo in the mods documentation"
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.944",
+      "date": "2026-10-23",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #545",
+      "description": "Full patch notes for Update v0.6.944 (#545), detailing all changes made on 23 October, 2026.",
+      "added": [
+        "New tank model added to the model library",
+        "AMX 10 RC GLB models added to the development collection",
+        "Urgent module added to the Discord bot to address data-fetching issues"
+      ],
+      "changed": [
+        "Updated model paths for one tank"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.938",
+      "date": "2026-10-22",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #544",
+      "description": "Full patch notes for Update v0.6.938 (#544), detailing all changes made on 22 October, 2026.",
+      "added": [
+        "Six new videos added to the video index",
+        "Three new meme images added to the media library",
+        "Two new Meet the Team blog images added",
+        "New news card image added",
+        "Additional contributors field added to the Discord bot and website",
+        "Icons added to the Replay Manager mod details",
+        "Work-in-progress files added for a new game mod",
+        "Steam icon assets added for the Replay Manager app",
+        "Map images added to the Replay Manager side panel",
+        "New voice-over entries added for heroes 120\u00e2\u20ac\u201c159"
+      ],
+      "changed": [
+        "Project statistics refreshed",
+        "News index updated with a new post",
+        "Google Search Console export and index data refreshed",
+        "Changelog and daily commit log updated",
+        "Cloudflare traffic data refreshed",
+        "Meme index updated with three new images",
+        "Page data files updated",
+        "Discord bot data URLs updated to resolve fetching issues",
+        "Seven Meet the Team blog post cards updated",
+        "Replay Manager mod documentation and replay-related files updated",
+        "Compatible game version updated for all mods",
+        "Replay Manager app icons updated with the latest release assets",
+        "Replay Manager development window height and minimum height increased by 60 pixels to accommodate new UI elements",
+        "One map name updated to match its official release name",
+        "Meme index checker refactored to support file conversions"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Typos corrected in mod documentation",
+        "Discord bot data-fetching issues addressed by updating data URLs",
+        "Replay Manager mod documentation updated to improve clarity"
       ]
     },
     {
