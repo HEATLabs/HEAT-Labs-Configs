@@ -1,30 +1,308 @@
 {
   "updates": [
     {
-      "version": "0.6.960",
+      "version": "0.7.043",
+      "date": "2026-11-07",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #560",
+      "description": "Full patch notes for Update v0.7.043 (#560), detailing all changes made on 07 November, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.7.039",
+      "date": "2026-11-06",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #559",
+      "description": "Full patch notes for Update v0.7.039 (#559), detailing all changes made on 06 November, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.7.035",
+      "date": "2026-11-05",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #558",
+      "description": "Full patch notes for Update v0.7.035 (#558), detailing all changes made on 05 November, 2026.",
+      "added": [
+        "One new news article published on the website",
+        "New news card image added"
+      ],
+      "changed": [
+        "News index updated with the latest article",
+        "Filename format standardized across three development images",
+        "Mod detail files updated with corrected section comments",
+        "Changes from community contributor OxCone1 merged into the mods repository"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected section comments across all mod detail files"
+      ]
+    },
+    {
+      "version": "0.7.027",
+      "date": "2026-11-04",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #557",
+      "description": "Full patch notes for Update v0.7.027 (#557), detailing all changes made on 04 November, 2026.",
+      "added": [
+        "One new news card image added"
+      ],
+      "changed": [
+        "News index updated with a new image",
+        "Sentinel mod download link updated with the latest Linux download URL"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.7.022",
+      "date": "2026-11-03",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #556",
+      "description": "Full patch notes for Update v0.7.022 (#556), detailing all changes made on 03 November, 2026.",
+      "added": [
+        "One new guide published on the website",
+        "New guide card image added"
+      ],
+      "changed": [
+        "Changes from the HEAT Labs main branch merged into the primary development branch"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.7.017",
+      "date": "2026-11-02",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #555",
+      "description": "Full patch notes for Update v0.7.017 (#555), detailing all changes made on 02 November, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Halloween mode disabled in the main website module",
+        "Halloween mode disabled in the website development module"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.7.012",
+      "date": "2026-11-01",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #554",
+      "description": "Full patch notes for Update v0.7.012 (#554), detailing all changes made on 01 November, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.7.008",
+      "date": "2026-10-31",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #553",
+      "description": "Full patch notes for Update v0.7.008 (#553), detailing all changes made on 31 October, 2026.",
+      "added": [
+        "Three new meme images added to the media library",
+        "One new mod added to the mod index",
+        "Replay Manager main mod card image added",
+        "Configurator main mod card image updated",
+        "Two existing images converted to WebP format"
+      ],
+      "changed": [
+        "Meme index updated with three new entries",
+        "Electron updated in the desktop application",
+        "Configurator dependencies updated through Dependabot",
+        "Desktop application dependencies updated through Dependabot"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Corrected an incorrect mod ID"
+      ]
+    },
+    {
+      "version": "0.6.997",
+      "date": "2026-10-30",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #552",
+      "description": "Full patch notes for Update v0.6.997 (#552), detailing all changes made on 30 October, 2026.",
+      "added": [
+        "Private Discord tools added to the internal development toolkit",
+        "Release files added for the Replay Manager application"
+      ],
+      "changed": [
+        "Internal tool calculations and math adjusted",
+        "Replay Manager Steam assets updated",
+        "Tank Defense game code refactored with a cleaner and more consistent setup",
+        "Code formatting standardized across the latest Tank Defense refactor"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.989",
+      "date": "2026-10-29",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #551",
+      "description": "Full patch notes for Update v0.6.989 (#551), detailing all changes made on 29 October, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Electron updated in the HEAT Labs Configurator"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.985",
+      "date": "2026-10-28",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #550",
+      "description": "Full patch notes for Update v0.6.985 (#550), detailing all changes made on 28 October, 2026.",
+      "added": [
+        "Three new videos added to the video library",
+        "Three new CCs added to the video index"
+      ],
+      "changed": [
+        "Video index updated with the latest videos and CC entries"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.980",
+      "date": "2026-10-27",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #549",
+      "description": "Full patch notes for Update v0.6.980 (#549), detailing all changes made on 27 October, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "One map's status information updated"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.6.976",
+      "date": "2026-10-26",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #548",
+      "description": "Full patch notes for Update v0.6.976 (#548), detailing all changes made on 26 October, 2026.",
+      "added": [
+        "Eight new tank modifier icons added",
+        "Seven missing equipment icons added"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Fixed parsing issues in the tank statistics updater tool"
+      ]
+    },
+    {
+      "version": "0.6.971",
       "date": "2026-10-25",
       "author": "HEAT Labs Team",
       "title": "Update Number #547",
-      "description": "Full patch notes for Update v0.6.960 (#547), detailing all changes made on 25 October, 2026.",
+      "description": "Full patch notes for Update v0.6.971 (#547), detailing all changes made on 25 October, 2026.",
       "added": [
         "44 new sounds added to the sound library",
         "Seven new HEAT Labs Mods screenshots added",
-        "New news card image added",
-        "44 missing sounds added to the sound collection"
+        "One new news card image added"
       ],
       "changed": [
-        "Mod overview sections updated for two HEAT Labs Mods",
-        "Image file formats updated for one mod",
+        "Project statistics and daily commit records updated",
+        "Changelog updated with the latest changes",
+        "Google Search Console export and index data refreshed",
+        "Cloudflare traffic statistics updated",
+        "News index refreshed",
+        "Raw tank data sheet and tank statistics database updated",
+        "Two HEAT Labs Mods pages updated with improved overview sections",
+        "Image formats updated for one mod",
+        "Sentinel mod overview images converted to WebP for better performance",
         "All mod pages updated with missing sections and additional details",
         "Page image fields updated across all mod detail files",
-        "Unused license field disabled in one mod detail page",
-        "Gallery menu refactored in mod detail pages"
+        "Unused license field disabled on one mod page",
+        "Changes from community contributor OxCone1 merged into the mods repository",
+        "Gallery menu refactored across mod detail pages",
+        "Mod page parser improved with several fixes"
       ],
       "removed": [
-        "One unused tool removed from the tools collection"
+        "One scrapped tool removed from the tools collection",
+        "Unused license field disabled on one mod detail page"
       ],
       "fixed": [
-        "Several issues with the mod page parser fixed"
+        "Several issues with the mod page parser corrected",
+        "Missing sections and details restored across mod pages",
+        "Mod detail gallery functionality updated and improved"
       ]
     },
     {
