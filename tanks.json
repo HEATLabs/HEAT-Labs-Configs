@@ -437,13 +437,13 @@
         "name": "M1 Railgun",
         "slug": "m1-railgun",
         "nation": "USA",
-        "type": "Hybrid",
+        "type": "Defender",
         "class": "To Be Released",
         "experience": "0",
         "credits": "Unknown",
         "division": "Alpha Company",
         "manufacturer": "Unknown",
-        "featured": false,
+        "featured": true,
         "gallery": {
             "image_1": "https://cdn7.heatlabs.net/tanks/m1-railgun/m1-railgun_front.webp",
             "image_2": "https://cdn7.heatlabs.net/tanks/m1-railgun/m1-railgun_rear.webp",
@@ -605,7 +605,7 @@
         "credits": "Free in Battle Pass",
         "division": "Alpha Company",
         "manufacturer": "Unknown",
-        "featured": true,
+        "featured": false,
         "gallery": {
             "image_1": "https://cdn7.heatlabs.net/tanks/m60a3e2/m60a3e2_front.webp",
             "image_2": "https://cdn7.heatlabs.net/tanks/m60a3e2/m60a3e2_rear.webp",
@@ -1415,7 +1415,7 @@
         "credits": "200000",
         "division": "Alpha Company",
         "manufacturer": "Unknown",
-        "featured": true,
+        "featured": false,
         "gallery": {
             "image_1": "https://cdn7.heatlabs.net/tanks/m1150-abv/m1150-abv_front.webp",
             "image_2": "https://cdn7.heatlabs.net/tanks/m1150-abv/m1150-abv_rear.webp",
@@ -1469,7 +1469,7 @@
         "credits": "Free in Battle Pass",
         "division": "Grasshoppers",
         "manufacturer": "Unknown",
-        "featured": true,
+        "featured": false,
         "gallery": {
             "image_1": "https://cdn7.heatlabs.net/tanks/t-72sh/t-72sh_front.webp",
             "image_2": "https://cdn7.heatlabs.net/tanks/t-72sh/t-72sh_rear.webp",
@@ -1612,6 +1612,60 @@
                 "Firepower Module",
                 "Mobility Module",
                 "Toughness Module"
+            ],
+            "equipments": [
+                "Primary Equipment",
+                "Secondary Equipment"
+            ]
+        }
+    },
+    {
+        "id": 16,
+        "state": "displayed",
+        "name": "LOSAT",
+        "slug": "losat",
+        "nation": "USA",
+        "type": "Marksman",
+        "class": "To Be Released",
+        "experience": "0",
+        "credits": "Unknown",
+        "division": "Alpha Company",
+        "manufacturer": "Unknown",
+        "featured": true,
+        "gallery": {
+            "image_1": "https://cdn7.heatlabs.net/tanks/losat/losat_front.webp",
+            "image_2": "https://cdn7.heatlabs.net/tanks/losat/losat_rear.webp",
+            "image_3": "https://cdn7.heatlabs.net/tanks/losat/losat_side.webp",
+            "image_4": "https://cdn7.heatlabs.net/tanks/losat/losat_top.webp"
+        },
+        "compare": "https://cdn7.heatlabs.net/tanks/losat/losat_compare.webp",
+        "card": "https://cdn7.heatlabs.net/tanks/losat/losat_card.webp",
+        "image": "https://cdn7.heatlabs.net/tanks/losat/upscaled_losat.webp",
+        "main": "https://cdn7.heatlabs.net/tanks/losat/losat_main.webp",
+        "stock": "https://cdn2.heatlabs.net/tanks/losat/stock.json",
+        "upgrades": "https://cdn2.heatlabs.net/tanks/losat/modules.json",
+        "consumables": "https://cdn2.heatlabs.net/tanks/losat/consumables.json",
+        "agents": "https://cdn2.heatlabs.net/tanks/losat/agents.json",
+        "details": "https://cdn2.heatlabs.net/tanks/losat/details.json",
+        "builds": "https://cdn2.heatlabs.net/tanks/losat/builds.json",
+        "abilities": "https://cdn2.heatlabs.net/tanks/losat/abilities.json",
+        "missions": "https://cdn2.heatlabs.net/game-data/missions.json",
+        "modelSD": "https://cdn4.heatlabs.net/glb-models/placeholder.glb",
+        "modelHD": "https://cdn4.heatlabs.net/glb-models/placeholder.glb",
+        "statistics": {
+            "lethality": 80,
+            "mobility": 20,
+            "survivability": 60,
+            "utility": 44
+        },
+        "slots": {
+            "modules": [
+                "Unknown Slot",
+                "Unknown Slot",
+                "Unknown Slot",
+                "Unknown Slot",
+                "Unknown Slot",
+                "Unknown Slot"
             ],
             "equipments": [
                 "Primary Equipment",
