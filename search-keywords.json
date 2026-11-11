@@ -372,6 +372,12 @@
     "keywords": ["t-64a"]
   },
   {
+    "name": "LOSAT",
+    "description": "Detailed statistics for LOSAT",
+    "path": "https://heatlabs.net/tanks/losat",
+    "keywords": ["losat"]
+  },
+  {
     "name": "T-72SH",
     "description": "Detailed statistics for T-72SH",
     "path": "https://heatlabs.net/tanks/t-72sh",
@@ -537,13 +543,13 @@
     "name": "Eden",
     "description": "Tactical overview and key areas of the Eden map",
     "path": "https://heatlabs.net/maps/eden",
-    "keywords": ["eden", "map", "unreleased", "overview"]
+    "keywords": ["eden", "map", "overview"]
   },
   {
-    "name": "Railgun",
-    "description": "Tactical overview and key areas of the Railgun map",
-    "path": "https://heatlabs.net/maps/railgun",
-    "keywords": ["railgun", "map", "unreleased", "overview"]
+    "name": "Longshot",
+    "description": "Tactical overview and key areas of the Longshot map",
+    "path": "https://heatlabs.net/maps/longshot",
+    "keywords": ["longshot", "map", "overview"]
   },
   {
     "name": "Utopia",
