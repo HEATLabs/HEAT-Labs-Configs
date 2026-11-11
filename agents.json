@@ -193,13 +193,13 @@
       "name": "Ray",
       "slug": "ray",
       "status": "To Be Released",
-      "featured": false,
+      "featured": true,
       "image": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
       "perks": "https://cdn2.heatlabs.net/game-data/perks.json",
-      "specialty": "Unknown Ability",
-      "description": "Unknown Ability Description",
-      "trait": "Unknown Trait",
-      "trait_description": "Trait Description Unavailable",
+      "specialty": "Electro Vision",
+      "description": "Every enemy within 500m becomes Traced for you for 20s.",
+      "trait": "Overpenetration.",
+      "trait_description": "After penetrating its first target, your shell keeps flying with reduced damage and penetration until it hits a second target.",
       "story": "This agent is not documented. Statistics, details, and player feedback will be added once it's fully documented.",
       "gallery": {
         "image_1": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
@@ -214,9 +214,9 @@
           "slug": "m1-railgun"
         },
         {
-          "name": "PTZ-89C",
-          "image": "https://cdn7.heatlabs.net/tanks/ptz89c/icon_ptz89c.webp",
-          "slug": "ptz89c"
+          "name": "LOSAT",
+          "image": "https://cdn7.heatlabs.net/tanks/losat/icon_losat.webp",
+          "slug": "losat"
         }
       ]
     },
@@ -424,7 +424,7 @@
       "name": "Gambit",
       "slug": "gambit",
       "status": "Available Now",
-      "featured": true,
+      "featured": false,
       "image": "https://cdn7.heatlabs.net/agents/Gambit-NewBG.webp",
       "perks": "https://cdn2.heatlabs.net/game-data/perks.json",
       "specialty": "Iron Curtain",
