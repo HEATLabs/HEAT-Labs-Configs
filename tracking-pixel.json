@@ -779,12 +779,12 @@
       "html_title": "Eden - HEAT Labs"
     },
     {
-      "page_name": "Railgun",
-      "page_identifier": "railgun",
-      "html_file": "maps/railgun",
+      "page_name": "Longshot",
+      "page_identifier": "longshot",
+      "html_file": "maps/longshot",
       "pixel_filename": "pcwstats-tracker-pixel-railgun.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-railgun.png",
-      "html_title": "Railgun - HEAT Labs"
+      "html_title": "Longshot - HEAT Labs"
     },
     {
       "page_name": "Utopia",
@@ -1081,6 +1081,14 @@
       "pixel_filename": "pcwstats-tracker-pixel-m1-railgun.png",
       "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-m1-railgun.png",
       "html_title": "M1 Railgun - HEAT Labs"
+    },
+    {
+      "page_name": "LOSAT",
+      "page_identifier": "losat",
+      "html_file": "tanks/losat",
+      "pixel_filename": "pcwstats-tracker-pixel-losat.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-losat.png",
+      "html_title": "LOSAT - HEAT Labs"
     },
     {
       "page_name": "M1E1",
