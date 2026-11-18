@@ -1,16 +1,287 @@
 {
   "updates": [
     {
-      "version": "0.7.043",
-      "date": "2026-11-07",
+      "version": "0.7.149",
+      "date": "2026-11-18",
       "author": "HEAT Labs Team",
-      "title": "Update Number #560",
-      "description": "Full patch notes for Update v0.7.043 (#560), detailing all changes made on 07 November, 2026.",
+      "title": "Update Number #571",
+      "description": "Full patch notes for Update v0.7.149 (#571), detailing all changes made on 18 November, 2026.",
+      "added": [
+        "Q&A data for Episode 12 added to the database",
+        "One new news post image added",
+        "Missing mod pages added to the mods sitemap",
+        "Missing site data files added to the store repository"
+      ],
+      "changed": [
+        "Q&A configuration updated with Episode 12 data",
+        "One blog post's last updated date refreshed",
+        "Replay Manager map name adjusted",
+        "Sitemap modification dates refreshed across multiple projects",
+        "humans.txt last updated dates refreshed across project repositories",
+        "One blog post's last updated date refreshed"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.7.137",
+      "date": "2026-11-17",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #570",
+      "description": "Full patch notes for Update v0.7.137 (#570), detailing all changes made on 17 November, 2026.",
       "added": [
         "Nothing was added in this update"
       ],
       "changed": [
         "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.7.133",
+      "date": "2026-11-16",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #569",
+      "description": "Full patch notes for Update v0.7.133 (#569), detailing all changes made on 16 November, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.7.129",
+      "date": "2026-11-15",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #568",
+      "description": "Full patch notes for Update v0.7.129 (#568), detailing all changes made on 15 November, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.7.125",
+      "date": "2026-11-14",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #567",
+      "description": "Full patch notes for Update v0.7.125 (#567), detailing all changes made on 14 November, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Mission game data updated in the database",
+        "Replay Manager map name adjusted"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.7.120",
+      "date": "2026-11-13",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #566",
+      "description": "Full patch notes for Update v0.7.120 (#566), detailing all changes made on 13 November, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "One agent trait and specialty description updated",
+        "Database data files updated for two new tanks"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.7.115",
+      "date": "2026-11-12",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #565",
+      "description": "Full patch notes for Update v0.7.115 (#565), detailing all changes made on 12 November, 2026.",
+      "added": [
+        "New map added to the configuration files, including its dimensions",
+        "Complete image paths added to all agent data",
+        "Chinese image paths added, including placeholder images for all agents",
+        "New support role icons and role card icons added",
+        "Complete set of new agent icons and images added",
+        "Default and blank agent banners added",
+        "New map added to an internal development tool",
+        "Zoom fix added for pages affected by scaling issues"
+      ],
+      "changed": [
+        "Image paths updated across all agent data",
+        "Image path updated for one new tank",
+        "Game mode list updated for one map",
+        "Tank database updated with new images and image paths",
+        "Image paths updated in two agent database files",
+        "Support role icons updated and reformatted",
+        "All agent banner images updated",
+        "Existing agent images adjusted to the new visual standard",
+        "Internal tool updated with the latest map data",
+        "Zoom fix applied to both the main website and static pages"
+      ],
+      "removed": [
+        "Unused support role icons removed",
+        "Unused agent splash images removed",
+        "Outdated agent images removed",
+        "Halloween module removed from the main website",
+        "Halloween module removed from the website development version"
+      ],
+      "fixed": [
+        "Incorrect tank icon image corrected",
+        "Formatting issues with the new support icons fixed"
+      ]
+    },
+    {
+      "version": "0.7.090",
+      "date": "2026-11-11",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #564",
+      "description": "Full patch notes for Update v0.7.090 (#564), detailing all changes made on 11 November, 2026.",
+      "added": [
+        "New LOSAT tank added to the database",
+        "New tank added to the main tank index",
+        "Nine new tank images added",
+        "Three new memes added to the media library",
+        "New map image added",
+        "New news card image added",
+        "New internal development tool added",
+        "New tank page added to the website",
+        "New tank page added to the website development version",
+        "New page added to the tracking pixel index",
+        "New page added to the search keyword index",
+        "New news post added to the website"
+      ],
+      "changed": [
+        "Agent index updated with the latest data",
+        "Tank data updated across two agent database files",
+        "M1 Railgun agent data updated",
+        "LOSAT and M1 Railgun tank images updated",
+        "LOSAT and M1 Railgun class icons updated",
+        "Map renamed in the main map index",
+        "Map renamed in the tracking pixel and search keyword indexes",
+        "Map image renamed to match the updated map name",
+        "Tank index updated with the new tank",
+        "Tank and agent index data corrected and updated",
+        "Featured map list updated",
+        "Map page renamed on the main website",
+        "Map page renamed in the website development version"
+      ],
+      "removed": [
+        "One map removed from the featured map list"
+      ],
+      "fixed": [
+        "Incorrect tank ID in the tank index corrected"
+      ]
+    },
+    {
+      "version": "0.7.063",
+      "date": "2026-11-10",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #563",
+      "description": "Full patch notes for Update v0.7.063 (#563), detailing all changes made on 10 November, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.7.059",
+      "date": "2026-11-09",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #562",
+      "description": "Full patch notes for Update v0.7.059 (#562), detailing all changes made on 09 November, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Nothing was changed in this update"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "Nothing was fixed in this update"
+      ]
+    },
+    {
+      "version": "0.7.055",
+      "date": "2026-11-08",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #561",
+      "description": "Full patch notes for Update v0.7.055 (#561), detailing all changes made on 08 November, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Discord internal tool updated",
+        "Steam system requirements updated",
+        "Steam system requirements formatting and details adjusted"
+      ],
+      "removed": [
+        "Nothing was removed in this update"
+      ],
+      "fixed": [
+        "One Discord internal tool fixed"
+      ]
+    },
+    {
+      "version": "0.7.049",
+      "date": "2026-11-07",
+      "author": "HEAT Labs Team",
+      "title": "Update Number #560",
+      "description": "Full patch notes for Update v0.7.049 (#560), detailing all changes made on 07 November, 2026.",
+      "added": [
+        "Nothing was added in this update"
+      ],
+      "changed": [
+        "Project statistics refreshed",
+        "Daily commit log updated",
+        "Website changelog updated",
+        "Google Search Console index data refreshed",
+        "Google Search Console export data updated",
+        "Cloudflare traffic statistics refreshed",
+        "Website page data files updated"
       ],
       "removed": [
         "Nothing was removed in this update"
