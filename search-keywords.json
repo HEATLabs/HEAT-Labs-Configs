@@ -114,12 +114,6 @@
     "keywords": ["tierlist", "ranking", "tier", "list"]
   },
   {
-    "name": "Game Configurator",
-    "description": "Customize your Project CW experience",
-    "path": "https://heatlabs.net/playground/configurator",
-    "keywords": ["config", "configurator", "gameplay"]
-  },
-  {
     "name": "HEAT Labs App",
     "description": "Download our application on your Phone or Desktop",
     "path": "https://heatlabs.net/playground/heat-labs-app",
@@ -184,6 +178,12 @@
     "description": "Configure your World of Tanks: HEAT instance with advanced settings and customization.",
     "path": "https://mods.heatlabs.net/details/configurator",
     "keywords": ["game mods", "modification", "configurator"]
+  },
+  {
+    "name": "Replay Manager",
+    "description": "Save, organise, and watch back your recorded battles in World of Tanks: HEAT",
+    "path": "https://mods.heatlabs.net/details/replay-manager",
+    "keywords": ["game mods", "replays", "replay-manager"]
   },
   {
     "name": "FUSE",
