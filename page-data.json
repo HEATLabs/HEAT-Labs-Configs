@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 161,
+    "total_pages": 160,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-11-08T00:46:12.005614"
+    "export_timestamp": "2026-11-25T10:29:57.044427"
   },
   "pages": [
     {
@@ -741,13 +741,6 @@
       "breadcrumb_status": "VALID"
     },
     {
-      "url": "https://heatlabs.net/playground/configurator",
-      "gsc_status": "INDEXED",
-      "g_api_status": "INDEXED",
-      "https_status": "UNKNOWN",
-      "breadcrumb_status": "UNKNOWN"
-    },
-    {
       "url": "https://heatlabs.net/playground/heat-labs-app",
       "gsc_status": "INDEXED",
       "g_api_status": "INDEXED",
@@ -1137,20 +1130,20 @@
     "google_index_data": {
       "pending": 83,
       "not_indexed": 0,
-      "indexed": 78
+      "indexed": 77
     },
     "google_api_status": {
       "pending": 54,
       "not_indexed": 0,
-      "indexed": 107
+      "indexed": 106
     },
     "https_page_status": {
-      "unknown": 133,
+      "unknown": 132,
       "not_https": 0,
       "https": 28
     },
     "breadcrumb_status": {
-      "unknown": 133,
+      "unknown": 132,
       "invalid": 0,
       "valid": 28
     }
