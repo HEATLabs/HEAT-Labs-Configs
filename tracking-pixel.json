@@ -779,6 +779,22 @@
       "html_title": "Eden - HEAT Labs"
     },
     {
+      "page_name": "Ballistic Range",
+      "page_identifier": "ballistic-range",
+      "html_file": "maps/ballistic-range",
+      "pixel_filename": "pcwstats-tracker-pixel-ballistic-range.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-ballistic-range.png",
+      "html_title": "Ballistic Range - HEAT Labs"
+    },
+    {
+      "page_name": "Military Training",
+      "page_identifier": "military-training",
+      "html_file": "maps/military-training",
+      "pixel_filename": "pcwstats-tracker-pixel-military-training.png",
+      "pixel_url": "https://views.heatlabs.net/api/track/pcwstats-tracker-pixel-military-training.png",
+      "html_title": "Military Training - HEAT Labs"
+    },
+    {
       "page_name": "Longshot",
       "page_identifier": "longshot",
       "html_file": "maps/longshot",
