@@ -1016,6 +1016,339 @@
           "topDown": "https://cdn8.heatlabs.net/maps/inferno/Inferno_Halloween_TD.webp"
         }
       }
+    },
+    {
+      "id": 18,
+      "state": "displayed",
+      "status": "Available Now",
+      "name": "Ballistic Range",
+      "slug": "ballistic-range",
+      "type": "Flat",
+      "terrain": "Flat",
+      "size": "Unknown Size",
+      "featured": false,
+      "introduction": "This map is still under review. Once our research and testing are complete, we’ll provide an in-depth introduction covering its key features, role balance, and unique elements.",
+      "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
+      "image": "https://cdn8.heatlabs.net/maps/ballistic_range/Ballistic_Range_1.webp",
+      "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm",
+      "gallery": {
+        "image_1": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_2": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_3": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_4": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+      },
+      "gamemodes": {
+        "unknown": {
+          "mode_name": "Unknown Gamemodes",
+          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
+          "match_format": "Unknown Format",
+          "match_format_description": "The match format for {mapName} has not yet been confirmed and will be updated when official details become available.",
+          "control_points": "Unknown Control Points",
+          "control_points_description": "The number and layout of Control Points on {mapName} are currently unknown and will be added once confirmed.",
+          "max_match_time": "Unknown Time Limit",
+          "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
+          "win_condition": "Unknown Win Condition",
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
+          "pro_tip": "Tips for {mapName} on Unknown Gamemode are currently unavailable. Check back later for useful strategies and recommendations.",
+          "topDown": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "state": "displayed",
+      "status": "To Be Released",
+      "name": "Military Training",
+      "slug": "military-training",
+      "type": "Flat",
+      "terrain": "Mountainous",
+      "size": "Unknown Size",
+      "featured": false,
+      "introduction": "This map is still under review. Once our research and testing are complete, we’ll provide an in-depth introduction covering its key features, role balance, and unique elements.",
+      "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
+      "image": "https://cdn8.heatlabs.net/maps/military_training/Military_Training_1.webp",
+      "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm",
+      "gallery": {
+        "image_1": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_2": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_3": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_4": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+      },
+      "gamemodes": {
+        "unknown": {
+          "mode_name": "Unknown Gamemodes",
+          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
+          "match_format": "Unknown Format",
+          "match_format_description": "The match format for {mapName} has not yet been confirmed and will be updated when official details become available.",
+          "control_points": "Unknown Control Points",
+          "control_points_description": "The number and layout of Control Points on {mapName} are currently unknown and will be added once confirmed.",
+          "max_match_time": "Unknown Time Limit",
+          "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
+          "win_condition": "Unknown Win Condition",
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
+          "pro_tip": "Tips for {mapName} on Unknown Gamemode are currently unavailable. Check back later for useful strategies and recommendations.",
+          "topDown": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "state": "displayed",
+      "status": "To Be Released",
+      "name": "Archie",
+      "slug": "#",
+      "type": "Unknown",
+      "terrain": "Unknown",
+      "size": "Unknown Size",
+      "featured": false,
+      "introduction": "This map is still under review. Once our research and testing are complete, we’ll provide an in-depth introduction covering its key features, role balance, and unique elements.",
+      "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
+      "image": "https://cdn8.heatlabs.net/maps/military_training/archie/Archie_1.webp",
+      "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm",
+      "gallery": {
+        "image_1": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_2": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_3": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_4": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+      },
+      "gamemodes": {
+        "unknown": {
+          "mode_name": "Unknown Gamemodes",
+          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
+          "match_format": "Unknown Format",
+          "match_format_description": "The match format for {mapName} has not yet been confirmed and will be updated when official details become available.",
+          "control_points": "Unknown Control Points",
+          "control_points_description": "The number and layout of Control Points on {mapName} are currently unknown and will be added once confirmed.",
+          "max_match_time": "Unknown Time Limit",
+          "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
+          "win_condition": "Unknown Win Condition",
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
+          "pro_tip": "Tips for {mapName} on Unknown Gamemode are currently unavailable. Check back later for useful strategies and recommendations.",
+          "topDown": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+        }
+      }
+    },
+    {
+      "id": 21,
+      "state": "displayed",
+      "status": "To Be Released",
+      "name": "Dolce Gusta",
+      "slug": "#",
+      "type": "Unknown",
+      "terrain": "Unknown",
+      "size": "Unknown Size",
+      "featured": false,
+      "introduction": "This map is still under review. Once our research and testing are complete, we’ll provide an in-depth introduction covering its key features, role balance, and unique elements.",
+      "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
+      "image": "https://cdn8.heatlabs.net/maps/dolcegusta/DolceGusta_1.webp",
+      "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm",
+      "gallery": {
+        "image_1": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_2": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_3": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_4": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+      },
+      "gamemodes": {
+        "unknown": {
+          "mode_name": "Unknown Gamemodes",
+          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
+          "match_format": "Unknown Format",
+          "match_format_description": "The match format for {mapName} has not yet been confirmed and will be updated when official details become available.",
+          "control_points": "Unknown Control Points",
+          "control_points_description": "The number and layout of Control Points on {mapName} are currently unknown and will be added once confirmed.",
+          "max_match_time": "Unknown Time Limit",
+          "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
+          "win_condition": "Unknown Win Condition",
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
+          "pro_tip": "Tips for {mapName} on Unknown Gamemode are currently unavailable. Check back later for useful strategies and recommendations.",
+          "topDown": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+        }
+      }
+    },
+    {
+      "id": 22,
+      "state": "displayed",
+      "status": "To Be Released",
+      "name": "Harvest",
+      "slug": "#",
+      "type": "Unknown",
+      "terrain": "Unknown",
+      "size": "Unknown Size",
+      "featured": false,
+      "introduction": "This map is still under review. Once our research and testing are complete, we’ll provide an in-depth introduction covering its key features, role balance, and unique elements.",
+      "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
+      "image": "https://cdn8.heatlabs.net/maps/harvest/Harvest_1.webp",
+      "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm",
+      "gallery": {
+        "image_1": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_2": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_3": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_4": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+      },
+      "gamemodes": {
+        "unknown": {
+          "mode_name": "Unknown Gamemodes",
+          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
+          "match_format": "Unknown Format",
+          "match_format_description": "The match format for {mapName} has not yet been confirmed and will be updated when official details become available.",
+          "control_points": "Unknown Control Points",
+          "control_points_description": "The number and layout of Control Points on {mapName} are currently unknown and will be added once confirmed.",
+          "max_match_time": "Unknown Time Limit",
+          "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
+          "win_condition": "Unknown Win Condition",
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
+          "pro_tip": "Tips for {mapName} on Unknown Gamemode are currently unavailable. Check back later for useful strategies and recommendations.",
+          "topDown": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+        }
+      }
+    },
+    {
+      "id": 23,
+      "state": "displayed",
+      "status": "To Be Released",
+      "name": "Height 911TB",
+      "slug": "#",
+      "type": "Unknown",
+      "terrain": "Unknown",
+      "size": "Unknown Size",
+      "featured": false,
+      "introduction": "This map is still under review. Once our research and testing are complete, we’ll provide an in-depth introduction covering its key features, role balance, and unique elements.",
+      "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
+      "image": "https://cdn8.heatlabs.net/maps/height911tb/Height_911TB_1.webp",
+      "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm",
+      "gallery": {
+        "image_1": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_2": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_3": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_4": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+      },
+      "gamemodes": {
+        "unknown": {
+          "mode_name": "Unknown Gamemodes",
+          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
+          "match_format": "Unknown Format",
+          "match_format_description": "The match format for {mapName} has not yet been confirmed and will be updated when official details become available.",
+          "control_points": "Unknown Control Points",
+          "control_points_description": "The number and layout of Control Points on {mapName} are currently unknown and will be added once confirmed.",
+          "max_match_time": "Unknown Time Limit",
+          "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
+          "win_condition": "Unknown Win Condition",
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
+          "pro_tip": "Tips for {mapName} on Unknown Gamemode are currently unavailable. Check back later for useful strategies and recommendations.",
+          "topDown": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+        }
+      }
+    },
+    {
+      "id": 24,
+      "state": "displayed",
+      "status": "To Be Released",
+      "name": "Research Institute",
+      "slug": "#",
+      "type": "Unknown",
+      "terrain": "Unknown",
+      "size": "Unknown Size",
+      "featured": false,
+      "introduction": "This map is still under review. Once our research and testing are complete, we’ll provide an in-depth introduction covering its key features, role balance, and unique elements.",
+      "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
+      "image": "https://cdn8.heatlabs.net/maps/researchinstitute/Research_Institute_1.webp",
+      "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm",
+      "gallery": {
+        "image_1": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_2": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_3": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_4": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+      },
+      "gamemodes": {
+        "unknown": {
+          "mode_name": "Unknown Gamemodes",
+          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
+          "match_format": "Unknown Format",
+          "match_format_description": "The match format for {mapName} has not yet been confirmed and will be updated when official details become available.",
+          "control_points": "Unknown Control Points",
+          "control_points_description": "The number and layout of Control Points on {mapName} are currently unknown and will be added once confirmed.",
+          "max_match_time": "Unknown Time Limit",
+          "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
+          "win_condition": "Unknown Win Condition",
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
+          "pro_tip": "Tips for {mapName} on Unknown Gamemode are currently unavailable. Check back later for useful strategies and recommendations.",
+          "topDown": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+        }
+      }
+    },
+    {
+      "id": 25,
+      "state": "displayed",
+      "status": "To Be Released",
+      "name": "Tajbeg",
+      "slug": "#",
+      "type": "Unknown",
+      "terrain": "Unknown",
+      "size": "Unknown Size",
+      "featured": false,
+      "introduction": "This map is still under review. Once our research and testing are complete, we’ll provide an in-depth introduction covering its key features, role balance, and unique elements.",
+      "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
+      "image": "https://cdn8.heatlabs.net/maps/tajbeg/Tajbeg_1.webp",
+      "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm",
+      "gallery": {
+        "image_1": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_2": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_3": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_4": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+      },
+      "gamemodes": {
+        "unknown": {
+          "mode_name": "Unknown Gamemodes",
+          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
+          "match_format": "Unknown Format",
+          "match_format_description": "The match format for {mapName} has not yet been confirmed and will be updated when official details become available.",
+          "control_points": "Unknown Control Points",
+          "control_points_description": "The number and layout of Control Points on {mapName} are currently unknown and will be added once confirmed.",
+          "max_match_time": "Unknown Time Limit",
+          "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
+          "win_condition": "Unknown Win Condition",
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
+          "pro_tip": "Tips for {mapName} on Unknown Gamemode are currently unavailable. Check back later for useful strategies and recommendations.",
+          "topDown": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+        }
+      }
+    },
+    {
+      "id": 26,
+      "state": "displayed",
+      "status": "To Be Released",
+      "name": "Avalanche",
+      "slug": "#",
+      "type": "Unknown",
+      "terrain": "Unknown",
+      "size": "Unknown Size",
+      "featured": false,
+      "introduction": "This map is still under review. Once our research and testing are complete, we’ll provide an in-depth introduction covering its key features, role balance, and unique elements.",
+      "description": "We're still working on documenting this map. Our team is currently analyzing its layout, design choices, and gameplay flow.",
+      "image": "https://cdn8.heatlabs.net/maps/avalanche/Avalanche_1.webp",
+      "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm",
+      "gallery": {
+        "image_1": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_2": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_3": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+        "image_4": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+      },
+      "gamemodes": {
+        "unknown": {
+          "mode_name": "Unknown Gamemodes",
+          "mode_description": "This map has not yet been released, and we currently have no information about which game modes it will support. Details will be added once the map becomes available.",
+          "match_format": "Unknown Format",
+          "match_format_description": "The match format for {mapName} has not yet been confirmed and will be updated when official details become available.",
+          "control_points": "Unknown Control Points",
+          "control_points_description": "The number and layout of Control Points on {mapName} are currently unknown and will be added once confirmed.",
+          "max_match_time": "Unknown Time Limit",
+          "max_match_description": "The maximum match duration for {mapName} has not yet been revealed and will be updated when more information is available.",
+          "win_condition": "Unknown Win Condition",
+          "win_condition_description": "The victory conditions for {mapName} have not yet been confirmed and will be documented once details are known.",
+          "pro_tip": "Tips for {mapName} on Unknown Gamemode are currently unavailable. Check back later for useful strategies and recommendations.",
+          "topDown": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp"
+        }
+      }
     }
   ]
 }
