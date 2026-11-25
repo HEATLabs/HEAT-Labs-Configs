@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "total_pages": 160,
+    "total_pages": 162,
     "source_file": "page-data.xlsx",
-    "export_timestamp": "2026-11-25T10:29:57.044427"
+    "export_timestamp": "2026-11-25T13:07:43.428449"
   },
   "pages": [
     {
@@ -1124,26 +1124,40 @@
       "g_api_status": "PENDING",
       "https_status": "UNKNOWN",
       "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/maps/ballistic-range",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
+    },
+    {
+      "url": "https://heatlabs.net/maps/military-training",
+      "gsc_status": "PENDING",
+      "g_api_status": "PENDING",
+      "https_status": "UNKNOWN",
+      "breadcrumb_status": "UNKNOWN"
     }
   ],
   "statistics": {
     "google_index_data": {
-      "pending": 83,
+      "pending": 85,
       "not_indexed": 0,
       "indexed": 77
     },
     "google_api_status": {
-      "pending": 54,
+      "pending": 56,
       "not_indexed": 0,
       "indexed": 106
     },
     "https_page_status": {
-      "unknown": 132,
+      "unknown": 134,
       "not_https": 0,
       "https": 28
     },
     "breadcrumb_status": {
-      "unknown": 132,
+      "unknown": 134,
       "invalid": 0,
       "valid": 28
     }
